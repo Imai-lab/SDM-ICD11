@@ -1,5 +1,7 @@
 # SDM-ICD11
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20401111.svg)](https://doi.org/10.5281/zenodo.20401111)
+
 標準病名マスター (MEDIS Standard Disease Name Master、以下 SDM) と WHO ICD-11 (Foundation / MMS) のマッピングデータ。
 
 **Current version:** `v2026.03` (2026 年 3 月初公開) — 変更履歴は [CHANGELOG.md](CHANGELOG.md) を参照。
