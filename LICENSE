@@ -1,0 +1,42 @@
+SDM-ICD11
+
+Copyright (c) 2021-2026 東京大学大学院医学系研究科疾患生命工学センター医工情報学部門今井研究室
+              (Imai Laboratory, Department of Biomedical Informatics,
+               Center for Disease Biology and Integrative Medicine,
+               Graduate School of Medicine, The University of Tokyo)
+
+This work is licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+To view a copy of this license, visit:
+  https://creativecommons.org/licenses/by/4.0/
+or send a letter to:
+  Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+SPDX-License-Identifier: CC-BY-4.0
+
+
+--------------------------------------------------------------------------
+Attribution
+--------------------------------------------------------------------------
+
+When using this dataset, please attribute as follows:
+
+  Imai-lab. SDM-ICD11: Mapping between Standard Disease Master (v5.04)
+  and ICD-11. https://github.com/Imai-lab/SDM-ICD11
+
+
+--------------------------------------------------------------------------
+Note on referenced resources
+--------------------------------------------------------------------------
+
+This dataset references entries of the following resources, which are
+governed by their own respective licenses and terms of use:
+
+- Standard Disease Master (標準病名マスター) v5.04
+    provided by MEDIS-DC.
+- ICD-11 (International Classification of Diseases, 11th Revision)
+    provided by the World Health Organization (WHO).
+
+Users of this dataset must comply with the terms of use of the above
+resources when they make use of the referenced codes / URIs.

@@ -1,0 +1,1644 @@
+ICD10 章,標準病名,代表・同義,ICD10コード,交換コード,関係,ICD11 Foundation URI,関係,MMS
+14,急性びまん性膜性糸球体腎炎,L,N002,AFCH,=,http://id.who.int/icd/entity/817733606 & http://id.who.int/icd/entity/786106375,<,MF8Y & XT5R  
+14,急性びまん性メサンギウム増殖性糸球体腎炎,L,N003,MEA4,=,http://id.who.int/icd/entity/1932151457 / http://id.who.int/icd/entity/1017635638,<,GB40  & XT5R / MF8Y    
+14,急性びまん性管内増殖性糸球体腎炎,L,N004,PNQ7,=,http://id.who.int/icd/entity/1932151457 /http://id.who.int/icd/entity/1817105154,<,GB40  & XT5R / MF8Y    
+14,急性デンスデポジット病,L,N006,C0JQ,=,http://id.who.int/icd/entity/1932151457 / http://id.who.int/icd/entity/1041399919,<,GB40  & XT5R / MF8Y    
+14,急性びまん性半月体形成性糸球体腎炎,L,N007,QNPP,=,http://id.who.int/icd/entity/1932151457 / http://id.who.int/icd/entity/2129549609,<,GB40  & XT5R / MF8Y    
+14,急性糸球体腎炎,L,N009,LNNL,=,http://id.who.int/icd/entity/1932151457,<,GB40 & XT5R
+14,急性腎炎,S1,N009,LNNL,=,http://id.who.int/icd/entity/1783829886,=,GB40
+14,急性腎炎症候群,S2,N009,LNNL,=,http://id.who.int/icd/entity/1932151457,=,GB40 & XT5R
+14,溶連菌感染後急性糸球体腎炎,L,N009,NBHS,=,http://id.who.int/icd/entity/1932151457 / http://id.who.int/icd/entity/197614812,<,GB40 & XT5R / 1C41 &  XN3NM 
+14,溶連菌感染後急性腎炎,S1,N009,NBHS,=,http://id.who.int/icd/entity/1783829886 / http://id.who.int/icd/entity/197614812,=,GB40 / 1C41 & XN3NM
+14,溶連菌感染後糸球体腎炎,S1,N009,NBHS,=,http://id.who.int/icd/entity/1932151457 / http://id.who.int/icd/entity/197614812,<,GB40 & XT5R /1C41 &  XN3NM 
+14,急速進行性びまん性膜性糸球体腎炎,L,N012,THJH,=,http://id.who.int/icd/entity/1084292542 / http://id.who.int/icd/entity/817733606,<,GB40 & XT5R / MF8Y
+14,急速進行性びまん性管内増殖性糸球体腎炎,L,N014,J7JN,=,http://id.who.int/icd/entity/1084292542 / http://id.who.int/icd/entity/1817105154,<,GB40 & XT5R / MF8Y
+14,急速進行性デンスデポジット病,L,N016,H13U,=,http://id.who.int/icd/entity/1084292542 / http://id.who.int/icd/entity/1041399919,<,GB40 & XT5R / MF8Y
+14,抗糸球体基底膜腎炎,L,N017,LBA6,=,http://id.who.int/icd/entity/1084292542 / http://id.who.int/icd/entity/591736785,<,GB40 & XT5R / MF85
+14,抗糸球体基底膜抗体型急速進行性糸球体腎炎,S1,N017,LBA6,=,http://id.who.int/icd/entity/1084292542 / http://id.who.int/icd/entity/591736785,<,GB40 & XT5R / MF85
+14,抗GBM抗体型腎炎,S1,N017,LBA6,=,http://id.who.int/icd/entity/1084292542 / http://id.who.int/icd/entity/591736785,<,GB40 & XT5R / MF85
+14,抗GBM抗体型急速進行性糸球体腎炎,S1,N017,LBA6,=,http://id.who.int/icd/entity/1084292542 / http://id.who.int/icd/entity/591736785,<,GB40 & XT5R / MF85
+14,特発性半月体形成性糸球体腎炎,L,N017,LMVR,<,http://id.who.int/icd/entity/1084292542 & http://id.who.int/icd/entity/894194405  / http://id.who.int/icd/entity/2129549609,<,GB40 & XB5F / MF8Y   
+14,特発性壊死性半月体形成性糸球体腎炎,S1,N017,LMVR,<,http://id.who.int/icd/entity/1084292542 & http://id.who.int/icd/entity/894194405 / http://id.who.int/icd/entity/1677729549,<,GB40 & XB5F / MF8Y   
+14,特発性壊死性半月体形成性腎炎,S1,N017,LMVR,<,http://id.who.int/icd/entity/1084292542 & http://id.who.int/icd/entity/894194405 / http://id.who.int/icd/entity/1677729549,<,GB40 & XB5F / MF8Y   
+14,ＡＮＣＡ関連腎炎,L,N017,NQ7G,=,http://id.who.int/icd/entity/1084292542 / http://id.who.int/icd/entity/1404622826,<,GB40 / 4A44.AZ      
+14,ANCA関連腎炎,S0,N017,NQ7G,=,http://id.who.int/icd/entity/1084292542 / http://id.who.int/icd/entity/1404622826,<,GB40 / 4A44.AZ      
+14,ANCA関連糸球体腎炎,S1,N017,NQ7G,=,http://id.who.int/icd/entity/1084292542 / http://id.who.int/icd/entity/1404622826,<,GB40 / 4A44.AZ      
+14,急速進行性びまん性半月体形成性糸球体腎炎,L,N017,VLQK,=,http://id.who.int/icd/entity/1084292542 / http://id.who.int/icd/entity/2129549609,<,GB40 & XT5R / MF8Y
+14,急速進行性半月体形成性糸球体腎炎,S1,N017,VLQK,=,http://id.who.int/icd/entity/1084292542 / http://id.who.int/icd/entity/2129549609,<,GB40 & XT5R / MF8Y
+14,急速進行性糸球体腎炎,L,N019,F82S,=,http://id.who.int/icd/entity/1084292542,<,GB40 & XT5R
+14,RPGN,S1,N019,F82S,=,http://id.who.int/icd/entity/1084292542,<,GB40 & XT5R
+14,急速進行性腎炎,S1,N019,F82S,=,http://id.who.int/icd/entity/1084292542,<,GB40 & XT5R
+14,亜急性腎炎,S1,N019,F82S,=,http://id.who.int/icd/entity/1783829886 & http://id.who.int/icd/entity/2058324694,=,GB40 & XT1L
+14,急速進行性腎炎症候群,S2,N019,F82S,=,http://id.who.int/icd/entity/1084292542,<,GB40 & XT5R
+14,ＩｇＡ腎症,L,N028,E1KB,=,http://id.who.int/icd/entity/30371100,<, MF8Y
+14,IGA腎症,S0,N028,E1KB,=,http://id.who.int/icd/entity/30371100,<, MF8Y
+14,糸球体性血尿,L,N029,B5RN,=,http://id.who.int/icd/entity/1345372703,<,GB4Y     
+14,良性家族性血尿,L,N029,B839,=,http://id.who.int/icd/entity/1891259612,<,GB4Y & XB1Y 
+14,菲薄基底膜症候群,S1,N029,B839,=,http://id.who.int/icd/entity/1891259612,<,GB4Y & XB1Y 
+14,菲薄基底膜病,S1,N029,B839,=,http://id.who.int/icd/entity/1891259612,<,GB4Y & XB1Y 
+14,家族性良性血尿,S1,N029,B839,=,http://id.who.int/icd/entity/1891259612,<,GB4Y & XB1Y 
+14,良性血尿,L,N029,E1NP,=,http://id.who.int/icd/entity/1345372703,<,GB4Y     
+14,持続性血尿,L,N029,K79M,=,http://id.who.int/icd/entity/1972271910,<,GB4Y & XT6Z
+14,持続性血尿症候群,S2,N029,K79M,=,http://id.who.int/icd/entity/1972271910,<,GB4Y & XT6Z
+14,血尿症候群,L,N029,L3AA,=,http://id.who.int/icd/entity/2016050353,=,MF50.4Z 
+14,良性反復性血尿,L,N029,L4L3,=,http://id.who.int/icd/entity/713068665,<,GB4Y  & XT44
+14,反復性血尿,L,N029,NHQJ,=,http://id.who.int/icd/entity/713068665,<,GB4Y  & XT44
+14,腎性血尿,L,N029,QTDH,=,http://id.who.int/icd/entity/2016050353 / http://id.who.int/icd/entity/658360080,=,MF50.4Z  / GB4Z 
+14,良性反復性血尿症候群,S1,N029,QTDH,=,http://id.who.int/icd/entity/1345372703,<,GB4Y     
+14,腎前性血尿,S2,N029,QTDH,<,http://id.who.int/icd/entity/1345372703,<,GB4Y     
+14,軽症慢性腎炎症候群,L,N030,DSUN,=,http://id.who.int/icd/entity/897257355 & http://id.who.int/icd/entity/562478860,<,GB40 & XT8W
+14,慢性びまん性膜性糸球体腎炎,L,N032,V7VN,=,http://id.who.int/icd/entity/661079735,<,GB40 & XT8W / MF8Y 
+14,慢性びまん性メサンギウム増殖性糸球体腎炎,L,N033,TJA9,=,http://id.who.int/icd/entity/1110215459,<,GB40 & XT8W / MF8Y 
+14,慢性びまん性管内増殖性糸球体腎炎,L,N034,SEUV,=,http://id.who.int/icd/entity/834803895,<,GB40 & XT8W / MF8Y 
+14,慢性デンスデポジット病,L,N036,LAED,=,http://id.who.int/icd/entity/539264478,<,GB40 & XT8W / MF8Y 
+14,慢性びまん性半月体形成性糸球体腎炎,L,N037,NH3R,=,http://id.who.int/icd/entity/1164920904,<,GB40 & XT8W / MF8Y 
+14,慢性糸球体腎炎,L,N039,J4F2,≒,http://id.who.int/icd/entity/897257355,<,GB40 & XT8W
+14,慢性腎炎,S1,N039,J4F2,≒,http://id.who.int/icd/entity/897257355,<,GB40 & XT8W
+14,慢性糸球体性腎炎,S1,N039,J4F2,≒,http://id.who.int/icd/entity/897257355,<,GB40 & XT8W
+14,慢性腎炎症候群,L,N039,MAU5,=,http://id.who.int/icd/entity/897257355,<,GB40 & XT8W
+14,微小変化型ネフローゼ症候群,L,N040,NA95,=,http://id.who.int/icd/entity/1629260860,<,GB41    
+14,微少変化型ネフローゼ症候群,S1,N040,NA95,=,http://id.who.int/icd/entity/1629260860,<,GB41    
+14,微少変化群ネフローゼ,S1,N040,NA95,=,http://id.who.int/icd/entity/1629260860,<,GB41    
+14,微小変化群,S1,N040,NA95,=,http://id.who.int/icd/entity/1629260860,<,GB41    
+14,リポイドネフローゼ,S1,N040,NA95,=,http://id.who.int/icd/entity/1642749578,<,GB41    
+14,微少変化ネフローゼ,S1,N040,NA95,=,http://id.who.int/icd/entity/1629260860,<,GB41    
+14,軽微糸球体変化ネフローゼ症候群,S1,N040,NA95,=,http://id.who.int/icd/entity/1629260860,<,GB41    
+14,微少変化(群)ネフローゼ,S1,N040,NA95,=,http://id.who.int/icd/entity/1629260860,<,GB41    
+14,巣状分節性糸球体硬化症ネフローゼ症候群,L,N041,HFRC,=,http://id.who.int/icd/entity/1184209951 / http://id.who.int/icd/entity/1623933120,<,GB41 / MF8Y    
+14,びまん性膜性糸球体腎炎ネフローゼ症候群,L,N042,UHG8,=,http://id.who.int/icd/entity/1184209951 / http://id.who.int/icd/entity/817733606,<,GB41 / MF8Y    
+14,びまん性管内増殖性糸球体腎炎ネフローゼ症候群,L,N044,UR21,=,http://id.who.int/icd/entity/1184209951 / http://id.who.int/icd/entity/1817105154,<,GB41 / MF8Y    
+14,デンスデポジット病ネフローゼ症候群,L,N046,K3LS,=,http://id.who.int/icd/entity/1184209951 / http://id.who.int/icd/entity/1041399919,<,GB41 / MF8Y    
+14,びまん性メサンギウム硬化症,L,N048,N41J,=,http://id.who.int/icd/entity/1184209951 / http://id.who.int/icd/entity/84161233,<,GB41 / MF80     
+14,フィンランド型先天性ネフローゼ症候群,L,N049,ASE1,=,http://id.who.int/icd/entity/2134488194,<,GB41 
+14,頻回再発型ネフローゼ症候群,L,N049,B056,=,http://id.who.int/icd/entity/1184209951 & http://id.who.int/icd/entity/1721353160,=,GB41&XT44    
+14,ネフローゼ症候群,L,N049,BPF3,=,http://id.who.int/icd/entity/1184209951,=,GB41 
+14,ネフローゼ,S1,N049,BPF3,=,http://id.who.int/icd/entity/1184209951,=,GB41 
+14,先天性ネフローゼ症候群,L,N049,E285,=,http://id.who.int/icd/entity/714324575,=,GB41 & XB8M
+14,先天性ネフローゼ,S1,N049,E285,=,http://id.who.int/icd/entity/714324575,=,GB41 & XB8M
+14,二次性ネフローゼ症候群,L,N049,F32T,<,http://id.who.int/icd/entity/1184209951,<,GB41     
+14,続発性ネフローゼ症候群,S1,N049,F32T,<,http://id.who.int/icd/entity/1184209951,<,GB41     
+14,一次性ネフローゼ症候群,L,N049,G9DK,=,http://id.who.int/icd/entity/1184209951,=,GB41     
+14,難治性ネフローゼ症候群,L,N049,HCKE,<,http://id.who.int/icd/entity/1184209951,<,GB41     
+14,小児ネフローゼ症候群,L,N049,JST1,<,http://id.who.int/icd/entity/1184209951,<,GB41     
+14,ステロイド依存性ネフローゼ症候群,L,N049,LASS,=,http://id.who.int/icd/entity/1184209951 / http://id.who.int/icd/entity/576434802,<,GB41 / 6C4H.Y & XM8JY6
+14,ステロイド抵抗性ネフローゼ症候群,L,N049,MAD7,=,http://id.who.int/icd/entity/1647994026,<,GB41     
+14,微小糸球体変化,L,N050,RJD4,=,http://id.who.int/icd/entity/1629260860,<,GB40
+14,軽微糸球体変化,S1,N050,RJD4,=,http://id.who.int/icd/entity/1629260860,<,GB40
+14,巣状分節性糸球体硬化症,L,N051,HBLV,=,http://id.who.int/icd/entity/1623933120,<,MF8Y    
+14,巣状糸球体硬化症,S1,N051,HBLV,=,http://id.who.int/icd/entity/1623933120,<,MF8Y    
+14,巣状糸球体腎炎,L,N051,Q88K,=,http://id.who.int/icd/entity/1405752906,<,GB40 & XT8W / MF8Y    
+14,膜性腎症,L,N052,J7A1,=,http://id.who.int/icd/entity/817733606,<,MF8Y
+14,膜性糸球体腎炎,S1,N052,J7A1,=,http://id.who.int/icd/entity/817733606,<,MF8Y
+14,膜性腎炎,S1,N052,J7A1,=,http://id.who.int/icd/entity/817733606,<,MF8Y
+14,びまん性膜性糸球体腎炎,S2,N052,J7A1,=,http://id.who.int/icd/entity/661079735,<,GB40 & XT8W / MF8Y 
+14,メサンギウム増殖性糸球体腎炎,L,N053,FR53,=,http://id.who.int/icd/entity/1110215459,<,GB40 & XT8W / MF8Y 
+14,びまん性メサンギウム増殖性糸球体腎炎,S2,N053,FR53,=,http://id.who.int/icd/entity/1110215459,<,GB40 & XT8W / MF8Y 
+14,管内性増殖性糸球体腎炎,L,N054,TUUH,=,http://id.who.int/icd/entity/834803895,<,MF8Y 
+14,びまん性管内性増殖性糸球体腎炎,S2,N054,TUUH,=,http://id.who.int/icd/entity/834803895,<,MF8Y 
+14,膜性増殖性糸球体腎炎３型,L,N055,GC96,=,http://id.who.int/icd/entity/1418319139,<,MF8Y 
+14,膜性増殖性糸球体腎炎3型,S0,N055,GC96,=,http://id.who.int/icd/entity/1418319139,<,MF8Y 
+14,一次性膜性増殖性糸球体腎炎,L,N055,MQET,=,http://id.who.int/icd/entity/1418319139,<,MF8Y 
+14,膜性増殖性糸球体腎炎,L,N055,T46M,=,http://id.who.int/icd/entity/721580916,<,MF8Y 
+14,膜性増殖性腎炎,S1,N055,T46M,=,http://id.who.int/icd/entity/1418319139,<,GB40 & XT8W / MF8Y
+14,膜性増殖性糸球体腎炎１型,L,N055,V80D,=,http://id.who.int/icd/entity/1418319139,<,MF8Y 
+14,膜性増殖性糸球体腎炎1型,S0,N055,V80D,=,http://id.who.int/icd/entity/1418319139,<,MF8Y 
+14,膜性増殖性糸球体腎炎第1型,S1,N055,V80D,=,http://id.who.int/icd/entity/1418319139,<,GB40 / (MF8Y 
+14,膜性増殖性糸球体腎炎２型,L,N056,KMKK,=,http://id.who.int/icd/entity/539264478,<,GB40 & XT8W / MF8Y
+14,膜性増殖性糸球体腎炎2型,S0,N056,KMKK,=,http://id.who.int/icd/entity/539264478,<,GB40 & XT8W / MF8Y
+14,デンスデポジット病,S1,N056,KMKK,=,http://id.who.int/icd/entity/539264478,<,GB40 & XT8W / MF8Y
+14,半月体形成性糸球体腎炎,L,N057,VDNN,=,http://id.who.int/icd/entity/1164920904 / http://id.who.int/icd/entity/1677729549,<,GB40 / MF8Y    
+14,壊死性半月体形成性糸球体腎炎,S1,N057,VDNN,=,http://id.who.int/icd/entity/1164920904 / http://id.who.int/icd/entity/1677729549,<,GB40 / MF8Y    
+14,びまん性半月体形成性糸球体腎炎,S1,N057,VDNN,=,http://id.who.int/icd/entity/1164920904 / http://id.who.int/icd/entity/1677729549,<,GB40 / MF8Y    
+14,半月体形成性腎炎,S1,N057,VDNN,=,http://id.who.int/icd/entity/1164920904 / http://id.who.int/icd/entity/1677729549,<,GB40 / MF8Y    
+14,増殖性糸球体腎炎,L,N058,VEHE,=,http://id.who.int/icd/entity/939941130,<,GB40 & XT8W　
+14,増殖性腎炎,S1,N058,VEHE,=,http://id.who.int/icd/entity/939941130,<,GB40 & XT8W　
+14,腎炎,L,N059,LLM7,=,http://id.who.int/icd/entity/1783829886,=,GB40   
+14,糸球体腎炎,L,N059,S7M2,≒,http://id.who.int/icd/entity/897257355 OR http://id.who.int/icd/entity/1932151457,<,GB40   
+14,糸球体性蛋白尿症,L,N069,RN8U,=,http://id.who.int/icd/entity/1467154806,=,GB42.Z   
+14,糸球体性蛋白尿,S1,N069,RN8U,=,http://id.who.int/icd/entity/1467154806,=,GB42.Z   
+14,フィブロネクチン腎症,L,N078,HD3D,=,http://id.who.int/icd/entity/1877494378,=,MF81   
+14,リポタンパク糸球体症,L,N078,J04A,=,http://id.who.int/icd/entity/69778702,=,MF82     
+14,リポ蛋白糸球体症,S1,N078,J04A,=,http://id.who.int/icd/entity/69778702,=,MF82     
+14,家族性腎炎,L,N079,CHNT,=,http://id.who.int/icd/entity/749865544,<,MF8Y & XB1Y 
+14,遺伝性家族性腎炎,S1,N079,CHNT,=,http://id.who.int/icd/entity/749865544,<,MF8Y & XB1Y 
+14,遺伝性腎症,S1,N079,CHNT,=,http://id.who.int/icd/entity/749865544,<,MF8Y & XB1Y 
+14,家族性遺伝性腎炎,S1,N079,CHNT,=,http://id.who.int/icd/entity/749865544,<,MF8Y & XB1Y 
+14,家族性遺伝性腎症,S1,N079,CHNT,=,http://id.who.int/icd/entity/749865544,<,MF8Y & XB1Y 
+14,ＬＭＸ１Ｂ関連腎症,L,N079,GV0M,=,http://id.who.int/icd/entity/1121867410,=,LD24.J0    
+14,LMX1B関連腎症,S0,N079,GV0M,=,http://id.who.int/icd/entity/1121867410,=,LD24.J0    
+14,急性腎盂腎炎,L,N10,AMDE,=,http://id.who.int/icd/entity/441183088,=,GB51
+14,急性腎盂炎,S1,N10,AMDE,=,http://id.who.int/icd/entity/535438854,<,GB90.Y 
+14,急性尿細管間質性腎炎,L,N10,ERPH,=,http://id.who.int/icd/entity/370349933,=,GB50
+14,急性間質性腎炎,S1,N10,ERPH,=,http://id.who.int/icd/entity/370349933,=,GB50
+14,気腫性腎盂腎炎,L,N10,GTAC,<,http://id.who.int/icd/entity/441183088,<,GB51
+14,急性壊死性腎盂炎,S1,N10,GTAC,=,http://id.who.int/icd/entity/441183088 / http://id.who.int/icd/entity/188156827,=,GB51 / MC85 
+14,急性巣状細菌性腎炎,L,N10,MNEV,=,http://id.who.int/icd/entity/403411521,=,GB51 & XN74M
+14,単純性腎盂腎炎,L,N10,NS22,=,http://id.who.int/icd/entity/441183088,=,GB51    
+14,単純性腎盂炎,S1,N10,NS22,=,http://id.who.int/icd/entity/441183088,=,GB51    
+14,逆流性腎症,L,N110,QL6F,=,http://id.who.int/icd/entity/1656637330,=,GB56.Z 
+14,逆流腎症,S1,N110,QL6F,=,http://id.who.int/icd/entity/1656637330,=,GB56.Z 
+14,逆流性腎盂腎炎,S1,N110,QL6F,=,http://id.who.int/icd/entity/416405628,<,GB55.Z 
+14,非閉塞性逆流性慢性腎盂腎炎,S2,N110,QL6F,<,http://id.who.int/icd/entity/416405628,<,GB55.Z
+14,慢性閉塞性腎盂腎炎,L,N111,US0B,=,http://id.who.int/icd/entity/1214692275,<,GB55.Z     
+14,非閉塞性慢性腎盂腎炎,L,N118,GR3F,=,http://id.who.int/icd/entity/1297257549,<,GB55.Z     
+14,慢性尿細管間質性腎炎,L,N119,DHJT,=,http://id.who.int/icd/entity/1935203065,=,GB55.Z 
+14,慢性間質性腎炎,S1,N119,DHJT,=,http://id.who.int/icd/entity/1935203065,=,GB55.Z 
+14,慢性腎盂腎炎,L,N119,ETL7,=,http://id.who.int/icd/entity/1346439976,<,GB55.Z 
+14,慢性腎盂炎,S1,N119,ETL7,=,http://id.who.int/icd/entity/1346439976,<,GB55.Z 
+14,ＩｇＧ４関連腎臓病,L,N119,H27S,=,http://id.who.int/icd/entity/1877692678,=,4A43.0 / GB90.Y
+14,IGG4関連腎臓病,S0,N119,H27S,=,http://id.who.int/icd/entity/1877692678,=,4A43.0 / GB90.Y
+14,IGG4関連腎炎,S1,N119,H27S,=,http://id.who.int/icd/entity/1877692678,=,4A43.0 / GB90.Y
+14,IGG4関連腎症,S1,N119,H27S,=,http://id.who.int/icd/entity/1877692678,=,4A43.0 / GB90.Y
+14,慢性複雑性腎盂腎炎,L,N119,VANV,<,http://id.who.int/icd/entity/1346439976,<,GB55.Z 
+14,腎盂腎炎,L,N12,A87G,=,http://id.who.int/icd/entity/1515545517,<,GB54     
+14,腎盂炎,S1,N12,A87G,=,http://id.who.int/icd/entity/997265608,<,GB54 
+14,上行性腎盂腎炎,L,N12,KRTL,<,http://id.who.int/icd/entity/1515545517,<,GB54     
+14,ＢＫウイルス腎症,L,N12,PMKA,=,http://id.who.int/icd/entity/705608837 & http://id.who.int/icd/entity/713413721,<,GB55.Y & XN9WH
+14,BKウイルス腎症,S0,N12,PMKA,=,http://id.who.int/icd/entity/705608837 & http://id.who.int/icd/entity/713413721,<,GB55.Y & XN9WH
+14,BKポリオーマ腎症,S1,N12,PMKA,=,http://id.who.int/icd/entity/705608837 & http://id.who.int/icd/entity/713413721,<,GB55.Y & XN9WH
+14,尿細管間質性腎炎,L,N12,Q0R2,=,http://id.who.int/icd/entity/133532168,=,GB54 
+14,間質性腎炎,S1,N12,Q0R2,=,http://id.who.int/icd/entity/133532168,=,GB54 
+14,術後腎盂腎炎,L,N12,VGF6,<,http://id.who.int/icd/entity/1515545517 & http://id.who.int/icd/entity/182265087,<,GB54  & XY7V 
+14,尿管腎盂移行部閉塞を伴う水腎症,L,N130,DV73,=,http://id.who.int/icd/entity/647756013,=,GB56.0    
+14,後天性腎盂尿管移行部狭窄を伴う水腎症,L,N130,G5LP,=,http://id.who.int/icd/entity/953391681,<,GB56.0    
+14,尿管狭窄を伴う水腎症,L,N131,CCC8,=,http://id.who.int/icd/entity/1137718649,=,GB56.1    
+14,尿管結石性閉塞を伴う水腎症,L,N132,TN1H,=,http://id.who.int/icd/entity/1621490244,<,GB56.2     
+14,尿管結石性閉塞性水腎症,S1,N132,TN1H,=,http://id.who.int/icd/entity/1621490244,<,GB56.2     
+14,腎結石性閉塞を伴う水腎症,L,N132,UU2R,=,http://id.who.int/icd/entity/1621490244,<,GB56.2     
+14,腎結石性閉塞水腎症,S1,N132,UU2R,=,http://id.who.int/icd/entity/1621490244,<,GB56.2     
+14,水腎症,L,N133,AT2D,=,http://id.who.int/icd/entity/1379313682,=,GB56.4
+14,腎水腫,S1,N133,AT2D,=,http://id.who.int/icd/entity/1379313682,=,GB56.4
+14,萎縮性水腎症,L,N133,B8RQ,=,http://id.who.int/icd/entity/901992165,<,GB56.4    
+14,後天性水腎症,L,N133,CA7T,=,http://id.who.int/icd/entity/1379313682,=,GB56.4
+14,水腎水尿管症,L,N133,KDP2,=,http://id.who.int/icd/entity/821518619,=,GB56.4 / GB90.1 
+14,腎盂拡張,L,N133,NB6T,=,http://id.who.int/icd/entity/1954574354,<,GB56.4     
+14,腎盂拡張症,S1,N133,NB6T,=,http://id.who.int/icd/entity/1954574354,<,GB56.4
+14,両側水腎症,L,N133,S52F,=,http://id.who.int/icd/entity/1379313682 & http://id.who.int/icd/entity/627678743,=,GB56.4 & XK9J　
+14,両水腎症,S1,N133,S52F,=,http://id.who.int/icd/entity/1379313682 & http://id.who.int/icd/entity/627678743,=,GB56.4 & XK9J　
+14,両側性水腎症,S1,N133,S52F,=,http://id.who.int/icd/entity/1379313682 & http://id.who.int/icd/entity/627678743,=,GB56.4 & XK9J　
+14,両側水腎水尿管症,L,N133,V6HG,=,http://id.who.int/icd/entity/821518619 & http://id.who.int/icd/entity/627678743,=,GB56.4 & XK9J / GB90.1 
+14,水尿管症,L,N134,GSSK,=,http://id.who.int/icd/entity/567819142,=,GB90.1   
+14,水尿管,S1,N134,GSSK,=,http://id.who.int/icd/entity/567819142,=,GB90.1   
+14,水尿管(症),S1,N134,GSSK,=,http://id.who.int/icd/entity/567819142,=,GB90.1   
+14,尿管閉塞,L,N135,A4UR,=,http://id.who.int/icd/entity/236436170,<,GB90.2     
+14,後腹膜線維症,L,N135,E9QC,=,http://id.who.int/icd/entity/967295607,=,FB51.4Z    
+14,水腎症を伴わない後天性腎盂尿管移行部狭窄,L,N135,KSD7,=,http://id.who.int/icd/entity/1150547476,=,GB90.2     
+14,尿管狭窄,L,N135,QM9K,=,http://id.who.int/icd/entity/260390560,<,GB90.2     
+14,尿管狭窄症,S1,N135,QM9K,=,http://id.who.int/icd/entity/260390560,<,GB90.2     
+14,膿腎症,L,N136,CHT8,=,http://id.who.int/icd/entity/809412333,=,GB58
+14,膀胱尿管逆流,L,N137,P82V,=,http://id.who.int/icd/entity/2142055506,<,GB56.5
+14,膀胱尿管逆流現象,S1,N137,P82V,=,http://id.who.int/icd/entity/2142055506,<,GB56.5
+14,尿管逆流,S1,N137,P82V,=,http://id.who.int/icd/entity/1150998900,<,GB56.5
+14,膀胱逆流現象,S1,N137,P82V,=,http://id.who.int/icd/entity/2142055506,<,GB56.5
+14,膀胱尿管逆流症,S1,N137,P82V,=,http://id.who.int/icd/entity/1433758585,=,GB56.5
+14,膀胱尿管逆流性尿路疾患,S1,N137,P82V,=,http://id.who.int/icd/entity/1433758585,=,GB56.5
+14,腎外尿溢流,L,N138,MJ6C,<,http://id.who.int/icd/entity/1656637330,<,GB56.Y
+14,尿路外尿溢流,S1,N138,MJ6C,<,http://id.who.int/icd/entity/1656637330,<,GB56.Y
+14,腎盂外尿溢流,S1,N138,MJ6C,<,http://id.who.int/icd/entity/1656637330,<,GB56.Y
+14,後腹膜尿溢流,S1,N138,MJ6C,<,http://id.who.int/icd/entity/1656637330,<,GB56.Y
+14,尿路外尿漏出,S1,N138,MJ6C,<,http://id.who.int/icd/entity/1656637330,<,GB56.Y
+14,自然腎盂外溢流,S1,N138,MJ6C,<,http://id.who.int/icd/entity/1656637330,<,GB56.Y
+14,尿路閉塞,L,N139,AK8T,=,http://id.who.int/icd/entity/1656637330,=,GB56.Z     
+14,下部尿路通過障害,S2,N139,AK8T,=,http://id.who.int/icd/entity/1656637330 & http://id.who.int/icd/entity/1906280350,=,GB56.Z  & XA34X0
+14,ＮＳＡＩＤｓ腎症,L,N140,KAQC,=,http://id.who.int/icd/entity/501385645,<,GB55.Y    
+14,NSAIDS腎症,S0,N140,KAQC,=,http://id.who.int/icd/entity/501385645,<,GB55.Y    
+14,NSAID腎症,S1,N140,KAQC,=,http://id.who.int/icd/entity/501385645,<,GB55.Y    
+14,鎮痛薬性腎症,L,N140,LK4E,=,http://id.who.int/icd/entity/501385645,<,GB55.Y    
+14,造影剤腎症,L,N141,BA8A,=,http://id.who.int/icd/entity/648947672 / http://id.who.int/icd/entity/1401112131 & http://id.who.int/icd/entity/1845354831,=,GB52 / PB28  & XM2S71　　　　
+14,造影剤性腎症,S1,N141,BA8A,=,http://id.who.int/icd/entity/648947672 / http://id.who.int/icd/entity/1401112131 & http://id.who.int/icd/entity/1845354831,=,GB52 / PB28  & XM2S71　　　　
+14,薬物性腎障害,L,N142,SN5Q,=,http://id.who.int/icd/entity/1210263011 / http://id.who.int/icd/entity/799356470,=,GB5Y / PB28     
+14,薬物性障害腎,S1,N142,SN5Q,=,http://id.who.int/icd/entity/1210263011 / http://id.who.int/icd/entity/799356470,=,GB5Y / PB28     
+14,薬剤性腎障害,L,N142,TBR4,=,"http://id.who.int/icd/entity/1210263011 / http://id.who.int/icd/entity/799356470
+",=,GB5Y / PB28
+14,重金属誘発性腎症,L,N143,BH90,=,http://id.who.int/icd/entity/1766840660,=,GB55.1      
+14,中毒性腎症,L,N144,C8RB,=,http://id.who.int/icd/entity/727651889,<,GB55.Y    
+14,バルカン腎症,L,N150,JMSD,=,http://id.who.int/icd/entity/18497836,=,GB55.0 
+14,腎膿瘍,L,N151,BRG5,=,http://id.who.int/icd/entity/1683066042,=,GB59
+14,腎周囲膿瘍,L,N151,JETK,=,http://id.who.int/icd/entity/1683066042,=,GB59
+14,腎感染症,L,N159,F1UE,<,http://id.who.int/icd/entity/1210263011,<,GB5Y   
+14,腎臓感染症,S1,N159,F1UE,<,http://id.who.int/icd/entity/1210263011,<,GB5Y   
+14,ショック腎,L,N170,N97D,<,http://id.who.int/icd/entity/476391827,<,GB60.Z   
+14,急性尿細管壊死,L,N170,R0CH,=,http://id.who.int/icd/entity/867449270,=,GB52
+14,急性腎性腎不全,L,N170,R1N6,=,http://id.who.int/icd/entity/476391827,=,GB60.Z   
+14,急性腎皮質壊死,L,N171,F73A,=,http://id.who.int/icd/entity/1730189384,<,GB5Y
+14,急性皮質性壊死,S1,N171,F73A,=,http://id.who.int/icd/entity/1730189384,<,GB5Y
+14,腎髄質壊死,L,N172,DK8J,=,http://id.who.int/icd/entity/338317373,=,GB53    
+14,腎乳頭壊死,L,N172,N4C2,=,http://id.who.int/icd/entity/338317373,=,GB53    
+14,急性腎前性腎不全,L,N178,V5V7,<,http://id.who.int/icd/entity/476391827,<,GB60.Z    
+14,急性腎後性腎不全,L,N178,VU0A,<,http://id.who.int/icd/entity/476391827,<,GB60.Z    
+14,急性腎不全,L,N179,F7VH,=,http://id.who.int/icd/entity/476391827,=,GB60.Z 
+14,ARF,S1,N179,F7VH,=,http://id.who.int/icd/entity/476391827,=,GB60.Z 
+14,急性尿酸性腎症,L,N179,RF1G,<,http://id.who.int/icd/entity/476391827,<,GB60.Y  
+14,慢性腎臓病ステージＧ１,L,N181,VUFP,=,http://id.who.int/icd/entity/933902267,=,GB61.0    
+14,慢性腎臓病ステージG1,S0,N181,VUFP,=,http://id.who.int/icd/entity/933902267,=,GB61.0    
+14,CKDステージG1,S1,N181,VUFP,=,http://id.who.int/icd/entity/933902267,=,GB61.0    
+14,慢性腎臓病第G1期,S1,N181,VUFP,=,http://id.who.int/icd/entity/933902267,=,GB61.0    
+14,慢性腎臓病ステージ1,S1,N181,VUFP,=,http://id.who.int/icd/entity/933902267,=,GB61.0    
+14,CKDステージ1,S1,N181,VUFP,=,http://id.who.int/icd/entity/933902267,=,GB61.0    
+14,慢性腎臓病第1期,S1,N181,VUFP,=,http://id.who.int/icd/entity/933902267,=,GB61.0    
+14,慢性腎臓病ステージＧ２,L,N182,KABM,=,http://id.who.int/icd/entity/1124558660,=,GB61.1    
+14,慢性腎臓病ステージG2,S0,N182,KABM,=,http://id.who.int/icd/entity/1124558660,=,GB61.1    
+14,CKDステージG2,S1,N182,KABM,=,http://id.who.int/icd/entity/1124558660,=,GB61.1    
+14,慢性腎臓病ステージ2,S1,N182,KABM,=,http://id.who.int/icd/entity/1124558660,=,GB61.1    
+14,CKDステージ2,S1,N182,KABM,=,http://id.who.int/icd/entity/1124558660,=,GB61.1    
+14,慢性腎臓病第2期,S1,N182,KABM,=,http://id.who.int/icd/entity/1124558660,=,GB61.1    
+14,慢性腎臓病第G2期,S1,N182,KABM,=,http://id.who.int/icd/entity/1124558660,=,GB61.1    
+14,慢性腎臓病ステージＧ３ｂ,L,N183,E5HV,=,http://id.who.int/icd/entity/671059308,=,GB61.3    
+14,慢性腎臓病ステージG3B,S0,N183,E5HV,=,http://id.who.int/icd/entity/671059308,=,GB61.3    
+14,CKDステージG3B,S1,N183,E5HV,=,http://id.who.int/icd/entity/671059308,=,GB61.3    
+14,CKDステージ3B,S1,N183,E5HV,=,http://id.who.int/icd/entity/671059308,=,GB61.3    
+14,慢性腎臓病第3B期,S1,N183,E5HV,=,http://id.who.int/icd/entity/671059308,=,GB61.3    
+14,慢性腎臓病第G3B期,S1,N183,E5HV,=,http://id.who.int/icd/entity/671059308,=,GB61.3    
+14,慢性腎臓病ステージ3B,S1,N183,E5HV,=,http://id.who.int/icd/entity/671059308,=,GB61.3    
+14,慢性腎臓病ステージＧ３ａ,L,N183,NJ4J,=,http://id.who.int/icd/entity/1416760208,=,GB61.2     
+14,慢性腎臓病ステージG3A,S0,N183,NJ4J,=,http://id.who.int/icd/entity/1416760208,=,GB61.2     
+14,慢性腎臓病第3A期,S1,N183,NJ4J,=,http://id.who.int/icd/entity/1416760208,=,GB61.2     
+14,CKDステージ3A,S1,N183,NJ4J,=,http://id.who.int/icd/entity/1416760208,=,GB61.2     
+14,慢性腎臓病第G3A期,S1,N183,NJ4J,=,http://id.who.int/icd/entity/1416760208,=,GB61.2     
+14,慢性腎臓病ステージ3A,S1,N183,NJ4J,=,http://id.who.int/icd/entity/1416760208,=,GB61.2     
+14,CKDステージG3A,S1,N183,NJ4J,=,http://id.who.int/icd/entity/1416760208,=,GB61.2     
+14,慢性腎臓病ステージＧ３,L,N183,RJQJ,=,http://id.who.int/icd/entity/1416760208,=,GB61.2    
+14,慢性腎臓病ステージG3,S0,N183,RJQJ,=,http://id.who.int/icd/entity/1416760208,=,GB61.2    
+14,慢性腎臓病ステージ3,S1,N183,RJQJ,=,http://id.who.int/icd/entity/1416760208,=,GB61.2    
+14,慢性腎臓病第3期,S1,N183,RJQJ,=,http://id.who.int/icd/entity/1416760208,=,GB61.2    
+14,慢性腎臓病第G3期,S1,N183,RJQJ,=,http://id.who.int/icd/entity/1416760208,=,GB61.2    
+14,CKDステージG3,S1,N183,RJQJ,=,http://id.who.int/icd/entity/1416760208,=,GB61.2    
+14,CKDステージ3,S1,N183,RJQJ,=,http://id.who.int/icd/entity/1416760208,=,GB61.2    
+14,慢性腎臓病ステージＧ４,L,N184,R488,=,http://id.who.int/icd/entity/1436694854,=,GB61.4    
+14,慢性腎臓病ステージG4,S0,N184,R488,=,http://id.who.int/icd/entity/1436694854,=,GB61.4    
+14,慢性腎臓病第4期,S1,N184,R488,=,http://id.who.int/icd/entity/1436694854,=,GB61.4    
+14,慢性腎臓病第G4期,S1,N184,R488,=,http://id.who.int/icd/entity/1436694854,=,GB61.4    
+14,慢性腎臓病ステージ4,S1,N184,R488,=,http://id.who.int/icd/entity/1436694854,=,GB61.4    
+14,CKDステージG4,S1,N184,R488,=,http://id.who.int/icd/entity/1436694854,=,GB61.4    
+14,CKDステージ4,S1,N184,R488,=,http://id.who.int/icd/entity/1436694854,=,GB61.4    
+14,尿毒症性心筋症,L,N185,BQQ7,<,http://id.who.int/icd/entity/761526554 / http://id.who.int/icd/entity/654852377,<,GB6Z /  BC43.Y   
+14,慢性腎臓病ステージＧ５Ｄ,L,N185,DG06,=,http://id.who.int/icd/entity/1726595166,<,GB61.5    
+14,慢性腎臓病ステージG5D,S0,N185,DG06,=,http://id.who.int/icd/entity/1726595166,<,GB61.5    
+14,CKDステージG5D,S1,N185,DG06,=,http://id.who.int/icd/entity/1726595166,<,GB61.5    
+14,慢性腎臓病第5D期,S1,N185,DG06,=,http://id.who.int/icd/entity/1726595166,<,GB61.5    
+14,慢性腎臓病ステージ5D,S1,N185,DG06,=,http://id.who.int/icd/entity/1726595166,<,GB61.5    
+14,CKDステージ5D,S1,N185,DG06,=,http://id.who.int/icd/entity/1726595166,<,GB61.5    
+14,慢性腎臓病第G5D期,S1,N185,DG06,=,http://id.who.int/icd/entity/1726595166,<,GB61.5    
+14,尿毒症性心膜炎,L,N185,KKHA,=,http://id.who.int/icd/entity/1663325858,=,BB20.Y / GB61.5
+14,慢性腎臓病ステージＧ５,L,N185,L70J,=,http://id.who.int/icd/entity/820638928,=,GB61.5    
+14,慢性腎臓病ステージG5,S0,N185,L70J,=,http://id.who.int/icd/entity/820638928,=,GB61.5    
+14,慢性腎臓病ステージ5,S1,N185,L70J,=,http://id.who.int/icd/entity/820638928,=,GB61.5    
+14,慢性腎臓病第G5期,S1,N185,L70J,=,http://id.who.int/icd/entity/820638928,=,GB61.5    
+14,慢性腎臓病第5期,S1,N185,L70J,=,http://id.who.int/icd/entity/820638928,=,GB61.5    
+14,CKDステージG5,S1,N185,L70J,=,http://id.who.int/icd/entity/820638928,=,GB61.5    
+14,CKDステージ5,S1,N185,L70J,=,http://id.who.int/icd/entity/820638928,=,GB61.5    
+14,尿毒症性ニューロパチー,L,N185,MKRR,=,http://id.who.int/icd/entity/761526554 / http://id.who.int/icd/entity/1584778394,=,GB6Z / 8C03.Y 
+14,尿毒症性ニューロパシー,S1,N185,MKRR,=,http://id.who.int/icd/entity/761526554 / http://id.who.int/icd/entity/1584778394,=,GB6Z / 8C03.Y 
+14,尿毒症性多発性ニューロパチー,L,N185,NQR9,=,http://id.who.int/icd/entity/761526554 / http://id.who.int/icd/entity/1584778394,=,GB6Z / 8C03.Y 
+14,尿毒症性多発性ニューロパシー,S1,N185,NQR9,=,http://id.who.int/icd/entity/761526554 / http://id.who.int/icd/entity/1584778394,=,GB6Z / 8C03.Y 
+14,末期腎不全,L,N185,PFB1,=,http://id.who.int/icd/entity/820638928,=,GB61.5    
+14,赤血球造血刺激因子製剤低反応性貧血,L,N185,R0AA,<,http://id.who.int/icd/entity/874359291 ,<,3A71.2
+14,エリスロポエチン抵抗性貧血,S1,N185,R0AA,<,http://id.who.int/icd/entity/874359291  / http://id.who.int/icd/entity/820638928,<,3A71.2 / GB61.5
+14,ESA抵抗性貧血,S1,N185,R0AA,<,http://id.who.int/icd/entity/874359291  / http://id.who.int/icd/entity/820638928,<,3A71.2 / GB61.5
+14,ESA低反応性貧血,S1,N185,R0AA,<,http://id.who.int/icd/entity/874359291  / http://id.who.int/icd/entity/820638928,<,3A71.2 / GB61.5
+14,エリスロポエチン低反応性貧血,S1,N185,R0AA,<,http://id.who.int/icd/entity/874359291  / http://id.who.int/icd/entity/820638928,<,3A71.2 / GB61.5
+14,尿毒症性脳症,L,N185,R976,=,http://id.who.int/icd/entity/761526554 / http://id.who.int/icd/entity/1927024232,=,GB6Z / 8E47     
+14,腎性脳症,S1,N185,R976,=,http://id.who.int/icd/entity/761526554 / http://id.who.int/icd/entity/1927024232,=,GB6Z / 8E47     
+14,腎性網膜症,L,N185,S2VN,=,http://id.who.int/icd/entity/624340841,=,9B71.Y / BA02 
+14,腎炎性網膜症,S1,N185,S2VN,=,http://id.who.int/icd/entity/624340841,=,9B71.Y / BA02 
+14,尿毒症肺,L,N185,SJ7R,<,"http://id.who.int/icd/entity/761526554/
+http://id.who.int/icd/entity/850824593",<,GB6Z / CB40.Y    
+14,慢性腎臓病,L,N189,FKQ7,=,http://id.who.int/icd/entity/412389819,=,GB61.Z 
+14,CKD,S1,N189,FKQ7,=,http://id.who.int/icd/entity/412389819,=,GB61.Z 
+14,慢性腎不全,L,N189,MM0M,=,http://id.who.int/icd/entity/412389819,=,GB61.Z 
+14,腎性無尿,L,N19,ASPF,=,http://id.who.int/icd/entity/761526554 / http://id.who.int/icd/entity/248693056,=,GB6Z / MF51    
+14,尿毒症,L,N19,GSS3,=,http://id.who.int/icd/entity/761526554,=,GB6Z      
+14,無機能腎,L,N19,LKUQ,=,http://id.who.int/icd/entity/761526554,=,GB6Z      
+14,腎不全,L,N19,PP8R,=,http://id.who.int/icd/entity/761526554,=,GB6Z      
+14,腎不全(症),S1,N19,PP8R,=,http://id.who.int/icd/entity/761526554,=,GB6Z      
+14,腎不全症,S1,N19,PP8R,=,http://id.who.int/icd/entity/761526554,=,GB6Z      
+14,腎性貧血,L,N19,T03M,=,http://id.who.int/icd/entity/874359291  ,=,3A71.2  
+14,蛋白尿貧血,S1,N19,T03M,=,http://id.who.int/icd/entity/874359291 / http://id.who.int/icd/entity/930895737,=,3A71.2 / MF96.Z 
+14,多発性腎結石,L,N200,C8TR,=,http://id.who.int/icd/entity/389168514,<,GB70.0Z      
+14,腎結石症,L,N200,FSKN,=,http://id.who.int/icd/entity/389168514,=,GB70.0Z      
+14,腎結石,S1,N200,FSKN,=,http://id.who.int/icd/entity/389168514,=,GB70.0Z      
+14,腎石,S1,N200,FSKN,=,http://id.who.int/icd/entity/389168514,=,GB70.0Z      
+14,腎結石(症),S1,N200,FSKN,=,http://id.who.int/icd/entity/389168514,=,GB70.0Z      
+14,腎石症,S1,N200,FSKN,=,http://id.who.int/icd/entity/389168514,=,GB70.0Z      
+14,腎臓結石,S1,N200,FSKN,=,http://id.who.int/icd/entity/389168514,=,GB70.0Z      
+14,腎臟結石,S1,N200,FSKN,=,http://id.who.int/icd/entity/389168514,=,GB70.0Z      
+14,腎内結石,S2,N200,FSKN,=,http://id.who.int/icd/entity/389168514,=,GB70.0Z      
+14,腎砂状結石,L,N200,NGB1,=,http://id.who.int/icd/entity/389168514,=,GB70.0Z      
+14,珊瑚状結石,L,N200,PJAD,<,http://id.who.int/icd/entity/389168514,<,GB70.0Z      
+14,腎盂結石症,L,N200,QQ0A,=,http://id.who.int/icd/entity/1823656493,=,GB70.0Y & XA21J4
+14,腎盂結石,S1,N200,QQ0A,=,http://id.who.int/icd/entity/1823656493,=,GB70.0Y & XA21J4
+14,腎盂結石(症),S1,N200,QQ0A,=,http://id.who.int/icd/entity/1823656493,=,GB70.0Y & XA21J4
+14,腎結石自排,L,N200,TUTP,<,http://id.who.int/icd/entity/389168514,<,GB70.0Z      
+14,尿管結石症,L,N201,FCFD,=,http://id.who.int/icd/entity/1920593940,=,GB70.1 
+14,尿管結石,S1,N201,FCFD,=,http://id.who.int/icd/entity/1920593940,=,GB70.1 
+14,尿管結石(症),S1,N201,FCFD,=,http://id.who.int/icd/entity/1920593940,=,GB70.1 
+14,腎尿管結石,L,N202,TTN0,=,http://id.who.int/icd/entity/295907514,=,GB70.0Z      
+14,結石性腎盂腎炎,L,N209,E62H,=,http://id.who.int/icd/entity/1533894328,<,GB70.Z 
+14,結石性腎炎,S2,N209,E62H,=,http://id.who.int/icd/entity/55459232,<,GB70.0Z      
+14,尿路結石症,L,N209,NE56,=,http://id.who.int/icd/entity/1746821938,=,GB7Z 
+14,尿路結石(症),S1,N209,NE56,=,http://id.who.int/icd/entity/1746821938,=,GB7Z 
+14,尿路結石,S1,N209,NE56,=,http://id.who.int/icd/entity/1746821938,=,GB7Z 
+14,膀胱結石症,L,N210,E6A9,=,http://id.who.int/icd/entity/197850369,=,GB71.0
+14,膀胱結石,S1,N210,E6A9,=,http://id.who.int/icd/entity/197850369,=,GB71.0
+14,膀胱結石(症),S1,N210,E6A9,=,http://id.who.int/icd/entity/197850369,=,GB71.0     
+14,膀胱憩室結石,L,N210,L4AH,=,http://id.who.int/icd/entity/197850369,=,GB71.0     
+14,尿道結石嵌頓,L,N211,MBAS,=,http://id.who.int/icd/entity/1853962389,=,GB71.1 
+14,尿道結石症,L,N211,QCD1,=,http://id.who.int/icd/entity/1853962389,=,GB71.1 
+14,尿道結石,S1,N211,QCD1,=,http://id.who.int/icd/entity/1853962389,=,GB71.1 
+14,尿道結石(症),S1,N211,QCD1,=,http://id.who.int/icd/entity/1853962389,=,GB71.1 
+14,下部尿路結石,L,N219,DPCD,=,http://id.who.int/icd/entity/1961426220,=,GB71.Z
+14,腎性くる病,L,N250,ADVV,=,http://id.who.int/icd/entity/1995351226,<,GB61.Z
+14,腎性骨軟化症,L,N250,BD9Q,<,http://id.who.int/icd/entity/825500799,<,GB61.Z / FB83.2Z
+14,リン酸喪失性尿細管障害,L,N250,CSTU,=,http://id.who.int/icd/entity/349009254,<,GB6Z / GB90.48
+14,りん酸喪失性尿細管障害,S1,N250,CSTU,=,http://id.who.int/icd/entity/349009254,<,GB6Z / GB90.48
+14,腎性骨ジストロフィー,L,N250,DKJU,=,http://id.who.int/icd/entity/825500799,<,GB61.Z / FB8Y 
+14,腎性骨異栄養症,L,N250,DKJU,=,http://id.who.int/icd/entity/825500799,<,GB61.Z / FB8Y 
+14,先天性腎性尿崩症,L,N251,JB11,=,http://id.who.int/icd/entity/1417669099,=,GB90.4A 
+14,遺伝性腎性尿崩症,S1,N251,JB11,=,http://id.who.int/icd/entity/1417669099,=,GB90.4A 
+14,腎性尿崩症,L,N251,TDG4,=,http://id.who.int/icd/entity/1417669099,=,GB90.4A 
+14,一次性近位尿細管性アシドーシス,L,N258,AABF,≒,http://id.who.int/icd/entity/1207939938,<,GB90.44    
+14,近位尿細管性アシドーシス,L,N258,B99D,≒,http://id.who.int/icd/entity/1207939938,<,GB90.44    
+14,２型尿細管性アシドーシス,L,N258,B99D,=,http://id.who.int/icd/entity/1207939938,<,GB90.44    
+14,2型尿細管性アシドーシス,S0,N258,B99D,=,http://id.who.int/icd/entity/1207939938,<,GB90.44    
+14,2型腎尿細管性アシドーシス,S1,N258,B99D,=,http://id.who.int/icd/entity/1207939938,<,GB90.44    
+14,尿細管性アシドーシス2型,S1,N258,B99D,=,http://id.who.int/icd/entity/1207939938,<,GB90.44    
+14,2型尿細管アシドーシス,S1,N258,B99D,=,http://id.who.int/icd/entity/1207939938,<,GB90.44    
+14,二次性近位尿細管性アシドーシス,L,N258,G4PK,<,http://id.who.int/icd/entity/1207939938,<,GB90.44    
+14,遠位尿細管性アシドーシス,L,N258,G95B,≒,http://id.who.int/icd/entity/1321454324,<,GB90.44    
+14,１型尿細管性アシドーシス,L,N258,G95B,=,http://id.who.int/icd/entity/1321454324,<,GB90.44    
+14,1型尿細管性アシドーシス,S0,N258,G95B,=,http://id.who.int/icd/entity/1321454324,<,GB90.44    
+14,尿細管性アシドーシス1型,S1,N258,G95B,=,http://id.who.int/icd/entity/1321454324,<,GB90.44    
+14,1型腎尿細管性アシドーシス,S1,N258,G95B,=,http://id.who.int/icd/entity/1321454324,<,GB90.44    
+14,1型尿細管アシドーシス,S1,N258,G95B,=,http://id.who.int/icd/entity/1321454324,<,GB90.44    
+14,原発性尿細管性アシドーシス,L,N258,GHKF,=,http://id.who.int/icd/entity/1272869150,=,GB90.44     
+14,ライトウッド・オルブライト症候群,L,N258,HSNH,=,http://id.who.int/icd/entity/1272869150,=,GB90.44    
+14,腎原性続発性副甲状腺機能亢進症,L,N258,JHN4,=,http://id.who.int/icd/entity/610229783,<,GC2Z 
+14,腎原性続発性上皮小体機能亢進症,S1,N258,JHN4,=,http://id.who.int/icd/entity/610229783,<,GC2Z 
+14,尿細管性アシドーシス,L,N258,K8FE,=,http://id.who.int/icd/entity/1272869150,=,GB90.44
+14,尿細管アシドーシス,S1,N258,K8FE,=,http://id.who.int/icd/entity/1272869150,=,GB90.44
+14,腎尿細管性アシドーシス,S1,N258,K8FE,=,http://id.who.int/icd/entity/1272869150,=,GB90.44
+14,腎尿細管アシドーシス,S1,N258,K8FE,=,http://id.who.int/icd/entity/1272869150,=,GB90.44
+14,遷延性副甲状腺機能亢進症,L,N258,R70U,=,http://id.who.int/icd/entity/610229783,<,GC2Z  
+14,急性尿細管障害,L,N259,LRTK,=,http://id.who.int/icd/entity/1815482567 & http://id.who.int/icd/entity/786106375,=,GB90.4Z & XT5R 　
+14,萎縮腎,L,N26,KBVS,=,http://id.who.int/icd/entity/117862072,=,MF54.0   
+14,腎硬化症,L,N26,P5TT,=,http://id.who.int/icd/entity/1878591797,<,BA02 
+14,巣状腎硬化症,L,N26,V336,<,http://id.who.int/icd/entity/1878591797,<,BA02 
+14,一側性矮小腎,L,N270,H2BB,=,http://id.who.int/icd/entity/743132352,=,MF54.2 & XK70 
+14,両側性矮小腎,L,N271,G1ND,=,http://id.who.int/icd/entity/1224769878,=,MF54.2 & XK9J
+14,矮小腎,L,N279,LGLP,=,http://id.who.int/icd/entity/1649255214,=,MF54.2   
+14,腎動脈血栓症,L,N280,KLM8,=,http://id.who.int/icd/entity/1993889507,<,GB90.3     
+14,腎動脈血栓,S1,N280,KLM8,=,http://id.who.int/icd/entity/1993889507,<,GB90.3     
+14,腎動脈血栓(症),S1,N280,KLM8,=,http://id.who.int/icd/entity/1993889507,<,GB90.3     
+14,腎梗塞,L,N280,L3QM,=,http://id.who.int/icd/entity/1804492703,<,GB90.3     
+14,急性虚血性腎不全,S1,N280,L3QM,=,http://id.who.int/icd/entity/476391827,<,GB60.Z
+14,腎虚血,L,N280,LVLM,=,http://id.who.int/icd/entity/1857712225,=,GB90.3     
+14,腎コレステロール塞栓症,L,N280,S5KQ,=,http://id.who.int/icd/entity/1376379063,=,BD53.40 
+14,腎動脈閉塞症,L,N280,T22K,=,http://id.who.int/icd/entity/1993889507,<,GB90.3     
+14,腎動脈閉塞,S1,N280,T22K,=,http://id.who.int/icd/entity/1993889507,<,GB90.3     
+14,腎動脈塞栓症,L,N280,TE2B,=,http://id.who.int/icd/entity/1347732400,<,GB90.3     
+14,腎塞栓,S1,N280,TE2B,=,http://id.who.int/icd/entity/1347732400,<,GB90.3     
+14,腎動脈塞栓,S1,N280,TE2B,=,http://id.who.int/icd/entity/1347732400,<,GB90.3     
+14,腎のう胞,L,N281,CCLN,=,http://id.who.int/icd/entity/1435131505,=,GB80.0 
+14,腎嚢胞,S1,N281,CCLN,=,http://id.who.int/icd/entity/1435131505,=,GB80.0 
+14,後天性腎のう胞,L,N281,F8K4,=,http://id.who.int/icd/entity/1435131505,=,GB80.0 
+14,後天性腎嚢胞,S1,N281,F8K4,=,http://id.who.int/icd/entity/1435131505,=,GB80.0 
+14,孤立性腎のう胞,L,N281,MSRS,=,http://id.who.int/icd/entity/2028260622,<,GB80.0
+14,孤立性腎嚢胞,S1,N281,MSRS,=,http://id.who.int/icd/entity/2028260622,<,GB80.0
+14,傍腎盂のう胞,L,N281,RLVG,=,http://id.who.int/icd/entity/1998223409,<,GB80.Y
+14,傍腎盂嚢胞,S1,N281,RLVG,=,http://id.who.int/icd/entity/1998223409,<,GB80.Y
+14,単純性腎のう胞,L,N281,T9QC,=,http://id.who.int/icd/entity/1435131505,=,GB80.0 
+14,単純性腎嚢胞,S1,N281,T9QC,=,http://id.who.int/icd/entity/1435131505,=,GB80.0 
+14,多のう胞化萎縮腎,L,N281,VE23,<,http://id.who.int/icd/entity/1693145260,<,GB80.Y 
+14,後天性多のう胞化萎縮腎,S1,N281,VE23,=,http://id.who.int/icd/entity/1693145260,<,GB80.Y 
+14,後天性多嚢胞化萎縮腎,S1,N281,VE23,=,http://id.who.int/icd/entity/1693145260,<,GB80.Y 
+14,多嚢胞化萎縮腎,S1,N281,VE23,=,http://id.who.int/icd/entity/1693145260,<,GB80.Y 
+14,腎杯憩室,L,N288,A4QP,<,http://id.who.int/icd/entity/1490912126 & http://id.who.int/icd/entity/720032908,<,GB90.Y & XA6KU8
+14,尿管瘤,L,N288,BRRA,=,http://id.who.int/icd/entity/408801251,<,GB90.Y & XA7156
+14,塩類喪失性腎炎,L,N288,DKBE,=,http://id.who.int/icd/entity/1010428515,<,GB90.Y 
+14,急性腎障害,L,N288,EFL2,=,http://id.who.int/icd/entity/476391827,=,GB60.Z 
+14,AKI,S1,N288,EFL2,=,http://id.who.int/icd/entity/476391827,=,GB60.Z 
+14,腎腫大,L,N288,EK61,=,http://id.who.int/icd/entity/2123799280,<,MF54.Y        
+14,腎臓肥大症,S1,N288,EK61,=,http://id.who.int/icd/entity/2123799280,<,MF54.Y        
+14,腎肥大,S1,N288,EK61,=,http://id.who.int/icd/entity/2123799280,<,MF54.Y        
+14,腎臓肥大,S1,N288,EK61,=,http://id.who.int/icd/entity/2123799280,<,MF54.Y        
+14,尿管周囲膿瘍,L,N288,FSTR,=,http://id.who.int/icd/entity/1209408238,<,GB90.Y
+14,尿管憩室,L,N288,GLJ8,=,http://id.who.int/icd/entity/1885178445,<,GB90.Y & XA7156 
+14,腎腫瘤,L,N288,GMFL,=,http://id.who.int/icd/entity/507731526,<,MG01 & XA6KU8       
+14,腎出血,L,N288,H0MR,=,http://id.who.int/icd/entity/65393465,<,GB90.Y & XA6KU8
+14,腎出血症,S1,N288,H0MR,=,http://id.who.int/icd/entity/65393465,<,GB90.Y & XA6KU8
+14,腎出血(症),S1,N288,H0MR,=,http://id.who.int/icd/entity/65393465,<,GB90.Y & XA6KU8
+14,腎石灰化症,L,N288,H860,=,http://id.who.int/icd/entity/1359282431,=,GB57
+14,腎石灰症,S1,N288,H860,=,http://id.who.int/icd/entity/1359282431,=,GB57
+14,腎石灰沈着症,S1,N288,H860,=,http://id.who.int/icd/entity/1359282431,=,GB57
+14,尿管皮膚瘻,L,N288,HA30,=,http://id.who.int/icd/entity/1284392237,<,GC04.2
+14,巨大尿管,L,N288,JDLN,=,http://id.who.int/icd/entity/1125094798,<,GB90.Y & XA7156 
+14,腎下垂症,L,N288,K6RT,=,http://id.who.int/icd/entity/451348406,<,GB90.Y & XA6KU8
+14,腎臓下垂症,S1,N288,K6RT,=,http://id.who.int/icd/entity/451348406,<,GB90.Y & XA6KU8
+14,腎位置異常,L,N288,KE7Q,=,http://id.who.int/icd/entity/937219009,<,GB90.Y & XA6KU8
+14,遊走腎,L,N288,L3FG,=,http://id.who.int/icd/entity/1536632152,=,GB90.0
+14,尿管腸瘻,L,N288,L9DU,=,http://id.who.int/icd/entity/1914772929,<,GC04.2 
+14,尿管炎,L,N288,M7R7,=,http://id.who.int/icd/entity/817532938,<,GB90.Y & XA7156
+14,尿管瘻,L,N288,MRCV,=,http://id.who.int/icd/entity/1675210300,=,GC04.2 
+14,腎瘻,L,N288,Q293,=,http://id.who.int/icd/entity/775684062,<,GB90.Y & XA6KU8
+14,腎瘻孔,S1,N288,Q293,=,http://id.who.int/icd/entity/775684062,<,GB90.Y & XA6KU8
+14,尿管ポリープ,L,N288,RHSV,=,http://id.who.int/icd/entity/134277787,<,GB90.Y & XA7156
+14,尿管拡張症,L,N288,SKLP,=,http://id.who.int/icd/entity/567819142,=,GB90.1 
+14,尿管感染,L,N288,T51S,=,http://id.who.int/icd/entity/1060013546,<,GB90.Y & XA7156
+14,腎周囲出血,L,N288,U4MS,<,http://id.who.int/icd/entity/65393465,<,GB90.Y　
+14,特発性腎出血,L,N288,UQ8S,=,http://id.who.int/icd/entity/65393465 & http://id.who.int/icd/entity/894194405,<,GB90.Y & XA6KU8 & XB5F
+14,特発性血尿,S1,N288,UQ8S,=,http://id.who.int/icd/entity/1345372703 ,<,GB4Y
+14,遺伝性腎疾患,L,N289,CRJG,=,http://id.who.int/icd/entity/1914766361 & http://id.who.int/icd/entity/789096057,<,GC2Z  & XA6KU8 & XB7K 
+14,腎盂ポリープ,L,N289,FUD1,<,http://id.who.int/icd/entity/1490912126 & http://id.who.int/icd/entity/1478200844,<,GB90.Y & XA21J4   
+14,後腹膜尿貯留,L,N289,JVBS,=,http://id.who.int/icd/entity/1794368190,=,GB80.2
+14,ユリノーマ,S1,N289,JVBS,=,http://id.who.int/icd/entity/1794368190,=,GB80.2
+14,尿貯留腫,S1,N289,JVBS,=,http://id.who.int/icd/entity/1794368190,=,GB80.2
+14,尿性腹水,L,N289,RBE0,=,http://id.who.int/icd/entity/1794368190,=,GB80.2
+14,腹腔内尿漏出,S1,N289,RBE0,=,http://id.who.int/icd/entity/1794368190,=,GB80.2
+14,腎障害,L,N289,RJ77,=,http://id.who.int/icd/entity/1914766361,<,GC2Z & XA6KU8
+14,腎機能低下,L,N289,STAB,=,http://id.who.int/icd/entity/2105373723,<,GC2Z & XA6KU8
+14,腎機能不全,S1,N289,STAB,=,http://id.who.int/icd/entity/2105373723,<,GC2Z & XA6KU8
+14,腎機能障害,S1,N289,STAB,=,http://id.who.int/icd/entity/2105373723,<,GC2Z & XA6KU8
+14,尿管通過障害,L,N289,V8S6,=,http://id.who.int/icd/entity/31868353,<,GC2Z & XA7156 
+14,腎疾患,L,N289,VQFK,=,http://id.who.int/icd/entity/1914766361,<,GC2Z & XA6KU8
+14,腎臓疾患,S1,N289,VQFK,=,http://id.who.int/icd/entity/1914766361,<,GC2Z & XA6KU8
+14,腎臓病,S1,N289,VQFK,=,http://id.who.int/icd/entity/1914766361,<,GC2Z & XA6KU8
+14,急性単純性膀胱炎,L,N300,NHC5,=,http://id.who.int/icd/entity/120069809,=,GC00.1 & XT5R
+14,急性膀胱炎,L,N300,RRB8,=,http://id.who.int/icd/entity/120069809,=,GC00.1 & XT5R
+14,急性出血性膀胱炎,L,N300,SQH2,=,http://id.who.int/icd/entity/1676391804,<,GC00.1 & XT5R
+14,間質性膀胱炎,L,N301,DE4G,=,http://id.who.int/icd/entity/1650709285,=,GC00.3 
+14,慢性間質性膀胱炎,S1,N301,DE4G,=,http://id.who.int/icd/entity/1650709285 & http://id.who.int/icd/entity/490003542,=,GC00.3 & XT8W
+14,間質性膀胱炎（ハンナ型）,L,N301,F584,=,http://id.who.int/icd/entity/44621583,<,GC00.3　　 
+14,間質性膀胱炎(ハンナ型),S0,N301,F584,=,http://id.who.int/icd/entity/44621583,<,GC00.3　　 
+14,慢性膀胱炎,L,N302,H344,=,http://id.who.int/icd/entity/382632922,=,GC00.1 & XT8W
+14,慢性再発性膀胱炎,L,N302,RJMH,=,http://id.who.int/icd/entity/382632922 & http://id.who.int/icd/entity/1721353160,=,GC00.1 & XT8W & XT44
+14,慢性複雑性膀胱炎,L,N302,T1MC,<,http://id.who.int/icd/entity/382632922,<,GC00.1 & XT8W
+14,膀胱三角部炎,L,N303,NUV2,=,http://id.who.int/icd/entity/1938116176,=,GC00.0
+14,尿道三角部炎,S1,N303,NUV2,=,http://id.who.int/icd/entity/1307462764,<,GC00.0
+14,放射線性膀胱炎,L,N304,ECB6,=,http://id.who.int/icd/entity/7069148,=,GC00.Y & XE60C 
+14,放射線出血性膀胱炎,L,N304,NF1U,=,http://id.who.int/icd/entity/7069148 / http://id.who.int/icd/entity/940081636,=,GC00.Y & XE60C  / MG27
+14,出血性放射線性膀胱炎,S1,N304,NF1U,=,http://id.who.int/icd/entity/7069148 / http://id.who.int/icd/entity/940081636,=,GC00.Y & XE60C  / MG27
+14,放射線性出血性膀胱炎,S1,N304,NF1U,=,http://id.who.int/icd/entity/7069148 / http://id.who.int/icd/entity/940081636,=,GC00.Y & XE60C  / MG27
+14,膀胱後部膿瘍,L,N308,AATS,=,http://id.who.int/icd/entity/1589767282,<,GC00.1     
+14,アレルギー性膀胱炎,L,N308,CSKK,=,http://id.who.int/icd/entity/1947371858,<,GC00.Y 
+14,過敏性膀胱炎,S1,N308,CSKK,=,http://id.who.int/icd/entity/1947371858,<,GC00.Y
+14,ＭＲＳＡ膀胱炎,L,N308,G6CR,=,http://id.who.int/icd/entity/1460844182 / http://id.who.int/icd/entity/1710270895,=,GC00.1 / MG51.00
+14,MRSA膀胱炎,S0,N308,G6CR,=,http://id.who.int/icd/entity/1460844182 / http://id.who.int/icd/entity/1710270895,=,GC00.1 / MG51.00
+14,膀胱周囲炎,L,N308,GSEN,<,http://id.who.int/icd/entity/1181120673,<,GC00.Z  
+14,複雑性膀胱炎,L,N308,J3S5,<,http://id.who.int/icd/entity/382632922,<,GC00.1     
+14,尿膜管膿瘍,L,N308,JHNK,=,http://id.who.int/icd/entity/1125432593,<,LB03.0    
+14,潰瘍性膀胱炎,L,N308,K2SH,=,http://id.who.int/icd/entity/44621583,<,GC00.3
+14,細菌性膀胱炎,L,N308,LV4H,=,http://id.who.int/icd/entity/1460844182 & http://id.who.int/icd/entity/83217129,=,GC00.1 & XN74M 
+14,びらん性膀胱炎,L,N308,SR2L,=,http://id.who.int/icd/entity/44621583,<,GC00.3
+14,単純性膀胱炎,L,N308,T5TS,=,http://id.who.int/icd/entity/1460844182,=,GC00.1     
+14,膀胱周囲膿瘍,L,N308,VDDF,=,http://id.who.int/icd/entity/1589767282,<,GC00.1
+14,膀胱膿瘍,S2,N308,VDDF,=,http://id.who.int/icd/entity/1589767282,<,GC00.1
+14,出血性膀胱炎,L,N309,AU4F,=,http://id.who.int/icd/entity/413252133,<,GC00.1
+14,膀胱炎,L,N309,J5M8,=,http://id.who.int/icd/entity/1181120673,=,GC00.Z 
+14,膀胱カタル,S2,N309,J5M8,=,http://id.who.int/icd/entity/1181120673,=,GC00.Z 
+14,反復性膀胱炎,L,N309,T0TQ,=,http://id.who.int/icd/entity/1181120673 & http://id.who.int/icd/entity/1721353160,=,GC00.Z  & XT44
+14,再発性膀胱炎,S1,N309,T0TQ,=,http://id.who.int/icd/entity/1181120673 & http://id.who.int/icd/entity/18878504899,=,GC00.Z  & XT4D
+14,無抑制性神経因性膀胱,L,N310,KFKM,=,http://id.who.int/icd/entity/466671152,<,GC01.4  
+14,反射性神経因性膀胱,L,N311,KDK0,=,http://id.who.int/icd/entity/2124094374,<,GC01.4   
+14,低緊張性膀胱,L,N312,EPH3,=,http://id.who.int/icd/entity/1475224787,<,GC01.4   
+14,麻痺性膀胱,S1,N312,EPH3,=,http://id.who.int/icd/entity/171330395,<,GC01.4
+14,自律性神経因性膀胱,L,N312,GEDR,=,http://id.who.int/icd/entity/171330395,<,GC01.4
+14,神経性膀胱アトニー,S1,N312,GEDR,=,http://id.who.int/icd/entity/171330395,<,GC01.4
+14,弛緩性神経因性膀胱,L,N312,LA2H,=,http://id.who.int/icd/entity/171330395,<,GC01.4
+14,弛緩性膀胱,S1,N312,LA2H,=,http://id.who.int/icd/entity/171330395,<,GC01.4
+14,膀胱直腸障害,L,N319,B9AR,<,http://id.who.int/icd/entity/590198069,<,GC01.4   
+14,神経因性膀胱,L,N319,GVK2,=,http://id.who.int/icd/entity/590198069,=,GC01.4
+14,神経原性膀胱萎縮,S1,N319,GVK2,=,http://id.who.int/icd/entity/395420578,<,GC01.4 
+14,心因性膀胱,S1,N319,GVK2,<,http://id.who.int/icd/entity/1468065226,<,GC01.Y 
+14,膀胱神経障害,S1,N319,GVK2,=,http://id.who.int/icd/entity/590198069,=,GC01.4
+14,神経因性膀胱障害,S1,N319,GVK2,=,http://id.who.int/icd/entity/590198069,=,GC01.4
+14,神経因性膀胱機能障害,S1,N319,GVK2,=,http://id.who.int/icd/entity/590198069,=,GC01.4
+14,神経因性膀胱麻痺,S1,N319,GVK2,=,http://id.who.int/icd/entity/171330395,<,GC01.4
+14,神経性膀胱障害,S1,N319,GVK2,=,http://id.who.int/icd/entity/590198069,=,GC01.4
+14,神経性膀胱,S1,N319,GVK2,=,http://id.who.int/icd/entity/590198069,=,GC01.4
+14,術後膀胱機能低下,L,N319,HU4B,=,http://id.who.int/icd/entity/590198069 & http://id.who.int/icd/entity/182265087,=,GC01.4 & XY7V    
+14,術後膀胱機能不全,S1,N319,HU4B,=,http://id.who.int/icd/entity/590198069 & http://id.who.int/icd/entity/182265087,=,GC01.4 & XY7V    
+14,膀胱頚部硬化症,L,N320,G2LU,=,http://id.who.int/icd/entity/441939472,=,GC01.0 
+14,膀胱頸部硬化症,S1,N320,G2LU,=,http://id.who.int/icd/entity/441939472,=,GC01.0 
+14,膀胱頚部硬化,S1,N320,G2LU,=,http://id.who.int/icd/entity/441939472,=,GC01.0 
+14,膀胱頚部硬化(症),S1,N320,G2LU,=,http://id.who.int/icd/entity/441939472,=,GC01.0 
+14,膀胱頚部閉塞,L,N320,GUK7,=,http://id.who.int/icd/entity/441939472,=,GC01.0 
+14,膀胱頸部閉塞,S1,N320,GUK7,=,http://id.who.int/icd/entity/441939472,=,GC01.0
+14,膀胱頚部狭窄,L,N320,S6CL,=,http://id.who.int/icd/entity/441939472,=,GC01.0 
+14,膀胱頸部狭窄,S1,N320,S6CL,=,http://id.who.int/icd/entity/441939472,=,GC01.0 
+14,回腸膀胱瘻,L,N321,DMAK,=,http://id.who.int/icd/entity/1456529503,<,GC01.1　　
+14,膀胱腸瘻,L,N321,R35K,=,http://id.who.int/icd/entity/2132589466,<,GC01.1　　
+14,直腸膀胱瘻,L,N321,RVN1,=,http://id.who.int/icd/entity/1502384221,<,GC01.1　　
+14,膀胱直腸瘻,S1,N321,RVN1,=,http://id.who.int/icd/entity/1502384221,<,GC01.1　　
+14,盲腸膀胱瘻,S1,N321,RVN1,=,http://id.who.int/icd/entity/2132589466 & http://id.who.int/icd/entity/326645548,<,GC01.1 & XA6J68 
+14,膀胱直腸フィステル,S1,N321,RVN1,=,http://id.who.int/icd/entity/1502384221,<,GC01.1　　
+14,結腸膀胱瘻,L,N321,UQSG,=,http://id.who.int/icd/entity/1523919579,<,GC01.1　　
+14,結腸膀胱フィステル,S1,N321,UQSG,=,http://id.who.int/icd/entity/1523919579,<,GC01.1　　
+14,膀胱大腸瘻,S1,N321,UQSG,=,http://id.who.int/icd/entity/1523919579,<,GC01.1　　
+14,膀胱皮膚瘻,L,N322,S162,=,http://id.who.int/icd/entity/1516554728,<,GC01.Y 
+14,皮膚膀胱瘻,S1,N322,S162,=,http://id.who.int/icd/entity/1516554728,<,GC01.Y 
+14,膀胱瘻,S2,N322,S162,=,http://id.who.int/icd/entity/196209509,=,GC01.1 
+14,膀胱憩室炎,L,N323,GQ6K,=,http://id.who.int/icd/entity/1984075885,<,GC01.2
+14,膀胱憩室周囲炎,S2,N323,GQ6K,=,http://id.who.int/icd/entity/1984075885,<,GC01.2
+14,膀胱憩室,L,N323,P10J,=,http://id.who.int/icd/entity/1861887729,=,GC01.2
+14,膀胱破裂,L,N324,J42A,=,http://id.who.int/icd/entity/487896421,=,GC01.3
+14,膀胱石灰化,L,N328,CH6S,=,http://id.who.int/icd/entity/1589917413,<,GC01.Y    
+14,膀胱白板症,L,N328,D80U,=,http://id.who.int/icd/entity/997495134,<,GC01.Y    
+14,膀胱頚部肥厚,L,N328,HR4V,<,http://id.who.int/icd/entity/1468065226 & http://id.who.int/icd/entity/1819091795,<,GC01.Y & XA0VZ5    
+14,膀胱頸部肥厚,S1,N328,HR4V,<,http://id.who.int/icd/entity/1468065226 & http://id.who.int/icd/entity/1819091795,<,GC01.Y&XA0VZ5    
+14,萎縮膀胱,L,N328,K7VG,=,http://id.who.int/icd/entity/1526452138,<,GC01.Y 
+14,膀胱萎縮,S1,N328,K7VG,=,http://id.who.int/icd/entity/1526452138,<,GC01.Y 
+14,膀胱腫瘤,L,N328,LCSF,=,http://id.who.int/icd/entity/757110193,<,MG01 & XA77K2
+14,膀胱出血,L,N328,MQL2,=,http://id.who.int/icd/entity/1409762440,<,GC01.Y 
+14,非神経因性過活動膀胱,L,N328,NSES,=,http://id.who.int/icd/entity/440438107,<,GC01.Y    
+14,特発性排尿筋過活動,S1,N328,NSES,=,http://id.who.int/icd/entity/1118102209,=,GC50.0 
+14,非神経因性OAB,S1,N328,NSES,=,http://id.who.int/icd/entity/1118102209,=,GC50.0 
+14,不安定膀胱,S1,N328,NSES,=,http://id.who.int/icd/entity/347773294,<,GC01.Y 
+14,過活動膀胱,L,N328,Q6CT,=,http://id.who.int/icd/entity/1118102209,=,GC50.0 
+14,OAB,S1,N328,Q6CT,=,http://id.who.int/icd/entity/1118102209,=,GC50.0 
+14,膀胱下垂,L,N328,QCVK,=,http://id.who.int/icd/entity/832280705,<,GC40.0Z 
+14,膀胱ヘルニア・男性,L,N328,SFFR,=,http://id.who.int/icd/entity/1338622876,<,GC01.Y    
+14,膀胱潰瘍,L,N328,SQNQ,=,http://id.who.int/icd/entity/1433571220,<,GC01.Y
+14,膀胱機能障害,L,N329,H688,=,http://id.who.int/icd/entity/590198069,=,GC01.4
+14,膀胱機能低下,S1,N329,H688,=,http://id.who.int/icd/entity/590198069,<,GC01.4
+14,膀胱機能不全,S1,N329,H688,=,http://id.who.int/icd/entity/590198069,=,GC01.4
+14,膀胱不全症,S1,N329,H688,=,http://id.who.int/icd/entity/590198069,=,GC01.4
+14,スキーン腺膿瘍,L,N340,DV8Q,=,http://id.who.int/icd/entity/750374504 & http://id.who.int/icd/entity/1856577253,=,GC02.Y & &XA3KB3
+14,尿道膿瘍,L,N340,PHR3,=,http://id.who.int/icd/entity/1037488079,=,GC02.0 
+14,カウパー腺膿瘍,L,N340,QPJS,=,http://id.who.int/icd/entity/572188738,<,GC02.0 
+14,尿道周囲膿瘍,L,N340,UQPV,=,http://id.who.int/icd/entity/2030970195,<,GC02.0
+14,尿道口膿瘍,L,N340,URAS,=,http://id.who.int/icd/entity/1037488079 & http://id.who.int/icd/entity/1358238409,=,GC02.0 & XA4NU9
+14,リトレー腺膿瘍,L,N340,V88R,=,http://id.who.int/icd/entity/2030970195,=,GC02.Y & XA8EW9    
+14,非特異性尿道炎,L,N341,EQ44,=,http://id.who.int/icd/entity/1486684763,=,GC02.1
+14,単純性尿道炎,S1,N341,EQ44,=,http://id.who.int/icd/entity/741364388,<,GC02.Y 　　
+14,非淋菌性尿道炎,L,N341,NLB2,=,http://id.who.int/icd/entity/1486684763,=,GC02.1
+14,非性病性尿道炎,L,N341,Q1SF,=,http://id.who.int/icd/entity/1486684763,=,GC02.1
+14,尿道口炎,L,N342,CAAM,=,http://id.who.int/icd/entity/741364388 & http://id.who.int/icd/entity/1358238409,<,GC02.Y & XA4NU9
+14,膀胱尿道炎,L,N342,KG5Q,=,http://id.who.int/icd/entity/1573460761,<,GC02.Y
+14,尿道膀胱炎,S1,N342,KG5Q,=,http://id.who.int/icd/entity/1573460761,<,GC02.Y
+14,急性尿道炎,L,N342,KKN7,=,http://id.who.int/icd/entity/741364388 & http://id.who.int/icd/entity/786106375,<,GC02.Y & XT5R     
+14,尿道周囲炎,L,N342,LRK4,=,http://id.who.int/icd/entity/741364388,<,GC02.Y 　　
+14,慢性尿道炎,L,N342,QDB8,=,http://id.who.int/icd/entity/741364388 & http://id.who.int/icd/entity/490003542,<,GC02.Y & XT8W
+14,尿道炎,L,N342,R3P9,=,http://id.who.int/icd/entity/741364388,<,GC02.Y
+14,再発性尿道炎,L,N342,TCP8,=,http://id.who.int/icd/entity/741364388 & http://id.who.int/icd/entity/1721353160,<,GC02.Y & XT44  
+14,尿道症候群,L,N343,NEL3,=,http://id.who.int/icd/entity/1092991948,=,GC02.Z
+14,外傷後膀胱頚部狭窄,L,N350,BLC0,=,http://id.who.int/icd/entity/1791412357 & http://id.who.int/icd/entity/1036139204,<,GC01.0 & XB2G 
+14,外傷後膀胱頚部狭窄症,S1,N350,BLC0,=,http://id.who.int/icd/entity/1791412357 & http://id.who.int/icd/entity/1036139204,<,GC01.0 & XB2G 
+14,外傷後膀胱頸部狭窄,S1,N350,BLC0,=,http://id.who.int/icd/entity/1791412357 & http://id.who.int/icd/entity/1036139204,<,GC01.0 & XB2G 
+14,外傷後尿道狭窄,L,N350,HLV6,=,http://id.who.int/icd/entity/556664654,=,GC03 & XB2G 
+14,外傷性尿道狭窄,S1,N350,HLV6,=,http://id.who.int/icd/entity/556664654,=,GC03 & XB2G 
+14,損傷後遺症尿道狭窄,S1,N350,HLV6,=,http://id.who.int/icd/entity/556664654,=,GC03 & XB2G 
+14,尿道断裂後尿道狭窄,S2,N350,HLV6,<,http://id.who.int/icd/entity/556664654,<,GC03 & XB2G 
+14,分娩後遺症尿道狭窄,L,N350,N948,=,http://id.who.int/icd/entity/263179945,<,GC03 / JB65
+14,感染後尿道狭窄,L,N351,S8E7,=,http://id.who.int/icd/entity/1147521756,<,GC03     
+14,尿道痙攣,L,N359,GUB4,=,http://id.who.int/icd/entity/463668755,<,GC03     
+14,尿道けいれん,S1,N359,GUB4,=,http://id.who.int/icd/entity/463668755,<,GC03     
+14,外尿道口狭窄,L,N359,N935,=,http://id.who.int/icd/entity/611219038 & http://id.who.int/icd/entity/1358238409,=,GC03 & XA4NU9   
+14,尿道口狭窄症,S1,N359,N935,=,http://id.who.int/icd/entity/611219038 & http://id.who.int/icd/entity/1358238409,=,GC03 & XA4NU9   
+14,尿道口狭窄(症),S1,N359,N935,=,http://id.who.int/icd/entity/611219038 & http://id.who.int/icd/entity/1358238409,=,GC03 & XA4NU9   
+14,尿道口狭窄,S1,N359,N935,=,http://id.who.int/icd/entity/611219038 & http://id.who.int/icd/entity/1358238409,=,GC03 & XA4NU9   
+14,ピンホール状尿道口,S2,N359,N935,=,http://id.who.int/icd/entity/611219038,=,GC03 
+14,尿道項部狭窄,S2,N359,N935,=,http://id.who.int/icd/entity/1861253872,=,GC03 & XA7869
+14,後部尿道狭窄,L,N359,PNAS,=,http://id.who.int/icd/entity/1861253872,=,GC03 & XA7869
+14,尿道狭窄症,L,N359,U682,=,http://id.who.int/icd/entity/611219038,=,GC03
+14,尿道狭,S1,N359,U682,=,http://id.who.int/icd/entity/611219038,=,GC03
+14,尿道狭窄(症),S1,N359,U682,=,http://id.who.int/icd/entity/611219038,=,GC03
+14,尿道狭窄,S1,N359,U682,=,http://id.who.int/icd/entity/611219038,=,GC03
+14,尿道皮膚瘻,L,N360,E3FR,=,http://id.who.int/icd/entity/1192880597,<,GC04.0
+14,仮性尿道,S2,N360,E3FR,=,http://id.who.int/icd/entity/1167537188,<,GC04.0
+14,尿道瘻,S2,N360,E3FR,=,http://id.who.int/icd/entity/547989362,=,GC04.0
+14,尿道直腸瘻,L,N360,KB0U,=,http://id.who.int/icd/entity/1457609258,<,GC04.0
+14,直腸尿道瘻,S1,N360,KB0U,=,http://id.who.int/icd/entity/1457609258,<,GC04.0
+14,尿道会陰瘻,L,N360,VMFB,=,http://id.who.int/icd/entity/525080049,<,GC04.0
+14,会陰瘻,S2,N360,VMFB,=,http://id.who.int/icd/entity/525080049,<,GC04.0
+14,尿道憩室炎,L,N361,AFDU,=,http://id.who.int/icd/entity/1172466404,=,GC06    
+14,尿道憩室,L,N361,ER5G,=,http://id.who.int/icd/entity/1172466404,=,GC06    
+14,尿道ポリープ,L,N362,DJ28,=,http://id.who.int/icd/entity/518438149,<,GC07
+14,尿道カルンクル,L,N362,FB2U,=,http://id.who.int/icd/entity/827275803,=,GC07
+14,尿道小丘,S1,N362,FB2U,=,http://id.who.int/icd/entity/827275803,=,GC07
+14,尿道カルンクラ,S1,N362,FB2U,=,http://id.who.int/icd/entity/827275803,=,GC07
+14,尿道脱,L,N363,EMUP,=,http://id.who.int/icd/entity/1409611663,=,GC05 
+14,尿道粘膜脱出症,S1,N363,EMUP,=,http://id.who.int/icd/entity/1409611663,=,GC05 
+14,尿道粘膜脱,S1,N363,EMUP,=,http://id.who.int/icd/entity/1409611663,=,GC05 
+14,尿道口びらん,L,N368,B5KD,=,http://id.who.int/icd/entity/1394397915 & http://id.who.int/icd/entity/1856577253,=,GC02.Y &  XA3KB3 P
+14,尿道閉塞,L,N368,B6HG,=,http://id.who.int/icd/entity/611219038,=,GC03
+14,尿道出血,L,N368,CV2C,=,http://id.who.int/icd/entity/1165898751,<,GC0Y
+14,尿道短縮症,L,N368,FAKH,=,http://id.who.int/icd/entity/1024070087,<,GC0Y
+14,スキーン腺のう胞,L,N368,L6GT,=,http://id.who.int/icd/entity/262614020 & http://id.who.int/icd/entity/1856577253,=,GC0Y & XA3KB3
+14,スキーン腺のう腫,S1,N368,L6GT,=,http://id.who.int/icd/entity/262614020 & http://id.who.int/icd/entity/1856577253,=,GC0Y & XA3KB3
+14,スキーン腺嚢胞,S1,N368,L6GT,=,http://id.who.int/icd/entity/262614020 & http://id.who.int/icd/entity/1856577253,=,GC0Y & XA3KB3
+14,スキーン腺嚢腫,S1,N368,L6GT,=,http://id.who.int/icd/entity/262614020 & http://id.who.int/icd/entity/1856577253,=,GC0Y & XA3KB3
+14,尿道腫瘤,L,N368,MADS,=,http://id.who.int/icd/entity/1037488079,=,GC02.0    
+14,膿尿,L,N390,B134,=,http://id.who.int/icd/entity/2000630356,=,MF97
+14,膿尿症,S1,N390,B134,=,http://id.who.int/icd/entity/611750797,=,GC08.Z / MF97
+14,尿路感染症,L,N390,BR1S,=,http://id.who.int/icd/entity/1848472780,=,GC08.Z  
+14,尿路感染(症),S1,N390,BR1S,=,http://id.who.int/icd/entity/1848472780,=,GC08.Z  
+14,尿路感染,S1,N390,BR1S,=,http://id.who.int/icd/entity/1848472780,=,GC08.Z  
+14,単純性尿路感染症,L,N390,C39B,=,http://id.who.int/icd/entity/1848472780,<,GC08.Z    
+14,反復性尿路感染症,L,N390,EAMD,=,http://id.who.int/icd/entity/1848472780 & http://id.who.int/icd/entity/1721353160,=,GC08.Z & XT44
+14,複雑性尿路感染症,L,N390,FS9R,<,http://id.who.int/icd/entity/1848472780,<,GC08.Z    
+14,慢性尿路感染症,L,N390,HHF2,=,http://id.who.int/icd/entity/1848472780 & http://id.who.int/icd/entity/490003542,=,GC08.Z & XT8W   
+14,無症候性膿尿,L,N390,L54E,=,http://id.who.int/icd/entity/626563645 / http://id.who.int/icd/entity/2000630356,<,GC08.Z & XT3B / MF97
+14,細菌尿,L,N390,LN40,=,http://id.who.int/icd/entity/626563645,<,GC08.Z 
+14,無症候性細菌尿,L,N390,SRPH,=,http://id.who.int/icd/entity/626563645 / http://id.who.int/icd/entity/2000630356,<,GC08.Z & XT3B / MF97
+14,院内尿路感染症,L,N390,UGTU,=,http://id.who.int/icd/entity/1848472780 & http://id.who.int/icd/entity/1674014893,=,GC08.Z & XB25
+14,急性尿路感染,L,N390,UP0P,=,http://id.who.int/icd/entity/1848472780 & http://id.who.int/icd/entity/786106375,=,GC08.Z & XT5R  
+14,腎前性蛋白尿症,L,N391,ALP5,<,http://id.who.int/icd/entity/930895737,<,MF96.Y 
+14,食事性蛋白尿,L,N391,E1NH,<,http://id.who.int/icd/entity/930895737,<,MF96.Y   
+14,食事性蛋白尿症,S1,N391,E1NH,<,http://id.who.int/icd/entity/930895737,<,MF96.Y
+14,腎性蛋白尿,L,N391,GNAC,=,http://id.who.int/icd/entity/1914766361 / http://id.who.int/icd/entity/930895737,=,GC2Z & XA6KU8  / MF96.Y 
+14,腎性蛋白尿症,S1,N391,GNAC,=,http://id.who.int/icd/entity/1914766361 / http://id.who.int/icd/entity/930895737,=,GC2Z & XA6KU8  / MF96.Y 
+14,生理的蛋白尿,L,N391,K61P,=,http://id.who.int/icd/entity/2144070055,=,MF96.0
+14,良性蛋白尿症,S2,N391,K61P,=,http://id.who.int/icd/entity/2144070055,=,MF96.0
+14,周期性蛋白尿症,L,N391,MAEA,=,http://id.who.int/icd/entity/930895737 & http://id.who.int/icd/entity/1281193286,=,MF96.Y & XT5G 
+14,持続性蛋白尿,L,N391,NPUH,=,http://id.who.int/icd/entity/930895737 & http://id.who.int/icd/entity/1313511357,=,MF96.Z & XT6Z
+14,偶発性蛋白尿,L,N391,PLQ4,<,http://id.who.int/icd/entity/930895737,<,MF96.Y   
+14,偶発性蛋白尿症,S1,N391,PLQ4,<,http://id.who.int/icd/entity/930895737,<,MF96.Y   
+14,熱性蛋白尿,L,N391,Q8G1,<,http://id.who.int/icd/entity/930895737,<,MF96.Y   
+14,腎後性蛋白尿症,L,N391,TE45,=,http://id.who.int/icd/entity/1914766361 / http://id.who.int/icd/entity/930895737,=,GC2Z & XA6KU8  / MF96.Y 
+14,尿細管性蛋白尿,L,N391,VBFT,=,http://id.who.int/icd/entity/1815482567 / http://id.who.int/icd/entity/930895737,=,GB90.4Z  / MF96.Y 
+14,起立性蛋白尿,L,N392,NCBQ,=,http://id.who.int/icd/entity/2144070055,=,MF96.0
+14,体位性蛋白尿,S1,N392,NCBQ,=,http://id.who.int/icd/entity/2144070055,=,MF96.0
+14,腹圧性尿失禁,L,N393,Q6PG,=,http://id.who.int/icd/entity/444605491,=,MF50.20    
+14,緊張性失禁,S1,N393,Q6PG,=,http://id.who.int/icd/entity/444605491,=,MF50.20    
+14,ストレス尿失禁,S1,N393,Q6PG,=,http://id.who.int/icd/entity/444605491,=,MF50.20    
+14,ストレス失禁,S1,N393,Q6PG,=,http://id.who.int/icd/entity/444605491,=,MF50.20    
+14,緊張性尿失禁,S1,N393,Q6PG,=,http://id.who.int/icd/entity/444605491,=,MF50.20    
+14,反射性尿失禁,L,N394,A7SQ,=,http://id.who.int/icd/entity/138852207,=,MF50.24     
+14,溢流性尿失禁,L,N394,FHP8,=,http://id.who.int/icd/entity/1471418842,<,MF50.2Y   
+14,奇異性尿失禁,S1,N394,FHP8,=,http://id.who.int/icd/entity/1471418842,<,MF50.2Y   
+14,矛盾性尿失禁,S1,N394,FHP8,=,http://id.who.int/icd/entity/1471418842,<,MF50.2Y   
+14,切迫性尿失禁,L,N394,VUM1,=,http://id.who.int/icd/entity/1342466282,=,MF50.21   
+14,急迫失禁,S1,N394,VUM1,=,http://id.who.int/icd/entity/1342466282,=,MF50.21   
+14,急迫尿失禁,S1,N394,VUM1,=,http://id.who.int/icd/entity/1342466282,=,MF50.21   
+14,急迫性尿失禁,S1,N394,VUM1,=,http://id.who.int/icd/entity/1342466282,=,MF50.21   
+14,膀胱性尿失禁,S2,N394,VUM1,=,http://id.who.int/icd/entity/1342466282,=,MF50.21   
+14,尿路障害,L,N399,S21V,=,http://id.who.int/icd/entity/31868353,=,GC2Z    
+14,前立腺症,L,N40,P8AG,=,http://id.who.int/icd/entity/978159279,=,GA90
+14,前立腺肥大症,L,N40,QSQL,=,http://id.who.int/icd/entity/978159279,=,GA90
+14,前立腺肥大,S1,N40,QSQL,=,http://id.who.int/icd/entity/978159279,=,GA90
+14,良性前立腺肥大症,S1,N40,QSQL,=,http://id.who.int/icd/entity/978159279,=,GA90
+14,前立腺肥大(症),S1,N40,QSQL,=,http://id.who.int/icd/entity/978159279,=,GA90
+14,前立腺腫,S2,N40,QSQL,=,http://id.who.int/icd/entity/978159279,=,GA90
+14,慢性前立腺炎急性増悪,L,N410,ECHB,<,ttp://id.who.int/icd/entity/1124358305,<,GA91.0 
+14,急性細菌性前立腺炎,L,N410,H5CB,=,http://id.who.int/icd/entity/1805008807,=,GA91.Y 
+14,急性前立腺炎,S1,N410,H5CB,=,http://id.who.int/icd/entity/1805008807,<,GA91.Y
+14,慢性非細菌性前立腺炎,L,N411,ABQV,=,http://id.who.int/icd/entity/1626685275,<,GA91.0 
+14,慢性細菌性前立腺炎,L,N411,B8M6,=,http://id.who.int/icd/entity/1124358305,=,GA91.0 & XN74M / 1H0Z
+14,慢性前立腺炎,L,N411,D4C4,=,http://id.who.int/icd/entity/249426483,=,GA91.0
+14,非炎症性慢性骨盤内疼痛症候群,L,N411,F4MT,=,http://id.who.int/icd/entity/1825897767 / http://id.who.int/icd/entity/1581976053,<,GA91.0 / MG30.Z 
+14,非炎症性CPPS,S1,N411,F4MT,=,http://id.who.int/icd/entity/1825897767 / http://id.who.int/icd/entity/1581976053,<,GA91.0 / MG30.Z 
+14,前立腺痛,L,N411,P1T1,=,http://id.who.int/icd/entity/1327864541,=,GA91.0 / MG30.42 
+14,前立腺膿瘍,L,N412,U104,=,http://id.who.int/icd/entity/2054202062,=,GA91.1 
+14,前立腺炎,L,N419,N5HT,=,http://id.who.int/icd/entity/1594247995,=,GA91.Z　　　 
+14,前立腺結石症,L,N420,STA0,=,http://id.who.int/icd/entity/1779539865,=,GA91.3 
+14,前立腺結石,S1,N420,STA0,=,http://id.who.int/icd/entity/1779539865,=,GA91.3 
+14,前立腺結石(症),S1,N420,STA0,=,http://id.who.int/icd/entity/1779539865,=,GA91.3 
+14,前立腺出血,L,N421,HHFE,=,http://id.who.int/icd/entity/257577485,=,GA91.4
+14,前立腺うっ血,S2,N421,HHFE,=,http://id.who.int/icd/entity/257577485,=,GA91.4
+14,前立腺萎縮,L,N422,FH9H,=,http://id.who.int/icd/entity/2079785714,=,GA91.5     
+14,前立腺のう胞,L,N428,P9MV,=,http://id.who.int/icd/entity/1716279560,<,GA91.Y
+14,前立腺嚢胞,S1,N428,P9MV,=,http://id.who.int/icd/entity/1716279560,<,GA91.Y
+14,前立腺障害,L,N429,U9FM,=,http://id.who.int/icd/entity/1594247995,<,GA91.Z
+14,被のう精巣水瘤,L,N430,AHNQ,=,http://id.who.int/icd/entity/1995003672,=,GB00.0      
+14,被嚢精巣水瘤,S1,N430,AHNQ,=,http://id.who.int/icd/entity/1995003672,=,GB00.0      
+14,感染性精巣水瘤,L,N431,S8MC,=,http://id.who.int/icd/entity/329423502,=,GB00.1    
+14,交通性陰のう水腫,L,N432,P902,<,http://id.who.int/icd/entity/1323357778,<,GB00.Y       
+14,交通性陰嚢水腫,S1,N432,P902,<,http://id.who.int/icd/entity/1323357778,<,GB00.Y       
+14,陰のう水腫,L,N433,CFJ0,=,http://id.who.int/icd/entity/1391909311,=,GB00.Y & XA4947
+14,精巣水瘤,S1,N433,CFJ0,=,http://id.who.int/icd/entity/1391909311,=,GB00.Y & XA4947
+14,陰嚢水腫,S1,N433,CFJ0,=,http://id.who.int/icd/entity/1391909311,=,GB00.Y & XA4947
+14,陰嚢水瘤,S1,N433,CFJ0,=,http://id.who.int/icd/entity/1391909311,=,GB00.Y & XA4947
+14,陰のう水瘤,S1,N433,CFJ0,=,http://id.who.int/icd/entity/1391909311,=,GB00.Y & XA4947
+14,精索水瘤,L,N433,VV6H,=,http://id.who.int/icd/entity/1571465661,=,GB00.Y & TXA9235 
+14,精索水腫,S1,N433,VV6H,=,http://id.who.int/icd/entity/1571465661,=,GB00.Y & TXA9235 
+14,精液瘤,L,N434,U81C,=,http://id.who.int/icd/entity/1907004531,=,GB00.2
+14,精液水瘤,S1,N434,U81C,=,http://id.who.int/icd/entity/1907004531,=,GB00.2
+14,精巣上体垂捻転,L,N44,A49N,=,http://id.who.int/icd/entity/1243299354,=,GB01.2
+14,精巣捻転症,L,N44,BM12,=,http://id.who.int/icd/entity/2141360941,=,GB01.0    
+14,睾丸捻転症,S1,N44,BM12,=,http://id.who.int/icd/entity/2141360941,=,GB01.0    
+14,精索捻転,S1,N44,BM12,=,http://id.who.int/icd/entity/2141360941,=,GB01.0    
+14,睾丸捻転,S1,N44,BM12,=,http://id.who.int/icd/entity/2141360941,=,GB01.0    
+14,睾丸捻転(症),S1,N44,BM12,=,http://id.who.int/icd/entity/2141360941,=,GB01.0    
+14,精巣上体捻転症,L,N44,DGB3,=,http://id.who.int/icd/entity/655880367,=,GB01.1     
+14,精巣垂捻転,L,N44,KK9L,=,http://id.who.int/icd/entity/1243299354,=,GB01.2
+14,精巣膿瘍,L,N450,GNTU,=,http://id.who.int/icd/entity/902925330,=,GB02.0 &  XA4947
+14,精巣蜂巣炎,L,N450,LVVV,=,http://id.who.int/icd/entity/1971956076,<,GB07.2 
+14,精巣蜂窩織炎,S1,N450,LVVV,=,http://id.who.int/icd/entity/1971956076,<,GB07.2 
+14,精巣上体膿瘍,L,N450,NNMA,=,http://id.who.int/icd/entity/239192390,=,GB02.0 & XA4D25
+14,副睾丸膿瘍,S1,N450,NNMA,=,http://id.who.int/icd/entity/239192390,=,GB02.0 & XA4D25
+14,急性精巣上体炎,L,N459,C1S9,=,http://id.who.int/icd/entity/958688697,=,GB02.1 & XA4D25
+14,急性副睾丸炎,S1,N459,C1S9,=,http://id.who.int/icd/entity/958688697,=,GB02.1 & XA4D25
+14,慢性精巣上体炎,L,N459,FUH2,=,http://id.who.int/icd/entity/1801749525,=,GB02.1 & XA4D25 & XT8W
+14,慢性副睾丸炎,S1,N459,FUH2,=,http://id.who.int/icd/entity/1801749525,=,GB02.1 & XA4D25 & XT8W
+14,精巣精巣上体炎,L,N459,JPB4,=,http://id.who.int/icd/entity/1480951888 & http://id.who.int/icd/entity/413436285,=,GB02.Z & XA4D25
+14,精巣副睾丸炎,S1,N459,JPB4,=,http://id.who.int/icd/entity/1480951888 & http://id.who.int/icd/entity/413436285,=,GB02.Z & XA4D25
+14,睾丸副睾丸炎,S1,N459,JPB4,=,http://id.who.int/icd/entity/1480951888 & http://id.who.int/icd/entity/413436285,=,GB02.Z & XA4D25
+14,精巣炎,L,N459,PCH7,=,http://id.who.int/icd/entity/1484511712,=,GB02.1 & XA4947
+14,睾丸炎,S1,N459,PCH7,=,http://id.who.int/icd/entity/1480951888 & http://id.who.int/icd/entity/1002532547,=,GB02.Z & XA4947
+14,精巣上体炎,L,N459,QFDK,=,http://id.who.int/icd/entity/1202682038,=,GB02.1 & XA4D25
+14,副睾丸炎,S1,N459,QFDK,=,http://id.who.int/icd/entity/1202682038,=,GB02.1 & XA4D25
+14,男性不妊症,L,N46,AVBQ,=,http://id.who.int/icd/entity/753457327,=,GB04.Z 
+14,不妊症・男性,S1,N46,AVBQ,=,http://id.who.int/icd/entity/753457327,=,GB04.Z 
+14,男子不妊症,S1,N46,AVBQ,=,http://id.who.int/icd/entity/753457327,=,GB04.Z 
+14,続発性男性不妊症,L,N46,CVN4,<,http://id.who.int/icd/entity/753457327,<,GB04.Y
+14,続発性不妊症・男性,S1,N46,CVN4,<,http://id.who.int/icd/entity/753457327,<,GB04.Y
+14,原発性男性不妊症,L,N46,G5JB,=,http://id.who.int/icd/entity/753457327,=,GB04.Z 
+14,原発性不妊症・男性,S1,N46,G5JB,=,http://id.who.int/icd/entity/753457327,=,GB04.Z 
+14,精子減少症,L,N46,H92H,=,http://id.who.int/icd/entity/1497721709,<,GB04.Y     
+14,精液過少症,S1,N46,H92H,=,http://id.who.int/icd/entity/1497721709,<,GB04.Y     
+14,乏精子症,S1,N46,H92H,=,http://id.who.int/icd/entity/1497721709,<,GB04.Y     
+14,精液過少,S1,N46,H92H,=,http://id.who.int/icd/entity/1497721709,<,GB04.Y     
+14,原発性無精子症,L,N46,M59V,=,http://id.who.int/icd/entity/532688254,=,GB04.0 
+14,機能性男性不妊症,L,N46,PJQN,<,http://id.who.int/icd/entity/753457327,<,GB04.Z
+14,機能性不妊症・男性,S1,N46,PJQN,<,http://id.who.int/icd/entity/753457327,<,GB04.Z
+14,無精子症,L,N46,RVP6,=,http://id.who.int/icd/entity/7534573277,=,GB04.0
+14,射精不能症,L,N46,VM46,=,http://id.who.int/icd/entity/1931935981,=,HA03.Z
+14,亀頭包皮癒着症,L,N47,K5D6,=,http://id.who.int/icd/entity/1166469719,=,GB05.4    
+14,亀頭包皮癒着,S1,N47,K5D6,=,http://id.who.int/icd/entity/1166469719,=,GB05.4 
+14,包皮癒着,S1,N47,K5D6,=,http://id.who.int/icd/entity/1166469719,=,GB05.4 
+14,亀頭包皮癒着(症),S1,N47,K5D6,=,http://id.who.int/icd/entity/1166469719,=,GB05.4 
+14,仮性包茎,L,N47,K5PB,<,http://id.who.int/icd/entity/184957512,<,GB05.2   
+14,過長包皮,L,N47,NTGT,=,http://id.who.int/icd/entity/1720564326,=,GB05.0
+14,嵌頓包茎,L,N47,P3SV,=,http://id.who.int/icd/entity/452889019,=,GB05.3 
+14,包茎,L,N47,R2VP,=,http://id.who.int/icd/entity/184957512,=,GB05.2   
+14,真性包茎,L,N47,RNK4,=,http://id.who.int/icd/entity/184957512,=,GB05.2   
+14,完全包茎,S1,N47,RNK4,=,http://id.who.int/icd/entity/184957512,=,GB05.2   
+14,陰茎白斑症,L,N480,FDJ0,=,http://id.who.int/icd/entity/2096158414 &  http://id.who.int/icd/entity/435785772,=,ED63.0 & XA7QV2 & XK9A
+14,陰茎白板症,S1,N480,FDJ0,=,http://id.who.int/icd/entity/2096158414 &  http://id.who.int/icd/entity/435785772,=,ED63.0 & XA7QV2 & XK9A
+14,乾燥性閉鎖性亀頭炎,L,N480,J212,≒,http://id.who.int/icd/entity/43210204,≒,EB60.1
+14,亀頭炎,L,N481,MDU7,=,http://id.who.int/icd/entity/1742248014,=,GB06.0Z
+14,包皮炎,L,N481,RH47,=,http://id.who.int/icd/entity/1119547622,=,GB06.0Y
+14,包皮びらん,S2,N481,RH47,=,http://id.who.int/icd/entity/538980972,<,GB06.0Y
+14,亀頭包皮炎,L,N481,UVRB,=,http://id.who.int/icd/entity/1742248014,=,GB06.0Z
+14,海綿体膿瘍,L,N482,C6PD,=,http://id.who.int/icd/entity/1733869057,<,GB06.Y
+14,海綿体蜂巣炎,S2,N482,C6PD,=,http://id.who.int/icd/entity/1367565505,<,GB06.Y
+14,陰茎炎,L,N482,EEFT,=,http://id.who.int/icd/entity/1391697065,<,GB06.Y
+14,海綿体炎,L,N482,T9G3,=,http://id.who.int/icd/entity/1931798309,<,GB06.Y
+14,陰茎膿瘍,L,N482,VRN4,=,http://id.who.int/icd/entity/1733869057,<,GB06.Y
+14,陰茎蜂巣炎,S2,N482,VRN4,=,http://id.who.int/icd/entity/1844907311,<,GB06.Y
+14,有痛性勃起,L,N483,B8F4,=,http://id.who.int/icd/entity/1983776037,=,GB06.1
+14,持続勃起症,L,N483,BT0Q,=,http://id.who.int/icd/entity/1983776037,=,GB06.1
+14,陰茎持続勃起症,S1,N483,BT0Q,=,http://id.who.int/icd/entity/1983776037,=,GB06.1
+14,プリアピスム,S1,N483,BT0Q,=,http://id.who.int/icd/entity/1983776037,=,GB06.1
+14,器質性インポテンス,L,N484,PALR,=,http://id.who.int/icd/entity/1237442805,<,HA01.1Z
+14,陰茎びらん,L,N485,B7NU,=,http://id.who.int/icd/entity/1620794149,=,GA80.1  
+14,亀頭部びらん,L,N485,E0TH,=,http://id.who.int/icd/entity/1620794149 & http://id.who.int/icd/entity/1897234516,=,GA80.1 & XA0MH6     
+14,陰茎潰瘍,L,N485,U3HT,=,http://id.who.int/icd/entity/1620794149,=,GA80.1  
+14,亀頭部潰瘍,L,N485,VB9B,=,http://id.who.int/icd/entity/1620794149 & http://id.who.int/icd/entity/1897234516,=,GA80.1 & XA0MH6     
+14,形成性陰茎硬化症,L,N486,DR0M,=,http://id.who.int/icd/entity/339086298,=,GB06.2
+14,ペイロニー病,S1,N486,DR0M,=,http://id.who.int/icd/entity/339086298,=,GB06.2
+14,陰茎成形性硬結,S1,N486,DR0M,=,http://id.who.int/icd/entity/339086298,=,GB06.2
+14,パイロニー病,S1,N486,DR0M,=,http://id.who.int/icd/entity/339086298,=,GB06.2
+14,海綿体硬化症,S1,N486,DR0M,=,http://id.who.int/icd/entity/339086298,=,GB06.2
+14,陰茎硬結症,S1,N486,DR0M,=,http://id.who.int/icd/entity/339086298,=,GB06.2
+14,PEYRONIE病,S1,N486,DR0M,=,http://id.who.int/icd/entity/339086298,=,GB06.2
+14,陰茎形成性硬化症,S1,N486,DR0M,=,http://id.who.int/icd/entity/339086298,=,GB06.2
+14,海綿体硬化,S1,N486,DR0M,=,http://id.who.int/icd/entity/339086298,=,GB06.2
+14,陰茎形成性硬結,S1,N486,DR0M,=,http://id.who.int/icd/entity/339086298,=,GB06.2
+14,陰茎腫瘤,L,N488,BNEE,=,http://id.who.int/icd/entity/1733869057,<,GB06.Y    
+14,海綿体血栓症,L,N488,BVLM,=,http://id.who.int/icd/entity/1772325850,<,GB06.Y    
+14,陰茎血栓症,S2,N488,BVLM,,http://id.who.int/icd/entity/1499813376,<,GB06.Y
+14,陰茎捻転症,L,N488,GRJ2,=,http://id.who.int/icd/entity/1495401373,<,GB06.Y    
+14,陰茎部疼痛,L,N488,HR3E,=,http://id.who.int/icd/entity/176864342,=,MF40.00    
+14,陰茎縫線のう腫,L,N488,HUK5,<,http://id.who.int/icd/entity/804125930,<,GB06.Y    
+14,陰茎縫線嚢腫,S1,N488,HUK5,<,http://id.who.int/icd/entity/804125930,<,GB06.Y    
+14,陰茎浮腫,L,N488,JPGD,=,http://id.who.int/icd/entity/1328750392,=,GB06.4   
+14,亀頭部腫瘤,L,N488,K09E,=,http://id.who.int/icd/entity/1733869057 & http://id.who.int/icd/entity/1897234516,<,GB06.Y &  XA0MH6 
+14,包皮腫瘤,L,N488,KQNC,=,http://id.who.int/icd/entity/1733869057 & http://id.who.int/icd/entity/348962324,<,GB06.Y &  XA71S4 
+14,陰茎陰のう浮腫,L,N488,M9PB,=,http://id.who.int/icd/entity/2128635100 & http://id.who.int/icd/entity/344934694 & http://id.who.int/icd/entity/435785772,=,MG29.0Y & XA8MT4 & XA7QV2
+14,陰茎陰嚢浮腫,S1,N488,M9PB,=,http://id.who.int/icd/entity/2128635100 & http://id.who.int/icd/entity/344934694 & http://id.who.int/icd/entity/435785772,=,MG29.0Y & XA8MT4 & XA7QV2
+14,陰茎肥大,L,N488,PMPN,=,http://id.who.int/icd/entity/691767601,<,GB06.Y    
+14,陰茎出血,L,N488,T67L,=,http://id.who.int/icd/entity/1199179146,<,GB06.Y    
+14,陰茎萎縮,L,N488,T7T9,=,http://id.who.int/icd/entity/1427621287,<,GB06.Y    
+14,陰茎疾患,L,N489,VSDH,=,http://id.who.int/icd/entity/885653625,=,GB06.Z
+14,精のう炎,L,N490,UDSD,=,http://id.who.int/icd/entity/510369115,=,GB07.0    
+14,精嚢炎,S1,N490,UDSD,=,http://id.who.int/icd/entity/510369115,=,GB07.0    
+14,精管炎,L,N491,EB2S,=,http://id.who.int/icd/entity/922849110,=,GB07.1 & XA8PQ1
+14,精索炎,L,N491,M9VP,=,http://id.who.int/icd/entity/1569084131,=,GB07.1 & XA9235
+14,陰のう膿瘍,L,N492,F05G,=,http://id.who.int/icd/entity/2060835178,<,GB07.2    
+14,陰嚢膿瘍,S1,N492,F05G,=,http://id.who.int/icd/entity/2060835178,<,GB07.2    
+14,鼡径陰のう膿瘍,L,N492,L5L6,=,http://id.who.int/icd/entity/2060835178,<,GB07.2    
+14,鼠径陰のう膿瘍,S1,N492,L5L6,=,http://id.who.int/icd/entity/2060835178,<,GB07.2    
+14,鼡径陰嚢膿瘍,S1,N492,L5L6,=,http://id.who.int/icd/entity/2060835178,<,GB07.2    
+14,鼠径陰嚢膿瘍,S1,N492,L5L6,=,http://id.who.int/icd/entity/2060835178,<,GB07.2    
+14,陰のう炎,L,N492,SG5H,=,http://id.who.int/icd/entity/260898866,=,GB07.2    
+14,陰嚢炎,S1,N492,SG5H,=,http://id.who.int/icd/entity/260898866,=,GB07.2    
+14,精巣萎縮,L,N500,P07V,=,http://id.who.int/icd/entity/1735709719,=,GB03
+14,睾丸萎縮,S1,N500,P07V,=,http://id.who.int/icd/entity/1735709719,=,GB03
+14,陰のう内出血,L,N501,FHL2,=,http://id.who.int/icd/entity/480988983,<,GB08 & XA8MT4 
+14,陰嚢内出血,S1,N501,FHL2,=,http://id.who.int/icd/entity/480988983,<,GB08 & XA8MT4 
+14,血精液症,L,N501,J9HD,=,http://id.who.int/icd/entity/1644665841,<,GB08   
+14,精のううっ血,L,N501,JC1K,=,http://id.who.int/icd/entity/376933021,<,GB08 &  XA0MJ1
+14,精嚢うっ血,S1,N501,JC1K,=,http://id.who.int/icd/entity/376933021,<,GB08 & XA0MJ1
+14,精索血腫,L,N501,K3QJ,=,http://id.who.int/icd/entity/1238236054 & http://id.who.int/icd/entity/753469955,<,GB08 & XA9235
+14,精巣痛,L,N508,C2QA,=,http://id.who.int/icd/entity/1149252262,=,MF40.21
+14,睾丸痛,S1,N508,C2QA,=,http://id.who.int/icd/entity/1149252262,=,MF40.21
+14,精管萎縮,L,N508,C2T4,=,http://id.who.int/icd/entity/1148762556,<,GB0Y & XA8PQ1
+14,陰部潰瘍・男性,L,N508,C7VL,=,http://id.who.int/icd/entity/470174636,=,GA80    
+14,精巣上体腫瘤,L,N508,DBRJ,=,http://id.who.int/icd/entity/239192390,=,GB02.0 & XA4D25
+14,副睾丸腫瘤,S1,N508,DBRJ,=,http://id.who.int/icd/entity/239192390,=,GB02.0 & XA4D25
+14,精巣過敏症,L,N508,E10L,<,http://id.who.int/icd/entity/1297446055 & http://id.who.int/icd/entity/1002532547,<,MF40.2Z & XA4947
+14,睾丸過敏症,S1,N508,E10L,<,http://id.who.int/icd/entity/1297446055 & http://id.who.int/icd/entity/1002532547,<,MF40.2Z & XA4947
+14,精索狭窄症,L,N508,E70H,=,http://id.who.int/icd/entity/57429333,<,GB0Y & XA9235
+14,精索狭窄,S1,N508,E70H,=,http://id.who.int/icd/entity/57429333,<,GB0Y & XA9235
+14,精巣腫脹,L,N508,F9G2,=,http://id.who.int/icd/entity/287980665,<,MF40.2Y & XA4947
+14,睾丸腫脹,S1,N508,F9G2,=,http://id.who.int/icd/entity/287980665,<,MF40.2Y & XA4947
+14,精のう腺のう腫,L,N508,FUMS,=,http://id.who.int/icd/entity/897377960,<,GB0Y & XA0MJ1
+14,精嚢腺嚢腫,S1,N508,FUMS,=,http://id.who.int/icd/entity/897377960,<,GB0Y & XA0MJ1
+14,精嚢腺のう腫,S1,N508,FUMS,=,http://id.who.int/icd/entity/897377960,<,GB0Y & XA0MJ1
+14,精管狭窄症,L,N508,GB4E,=,http://id.who.int/icd/entity/1983852982,<,GB0Y & XA8PQ1
+14,精管狭窄,S1,N508,GB4E,=,http://id.who.int/icd/entity/1983852982,<,GB0Y & XA8PQ1
+14,精索浮腫,L,N508,H7L0,=,http://id.who.int/icd/entity/1606595789,<,GB0Y & XA9235
+14,陰部痛・男性,L,N508,HDP3,=,http://id.who.int/icd/entity/297640720,=,EC92.0 
+14,陰のう腫大,L,N508,HNNC,=,http://id.who.int/icd/entity/1255868922,<,MF40.2Y & XA8MT4 
+14,陰嚢腫大,S1,N508,HNNC,=,http://id.who.int/icd/entity/1255868922,<,MF40.2Y & XA8MT4 
+14,陰のう痛,L,N508,J0HV,=,http://id.who.int/icd/entity/924255565,<,GB0Y & XA8MT4 
+14,陰嚢痛,S1,N508,J0HV,=,http://id.who.int/icd/entity/924255565,<,GB0Y & XA8MT4 
+14,逆行性射精症,L,N508,K0GF,=,http://id.who.int/icd/entity/988651013,=,MF40.3    
+14,陰のう浮腫,L,N508,MNVA,=,http://id.who.int/icd/entity/932837331,=,GB0Y & XA8MT4 / MG29.0
+14,陰嚢浮腫,S1,N508,MNVA,=,http://id.who.int/icd/entity/932837331,=,GB0Y & XA8MT4 / MG29.0
+14,精索肥大,L,N508,PF04,=,http://id.who.int/icd/entity/791546829,<,GB0Y & XA9235
+14,精のう腺発育不全,L,N508,PL0T,=,http://id.who.int/icd/entity/1907503626 & http://id.who.int/icd/entity/254558521,=,LB5Y & XA0MJ1
+14,精嚢腺発育不全,S1,N508,PL0T,=,http://id.who.int/icd/entity/1907503626 & http://id.who.int/icd/entity/254558521,=,LB5Y & XA0MJ1
+14,恥垢,L,N508,QML1,<,http://id.who.int/icd/entity/788450242,<,MF4Y 
+14,陰のう潰瘍,L,N508,QTN5,=,http://id.who.int/icd/entity/1187012676,<,GB0Y & XA8MT4 
+14,陰嚢潰瘍,S1,N508,QTN5,=,http://id.who.int/icd/entity/1187012676,<,GB0Y & XA8MT4 
+14,陰嚢潰瘍形成,S1,N508,QTN5,=,http://id.who.int/icd/entity/1187012676,<,GB0Y & XA8MT4 
+14,陰のう潰瘍形成,S1,N508,QTN5,=,http://id.who.int/icd/entity/1187012676,<,GB0Y & XA8MT4 
+14,精索萎縮,L,N508,R56F,=,http://id.who.int/icd/entity/504428739,<,GB0Y & XA9235
+14,精のう萎縮,L,N508,S6LL,=,http://id.who.int/icd/entity/98467801,<,GB0Y & XA0MJ1
+14,精嚢萎縮,S1,N508,S6LL,=,http://id.who.int/icd/entity/98467801,<,GB0Y & XA0MJ1
+14,男性更年期障害,L,N508,SD24,=,http://id.who.int/icd/entity/537070421 & http://id.who.int/icd/entity/1393648567,=,5A8Z & XT3R
+14,PADAM,S1,N508,SD24,=,http://id.who.int/icd/entity/537070421 & http://id.who.int/icd/entity/1393648567,=,5A8Z & XT3R
+14,男性更年期症候群,S1,N508,SD24,=,http://id.who.int/icd/entity/537070421 & http://id.who.int/icd/entity/1393648567,=,5A8Z & XT3R
+14,精索腫瘤,L,N508,SJST,=,http://id.who.int/icd/entity/672765054,<,GB07.1 & XA9235 
+14,陰のうびらん,L,N508,TR93,=,http://id.who.int/icd/entity/470174636 & http://id.who.int/icd/entity/344934694,=,GA80 & XA8MT4
+14,陰嚢びらん,S1,N508,TR93,=,http://id.who.int/icd/entity/470174636 & http://id.who.int/icd/entity/344934694,=,GA80 & XA8MT4
+14,精液のう腫,L,N508,UVU5,=,http://id.who.int/icd/entity/1907004531,=,GB00.2 
+14,精液嚢腫,S1,N508,UVU5,=,http://id.who.int/icd/entity/1907004531,=,GB00.2   
+14,尿道陰のう瘻,L,N508,VPL5,=,http://id.who.int/icd/entity/727955166,<,GC04.0
+14,尿道陰嚢瘻,S1,N508,VPL5,=,http://id.who.int/icd/entity/727955166,<,GB0Y 
+14,射精障害,L,N509,FFR3,=,http://id.who.int/icd/entity/160782436,<,HA03.Y 
+14,遺精,S2,N509,FFR3,<,http://id.who.int/icd/entity/1931935981,<,HA03.Y 
+14,陰のう内腫瘤,L,N509,S806,=,http://id.who.int/icd/entity/2060835178,<,GB07.2
+14,陰のう部腫瘤,S1,N509,S806,=,http://id.who.int/icd/entity/2060835178,<,GB07.2
+14,陰嚢内腫瘤,S1,N509,S806,=,http://id.who.int/icd/entity/2060835178,<,GB07.2
+14,陰嚢部腫瘤,S1,N509,S806,=,http://id.who.int/icd/entity/2060835178,<,GB07.2
+14,乳房のう胞,L,N600,PUFU,=,http://id.who.int/icd/entity/200785511,<,GB20.0
+14,乳房嚢胞,S1,N600,PUFU,=,http://id.who.int/icd/entity/200785511,<,GB20.0
+14,慢性乳腺炎,L,N601,TF6G,=,http://id.who.int/icd/entity/1349353962,<,GB20.0
+14,乳房線維腺症,L,N602,E0BS,=,http://id.who.int/icd/entity/1186737199,=,GB20.1 
+14,乳房線維性硬化症,L,N603,G408,=,http://id.who.int/icd/entity/845061384,<,GB20.1 
+14,慢性乳腺症,L,N603,RA6R,=,http://id.who.int/icd/entity/1349353962,<,GB20.0 
+14,乳管拡張症,L,N604,TQT6,=,http://id.who.int/icd/entity/1343844911,=,GB23.0 
+14,異型乳管過形成,L,N608,AB41,=,http://id.who.int/icd/entity/1824292577,<,2F75       
+14,良性乳房異形成症,L,N609,M8JV,=,http://id.who.int/icd/entity/840006864,=,GB20.0      
+14,乳房潰瘍,L,N61,AF8G,=,http://id.who.int/icd/entity/1576588986,<,GB21.Y
+14,乳房膿瘍,L,N61,DLAC,=,http://id.who.int/icd/entity/10333067888,=,GB21.0
+14,乳房炎症性疾患,L,N61,DPDU,=,http://id.who.int/icd/entity/259204343,=,GB21.Z      
+14,乳頭びらん,L,N61,E3FS,=,http://id.who.int/icd/entity/1576588986 & http://id.who.int/icd/entity/2048843865,<,GB21.Y  &  XA5MC5 
+14,乳輪下膿瘍,L,N61,E4QQ,=,http://id.who.int/icd/entity/1662746677,=,GB21.0 & XA2JK3 
+14,乳輪膿瘍,S1,N61,E4QQ,=,http://id.who.int/icd/entity/1662746677,=,GB21.0 & XA2JK3 
+14,乳腺瘻孔,L,N61,E7JM,=,http://id.who.int/icd/entity/1239733052,<,GB21.Y 
+14,急性乳腺炎,L,N61,H40M,=,http://id.who.int/icd/entity/259204343,=,GB21.Z      
+14,化膿性乳腺炎,L,N61,JRQT,<,http://id.who.int/icd/entity/259204343,<,GB21.Y     
+14,乳腺膿瘍,L,N61,KTAU,=,http://id.who.int/icd/entity/1033306788,<,GB21.0   
+14,乳腺炎,L,N61,Q955,=,http://id.who.int/icd/entity/259204343,=,GB21.Z      
+14,乳房炎,S2,N61,Q955,=,http://id.who.int/icd/entity/259204343,=,GB21.Z      
+14,乳頭周囲炎,L,N61,TRL5,=,http://id.who.int/icd/entity/259204343,=,GB21.Z      
+14,乳房よう,L,N61,UN4T,=,http://id.who.int/icd/entity/647731979,<,GB21.Y    
+14,女性化乳房症,L,N62,R5FH,=,http://id.who.int/icd/entity/1679667711,<,GB22
+14,女性化乳房,S1,N62,R5FH,=,http://id.who.int/icd/entity/1679667711,<,GB22
+14,女性化乳房(症),S1,N62,R5FH,=,http://id.who.int/icd/entity/1679667711,<,GB22
+14,思春期性乳房肥大,L,N62,RK5A,=,http://id.who.int/icd/entity/88212902,<,GB22     
+14,思春期乳腺腫脹,S1,N62,RK5A,=,http://id.who.int/icd/entity/88212902,<,GB22     
+14,乳腺肥大,L,N62,UKT8,=,http://id.who.int/icd/entity/2078176266,=,GB22     
+14,乳房肥大,S2,N62,UKT8,=,http://id.who.int/icd/entity/2078176266,=,GB22     
+14,若年性乳房肥大,L,N62,VHFL,=,http://id.who.int/icd/entity/88212902,<,GB22     
+14,乳房小結節,L,N63,AE4F,=,http://id.who.int/icd/entity/961359349,=,MF30 　　
+14,乳房腫瘤,L,N63,ASRG,=,http://id.who.int/icd/entity/961359349,=,MF30 　　
+14,乳房内腫瘤,S1,N63,ASRG,=,http://id.who.int/icd/entity/961359349,=,MF30 　　
+14,乳腺腫大,L,N63,E7CG,=,http://id.who.int/icd/entity/2078176266,=,GB22     
+14,乳腺腫脹,S1,N63,E7CG,=,http://id.who.int/icd/entity/2078176266,=,GB22     
+14,乳輪部腫瘤,L,N63,H311,=,http://id.who.int/icd/entity/961359349 & http://id.who.int/icd/entity/1832289433,=,MF30 & XA2JK3 
+14,乳腺腫瘤,L,N63,KGE3,=,http://id.who.int/icd/entity/961359349,=,MF30 　　
+14,乳房乳頭部腫瘤,L,N63,M8CQ,=,http://id.who.int/icd/entity/961359349 & http://id.who.int/icd/entity/2048843865,=,MF30 & XA5MC5
+14,乳頭部腫瘤,S1,N63,M8CQ,=,http://id.who.int/icd/entity/961359349 & http://id.who.int/icd/entity/2048843865,=,MF30 & XA5MC5
+14,乳房硬結,L,N63,N96S,=,http://id.who.int/icd/entity/1616570630,<,MF3Y 　
+14,乳房腫脹,L,N63,QN89,=,http://id.who.int/icd/entity/1616570630,<,MF3Y 　
+14,乳房皮下腫瘤,L,N63,UFC3,=,http://id.who.int/icd/entity/961359349,=,MF30 　　
+14,乳頭亀裂,L,N640,AUSB,=,http://id.who.int/icd/entity/1243105519,<,GB23.1　　
+14,乳頭表皮裂溝,S2,N640,AUSB,=,http://id.who.int/icd/entity/1243105519,<,GB23.1　　
+14,乳頭瘻,L,N640,PM38,=,http://id.who.int/icd/entity/1328310033,=,GB23.1　　
+14,乳房脂肪壊死,L,N641,GQTA,=,http://id.who.int/icd/entity/149925294,=,GB23.2
+14,乳房萎縮,L,N642,RFH4,=,http://id.who.int/icd/entity/2084765009,=,GB23.3
+14,乳房痛,L,N644,TUNC,=,http://id.who.int/icd/entity/1793565521,=,GB23.5
+14,乳頭出血,L,N645,CA8C,=,http://id.who.int/icd/entity/1790723174,<,MF3Y 　　
+14,乳頭異常分泌症,L,N645,F8LN,=,http://id.who.int/icd/entity/420032709,=,GB23.4 　　　
+14,乳房出血,L,N645,MAC4,=,ttp://id.who.int/icd/entity/1967237086,<,MF3Y　
+14,乳頭分泌物,L,N645,MVD3,=,http://id.who.int/icd/entity/1071313093,<,MF3Y 　　
+14,陥没乳頭,L,N645,V5U7,=,http://id.who.int/icd/entity/773268013,<,MF3Y 　　
+14,乳房過度緊満,L,N648,EC7R,<,http://id.who.int/icd/entity/1616570630,<,MF3Y 　　
+14,乳房退縮不全,L,N648,JAE9,<,http://id.who.int/icd/entity/262958789,<,MF3Y 　　
+14,乳腺ポリープ,L,N649,LEFQ,=,http://id.who.int/icd/entity/727954962,=,2F30.2
+14,乳腺症,L,N649,PATU,=,http://id.who.int/icd/entity/1836788232,=,GB23 
+14,急性付属器炎,L,N700,SFSP,=,http://id.who.int/icd/entity/1195414133,=,GA07.0 　　　
+14,急性附属器炎,S1,N700,SFSP,=,http://id.who.int/icd/entity/1195414133,=,GA07.0 　　　
+14,急性卵巣炎,L,N700,SUVG,=,http://id.who.int/icd/entity/646613687,=,GA07.0 & XA1QK0
+14,急性卵管炎,L,N700,T490,=,http://id.who.int/icd/entity/1286268784,=,GA07.0 & XA3EF0
+14,慢性卵巣炎,L,N701,GB1C,=,http://id.who.int/icd/entity/1980203442,=,GA07.1 & XA1QK0
+14,慢性卵管炎,L,N701,J301,=,http://id.who.int/icd/entity/1932766800,=,GA07.1 & XA3EF0
+14,慢性付属器炎,L,N701,MCVF,=,http://id.who.int/icd/entity/228797917,=,GA07.1　　 
+14,慢性附属器炎,S1,N701,MCVF,=,http://id.who.int/icd/entity/228797917,=,GA07.1　　 
+14,卵管留水症,L,N701,SCHV,=,http://id.who.int/icd/entity/1766606192,=,GA17.2 
+14,卵管留水腫,S1,N701,SCHV,=,http://id.who.int/icd/entity/1766606192,=,GA17.2 
+14,卵管周囲炎,L,N709,F48P,=,http://id.who.int/icd/entity/1628929313,=,GA07.Z & XA3EF0
+14,卵巣卵管周囲炎,L,N709,G48H,=,http://id.who.int/icd/entity/1943309840,=,GA07.Z & XA1QK0 & XA3EF0
+14,卵管炎,L,N709,J7KA,=,http://id.who.int/icd/entity/1628929313,=,GA07.Z & XA3EF0
+14,卵管卵巣膿瘍,L,N709,M2D8,=,http://id.who.int/icd/entity/2048486015,=,GA05.3
+14,卵巣炎,L,N709,MD61,=,http://id.who.int/icd/entity/1249127955,=,GA07.Z & XA1QK0 
+14,卵巣周囲炎,L,N709,MM9M,=,http://id.who.int/icd/entity/1249127955,=,GA07.Z & XA1QK0
+14,卵巣膿瘍,L,N709,PT14,=,http://id.who.int/icd/entity/1782703697,<,GA07.Z & XA1QK0
+14,卵巣留膿症,S1,N709,PT14,=,http://id.who.int/icd/entity/342704940,<,GA07.Z & XA1QK0
+14,卵巣留膿腫,S1,N709,PT14,=,http://id.who.int/icd/entity/342704940,<,GA07.Z & XA1QK0
+14,卵巣溜膿腫,S1,N709,PT14,=,http://id.who.int/icd/entity/342704940,<,GA07.Z & XA1QK0
+14,子宮付属器炎,L,N709,QBSK,=,http://id.who.int/icd/entity/228797917,<,GA07.Z 
+14,附属器炎,S1,N709,QBSK,=,http://id.who.int/icd/entity/228797917,<,GA07.Z 
+14,卵管卵巣炎,S1,N709,QBSK,=,http://id.who.int/icd/entity/1040032122,<,GA07.Z 
+14,子宮附属器炎,S1,N709,QBSK,=,http://id.who.int/icd/entity/228797917,<,GA07.Z 
+14,付属器炎,S1,N709,QBSK,=,http://id.who.int/icd/entity/228797917,<,GA07.Z 
+14,卵管留膿症,L,N709,TLAM,=,http://id.who.int/icd/entity/1643283889,<,GA07.Z & XA3EF0
+14,卵管留膿腫,S1,N709,TLAM,=,http://id.who.int/icd/entity/1643283889,<,GA07.Z & XA3EF0
+14,卵管溜膿腫,S1,N709,TLAM,=,http://id.who.int/icd/entity/1643283889,<,GA07.Z & XA3EF0
+14,卵管膿瘍,S1,N709,TLAM,=,http://id.who.int/icd/entity/1690741327,<,GA07.Z & XA3EF0
+14,卵管膿腫,S1,N709,TLAM,=,http://id.who.int/icd/entity/1690741327,<,GA07.Z & XA3EF0
+14,急性子宮内膜炎,L,N710,D17E,=,http://id.who.int/icd/entity/1197441046,=,GA01.00
+14,急性子宮留膿症,L,N710,PG64,=,http://id.who.int/icd/entity/1399159059,=,GA01.01   
+14,急性子宮留膿腫,S1,N710,PG64,=,http://id.who.int/icd/entity/1399159059,=,GA01.01   
+14,慢性子宮内膜炎,L,N711,B498,=,http://id.who.int/icd/entity/440849195,=,GA01.10 
+14,慢性子宮留膿症,L,N711,BN2T,=,http://id.who.int/icd/entity/1208766073,=,GA01.11  
+14,慢性子宮留膿腫,S1,N711,BN2T,=,http://id.who.int/icd/entity/1208766073,=,GA01.11  
+14,子宮筋層炎,L,N719,A55F,=,http://id.who.int/icd/entity/133415463,<,GA01.Y
+14,子宮内膜筋層炎,S1,N719,A55F,=,http://id.who.int/icd/entity/229826357,<,GA01.Y
+14,子宮筋炎,S1,N719,A55F,=,http://id.who.int/icd/entity/133415463,<,GA01.Y
+14,子宮留膿症,L,N719,J9MS,=,http://id.who.int/icd/entity/1296160722,<,GA01.Y
+14,子宮膿瘍,S1,N719,J9MS,=,http://id.who.int/icd/entity/1731446623,<,GA01.Y
+14,子宮溜膿腫,S1,N719,J9MS,=,http://id.who.int/icd/entity/1296160722,<,GA01.Y
+14,子宮留膿腫,S1,N719,J9MS,=,http://id.who.int/icd/entity/1296160722,<,GA01.Y
+14,子宮内膜炎,L,N719,MT8L,=,http://id.who.int/icd/entity/1488350448,=,GA01.Z 
+14,子宮実質炎,S2,N719,MT8L,=,http://id.who.int/icd/entity/133415463,<,GA01.Y
+14,子宮頚管炎,L,N72,RNTG,=,http://id.who.int/icd/entity/1433247301,=,GA04
+14,頸管炎,S1,N72,RNTG,=,http://id.who.int/icd/entity/1433247301,=,GA04
+14,頚管炎,S1,N72,RNTG,=,http://id.who.int/icd/entity/1433247301,=,GA04
+14,子宮頸管炎,S1,N72,RNTG,=,http://id.who.int/icd/entity/1433247301,=,GA04
+14,子宮頚内膜炎,L,N72,RUVH,=,http://id.who.int/icd/entity/2053317966,<,GA04
+14,頸管内膜炎,S1,N72,RUVH,=,http://id.who.int/icd/entity/2053317966,<,GA04
+14,頚管内膜炎,S1,N72,RUVH,=,http://id.who.int/icd/entity/2053317966,<,GA04
+14,子宮頸内膜炎,S1,N72,RUVH,=,http://id.who.int/icd/entity/2053317966,<,GA04
+14,子宮頚外膜炎,L,N72,V916,<,http://id.who.int/icd/entity/1433247301,<,GA04
+14,子宮頸外膜炎,S1,N72,V916,<,http://id.who.int/icd/entity/1433247301,<,GA04
+14,急性子宮傍結合織炎,L,N730,PB9C,=,http://id.who.int/icd/entity/1187459659,=,GA05.0 
+14,急性子宮傍組織炎,S1,N730,PB9C,=,http://id.who.int/icd/entity/1187459659,=,GA05.0 
+14,女性急性骨盤蜂巣炎,L,N730,UE69,=,http://id.who.int/icd/entity/1944862232,<,GA05.0       
+14,女性急性骨盤蜂窩織炎,S1,N730,UE69,=,http://id.who.int/icd/entity/1944862232,<,GA05.0       
+14,慢性子宮傍結合織炎,L,N731,M4J4,=,http://id.who.int/icd/entity/596443103,=,GA05.1     
+14,慢性子宮傍組織炎,S1,N731,M4J4,=,http://id.who.int/icd/entity/596443103,=,GA05.1     
+14,女性慢性骨盤蜂巣炎,L,N731,TJ36,=,http://id.who.int/icd/entity/596443103,<,GA05.1     
+14,女性慢性骨盤蜂窩織炎,S1,N731,TJ36,=,http://id.who.int/icd/entity/596443103,<,GA05.1     
+14,子宮周囲膿瘍,L,N732,FF8H,=,http://id.who.int/icd/entity/1731446623,<,GA01.Y 
+14,子宮旁膿瘍,S1,N732,FF8H,=,http://id.who.int/icd/entity/1731446623,<,GA01.Y 
+14,子宮傍組織炎,L,N732,HQAN,=,http://id.who.int/icd/entity/1230041477,=,GA05.Z 
+14,子宮旁結合織炎,S1,N732,HQAN,=,http://id.who.int/icd/entity/1230041477,=,GA05.Z 
+14,子宮傍組織結合織炎,S1,N732,HQAN,=,http://id.who.int/icd/entity/1230041477,=,GA05.Z 
+14,子宮周囲炎,L,N732,M43M,=,http://id.who.int/icd/entity/1230041477,=,GA05.Z     
+14,骨盤結合織炎,L,N732,UHRB,=,http://id.who.int/icd/entity/1230041477,=,GA05.Z     
+14,急性骨盤腹膜炎,L,N733,H5UC,=,http://id.who.int/icd/entity/775356003 &  http://id.who.int/icd/entity/786106375,=,DC50.Z & XT5R     
+14,慢性骨盤腹膜炎,L,N734,C8LJ,=,http://id.who.int/icd/entity/775356003 &  http://id.who.int/icd/entity/490003542,=,DC50.Z & XT8W   
+14,骨盤腹膜炎,L,N735,H9A4,=,http://id.who.int/icd/entity/775356003,=,DC50.Z
+14,ダグラス窩膿瘍,L,N735,R612,=,http://id.who.int/icd/entity/623399333,<,GA05.2
+14,DOUGLAS窩膿瘍,S1,N735,R612,=,http://id.who.int/icd/entity/623399333,<,GA05.2
+14,卵管癒着,L,N736,KB28,=,http://id.who.int/icd/entity/815125871 & http://id.who.int/icd/entity/987725990,=,GA06 & XA3EF0 
+14,子宮付属器癒着,L,N736,QM21,=,http://id.who.int/icd/entity/815125871 & http://id.who.int/icd/entity/2002162149,=,GA06 & XA7E69 
+14,子宮附属器癒着,S1,N736,QM21,=,http://id.who.int/icd/entity/815125871 & http://id.who.int/icd/entity/2002162149,=,GA06 & XA7E69 
+14,付属器癒着症,S1,N736,QM21,=,http://id.who.int/icd/entity/815125871 & http://id.who.int/icd/entity/2002162149,=,GA06 & XA7E69 
+14,附属器癒着症,S1,N736,QM21,=,http://id.who.int/icd/entity/815125871 & http://id.who.int/icd/entity/2002162149,=,GA06 & XA7E69 
+14,卵管卵巣周囲癒着症,S1,N736,QM21,=,http://id.who.int/icd/entity/815125871 & http://id.who.int/icd/entity/2002162149,=,GA06 & XA7E69 
+14,骨盤内炎症性疾患,L,N739,KQ70,=,http://id.who.int/icd/entity/1230041477,=,GA05.Z
+14,バルトリン腺のう胞,L,N750,NK5G,=,http://id.who.int/icd/entity/1632013194,=,GA03.1
+14,バルトリン腺嚢腫,S1,N750,NK5G,=,http://id.who.int/icd/entity/1632013194,=,GA03.1
+14,バルトリン腺のう腫,S1,N750,NK5G,=,http://id.who.int/icd/entity/1632013194,=,GA03.1
+14,バルトリン腺嚢胞,S1,N750,NK5G,=,http://id.who.int/icd/entity/1632013194,=,GA03.1
+14,バルトリン腺膿瘍,L,N751,NC7P,=,http://id.who.int/icd/entity/67978784,=,GA03.0
+14,バルトリン腺炎,L,N758,LAQK,=,http://id.who.int/icd/entity/1703473747,<,GA13.Y
+14,細菌性腟炎,L,N760,G15C,=,http://id.who.int/icd/entity/1436361154 & http://id.who.int/icd/entity/83217129,<,GA02.0 & XN74M
+14,細菌性膣炎,S1,N760,G15C,=,http://id.who.int/icd/entity/1436361154 & http://id.who.int/icd/entity/83217129,<,GA02.0 & XN74M
+14,腟炎,L,N760,H63J,=,http://id.who.int/icd/entity/290861382,=,GA02.Z
+14,膣炎,S1,N760,H63J,=,http://id.who.int/icd/entity/290861382,=,GA02.Z
+14,急性外陰腟炎,L,N760,KJML,=,http://id.who.int/icd/entity/1578618352,<,GA02.0
+14,急性外陰膣炎,S1,N760,KJML,=,http://id.who.int/icd/entity/1578618352,<,GA02.0      
+14,腟膿瘍,L,N760,STQP,=,http://id.who.int/icd/entity/1960076782,<,GA02.0      
+14,膣膿瘍,S1,N760,STQP,=,http://id.who.int/icd/entity/1960076782,<,GA02.0      
+14,慢性腟炎,L,N761,PV3T,=,http://id.who.int/icd/entity/102002538,=,GA02.2 & XT8W
+14,慢性膣炎,S1,N761,PV3T,=,http://id.who.int/icd/entity/102002538,=,GA02.2 & XT8W
+14,ウイルス性外陰炎,L,N762,BV2J,=,http://id.who.int/icd/entity/1475678865 & http://id.who.int/icd/entity/1208497819,<,GA00.0 & XN3BH
+14,非特異性外陰炎,L,N762,CRP1,<,http://id.who.int/icd/entity/727252860,<,GA00.Z
+14,老人性外陰炎,L,N762,LHPP,<,http://id.who.int/icd/entity/727252860,<,GA00.Z
+14,外陰炎,L,N762,M9BJ,=,http://id.who.int/icd/entity/727252860,=,GA00.Z
+14,急性陰門炎,S2,N762,M9BJ,=,http://id.who.int/icd/entity/1898428127,=,GA00.0     
+14,慢性外陰炎,L,N763,EBCL,=,http://id.who.int/icd/entity/342653771 & http://id.who.int/icd/entity/490003542,=,GA00.1 & XT8W
+14,小陰唇膿瘍,L,N764,KMT4,=,http://id.who.int/icd/entity/396470792 & http://id.who.int/icd/entity/1090115429,=,GA00.2& XA0MU9 
+14,外陰膿瘍,L,N764,L478,=,http://id.who.int/icd/entity/1736632543,=,GA00.2
+14,外陰部膿瘍,S1,N764,L478,=,http://id.who.int/icd/entity/1736632543,=,GA00.2
+14,大陰唇膿瘍,L,N764,Q793,=,http://id.who.int/icd/entity/396470792 & http://id.who.int/icd/entity/622913829,=,GA00.2 & XA59G9    
+14,腟部びらん,L,N765,PKGH,=,http://id.who.int/icd/entity/46736715,=,GA02.3    
+14,膣部びらん,S1,N765,PKGH,=,http://id.who.int/icd/entity/46736715,=,GA02.3    
+14,腟潰瘍,L,N765,QVFQ,=,http://id.who.int/icd/entity/46736715,=,GA02.3    
+14,膣潰瘍,S1,N765,QVFQ,=,http://id.who.int/icd/entity/46736715,=,GA02.3    
+14,外陰部びらん,L,N766,FKDN,=,http://id.who.int/icd/entity/1986295220,=,GA00.3
+14,陰部潰瘍・女性,L,N766,Q0C0,=,http://id.who.int/icd/entity/1986295220,=,GA00.3
+14,外陰潰瘍,L,N766,RJ7H,=,http://id.who.int/icd/entity/1986295220,=,GA00.3
+14,外陰部潰瘍,S1,N766,RJ7H,=,http://id.who.int/icd/entity/1986295220,=,GA00.3
+14,陰門部潰瘍,S2,N766,RJ7H,=,http://id.who.int/icd/entity/1986295220,=,GA00.3
+14,陰唇潰瘍,L,N766,T7CC,=,http://id.who.int/icd/entity/115597778,=,GA00.3 & XA11L9 
+14,小児外陰腟炎,L,N768,HNBS,<,http://id.who.int/icd/entity/727252860,<,GA00.Z
+14,小児腟炎,S1,N768,HNBS,<,http://id.who.int/icd/entity/290861382,<,GA02.Z
+14,子宮腺筋症,L,N800,Q0RD,=,http://id.who.int/icd/entity/171294592,=,GA11
+14,内性子宮内膜症,S1,N800,Q0RD,=,http://id.who.int/icd/entity/171294592,=,GA11
+14,子宮の子宮内膜症,S1,N800,Q0RD,=,http://id.who.int/icd/entity/171294592,=,GA11
+14,卵巣子宮内膜症,L,N801,AGGH,=,http://id.who.int/icd/entity/761483266,=,GA10.B4
+14,卵巣の子宮内膜症,S1,N801,AGGH,=,http://id.who.int/icd/entity/761483266,=,GA10.B4
+14,卵巣子宮内膜症のう胞,L,N801,DEP3,=,http://id.who.int/icd/entity/797673629,=,GA10.B5 
+14,卵巣子宮内膜症嚢胞,S1,N801,DEP3,=,http://id.who.int/icd/entity/797673629,=,GA10.B5 
+14,チョコレートのう胞,L,N801,QN5U,=,http://id.who.int/icd/entity/797673629,=,GA10.B5 
+14,チョコレート嚢腫,S1,N801,QN5U,=,http://id.who.int/icd/entity/797673629,=,GA10.B5 
+14,チョコレートのう腫,S1,N801,QN5U,=,http://id.who.int/icd/entity/797673629,=,GA10.B5 
+14,チョコレート嚢胞,S1,N801,QN5U,=,http://id.who.int/icd/entity/797673629,=,GA10.B5 
+14,卵管子宮内膜症,L,N802,N6F8,=,http://id.who.int/icd/entity/1506672895,=,GA10.B3
+14,卵管の子宮内膜症,S1,N802,N6F8,=,http://id.who.int/icd/entity/1506672895,=,GA10.B3
+14,骨盤子宮内膜症,L,N803,JE58,=,http://id.who.int/icd/entity/1015401835,=,GA10.C2
+14,骨盤腹膜の子宮内膜症,S2,N803,JE58,=,http://id.who.int/icd/entity/1015401835,=,GA10.C2 
+14,腸の子宮内膜症,L,N805,Q36G,=,http://id.who.int/icd/entity/706777963,=,GA10.C1 
+14,子宮内膜症,L,N809,U3KQ,=,http://id.who.int/icd/entity/1838213761,=,GA10.Z   
+14,外性子宮内膜症,L,N809,UPJ5,=,http://id.who.int/icd/entity/1838213761,<,GA10.Z   
+14,異所子宮内膜増殖症,S1,N809,UPJ5,=,http://id.who.int/icd/entity/1838213761,<,GA10.Z   
+14,女性尿道瘤,L,N810,JJVG,=,http://id.who.int/icd/entity/1422939413,<,GC40.0Z   
+14,膀胱ヘルニア・女性,L,N811,G6GV,=,http://id.who.int/icd/entity/832280705,<,GC40.0Z   
+14,腟脱症,L,N811,G88K,=,http://id.who.int/icd/entity/1708014394,=,GC40.0Z   
+14,膣脱症,S1,N811,G88K,=,http://id.who.int/icd/entity/1708014394,=,GC40.0Z   
+14,膀胱瘤,L,N811,K5QD,=,http://id.who.int/icd/entity/832280705,<,GC40.0Z   
+14,経膣膀胱脱,S1,N811,K5QD,=,http://id.who.int/icd/entity/832280705,<,GC40.0Z   
+14,経腟膀胱脱,S1,N811,K5QD,=,http://id.who.int/icd/entity/832280705,<,GC40.0Z   
+14,膀胱脱出,S1,N811,K5QD,=,http://id.who.int/icd/entity/832280705,<,GC40.0Z   
+14,膀胱脱,S1,N811,K5QD,=,http://id.who.int/icd/entity/832280705,<,GC40.0Z   
+14,前腟脱,L,N811,SM49,=,http://id.who.int/icd/entity/1619125776,=,GC40.0Z   
+14,膣前壁脱,S1,N811,SM49,=,http://id.who.int/icd/entity/1619125776,=,GC40.0Z   
+14,腟前壁脱,S1,N811,SM49,=,http://id.who.int/icd/entity/1619125776,=,GC40.0Z   
+14,前膣脱,S1,N811,SM49,=,http://id.who.int/icd/entity/1619125776,=,GC40.0Z   
+14,腟壁下垂,L,N811,SP01,=,http://id.who.int/icd/entity/148580117 & http://id.who.int/icd/entity/862783222 ,=,GC40.Z & XA57Q2
+14,膣壁下垂,S1,N811,SP01,=,http://id.who.int/icd/entity/148580117 & http://id.who.int/icd/entity/862783222 ,=,GC40.Z & XA57Q2
+14,子宮脱２度,L,N812,CQRL,=,http://id.who.int/icd/entity/1897352148,=,GC40.30 & XS5S
+14,不全子宮脱,L,N812,CQRL,=,http://id.who.int/icd/entity/1161218174,=,GC40.30 
+14,子宮脱2度,S0,N812,CQRL,=,http://id.who.int/icd/entity/1897352148,=,GC40.30 & XS5S
+14,不完全子宮腟脱,S1,N812,CQRL,=,http://id.who.int/icd/entity/1161218174,=,GC40.30 
+14,不完全子宮脱,S1,N812,CQRL,=,http://id.who.int/icd/entity/1161218174,=,GC40.30 
+14,第2度子宮脱,S1,N812,CQRL,=,http://id.who.int/icd/entity/1897352148,=,GC40.30 & XS5S
+14,不完全子宮膣脱,S1,N812,CQRL,=,http://id.who.int/icd/entity/1161218174,=,GC40.30 
+14,子宮脱１度,L,N812,J4ST,=,http://id.who.int/icd/entity/262525197,=,GC40.30 & XS7A
+14,子宮下垂,L,N812,J4ST,=,http://id.who.int/icd/entity/334012722,<,GC40.3Z
+14,子宮脱1度,S0,N812,J4ST,=,http://id.who.int/icd/entity/262525197,=,GC40.30 & XS7A
+14,第1度子宮脱,S1,N812,J4ST,=,http://id.who.int/icd/entity/262525197,=,GC40.30 & XS7A
+14,完全子宮脱,L,N813,E6N3,=,http://id.who.int/icd/entity/545064428,=,GC40.34 
+14,子宮脱３度,L,N813,E6N3,=,http://id.who.int/icd/entity/1528322480 ,<,GC40.34 
+14,子宮脱3度,S0,N813,E6N3,=,http://id.who.int/icd/entity/1528322480 ,<,GC40.34 
+14,第3度子宮脱,S1,N813,E6N3,=,http://id.who.int/icd/entity/1528322480 ,<,
+14,全子宮脱,L,N813,K7P3,=,http://id.who.int/icd/entity/545064428,=,GC40.34   
+14,完全子宮膣脱,S1,N813,K7P3,=,http://id.who.int/icd/entity/545064428,=,GC40.34   
+14,完全子宮腟脱,S1,N813,K7P3,=,http://id.who.int/icd/entity/545064428,=,GC40.34   
+14,子宮脱,L,N814,CHK3,=,http://id.who.int/icd/entity/334012722,<,GC40.3Z
+14,経腟小腸脱,L,N815,PKM6,=,http://id.who.int/icd/entity/920148970,<,GC40.2Z 
+14,腟小腸瘤,S1,N815,PKM6,=,http://id.who.int/icd/entity/920148970,<,GC40.2Z 　
+14,膣小腸瘤,S1,N815,PKM6,=,http://id.who.int/icd/entity/920148970,<,GC40.2Z 　
+14,経膣小腸脱,S1,N815,PKM6,=,http://id.who.int/icd/entity/920148970,<,GC40.2Z 
+14,直腸瘤,L,N816,FL2U,=,http://id.who.int/icd/entity/1114966805,<,GC40.1Z 
+14,経膣直腸脱,S1,N816,FL2U,=,http://id.who.int/icd/entity/1114966805,<,GC40.1Z 
+14,直腸膣脱,S1,N816,FL2U,=,http://id.who.int/icd/entity/1114966805,<,GC40.1Z 
+14,直腸腟脱,S1,N816,FL2U,=,http://id.who.int/icd/entity/1114966805,<,GC40.1Z 
+14,経腟直腸脱,S1,N816,FL2U,=,http://id.who.int/icd/entity/1114966805,<,GC40.1Z 
+14,後腟脱,L,N816,SBKV,=,http://id.who.int/icd/entity/958578618,=,GC40.1Z 
+14,後膣脱,S1,N816,SBKV,=,http://id.who.int/icd/entity/958578618,=,GC40.1Z 
+14,膣後壁脱,S1,N816,SBKV,=,http://id.who.int/icd/entity/958578618,=,GC40.1Z 
+14,腟後壁脱,S1,N816,SBKV,=,http://id.who.int/icd/entity/958578618,=,GC40.1Z 
+14,陳旧性会陰裂傷,L,N818,HPA2,=,http://id.who.int/icd/entity/1570959001 & http://id.who.int/icd/entity/402925049,=,GC40.4Z & XA53N9    
+14,陰唇ヘルニア,L,N818,T790,=,http://id.who.int/icd/entity/108749166 & http://id.who.int/icd/entity/1782448509,=,DD50.1 & XA11L9 
+14,女性性器脱,L,N819,AQ1J,=,http://id.who.int/icd/entity/148580117,=,GC40.Z
+14,骨盤臓器脱,L,N819,VLGV,=,http://id.who.int/icd/entity/148580117,=,GC40.Z
+14,骨盤内臓器脱,S1,N819,VLGV,=,http://id.who.int/icd/entity/148580117,=,GC40.Z
+14,POP,S1,N819,VLGV,=,http://id.who.int/icd/entity/148580117,=,GC40.Z
+14,膀胱腟瘻,L,N820,UQ3H,=,http://id.who.int/icd/entity/1431827755,=,GC04.10
+14,膀胱膣瘻,S1,N820,UQ3H,=,http://id.who.int/icd/entity/1431827755,=,GC04.10
+14,膀胱子宮頚瘻,L,N821,BJ7D,=,http://id.who.int/icd/entity/1786654920,<,GC04.1Y
+14,膀胱頸管瘻,S1,N821,BJ7D,=,http://id.who.int/icd/entity/1786654920,<,GC04.1Y
+14,膀胱頚管瘻,S1,N821,BJ7D,=,http://id.who.int/icd/entity/1786654920,<,GC04.1Y
+14,膀胱子宮頸瘻,S1,N821,BJ7D,=,http://id.who.int/icd/entity/1786654920,<,GC04.1Y
+14,膀胱子宮膣瘻,S2,N821,BJ7D,=,http://id.who.int/icd/entity/1786654920,<,GC04.1Y
+14,膀胱子宮腟瘻,S2,N821,BJ7D,=,http://id.who.int/icd/entity/1786654920,<,GC04.1Y
+14,尿道腟瘻,L,N821,DTG4,=,http://id.who.int/icd/entity/1092677216,=,GC04.14
+14,尿道膣瘻,S1,N821,DTG4,=,http://id.who.int/icd/entity/1092677216,=,GC04.14
+14,尿管腟瘻,L,N821,KQ4K,=,http://id.who.int/icd/entity/601003498,<,GC04.1Y 
+14,尿管膣瘻,S1,N821,KQ4K,=,http://id.who.int/icd/entity/601003498,<,GC04.1Y 
+14,膀胱尿管腟瘻,L,N821,LJK8,=,http://id.who.int/icd/entity/1019652029,=,GC04.15 
+14,膀胱尿管膣瘻,S1,N821,LJK8,=,http://id.who.int/icd/entity/1019652029,=,GC04.15 
+14,子宮膀胱瘻,L,N821,P127,=,http://id.who.int/icd/entity/780263947,<,GC04.1Y   
+14,膀胱子宮瘻,S1,N821,P127,=,http://id.who.int/icd/entity/780263947,<,GC04.1Y   
+14,子宮尿管瘻,L,N821,TFB9,=,http://id.who.int/icd/entity/1073393881,<,GC04.2
+14,小腸腟瘻,L,N822,G7RV,=,http://id.who.int/icd/entity/1152477250,=,GC04.11
+14,小腸膣瘻,S1,N822,G7RV,=,http://id.who.int/icd/entity/1152477250,=,GC04.11
+14,直腸腟瘻,L,N823,QPS9,=,http://id.who.int/icd/entity/396280789,=,GC04.16
+14,直腸膣瘻,S1,N823,QPS9,=,http://id.who.int/icd/entity/396280789,=,GC04.16
+14,大腸腟瘻,L,N823,SRCU,=,http://id.who.int/icd/entity/570074580,=,GC04.12
+14,大腸膣瘻,S1,N823,SRCU,=,http://id.who.int/icd/entity/570074580,=,GC04.12
+14,腸腟瘻,L,N824,FLUT,=,http://id.who.int/icd/entity/19059053,=,GC04.1Y 
+14,腸膣瘻,S1,N824,FLUT,=,http://id.who.int/icd/entity/19059053,=,GC04.1Y 
+14,直腸陰唇瘻,L,N824,GEJ0,=,http://id.who.int/icd/entity/249106719,<,GC04.1Y 
+14,Ｓ状結腸子宮瘻,L,N824,QA42,=,http://id.who.int/icd/entity/659312348,<,GC04.1Y 
+14,S状結腸子宮瘻,S0,N824,QA42,=,http://id.who.int/icd/entity/659312348,<,GC04.1Y 
+14,S状結腸子宮ろう,S1,N824,QA42,=,http://id.who.int/icd/entity/659312348,<,GC04.1Y 
+14,子宮直腸瘻,L,N824,RKBF,=,http://id.who.int/icd/entity/1126062761,<,GC04.1Y 
+14,直腸子宮瘻,S1,N824,RKBF,=,http://id.who.int/icd/entity/1126062761,<,GC04.1Y 
+14,子宮直腸フィステル,S1,N824,RKBF,=,http://id.who.int/icd/entity/1126062761,<,GC04.1Y 
+14,腸子宮瘻,S1,N824,RKBF,=,http://id.who.int/icd/entity/697927456,<,GC04.1Y 
+14,腟会陰瘻,L,N825,KNAS,=,http://id.who.int/icd/entity/617008705,<,GC04.13 
+14,膣会陰瘻,S1,N825,KNAS,=,http://id.who.int/icd/entity/617008705,<,GC04.13 
+14,会陰膣瘻,S1,N825,KNAS,=,http://id.who.int/icd/entity/617008705,<,GC04.13 
+14,会陰腟瘻,S1,N825,KNAS,=,http://id.who.int/icd/entity/617008705,<,GC04.13 
+14,外陰部瘻,S2,N825,KNAS,=,http://id.who.int/icd/entity/617008705,<,GC04.13 
+14,月経瘻,L,N825,NQ11,=,http://id.who.int/icd/entity/1540387837 / http://id.who.int/icd/entity/213603738,<,GC04.13 / GA20.Z       
+14,子宮腹壁瘻,L,N825,Q9CJ,=,http://id.who.int/icd/entity/12608163,<,GC04.13 
+14,子宮腹膣瘻,S2,N825,Q9CJ,=,http://id.who.int/icd/entity/12608163,<,GC04.13 
+14,女性性器皮膚瘻,S2,N825,Q9CJ,=,http://id.who.int/icd/entity/929037270,=,GC04.13 
+14,子宮腹腟瘻,S2,N825,Q9CJ,=,http://id.who.int/icd/entity/12608163,<,GC04.13 
+14,腟瘻,L,N829,JU1Q,=,http://id.who.int/icd/entity/2008638963,<,GC04.1Y
+14,膣瘻,S1,N829,JU1Q,=,http://id.who.int/icd/entity/2008638963,<,GC04.1Y
+14,子宮瘻,L,N829,SU0M,=,http://id.who.int/icd/entity/693452130,<,GC04.1Y 
+14,卵胞出血,L,N830,CAUJ,<,http://id.who.int/icd/entity/214160077,<,GA18.0        
+14,出血性卵胞のう胞,L,N830,CHB1,=,http://id.who.int/icd/entity/214160077,<,GA18.0        
+14,出血性卵胞嚢胞,S1,N830,CHB1,=,http://id.who.int/icd/entity/214160077,<,GA18.0        
+14,グラーフ卵胞のう胞,L,N830,P9PV,≒,http://id.who.int/icd/entity/1236221356,≒,GA18.0        
+14,グラーフ卵胞嚢胞,S1,N830,P9PV,≒,http://id.who.int/icd/entity/1236221356,≒,GA18.0        
+14,卵巣卵胞のう胞,L,N830,Q1JK,=,http://id.who.int/icd/entity/1236221356,=,GA18.0        
+14,卵巣卵胞嚢胞,S1,N830,Q1JK,=,http://id.who.int/icd/entity/1236221356,=,GA18.0        
+14,出血性黄体のう胞,L,N831,ENKM,=,http://id.who.int/icd/entity/291553455,<,GA18.1   
+14,出血性黄体嚢胞,S1,N831,ENKM,=,http://id.who.int/icd/entity/291553455,<,GA18.1   
+14,黄体血腫,L,N831,KN01,=,http://id.who.int/icd/entity/291553455,<,GA18.1   
+14,黄体出血,S1,N831,KN01,=,http://id.who.int/icd/entity/291553455,<,GA18.1   
+14,黄体のう胞,L,N831,RC4R,=,http://id.who.int/icd/entity/753201214,=,GA18.1   
+14,黄体のう腫,S1,N831,RC4R,=,http://id.who.int/icd/entity/753201214,=,GA18.1   
+14,黄体嚢腫,S1,N831,RC4R,=,http://id.who.int/icd/entity/753201214,=,GA18.1   
+14,黄体嚢胞,S1,N831,RC4R,=,http://id.who.int/icd/entity/753201214,=,GA18.1   
+14,単純性卵巣のう胞,L,N832,NBUB,=,http://id.who.int/icd/entity/338634851,<,GA18.6       
+14,単純性卵巣嚢胞,S1,N832,NBUB,=,http://id.who.int/icd/entity/338634851,<,GA18.6       
+14,卵巣貯留のう胞,L,N832,RJKN,=,http://id.who.int/icd/entity/734937461,<,GA18.6       
+14,卵巣貯留嚢胞,S1,N832,RJKN,=,http://id.who.int/icd/entity/734937461,<,GA18.6       
+14,卵巣のう胞,L,N832,SN28,=,http://id.who.int/icd/entity/1481220289,=,GA18.6       
+14,卵巣嚢胞,S1,N832,SN28,=,http://id.who.int/icd/entity/1481220289,=,GA18.6       
+14,索状卵巣,L,N833,NE4P,=,http://id.who.int/icd/entity/1023569237,=,GA18.7 & XA1QK0
+14,卵巣萎縮,L,N833,PDST,=,http://id.who.int/icd/entity/1023569237,=,GA18.7 & XA1QK0
+14,卵巣ヘルニア,L,N834,D6LV,=,http://id.who.int/icd/entity/1324154561,<,GA18.Y            
+14,卵管捻転,L,N835,GVLS,=,http://id.who.int/icd/entity/1073415709,=,GA18.5 & XA3EF0
+14,副卵管捻転,L,N835,HFFK,=,http://id.who.int/icd/entity/1073415709,=,GA18.5 & XA3EF0
+14,卵巣捻転,L,N835,JLAP,=,http://id.who.int/icd/entity/87985609,=,GA18.5 & XA1QK0
+14,卵巣茎捻転,L,N835,SCRA,=,http://id.who.int/icd/entity/1882175946,<,GA18.5 
+14,卵管留血腫,L,N836,TS09,=,http://id.who.int/icd/entity/1594516394,=,GA17.3      
+14,子宮広間膜内血腫,L,N837,LJEQ,=,http://id.who.int/icd/entity/9773829766,=,GA19.0 
+14,硬化性卵巣,L,N838,AJD3,=,http://id.who.int/icd/entity/922468628,<,GA18.Y      
+14,傍卵管のう胞,L,N838,D6QG,=,http://id.who.int/icd/entity/322142805,<, GA17.Y
+14,傍卵管嚢胞,S1,N838,D6QG,=,http://id.who.int/icd/entity/322142805,<, GA17.Y
+14,卵管破裂,L,N838,E540,=,http://id.who.int/icd/entity/1323857101,<,GA17.Y          
+14,広間膜裂傷症候群,L,N838,HF61,=,http://id.who.int/icd/entity/660703395,<,GA19.Y       
+14,アレン・マスターズ症候群,S2,N838,HF61,=,http://id.who.int/icd/entity/660703395,<,GA19.Y       
+14,付属器腫瘤,L,N838,NQQ5,=,http://id.who.int/icd/entity/510389001,=,2F33 & XA7E69 
+14,附属器腫瘤,S1,N838,NQQ5,=,http://id.who.int/icd/entity/510389001,=,2F33 & XA7E69 
+14,卵管痙攣,L,N838,RK07,=,http://id.who.int/icd/entity/275719762,<,GA17.Y    
+14,卵巣出血,L,N838,RT71,=,http://id.who.int/icd/entity/1261139312 / http://id.who.int/icd/entity/940081636,=,GA18.Y / MG27       
+14,卵巣破裂,L,N838,V12R,=,http://id.who.int/icd/entity/898316668,<,GA18.Y     
+14,卵巣腫瘤,L,N839,K48A,=,http://id.who.int/icd/entity/588293347,<,GA18.Y        
+14,子宮ポリープ,L,N840,HV7T,=,http://id.who.int/icd/entity/1926647018,<,GA16.Y 
+14,子宮内膜ポリープ,L,N840,TCTE,=,http://id.who.int/icd/entity/1926647018,<,GA16.Y
+14,子宮頚管粘膜ポリープ,L,N841,UEAF,=,http://id.who.int/icd/entity/1941455443,=,GA15.0           
+14,子宮頸管粘膜ポリープ,S1,N841,UEAF,=,http://id.who.int/icd/entity/1941455443,=,GA15.0           
+14,子宮頸部粘膜ポリープ,S1,N841,UEAF,=,http://id.who.int/icd/entity/1941455443,=,GA15.0           
+14,子宮頚部粘膜ポリープ,S1,N841,UEAF,=,http://id.who.int/icd/entity/1941455443,=,GA15.0           
+14,子宮頚管ポリープ,L,N841,VABV,=,http://id.who.int/icd/entity/396198272,=,GA15.0           
+14,子宮頚部ポリープ,S1,N841,VABV,=,http://id.who.int/icd/entity/396198272,=,GA15.0           
+14,頚管ポリープ,S1,N841,VABV,=,http://id.who.int/icd/entity/396198272,=,GA15.0           
+14,頸管ポリープ,S1,N841,VABV,=,http://id.who.int/icd/entity/396198272,=,GA15.0           
+14,子宮頸管ポリープ,S1,N841,VABV,=,http://id.who.int/icd/entity/396198272,=,GA15.0           
+14,子宮頸部ポリープ,S1,N841,VABV,=,http://id.who.int/icd/entity/396198272,=,GA15.0           
+14,腟ポリープ,L,N842,FGHA,=,http://id.who.int/icd/entity/1664143745,=,GA14.0 
+14,膣ポリープ,S1,N842,FGHA,=,http://id.who.int/icd/entity/1664143745,=,GA14.0 
+14,腟断端ポリープ,L,N842,KTCC,<,http://id.who.int/icd/entity/1664143745,<,GA14.0
+14,膣断端ポリープ,S1,N842,KTCC,<,http://id.who.int/icd/entity/1664143745,<,GA14.0
+14,外陰ポリープ,L,N843,HBPQ,=,http://id.who.int/icd/entity/108731413,=,GA13.0 
+14,陰唇ポリープ,L,N843,M36C,=,http://id.who.int/icd/entity/108731413,=,GA13.0 & XA11L9
+14,子宮内膜腺様のう胞性増殖症,L,N850,EJPC,=,http://id.who.int/icd/entity/1724087946,<,GA16.0       
+14,子宮内膜腺様嚢胞性増殖症,S1,N850,EJPC,=,http://id.who.int/icd/entity/1724087946,<,GA16.0       
+14,複雑型子宮内膜増殖症,L,N850,GAGA,=,http://id.who.int/icd/entity/895976748 OR http://id.who.int/icd/entity/772715074,=,GA16.0       
+14,のう胞性腺増殖症,L,N850,J8FE,=,http://id.who.int/icd/entity/1655853768,<,GA16.0       
+14,嚢胞性腺増殖症,S1,N850,J8FE,=,http://id.who.int/icd/entity/1655853768,<,GA16.0       
+14,子宮内膜増殖症,L,N850,TUQM,=,http://id.who.int/icd/entity/1848542315,=,GA16.0       
+14,子宮内膜肥厚症,S2,N850,TUQM,=,http://id.who.int/icd/entity/1848542315,=,GA16.0       
+14,単純型子宮内膜増殖症,L,N850,VM11,=,http://id.who.int/icd/entity/265931212 OR http://id.who.int/icd/entity/705991696,<,GA16.0       
+14,単純型子宮内膜異型増殖症,L,N851,GRF0,=,http://id.who.int/icd/entity/265931212 or http://id.who.int/icd/entity/705991696,<,GA16.0       
+14,腺腫性子宮内膜増殖症,L,N851,R7N7,=,http://id.who.int/icd/entity/1724087946,<,GA16.0       
+14,複雑型子宮内膜異型増殖症,L,N851,SA66,=,http://id.who.int/icd/entity/895976748 OR http://id.who.int/icd/entity/772715074,<,GA16.0       
+14,子宮内膜異型増殖症,L,N851,VF0V,=,http://id.who.int/icd/entity/265931212 or http://id.who.int/icd/entity/895976748,<,GA16.0       
+14,異型子宮内膜増殖症,S1,N851,VF0V,=,http://id.who.int/icd/entity/265931212 or http://id.who.int/icd/entity/895976748,<,GA16.0       
+14,子宮肥大,L,N852,ED1S,=,http://id.who.int/icd/entity/2143820032,<,GA16.Y
+14,子宮退縮不全,L,N853,GKBK,=,http://id.who.int/icd/entity/1919275098,<,JB44.Y          
+14,子宮復古不全,L,N853,GKBK,=,http://id.who.int/icd/entity/1919275098,<,JB44.Y          
+14,子宮前傾,L,N854,AML6,=,http://id.who.int/icd/entity/818504340,<,GA16.1
+14,子宮後傾,L,N854,C8FB,=,http://id.who.int/icd/entity/508732450,<,GA16.1   
+14,子宮後屈症,L,N854,LUGC,=,http://id.who.int/icd/entity/508732450,<,GA16.1   
+14,病的子宮後傾屈,S1,N854,LUGC,=,http://id.who.int/icd/entity/508732450,<,GA16.1   
+14,子宮後屈,S1,N854,LUGC,=,http://id.who.int/icd/entity/508732450,<,GA16.1   
+14,子宮後屈(症),S1,N854,LUGC,=,http://id.who.int/icd/entity/508732450,<,GA16.1   
+14,子宮捻転,L,N854,MJ31,=,http://id.who.int/icd/entity/1500109842,<,GA16.1   
+14,子宮位置異常,L,N854,PSS2,=,http://id.who.int/icd/entity/1768769282,=,GA16.1   
+14,子宮内反症,L,N855,AR5F,=,http://id.who.int/icd/entity/989051060,<,GA16.1   
+14,一部子宮内反症,L,N855,M0U0,=,http://id.who.int/icd/entity/989051060 & http://id.who.int/icd/entity/167867186,<,GA16.1 &  XK06
+14,全子宮内反症,L,N855,RMG7,=,http://id.who.int/icd/entity/989051060 & http://id.who.int/icd/entity/1957947885,<,GA16.1 & K2J 
+14,アッシャーマン症候群,L,N856,C8LL,=,http://id.who.int/icd/entity/2022431339,=,GA16.2    
+14,子宮内癒着,S1,N856,C8LL,=,http://id.who.int/icd/entity/2022431339,=,GA16.2    
+14,子宮腔癒着症,S1,N856,C8LL,=,http://id.who.int/icd/entity/2022431339,=,GA16.2    
+14,アッシャマン症候群,S1,N856,C8LL,=,http://id.who.int/icd/entity/2022431339,=,GA16.2    
+14,子宮留血症,L,N857,UTQT,=,http://id.who.int/icd/entity/499128319,=,GA16.3 
+14,子宮痙攣,L,N858,ARKM,=,http://id.who.int/icd/entity/1703914672,=,GA34.3
+14,子宮萎縮,L,N858,E50V,=,http://id.who.int/icd/entity/1532566248,<,GA16.Y    
+14,授乳性子宮萎縮,L,N858,JCKE,<,http://id.who.int/icd/entity/1532566248,<,GA16.Y    
+14,子宮線維症,L,N858,L6DC,=,http://id.who.int/icd/entity/777577431,<,GA16.Y    
+14,子宮内膜萎縮,L,N858,TLDK,=,http://id.who.int/icd/entity/1162234526,<,GA16.Y    
+14,子宮留水症,L,N858,UMCF,=,http://id.who.int/icd/entity/1830992667,<,GA16.Y    
+14,子宮留水腫,S1,N858,UMCF,=,http://id.who.int/icd/entity/1830992667,<,GA16.Y    
+14,子宮腫瘤,L,N859,G6T7,=,http://id.who.int/icd/entity/1995256163,<,GA16.Y    
+14,子宮頚部びらん,L,N86,DLGH,=,http://id.who.int/icd/entity/152108740,<,GA15.1
+14,子宮頸部びらん,S1,N86,DLGH,=,http://id.who.int/icd/entity/152108740,<,GA15.1
+14,子宮腟部偽びらん,L,N86,G9SC,<,http://id.who.int/icd/entity/2067117185,<,GA15.1     
+14,子宮膣部偽びらん,S1,N86,G9SC,<,http://id.who.int/icd/entity/2067117185,<,GA15.1     
+14,子宮腟部びらん,L,N86,MA56,=,http://id.who.int/icd/entity/152108740,<,GA15.1
+14,子宮膣部びらん(症),S1,N86,MA56,=,http://id.who.int/icd/entity/152108740,<,GA15.1
+14,子宮口びらん,S1,N86,MA56,=,http://id.who.int/icd/entity/152108740,<,GA15.1
+14,子宮膣部びらん,S1,N86,MA56,=,http://id.who.int/icd/entity/152108740,<,GA15.1
+14,子宮膣部びらん症,S1,N86,MA56,=,http://id.who.int/icd/entity/152108740,<,GA15.1
+14,子宮腟部びらん症,S1,N86,MA56,=,http://id.who.int/icd/entity/152108740,<,GA15.1
+14,子宮頚部潰瘍,L,N86,P3P2,=,http://id.who.int/icd/entity/1551256163,<,GA15.1
+14,子宮頸部潰瘍,S1,N86,P3P2,=,http://id.who.int/icd/entity/1551256163,<,GA15.1
+14,子宮頚部外反症,L,N86,RN6M,=,http://id.who.int/icd/entity/1275540342,<,GA15.1     
+14,子宮頸部外反症,S1,N86,RN6M,=,http://id.who.int/icd/entity/1275540342,<,GA15.1     
+14,子宮頚部軽度異形成,L,N870,B9TV,=,http://id.who.int/icd/entity/511605013,=,GA15.7
+14,異型度1子宮頸部上皮内腫瘍,S1,N870,B9TV,=,http://id.who.int/icd/entity/511605013,=,GA15.7
+14,子宮頚部上皮異形成・異型度1,S1,N870,B9TV,=,http://id.who.int/icd/entity/511605013,=,GA15.7
+14,子宮頸部軽度異形成,S1,N870,B9TV,=,http://id.who.int/icd/entity/511605013,=,GA15.7
+14,異型度1子宮頚部上皮内腫瘍,S1,N870,B9TV,=,http://id.who.int/icd/entity/511605013,=,GA15.7
+14,子宮頸部上皮異形成・異型度1,S1,N870,B9TV,=,http://id.who.int/icd/entity/511605013,=,GA15.7
+14,子宮頚部中等度異形成,L,N871,LP9N,=,http://id.who.int/icd/entity/983703484,=,2E66.2 
+14,子宮頚部上皮異形成・異型度2,S1,N871,LP9N,=,http://id.who.int/icd/entity/983703484,=,2E66.2 
+14,子宮頸部上皮異形成・異型度2,S1,N871,LP9N,=,http://id.who.int/icd/entity/983703484,=,2E66.2 
+14,子宮頸部中等度異形成,S1,N871,LP9N,=,http://id.who.int/icd/entity/983703484,=,2E66.2 
+14,異型度2子宮頸部上皮内腫瘍,S1,N871,LP9N,=,http://id.who.int/icd/entity/983703484,=,2E66.2 
+14,異型度2子宮頚部上皮内腫瘍,S1,N871,LP9N,=,http://id.who.int/icd/entity/983703484,=,2E66.2 
+14,子宮頚部高度異形成,L,N872,U8C9,=,http://id.who.int/icd/entity/983703484,=,2E66.2 
+14,子宮頚部上皮異形成・異型度3,S1,N872,U8C9,=,http://id.who.int/icd/entity/983703484,=,2E66.2 
+14,子宮頸部上皮異形成・異型度3,S1,N872,U8C9,=,http://id.who.int/icd/entity/983703484,=,2E66.2 
+14,子宮頸部高度異形成,S1,N872,U8C9,=,http://id.who.int/icd/entity/983703484,=,2E66.2 
+14,高度子宮頚部異形成,S1,N872,U8C9,=,http://id.who.int/icd/entity/983703484,=,2E66.2 
+14,高度子宮頸部異形成,S1,N872,U8C9,=,http://id.who.int/icd/entity/983703484,=,2E66.2 
+14,子宮頚部異形成,L,N879,N790,=,http://id.who.int/icd/entity/511605013,=,GA15.7 
+14,子宮頸部異形成,S1,N879,N790,=,http://id.who.int/icd/entity/511605013,=,GA15.7 
+14,子宮頸上皮異形成,S1,N879,N790,=,http://id.who.int/icd/entity/511605013,=,GA15.7 
+14,子宮頚上皮異形成,S1,N879,N790,=,http://id.who.int/icd/entity/511605013,=,GA15.7 
+14,子宮頚部上皮内腫瘍,L,N879,NPE0,=,http://id.who.int/icd/entity/511605013,=,GA15.7 
+14,子宮頸部上皮内腫瘍,S1,N879,NPE0,=,http://id.who.int/icd/entity/511605013,=,GA15.7 
+14,子宮頚上皮内腫瘍,S1,N879,NPE0,=,http://id.who.int/icd/entity/511605013,=,GA15.7 
+14,子宮頸上皮内腫瘍,S1,N879,NPE0,=,http://id.who.int/icd/entity/511605013,=,GA15.7 
+14,子宮頚部白斑症,L,N880,NVBA,=,http://id.who.int/icd/entity/551370781 / http://id.who.int/icd/entity/2096158414,=,GA15.Y / ED63.0 & XK9A 
+14,子宮頸部白斑症,S1,N880,NVBA,=,http://id.who.int/icd/entity/551370781 / http://id.who.int/icd/entity/2096158414,=,GA15.Y / ED63.0 & XK9A 
+14,子宮頚白板症,S1,N880,NVBA,=,http://id.who.int/icd/entity/551370781 / http://id.who.int/icd/entity/2096158414,=,GA15.Y / ED63.0 & XK9A 
+14,子宮頸白板症,S1,N880,NVBA,=,http://id.who.int/icd/entity/551370781 / http://id.who.int/icd/entity/2096158414,=,GA15.Y / ED63.0 & XK9A 
+14,子宮頚部癒着,L,N881,N7B3,=,http://id.who.int/icd/entity/1255430190,<,GA15.3 
+14,子宮頸部癒着,S1,N881,N7B3,=,http://id.who.int/icd/entity/1255430190,<,GA15.3 
+14,陳旧性子宮頚管裂傷,L,N881,SQ33,=,http://id.who.int/icd/entity/1486811902,=,GA15.3 
+14,陳旧性子宮頸管裂傷,S1,N881,SQ33,=,http://id.who.int/icd/entity/1486811902,=,GA15.3 
+14,陳旧性頸管裂傷,S1,N881,SQ33,=,http://id.who.int/icd/entity/1486811902,=,GA15.3 
+14,陳旧性頚管裂傷,S1,N881,SQ33,=,http://id.who.int/icd/entity/1486811902,=,GA15.3 
+14,子宮頚管狭窄症,L,N882,Q5LU,=,http://id.who.int/icd/entity/741581315,=,GA15.4 
+14,子宮頚部狭窄,S1,N882,Q5LU,=,http://id.who.int/icd/entity/741581315,=,GA15.4 
+14,子宮頸部狭窄,S1,N882,Q5LU,=,http://id.who.int/icd/entity/741581315,=,GA15.4 
+14,子宮頸管狭窄症,S1,N882,Q5LU,=,http://id.who.int/icd/entity/741581315,=,GA15.4 
+14,子宮頚管閉鎖症,L,N882,SVBT,=,http://id.who.int/icd/entity/795148181,=,GA15.4       
+14,子宮頸管閉鎖症,S1,N882,SVBT,=,http://id.who.int/icd/entity/795148181,=,GA15.4       
+14,子宮頚管閉塞,S1,N882,SVBT,=,http://id.who.int/icd/entity/795148181,=,GA15.4       
+14,頚管閉塞,S1,N882,SVBT,=,http://id.who.int/icd/entity/795148181,=,GA15.4       
+14,頸管閉塞,S1,N882,SVBT,=,http://id.who.int/icd/entity/795148181,=,GA15.4       
+14,子宮頸管閉塞,S1,N882,SVBT,=,http://id.who.int/icd/entity/795148181,=,GA15.4       
+14,頸管閉鎖症,S1,N882,SVBT,=,http://id.who.int/icd/entity/795148181,=,GA15.4       
+14,頚管閉鎖症,S1,N882,SVBT,=,http://id.who.int/icd/entity/795148181,=,GA15.4       
+14,子宮頚管無力症,L,N883,HM83,=,http://id.who.int/icd/entity/1232629655,=,GA15.6
+14,子宮頸管無力症,S1,N883,HM83,=,http://id.who.int/icd/entity/1232629655,=,GA15.6
+14,子宮頸不全,S1,N883,HM83,=,http://id.who.int/icd/entity/1232629655,=,GA15.6
+14,子宮頸部収縮不全,S1,N883,HM83,=,http://id.who.int/icd/entity/1232629655,=,GA15.6
+14,頚管無力症,S1,N883,HM83,=,http://id.who.int/icd/entity/1232629655,=,GA15.6
+14,頸管無力症,S1,N883,HM83,=,http://id.who.int/icd/entity/1232629655,=,GA15.6
+14,子宮頚不全,S1,N883,HM83,=,http://id.who.int/icd/entity/1232629655,=,GA15.6
+14,頚管弛緩症,S1,N883,HM83,=,http://id.who.int/icd/entity/1232629655,=,GA15.6
+14,子宮頚部収縮不全,S1,N883,HM83,=,http://id.who.int/icd/entity/1232629655,=,GA15.6
+14,頸管弛緩症,S1,N883,HM83,=,http://id.who.int/icd/entity/1232629655,=,GA15.6
+14,子宮頚延長,L,N884,DFS0,=,http://id.who.int/icd/entity/982973443,=,GA15.5
+14,子宮頸延長,S1,N884,DFS0,=,http://id.who.int/icd/entity/982973443,=,GA15.5
+14,子宮頚部肥大性延長症,L,N884,F21J,=,http://id.who.int/icd/entity/982973443,=,GA15.5
+14,子宮頸部肥大性延長症,S1,N884,F21J,=,http://id.who.int/icd/entity/982973443,=,GA15.5
+14,子宮腟部肥大,L,N888,AB5P,<,http://id.who.int/icd/entity/982973443,<,GA15.5
+14,子宮膣部肥大,S1,N888,AB5P,<,http://id.who.int/icd/entity/982973443,<,GA15.5
+14,ナボットのう胞,L,N888,HTT5,=,http://id.who.int/icd/entity/1329172977,=,GA15.2            
+14,ナボット小胞,S1,N888,HTT5,=,http://id.who.int/icd/entity/1329172977,=,GA15.2            
+14,ナボット嚢胞,S1,N888,HTT5,=,http://id.who.int/icd/entity/1329172977,=,GA15.2            
+14,ナボット卵,S1,N888,HTT5,=,http://id.who.int/icd/entity/1329172977,=,GA15.2            
+14,子宮頚肥大,L,N888,KN6V,=,http://id.who.int/icd/entity/515639058,<,GA15.Y      
+14,子宮頸肥大,S1,N888,KN6V,=,http://id.who.int/icd/entity/515639058,<,GA15.Y      
+14,分葉状内頚部腺過形成,L,N888,NFLL,<,http://id.who.int/icd/entity/1724392746 & http://id.who.int/icd/entity/1009522809,<,GA15.7 & XA5WW1 
+14,分葉状頚管腺過形成,S1,N888,NFLL,<,http://id.who.int/icd/entity/1724392746 & http://id.who.int/icd/entity/1009522809,<,GA15.7 & XA5WW1 
+14,分葉状内頸部腺過形成,S1,N888,NFLL,<,http://id.who.int/icd/entity/1724392746 & http://id.who.int/icd/entity/1009522809,<,GA15.7 & XA5WW1 
+14,分葉状頸管腺過形成,S1,N888,NFLL,<,http://id.who.int/icd/entity/1724392746 & http://id.who.int/icd/entity/1009522809,<,GA15.7 & XA5WW1 
+14,頚管粘膜肥厚,L,N888,UT5C,<,http://id.who.int/icd/entity/515639058 &  http://id.who.int/icd/entity/477289013,<,GA15.Y&XA7Z73 
+14,頸管粘膜肥厚,S1,N888,UT5C,<,http://id.who.int/icd/entity/515639058 &  http://id.who.int/icd/entity/477289013,<,GA15.Y&XA7Z73 
+14,子宮頚部萎縮,L,N888,VMSE,=,http://id.who.int/icd/entity/970326859,<,GA15.Y      
+14,子宮頸部萎縮,S1,N888,VMSE,=,http://id.who.int/icd/entity/970326859,<,GA15.Y      
+14,腟上皮異形成・異型度１,L,N890,GKGB,=,http://id.who.int/icd/entity/969362921,=,GA14.6
+14,腟上皮異形成・異型度1,S0,N890,GKGB,=,http://id.who.int/icd/entity/969362921,=,GA14.6
+14,異型度1膣上皮内腫瘍,S1,N890,GKGB,=,http://id.who.int/icd/entity/969362921,=,GA14.6
+14,軽度腟異形成,S1,N890,GKGB,=,http://id.who.int/icd/entity/969362921,=,GA14.6
+14,軽度膣異形成,S1,N890,GKGB,=,http://id.who.int/icd/entity/969362921,=,GA14.6
+14,膣上皮異形成・異型度1,S1,N890,GKGB,=,http://id.who.int/icd/entity/969362921,=,GA14.6
+14,異型度1腟上皮内腫瘍,S1,N890,GKGB,=,http://id.who.int/icd/entity/969362921,=,GA14.6
+14,腟上皮異形成・異型度２,L,N891,DS48,=,http://id.who.int/icd/entity/1819099960,=,2E67.22 
+14,腟上皮異形成・異型度2,S0,N891,DS48,=,http://id.who.int/icd/entity/1819099960,=,2E67.22 
+14,中等度膣異形成,S1,N891,DS48,=,http://id.who.int/icd/entity/1819099960,=,2E67.22 
+14,異型度2腟上皮内腫瘍,S1,N891,DS48,=,http://id.who.int/icd/entity/1819099960,=,2E67.22 
+14,異型度2膣上皮内腫瘍,S1,N891,DS48,=,http://id.who.int/icd/entity/1819099960,=,2E67.22 
+14,膣上皮異形成・異型度2,S1,N891,DS48,=,http://id.who.int/icd/entity/1819099960,=,2E67.22 
+14,中等度腟異形成,S1,N891,DS48,=,http://id.who.int/icd/entity/1819099960,=,2E67.22 
+14,腟上皮異形成・異型度３,L,N892,PRLB,=,http://id.who.int/icd/entity/1819099960,=,2E67.22 
+14,腟上皮異形成・異型度3,S0,N892,PRLB,=,http://id.who.int/icd/entity/1819099960,=,2E67.22 
+14,高度腟異形成,S1,N892,PRLB,=,http://id.who.int/icd/entity/1819099960,=,2E67.22 
+14,膣上皮異形成・異型度3,S1,N892,PRLB,=,http://id.who.int/icd/entity/1819099960,=,2E67.22 
+14,高度膣異形成,S1,N892,PRLB,=,http://id.who.int/icd/entity/1819099960,=,2E67.22 
+14,腟上皮異形成,L,N893,U78V,=,"http://id.who.int/icd/entity/1819099960 or http://id.who.int/icd/entity/969362921
+",=,2E67.22 or GA14.6
+14,膣異形成,S1,N893,U78V,=,"http://id.who.int/icd/entity/1819099960 or http://id.who.int/icd/entity/969362921
+",=,2E67.22 or GA14.6
+14,腟異形成,S1,N893,U78V,=,"http://id.who.int/icd/entity/1819099960 or http://id.who.int/icd/entity/969362921
+",=,2E67.22 or GA14.6
+14,膣上皮異形成,S1,N893,U78V,=,"http://id.who.int/icd/entity/1819099960 or http://id.who.int/icd/entity/969362921
+",=,2E67.22 or GA14.6
+14,腟白斑症,L,N894,BQDM,=,http://id.who.int/icd/entity/644756612,=,GA14.5
+14,膣白斑症,S1,N894,BQDM,=,http://id.who.int/icd/entity/644756612,=,GA14.5
+14,腟狭窄症,L,N895,EH90,=,http://id.who.int/icd/entity/264064043,<,LB42.5
+14,膣狭窄症,S1,N895,EH90,=,http://id.who.int/icd/entity/264064043,<,LB42.5
+14,腟狭窄,S1,N895,EH90,=,http://id.who.int/icd/entity/264064043,<,LB42.5
+14,膣狭窄,S1,N895,EH90,=,http://id.who.int/icd/entity/264064043,<,LB42.5
+14,腟癒着,L,N895,KFU4,=,http://id.who.int/icd/entity/1314934142,<,LB42.5
+14,膣癒着,S1,N895,KFU4,=,http://id.who.int/icd/entity/1314934142,<,LB42.5
+14,腟閉鎖,L,N895,LC9R,=,http://id.who.int/icd/entity/264064043,<,LB42.5
+14,膣口閉塞,S1,N895,LC9R,=,http://id.who.int/icd/entity/264064043,<,LB42.5
+14,腟口閉塞,S1,N895,LC9R,=,http://id.who.int/icd/entity/264064043,<,LB42.5
+14,鎖膣,S1,N895,LC9R,=,http://id.who.int/icd/entity/264064043,<,LB42.5
+14,膣閉鎖,S1,N895,LC9R,=,http://id.who.int/icd/entity/264064043,<,LB42.5 
+14,鎖腟,S1,N895,LC9R,=,http://id.who.int/icd/entity/264064043,<,LB42.5 
+14,処女膜強靱,L,N896,L5HC,=,http://id.who.int/icd/entity/931703273,=,LB42.3       
+14,処女膜強靭,S1,N896,L5HC,=,http://id.who.int/icd/entity/931703273,=,LB42.3       
+14,処女膜狭窄症,L,N896,MHBS,=,http://id.who.int/icd/entity/931703273,=,LB42.3       
+14,処女膜狭窄,S1,N896,MHBS,=,http://id.who.int/icd/entity/931703273,=,LB42.3       
+14,処女膜輪狭小,S1,N896,MHBS,=,http://id.who.int/icd/entity/931703273,=,LB42.3       
+14,腟口狭小,L,N896,SQM9,=,http://id.who.int/icd/entity/931703273,=,LB42.3       
+14,膣口狭小,S1,N896,SQM9,=,http://id.who.int/icd/entity/931703273,=,LB42.3       
+14,腟留血症,L,N897,HMND,=,http://id.who.int/icd/entity/1388536957,=,GA14.1
+14,膣留血症,S1,N897,HMND,=,http://id.who.int/icd/entity/1388536957,=,GA14.1        
+14,陳旧性腟裂傷,L,N898,FP5T,=,http://id.who.int/icd/entity/1000069301,<,GA14.Y 　　
+14,陳旧性膣裂傷,S1,N898,FP5T,=,http://id.who.int/icd/entity/1000069301,<,GA14.Y 　　
+14,帯下,L,N898,G7PQ,=,http://id.who.int/icd/entity/2123556104,=,MF3A 　　　　
+14,こしけ,S2,N898,G7PQ,=,http://id.who.int/icd/entity/2123556104,=,MF3A 　　　　
+14,腟血腫,L,N898,HV2J,=,http://id.who.int/icd/entity/609865692,=,GA14.3
+14,膣血腫,S1,N898,HV2J,=,http://id.who.int/icd/entity/609865692,=,GA14.3
+14,ペッサリー潰瘍,L,N898,K1SJ,=,http://id.who.int/icd/entity/629442753,<,GA14.Y 　　
+14,細菌性腟症,L,N898,KF9B,=,http://id.who.int/icd/entity/106734019 & http://id.who.int/icd/entity/83217129,<,GA1Y & XA1LK7 & XN74M
+14,非特異性腟炎,S1,N898,KF9B,=,http://id.who.int/icd/entity/106734019,<,GA1Y & XA1LK7 
+14,非特異性膣炎,S1,N898,KF9B,=,http://id.who.int/icd/entity/106734019,<,GA1Y & XA1LK7 
+14,腟下垂,L,N898,M0M9,=,http://id.who.int/icd/entity/1402181248 & http://id.who.int/icd/entity/1145498957,=,GC40.Z & XA1LK7
+14,膣下垂,S1,N898,M0M9,=,http://id.who.int/icd/entity/1402181248 & http://id.who.int/icd/entity/1145498957,=,GC40.Z & XA1LK7
+14,病的帯下,L,N898,PP6A,<,http://id.who.int/icd/entity/2123556104,<,MF3A 　　　　
+14,帯下過多,L,N898,QAH4,<,http://id.who.int/icd/entity/2123556104,<,MF3A 　　　　
+14,腟のう胞,L,N898,THJR,=,http://id.who.int/icd/entity/347328271,<,GA14.Y 　　
+14,膣嚢胞,S1,N898,THJR,=,http://id.who.int/icd/entity/347328271,<,GA14.Y 　　
+14,腟嚢胞,S1,N898,THJR,=,http://id.who.int/icd/entity/347328271,<,GA14.Y 　　
+14,膣のう胞,S1,N898,THJR,=,http://id.who.int/icd/entity/347328271,<,GA14.Y 　　
+14,外陰上皮異形成・異型度１,L,N900,E667,=,http://id.who.int/icd/entity/748678746,=,GA13.1 
+14,外陰上皮異形成・異型度1,S0,N900,E667,=,http://id.who.int/icd/entity/748678746,=,GA13.1 
+14,軽度外陰異形成,S1,N900,E667,=,http://id.who.int/icd/entity/748678746,=,GA13.1 
+14,異型度1外陰上皮内腫瘍,S1,N900,E667,=,http://id.who.int/icd/entity/748678746,=,GA13.1 
+14,外陰上皮異形成・異型度２,L,N901,H5NB,=,http://id.who.int/icd/entity/482153699,=,2E67.13
+14,外陰上皮異形成・異型度2,S0,N901,H5NB,=,http://id.who.int/icd/entity/482153699,=,2E67.13
+14,中等度外陰異形成,S1,N901,H5NB,=,http://id.who.int/icd/entity/482153699,=,2E67.13
+14,異型度2外陰上皮内腫瘍,S1,N901,H5NB,=,http://id.who.int/icd/entity/482153699,=,2E67.13
+14,外陰上皮異形成・異型度３,L,N902,RDA4,=,http://id.who.int/icd/entity/482153699,=,2E67.13
+14,外陰上皮異形成・異型度3,S0,N902,RDA4,=,http://id.who.int/icd/entity/482153699,=,2E67.13
+14,高度外陰異形成,S1,N902,RDA4,=,http://id.who.int/icd/entity/482153699,=,2E67.13
+14,外陰上皮異形成,L,N903,EEJ5,=,http://id.who.int/icd/entity/748678746,=,GA13.1         
+14,外陰異形成,S1,N903,EEJ5,=,http://id.who.int/icd/entity/748678746,=,GA13.1         
+14,外陰白斑症,L,N904,HR2J,=,http://id.who.int/icd/entity/592962457,<,GA13.Y       
+14,外陰ロイコプラキー,S1,N904,HR2J,=,http://id.who.int/icd/entity/592962457,<,GA13.Y       
+14,外陰ロイコプラキア,S1,N904,HR2J,=,http://id.who.int/icd/entity/592962457,<,GA13.Y       
+14,外陰部角化症,L,N904,MCBQ,<,http://id.who.int/icd/entity/1601273294,<,EB60.0
+14,外陰萎縮,L,N905,NEGH,<,http://id.who.int/icd/entity/1601273294,<,EB60.0
+14,陰唇肥大,L,N906,B210,=,http://id.who.int/icd/entity/1541415557,=,GA13.2 & XA11L9 
+14,外陰肥大,L,N906,HHUP,=,http://id.who.int/icd/entity/1318576293,=,GA13.2
+14,外陰のう胞,L,N907,F05N,=,http://id.who.int/icd/entity/735849777,=,GA13.3
+14,外陰嚢胞,S1,N907,F05N,=,http://id.who.int/icd/entity/735849777,=,GA13.3
+14,外陰浮腫,L,N908,HHDT,=,http://id.who.int/icd/entity/1334060166,<,GA13.Y
+14,外陰部出血,L,N908,J257,=,http://id.who.int/icd/entity/1559428902,<,GA13.Y
+14,陰核肥大,L,N908,KEQA,=,http://id.who.int/icd/entity/1196099436,=,LB41.2
+14,陰門疾患,L,N909,E4GF,=,http://id.who.int/icd/entity/306138025 & http://id.who.int/icd/entity/475546725,=,GA1Z & XA78U5   
+14,外陰腫瘤,L,N909,MLLH,=,http://id.who.int/icd/entity/735849777 ,=,GA13.3
+14,原発性無月経,L,N910,K88P,=,http://id.who.int/icd/entity/1154119206,=,GA20.00
+14,体重減少性無月経,L,N911,BA8L,=,http://id.who.int/icd/entity/562150320 / http://id.who.int/icd/entity/2015627151,=,GA20.01 / MG43.5
+14,心因性無月経,L,N911,BTA3,=,http://id.who.int/icd/entity/562150320 / http://id.who.int/icd/entity/700487590,=,GA20.01 /6E40.1
+14,授乳性無月経,L,N911,H5K5,=,http://id.who.int/icd/entity/1388917064,=,GA20.02        
+14,産褥性無月経,S1,N911,H5K5,=,http://id.who.int/icd/entity/1603946155 & http://id.who.int/icd/entity/230631349,=,GA20.0Y & XT4Z
+14,視床下部性無月経,L,N911,HVDN,=,http://id.who.int/icd/entity/2095869896,<,GA20.0Y 
+14,間脳性無月経,S1,N911,HVDN,=,http://id.who.int/icd/entity/2095869896,<,GA20.0Y 
+14,下垂体性無月経,L,N911,J8PG,=,http://id.who.int/icd/entity/1094193621,<,GA20.0Y
+14,中枢性無月経,L,N911,NNKK,<,http://id.who.int/icd/entity/1595830028,<,GA20.0Y
+14,続発性無月経,L,N911,SCQB,=,http://id.who.int/icd/entity/562150320,=,GA20.01
+14,神経性食欲不振症無月経,L,N911,TCQ7,=,http://id.who.int/icd/entity/562150320 / http://id.who.int/icd/entity/263852475,=,GA20.01 / 6B80.Z
+14,精神性無月経,L,N911,UDNE,<,http://id.who.int/icd/entity/562150320 / http://id.who.int/icd/entity/1553197895,<,GA20.01 / 6E40.0 
+14,子宮性無月経,L,N912,CNAV,=,http://id.who.int/icd/entity/2131756974,<,GA20.0Y       
+14,無月経症,L,N912,K39N,=,http://id.who.int/icd/entity/1595830028,=,GA20.0Z
+14,無月経(症),S1,N912,K39N,=,http://id.who.int/icd/entity/1595830028,=,GA20.0Z
+14,無月経,S1,N912,K39N,=,http://id.who.int/icd/entity/1595830028,=,GA20.0Z
+14,第１度無月経,L,N912,LU7P,<,http://id.who.int/icd/entity/562150320,<,GA20.01
+14,第1度無月経,S0,N912,LU7P,<,http://id.who.int/icd/entity/562150320,<,GA20.01
+14,第２度無月経,L,N912,U5HR,<,http://id.who.int/icd/entity/562150320,<,GA20.01
+14,第2度無月経,S0,N912,U5HR,<,http://id.who.int/icd/entity/562150320,<,GA20.01
+14,機能性無月経,L,N912,VDP6,<,http://id.who.int/icd/entity/1595830028,<,GA20.0Y       
+14,原発性希発月経,L,N913,NTJL,<,http://id.who.int/icd/entity/650279131,<,GA20.11
+14,続発性希発月経,L,N914,RNCB,<,http://id.who.int/icd/entity/650279131,<,GA20.11
+14,遷延性月経,L,N915,F3BV,=,http://id.who.int/icd/entity/2012105331,<,GA20.1Z 　　
+14,過少月経,L,N915,H537,=,http://id.who.int/icd/entity/2098842366,=,GA20.51
+14,希発月経,L,N915,RUGM,=,http://id.who.int/icd/entity/650279131,=,GA20.11
+14,稀発月経,S1,N915,RUGM,=,http://id.who.int/icd/entity/650279131,=,GA20.11
+14,過多月経,L,N920,DM57,=,http://id.who.int/icd/entity/609833590,=,GA20.50
+14,月経過多,S1,N920,DM57,=,http://id.who.int/icd/entity/609833590,=,GA20.50
+14,頻発月経,L,N920,JBCV,=,http://id.who.int/icd/entity/549694871,=,GA20.10
+14,多発月経,S1,N920,JBCV,=,http://id.who.int/icd/entity/549694871,=,GA20.10
+14,過長月経,L,N920,PEH4,=,http://id.who.int/icd/entity/388117484,<,GA20.4
+14,機能性子宮出血,L,N921,SV82,=,http://id.who.int/icd/entity/357921189,<,GA2Y
+14,子宮不正出血,L,N921,TSNQ,=,http://id.who.int/icd/entity/147967528,<,GA2Y 　　　
+14,思春期月経異常,L,N922,B2J3,=,http://id.who.int/icd/entity/357921189 & http://id.who.int/icd/entity/275453639,<,GA2Y & XT7M 
+14,思春期出血,L,N922,C7U7,=,http://id.who.int/icd/entity/357921189 & http://id.who.int/icd/entity/275453639,<,GA2Y & XT7M 
+14,思春期月経過多,L,N922,JGD1,=,http://id.who.int/icd/entity/549694871 & http://id.who.int/icd/entity/275453639,=,GA20.10 & XT7M 
+14,若年性子宮出血,L,N922,U1QL,=,http://id.who.int/icd/entity/2126256575,<,GA2Y 
+14,排卵期出血,L,N923,PJE8,=,http://id.who.int/icd/entity/836798181,=,GA20.2Z 
+14,排卵出血,S1,N923,PJE8,=,http://id.who.int/icd/entity/836798181,=,GA20.2Z 
+14,月経中間期出血,L,N923,UKN4,=,http://id.who.int/icd/entity/1883110029,=,GA20.20 
+14,更年期出血,L,N924,GSK5,=,http://id.who.int/icd/entity/1108219249,=,GA30.02　　　
+14,更年期前期過多月経,S2,N924,GSK5,=,http://id.who.int/icd/entity/1108219249,=,GA30.02　　　
+14,閉経期過多月経,S2,N924,GSK5,=,http://id.who.int/icd/entity/1108219249,=,GA30.02　　　
+14,更年期過多月経,S2,N924,GSK5,=,http://id.who.int/icd/entity/1108219249,=,GA30.02　　　
+14,閉経前期過多月経,S2,N924,GSK5,=,http://id.who.int/icd/entity/1108219249,=,GA30.02　　　
+14,閉経前過多出血,S2,N924,GSK5,=,http://id.who.int/icd/entity/1108219249,=,GA30.02　　　
+14,月経異常,L,N926,FD03,=,http://id.who.int/icd/entity/1407748124,<,GA20.3 
+14,異常月経,L,N926,LUJS,=,http://id.who.int/icd/entity/1407748124,<,GA20.3 
+14,異常周期月経,S2,N926,LUJS,=,http://id.who.int/icd/entity/1407748124,<,GA20.3 
+14,月経不順,L,N926,SFAL,=,http://id.who.int/icd/entity/1407748124,<,GA20.3 
+14,生理不順,S1,N926,SFAL,=,http://id.who.int/icd/entity/1407748124,<,GA20.3 
+14,不規則月経,L,N926,TPN8,=,http://id.who.int/icd/entity/1407748124,<,GA20.3 
+14,不規則月経周期,S1,N926,TPN8,=,http://id.who.int/icd/entity/1407748124,<,GA20.3 
+14,性交後出血,L,N930,F1DB,=,http://id.who.int/icd/entity/55527522,=,GA21.0 
+14,若年性子宮機能出血,L,N938,M10L,=,http://id.who.int/icd/entity/2126256575,<,GA2Y
+14,機能低下性子宮出血,L,N938,PSST,=,http://id.who.int/icd/entity/357921189,<,GA2Y
+14,機能不全性子宮出血,S1,N938,PSST,=,http://id.who.int/icd/entity/357921189,<,GA2Y
+14,不正性器出血,L,N939,B8PB,=,http://id.who.int/icd/entity/1324937831,=,GA2Z
+14,不正出血,S2,N939,B8PB,=,http://id.who.int/icd/entity/1324937831,=,GA2Z
+14,子宮出血,L,N939,KC18,=,http://id.who.int/icd/entity/147967528,<,GA2Y
+14,排卵痛,L,N940,HV0G,=,http://id.who.int/icd/entity/1657565147,<,GA34.20
+14,中間痛,S1,N940,HV0G,=,http://id.who.int/icd/entity/1657565147,<,GA34.20
+14,性交疼痛症,L,N941,ETBH,=,http://id.who.int/icd/entity/126329423,=,GA12
+14,性交疼痛(症),S1,N941,ETBH,=,http://id.who.int/icd/entity/126329423,=,GA12
+14,性交疼痛,S1,N941,ETBH,=,http://id.who.int/icd/entity/126329423,=,GA12
+14,性交痛,L,N941,EVN9,=,http://id.who.int/icd/entity/126329423,=,GA12
+14,腟痙,L,N942,F0NK,=,http://id.who.int/icd/entity/1932194482,=,HA20.Z
+14,膣痙,S1,N942,F0NK,=,http://id.who.int/icd/entity/1932194482,=,HA20.Z
+14,月経前浮腫,L,N943,HTHH,=,http://id.who.int/icd/entity/1172521879 / http://id.who.int/icd/entity/826220775,=,GA34.4Z / MG29.Z 
+14,月経前症候群,L,N943,MGFN,=,http://id.who.int/icd/entity/1172521879,=,GA34.4Z 　　
+14,月経前緊張症候群,S1,N943,MGFN,=,http://id.who.int/icd/entity/375471908,=,GA34.40
+14,月経前緊張,S2,N943,MGFN,=,http://id.who.int/icd/entity/375471908,=,GA34.40
+14,月経前緊張(症),S2,N943,MGFN,=,http://id.who.int/icd/entity/375471908,=,GA34.40
+14,月経前緊張症,S2,N943,MGFN,=,http://id.who.int/icd/entity/375471908,=,GA34.40
+14,月経前片頭痛,L,N943,QT0K,=,http://id.who.int/icd/entity/1622155767,<,GA34.40 　　
+14,月経片頭痛,S1,N943,QT0K,=,http://id.who.int/icd/entity/1622155767,<,GA34.40 　　
+14,原発性月経困難症,L,N944,BA0G,=,http://id.who.int/icd/entity/1442999941,<,GA34.3 　　
+14,機能性月経困難症,L,N944,TTGB,<,http://id.who.int/icd/entity/1703914672,<,GA34.3 　　
+14,続発性月経困難症,L,N945,EE76,=,http://id.who.int/icd/entity/12869926,<,GA34.3 　　
+14,器質性月経困難症,L,N945,T552,<,http://id.who.int/icd/entity/1703914672,<,GA34.3 　　
+14,月経痛,L,N946,FPCC,=,http://id.who.int/icd/entity/1703914672,=,GA34.3 　　
+14,有痛月経,S1,N946,FPCC,=,http://id.who.int/icd/entity/1703914672,=,GA34.3 　　
+14,生理痛,S1,N946,FPCC,=,http://id.who.int/icd/entity/1703914672,=,GA34.3 　　
+14,膜様月経困難症,L,N946,GAD7,<,http://id.who.int/icd/entity/1703914672,<,GA34.3 　　
+14,月経モリミナ,L,N946,KE0V,<,http://id.who.int/icd/entity/881865704,<,GA34.Y
+14,月経困難症,L,N946,Q4BP,=,http://id.who.int/icd/entity/1703914672,=,GA34.3 　　
+14,月経困難,S1,N946,Q4BP,=,http://id.who.int/icd/entity/1703914672,=,GA34.3 　　
+14,月経困難(症),S1,N946,Q4BP,=,http://id.who.int/icd/entity/1703914672,=,GA34.3 　　
+14,卵巣痛,L,N948,AFEM,=,http://id.who.int/icd/entity/250742860,=,GA34.6 & XA1QK0 
+14,ヌック管水腫,L,N948,C5DB,=,http://id.who.int/icd/entity/442594105,<, LB4Y
+14,ヌック水瘤,S1,N948,C5DB,=,http://id.who.int/icd/entity/442594105,<, LB4Y
+14,NUCK水瘤,S1,N948,C5DB,=,http://id.who.int/icd/entity/442594105,<, LB4Y
+14,NUCK管水腫,S1,N948,C5DB,=,http://id.who.int/icd/entity/442594105,<, LB4Y
+14,ヌック水腫,S1,N948,C5DB,=,http://id.who.int/icd/entity/442594105,<, LB4Y
+14,NUCK水腫,S1,N948,C5DB,=,http://id.who.int/icd/entity/442594105,<, LB4Y
+14,骨盤内うっ血症候群,L,N948,L1AC,=,http://id.who.int/icd/entity/2109588852,<,GA34.Y
+14,骨盤うっ血症候群,S1,N948,L1AC,=,http://id.who.int/icd/entity/2109588852,<,GA34.Y
+14,月経性歯肉炎,L,N948,QM1R,<,http://id.who.int/icd/entity/1024877043 / http://id.who.int/icd/entity/98060404,<,GA34.Z /  DA0B.Z 
+14,陰部痛・女性,L,N948,R4UV,=,http://id.who.int/icd/entity/799568625,=,GA34.0Z
+14,月経随伴性気胸,L,N948,T91K,=,http://id.who.int/icd/entity/1744257132,<,CB21.Y  
+14,閉経後出血,L,N950,R619,=,http://id.who.int/icd/entity/2117379932,=,GA30.1 
+14,血の道症,L,N951,A6P2,=,http://id.who.int/icd/entity/1388194024,=,MF33
+14,閉経,L,N951,C3AA,=,http://id.who.int/icd/entity/1965418440,=,GA30.0Z
+14,更年期無月経,L,N951,FGPR,=,http://id.who.int/icd/entity/461335246 / http://id.who.int/icd/entity/1595830028,<,GA30.00 / GA20.0Z　    
+14,更年期症候群,L,N951,GSL1,=,http://id.who.int/icd/entity/461335246,=,GA30.00
+14,更年期障害,S1,N951,GSL1,=,http://id.who.int/icd/entity/461335246,=,GA30.00
+14,更年期自律神経失調症,S1,N951,GSL1,=,http://id.who.int/icd/entity/461335246 / http://id.who.int/icd/entity/118329883,=,GA30.00 / 8D8Y 
+14,単発更年期愁訴,S1,N951,GSL1,<,http://id.who.int/icd/entity/1482533991,<,GA30.Z
+14,婦人更年期症,S1,N951,GSL1,=,http://id.who.int/icd/entity/461335246,=,GA30.00
+14,更年期性浮腫,L,N951,KV3T,=,http://id.who.int/icd/entity/461335246 / http://id.who.int/icd/entity/826220775,<,GA30.00 /  MG29.Z
+14,更年期神経症,L,N951,PKU6,=,http://id.who.int/icd/entity/1895786823,<,GA30.00
+14,婦人更年期神経症,S1,N951,PKU6,=,http://id.who.int/icd/entity/1895786823,<,GA30.00
+14,閉経後症候群,L,N951,QH8R,=,http://id.who.int/icd/entity/461335246,=,GA30.00
+14,萎縮性腟炎,L,N952,AA5N,=,http://id.who.int/icd/entity/1876048433,=,GA30.2
+14,エストロジェン欠乏性膣炎,S1,N952,AA5N,=,http://id.who.int/icd/entity/1876048433,=,GA30.2
+14,エストロジェン歇乏性腟炎,S1,N952,AA5N,=,http://id.who.int/icd/entity/1876048433,=,GA30.2
+14,老人性腟炎,S1,N952,AA5N,=,http://id.who.int/icd/entity/1876048433,=,GA30.2
+14,萎縮性膣炎,S1,N952,AA5N,=,http://id.who.int/icd/entity/1876048433,=,GA30.2
+14,老人性膣萎縮,S1,N952,AA5N,=,http://id.who.int/icd/entity/1876048433,=,GA30.2
+14,閉経後萎縮性腟炎,S1,N952,AA5N,=,http://id.who.int/icd/entity/1876048433,=,GA30.2
+14,エストロジェン欠乏性腟炎,S1,N952,AA5N,=,http://id.who.int/icd/entity/1876048433,=,GA30.2
+14,閉経後萎縮性膣炎,S1,N952,AA5N,=,http://id.who.int/icd/entity/1876048433,=,GA30.2
+14,エストロゲン欠乏性膣炎,S1,N952,AA5N,=,http://id.who.int/icd/entity/1876048433,=,GA30.2
+14,老人性膣炎,S1,N952,AA5N,=,http://id.who.int/icd/entity/1876048433,=,GA30.2
+14,老人性腟萎縮,S1,N952,AA5N,=,http://id.who.int/icd/entity/1876048433,=,GA30.2
+14,人工的閉経後症候群,L,N953,T8AF,=,http://id.who.int/icd/entity/177862565,=,GA30.3 
+14,閉経期障害,L,N959,RHD3,=,http://id.who.int/icd/entity/1482533991,=,GA30.Z     
+14,習慣流産,L,N96,GDNN,=,http://id.who.int/icd/entity/753990808,=,GA33
+14,習慣性流産,S1,N96,GDNN,=,http://id.who.int/icd/entity/753990808,=,GA33
+14,流産癖,S2,N96,GDNN,=,http://id.who.int/icd/entity/753990808,=,GA33
+14,卵巣性不妊症,L,N970,AHB5,=,http://id.who.int/icd/entity/1665912805,<,GA31.Z    
+14,無排卵症,L,N970,D16S,=,http://id.who.int/icd/entity/1665912805,<,GA31.Z    
+14,無排卵,S1,N970,D16S,=,http://id.who.int/icd/entity/1665912805,<,GA31.Z    
+14,無排卵(症),S1,N970,D16S,=,http://id.who.int/icd/entity/1665912805,<,GA31.Z    
+14,無排卵月経,L,N970,FLTF,=,http://id.who.int/icd/entity/1665912805,<,GA31.Z    
+14,無排卵性月経,S1,N970,FLTF,=,http://id.who.int/icd/entity/1665912805,<,GA31.Z    
+14,排卵障害,L,N970,GAS7,=,http://id.who.int/icd/entity/1665912805,<,GA31.Z    
+14,卵管閉塞,L,N971,FUCA,=,http://id.who.int/icd/entity/19228808777,<,GA31.01   
+14,卵管狭窄症,L,N971,HH4N,=,http://id.who.int/icd/entity/1922880877,<,GA31.01   
+14,卵管狭窄,S1,N971,HH4N,=,http://id.who.int/icd/entity/1922880877,<,GA31.01   
+14,卵管通過障害,L,N971,M1TH,=,http://id.who.int/icd/entity/100663921,=,GA31.01   
+14,卵管性不妊症,L,N971,NLPT,=,http://id.who.int/icd/entity/100663921,=,GA31.01   
+14,卵管機能異常,L,N971,RLVU,=,http://id.who.int/icd/entity/100663921,=,GA31.01   
+14,子宮性不妊症,L,N972,LC62,=,http://id.who.int/icd/entity/1923961486,=,GA31.00       
+14,頚管性不妊症,L,N973,R2U0,=,http://id.who.int/icd/entity/824827875 & http://id.who.int/icd/entity/477289013,=,GA31.0Y & XA7Z73
+14,頸管性不妊症,S1,N973,R2U0,=,http://id.who.int/icd/entity/824827875 & http://id.who.int/icd/entity/477289013,=,GA31.0Y & XA7Z73
+14,機能性女性不妊症,L,N979,CATA,=,http://id.who.int/icd/entity/1237004558,=,GA31.Z      
+14,機能性不妊症・女性,S1,N979,CATA,<,http://id.who.int/icd/entity/824827875,<,GA31.0Z      
+14,女性不妊症,L,N979,E2VR,=,http://id.who.int/icd/entity/1237004558,=,GA31.Z
+14,不妊症・女性,S1,N979,E2VR,=,http://id.who.int/icd/entity/1237004558,=,GA31
+14,原発性女性不妊症,L,N979,G0N7,=,http://id.who.int/icd/entity/824827875,=,GA31.0Z
+14,原発性不妊症・女性,S1,N979,G0N7,=,http://id.who.int/icd/entity/824827875,=,GA31.0Z
+14,続発性女性不妊症,L,N979,LETU,=,http://id.who.int/icd/entity/1014671362,=,GA31.1Z 
+14,続発性不妊症・女性,S1,N979,LETU,=,http://id.who.int/icd/entity/1014671362,=,GA31.1Z 
+14,採卵後骨盤内炎症性疾患,L,N980,DNEG,<,http://id.who.int/icd/entity/768547929 / http://id.who.int/icd/entity/1230041477,<,GA32.2 / GA05.Z     
+14,採卵後骨盤内感染症,S1,N980,DNEG,<,http://id.who.int/icd/entity/768547929 / http://id.who.int/icd/entity/1230041477,<,GA32.2 / GA05.Z     
+14,人工授精後骨盤内炎症性疾患,L,N980,TBUR,<,http://id.who.int/icd/entity/768547929 / http://id.who.int/icd/entity/1230041477,<,GA32.2 / GA05.Z      
+14,人工授精後骨盤内感染症,S1,N980,TBUR,<,http://id.who.int/icd/entity/768547929 / http://id.who.int/icd/entity/1230041477,<,GA32.2 / GA05.Z      
+14,卵巣過剰刺激症候群,L,N981,CDR8,=,http://id.who.int/icd/entity/1216664013,=,GA32.0
+14,採卵後腹腔内出血,L,N988,DT0M,=,http://id.who.int/icd/entity/828208976,=,GA32.1       
+14,処置後腎不全,L,N990,C39U,=,http://id.who.int/icd/entity/825742554,<,GB60.Y 
+14,術後尿道狭窄,L,N991,AK5F,=,http://id.who.int/icd/entity/1417419084,=,GC72   
+14,術後尿道狭窄症,S1,N991,AK5F,=,http://id.who.int/icd/entity/1417419084,=,GC72   
+14,処置後尿道狭窄,S1,N991,AK5F,=,http://id.who.int/icd/entity/1417419084,=,GC72   
+14,カテーテル導入後尿道狭窄,L,N991,F784,=,http://id.who.int/icd/entity/1248389554,<,GC72   
+14,術後腟癒着,L,N992,QN9Q,=,http://id.who.int/icd/entity/550586803,=,GC70 
+14,術後膣癒着,S1,N992,QN9Q,=,http://id.who.int/icd/entity/550586803,=,GC70 
+14,子宮切除後腟壁脱,L,N993,TU68,=,http://id.who.int/icd/entity/1167754279,=,GC71     
+14,子宮切除後膣壁脱,S1,N993,TU68,=,http://id.who.int/icd/entity/1167754279,=,GC71     
+14,処置後骨盤腹膜癒着,L,N994,SUH3,=,http://id.who.int/icd/entity/913577907,=,GC73     
+14,子宮筋腫摘出後後遺症,L,N998,AC0M,=,http://id.who.int/icd/entity/214644315 / http://id.who.int/icd/entity/455734276,=,NE8Y / 2E86.0
+14,残留卵巣症候群,L,N998,AU1S,=,http://id.who.int/icd/entity/584962583,=,GA34.5      
+14,術後排尿障害,L,N998,MUSP,=,http://id.who.int/icd/entity/1007936831 & http://id.who.int/icd/entity/182265087,=,MF50.Z & XY7V
+14,包茎術後変形,L,N998,NBEE,<,http://id.who.int/icd/entity/885653625 & http://id.who.int/icd/entity/182265087 / http://id.who.int/icd/entity/184957512,<,GB06.Y  & XY7V / GB05.2

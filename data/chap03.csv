@@ -1,0 +1,1259 @@
+ICD10 章,標準病名,代表・同義,ICD10コード,交換コード,関係,ICD11 Foundation URI,関係,MMS
+3,出血性貧血,L,D500,LLUT,=,http://id.who.int/icd/entity/942744561,=,3A00.0Z
+3,出血後貧血,S1,D500,LLUT,=,http://id.who.int/icd/entity/942744561,=,3A00.0Z
+3,プランマー・ヴィンソン症候群,L,D501,FE9U,=,http://id.who.int/icd/entity/1568337509,<,3A00.Y 
+3,プランマー・ビンソン症候群,S1,D501,FE9U,=,http://id.who.int/icd/entity/1568337509,<,3A00.Y 
+3,パターソン・ケリー症候群,S1,D501,FE9U,=,http://id.who.int/icd/entity/1568337509,<,3A00.Y 
+3,PLUMMER-VINSON症候群,S1,D501,FE9U,=,http://id.who.int/icd/entity/1568337509,<,3A00.Y 
+3,ケリー・パターソン症候群,S1,D501,FE9U,=,http://id.who.int/icd/entity/1568337509,<,3A00.Y 
+3,小球性低色素性貧血,L,D508,DVJN,=,http://id.who.int/icd/entity/1932238346,<,3A00.Y 
+3,小球性貧血,L,D508,G53D,=,http://id.who.int/icd/entity/1380406043,<,3A00.Y 
+3,鉄欠乏性貧血,L,D509,A4PH,=,http://id.who.int/icd/entity/1577750667,=,3A00.Z
+3,鉄歇乏性貧血,S1,D509,A4PH,=,http://id.who.int/icd/entity/1577750667,=,3A00.Z
+3,胃液歇乏性萎黄貧血,S2,D509,A4PH,=,http://id.who.int/icd/entity/1243062527,<,3A00.Y
+3,萎黄貧血,S2,D509,A4PH,=,http://id.who.int/icd/entity/1243062527,<,3A00.Y
+3,胃液欠乏性萎黄貧血,S2,D509,A4PH,=,http://id.who.int/icd/entity/1243062527,<,3A00.Y
+3,萎黄病,S2,D509,A4PH,=,http://id.who.int/icd/entity/1243062527,<,3A00.Y
+3,低色素性貧血,L,D509,LM1P,=, http://id.who.int/icd/entity/84542709,<,3A00.Y
+3,低血色素性貧血,S1,D509,LM1P,=, http://id.who.int/icd/entity/84542709,<,3A00.Y
+3,悪性貧血,L,D510,CU56,=,"http://id.who.int/icd/entity/1493613976
+
+",=,3A01.30
+3,アジソン・ビールメル貧血,S1,D510,CU56,=,"http://id.who.int/icd/entity/1493613976
+
+
+",=,3A01.30
+3,ADDISON BIERMER貧血,S1,D510,CU56,=,http://id.who.int/icd/entity/1493613976,=,3A01.30
+3,アジソン貧血,S1,D510,CU56,=,http://id.who.int/icd/entity/1614924129,<,3A01.Y
+3,ハンター舌炎,L,D510,H7U9,=,http://id.who.int/icd/entity/889434421,=,DA03.2
+3,HUNTER舌炎,S1,D510,H7U9,=,http://id.who.int/icd/entity/889434421,=,DA03.2
+3,先天性悪性貧血,L,D510,VPUB,=,http://id.who.int/icd/entity/1528646449,<,3A01.Y
+3,先天性内因子歇乏症,S1,D510,VPUB,=,http://id.who.int/icd/entity/1528646449,<,3A01.Y
+3,先天性内因子欠乏症,S1,D510,VPUB,=,http://id.who.int/icd/entity/1528646449,<,3A01.Y
+3,イマースルンド・グレスベック症候群,L,D511,LKFT,=,http://id.who.int/icd/entity/375969525,<,3A01.Y
+3,IMERSLUND-GRASBECK症候群,S1,D511,LKFT,=,http://id.who.int/icd/entity/375969525,<,3A01.Y
+3,IMERSLUND症候群,S1,D511,LKFT,=,http://id.who.int/icd/entity/375969525,<,3A01.Y
+3,遺伝性巨赤芽球性貧血,L,D511,VFPS,=,http://id.who.int/icd/entity/623613402,=,3A01.Z
+3,トランスコバラミンＩＩ欠乏症,L,D512,R6QT,=,http://id.who.int/icd/entity/892302875,<,3A01.0 
+3,トランスコバラミンII欠乏症,S0,D512,R6QT,=,http://id.who.int/icd/entity/892302875,<,3A01.0 
+3,トランスコバラミンII歇乏症,S1,D512,R6QT,=,http://id.who.int/icd/entity/892302875,<,3A01.0 
+3,菜食主義者貧血,L,D513,G5AH,=,http://id.who.int/icd/entity/654588844,<,3A01.2
+3,クローン病によるビタミンＢ１２欠乏性貧血,L,D518,D6FU,=,http://id.who.int/icd/entity/1470734867/ http://id.who.int/icd/entity/1267652425,=,3A01.4 / DD70.Z
+3,クローン病によるビタミンB12欠乏性貧血,S0,D518,D6FU,=,http://id.who.int/icd/entity/1470734867/ http://id.who.int/icd/entity/1267652425,=,3A01.4 / DD70.Z
+3,クローン病によるビタミンB12歇乏性貧血,S1,D518,D6FU,=,http://id.who.int/icd/entity/1470734867/ http://id.who.int/icd/entity/1267652425,=,3A01.4 / DD70.Z
+3,CROHN病によるビタミンB12欠乏性貧血,S1,D518,D6FU,=,http://id.who.int/icd/entity/1470734867/ http://id.who.int/icd/entity/1267652425,=,3A01.4 / DD70.Z
+3,小腸切除によるビタミンＢ１２欠乏性貧血,L,D518,HHRF,=,http://id.who.int/icd/entity/1470734867,<,3A01.4
+3,小腸切除によるビタミンB12欠乏性貧血,S0,D518,HHRF,=,http://id.who.int/icd/entity/1470734867,<,3A01.4
+3,小腸切除によるビタミンB12歇乏性貧血,S1,D518,HHRF,=,http://id.who.int/icd/entity/1470734867,<,3A01.4
+3,胃切除後巨赤芽球性貧血,L,D518,L84L,<,http://id.who.int/icd/entity/1965715576,<,3A01.3Y
+3,胃切除後悪性貧血,S2,D518,L84L,<,http://id.who.int/icd/entity/1965715576,<,3A01.3Y
+3,胃全摘後巨赤芽球性貧血,S2,D518,L84L,=,http://id.who.int/icd/entity/1965715576,<,3A01.3Y
+3,胃切除後ビタミンB12欠乏性巨赤芽球貧血,S2,D518,L84L,<,http://id.who.int/icd/entity/1965715576,<,3A01.3Y
+3,胃切除後ビタミンB12歇乏性巨赤芽球貧血,S2,D518,L84L,<,http://id.who.int/icd/entity/1965715576,<,3A01.3Y
+3,吸収不良症候群によるビタミンＢ１２欠乏性貧血,L,D518,RR8P,=,http://id.who.int/icd/entity/1470734867,=,3A01.4 
+3,吸収不良症候群によるビタミンB12欠乏性貧血,S0,D518,RR8P,=,http://id.who.int/icd/entity/1470734867,=,3A01.4 
+3,吸収不良症候群によるビタミンB12歇乏性貧血,S1,D518,RR8P,=,http://id.who.int/icd/entity/1470734867,=,3A01.4 
+3,ビタミンＢ１２欠乏性貧血,L,D519,U00T,=,http://id.who.int/icd/entity/623613402,=,3A01.Z
+3,ビタミンB12欠乏性貧血,S0,D519,U00T,=,http://id.who.int/icd/entity/623613402,=,3A01.Z
+3,ビタミンB12歇乏性貧血,S1,D519,U00T,=,http://id.who.int/icd/entity/623613402,=,3A01.Z
+3,食事性葉酸欠乏性貧血,L,D520,KLKU,=,http://id.who.int/icd/entity/625888080,=,3A02.1
+3,食事性葉酸歇乏性貧血,S1,D520,KLKU,=,http://id.who.int/icd/entity/625888080,=,3A02.1
+3,栄養性巨赤芽球性貧血,L,D520,LKNH,=,http://id.who.int/icd/entity/993393172,<,3A02.1
+3,栄養性大赤血球性貧血,S2,D520,LKNH,=,http://id.who.int/icd/entity/993393172,<,3A02.1
+3,薬剤性葉酸欠乏性貧血,L,D521,HAGB,=,http://id.who.int/icd/entity/1074104026,=,3A02.4
+3,薬剤性葉酸歇乏性貧血,S1,D521,HAGB,=,http://id.who.int/icd/entity/1074104026,=,3A02.4
+3,溶血性貧血に伴う葉酸欠乏症,L,D528,SLQP,=,http://id.who.int/icd/entity/1737161311,<,3A02.2
+3,溶血性貧血に伴う葉酸歇乏症,S1,D528,SLQP,=,http://id.who.int/icd/entity/1737161311,<,3A02.2
+3,先天性葉酸吸収不全,L,D528,TAU7,=,http://id.who.int/icd/entity/1312508751,=,3A02.0 
+3,先天性葉酸吸収不全症,S1,D528,TAU7,=,http://id.who.int/icd/entity/1312508751,=,3A02.0 
+3,葉酸欠乏性貧血,L,D529,DD13,=,http://id.who.int/icd/entity/918183131,=,3A02.Z
+3,葉酸歇乏性貧血,S1,D529,DD13,=,http://id.who.int/icd/entity/918183131,=,3A02.Z
+3,高色素性貧血,L,D529,M2AE,★,http://id.who.int/icd/entity/623613402 OR http://id.who.int/icd/entity/918183131,★,3A01.Z or 3A02.Z 
+3,大球性貧血,L,D529,PLGT,★,http://id.who.int/icd/entity/623613402 OR http://id.who.int/icd/entity/918183131,★,3A01.Z or 3A02.Z 
+3,大赤血球性貧血,S1,D529,PLGT,★,http://id.who.int/icd/entity/623613402 OR http://id.who.int/icd/entity/918183131,★,3A01.Z or 3A02.Z 
+3,大球性高色素性貧血,S2,D529,PLGT,★,http://id.who.int/icd/entity/623613402 OR http://id.who.int/icd/entity/918183131,★,3A01.Z or 3A02.Z 
+3,アミノ酸欠乏性貧血,L,D530,BA9N,=,http://id.who.int/icd/entity/261912453,=,3A03.1
+3,アミノ酸歇乏性貧血,S1,D530,BA9N,=,http://id.who.int/icd/entity/261912453,=,3A03.1
+3,オロチン酸尿性貧血,L,D530,R0GL,=,http://id.who.int/icd/entity/449856959,=,3A03.0 
+3,蛋白欠乏性貧血,L,D530,VGCP,=,http://id.who.int/icd/entity/261912453,=,3A03.1 
+3,低蛋白性貧血,S1,D530,VGCP,=,http://id.who.int/icd/entity/261912453,=,3A03.1 
+3,蛋白歇乏性貧血,S1,D530,VGCP,=,http://id.who.int/icd/entity/261912453,=,3A03.1 
+3,巨赤芽球性貧血,L,D531,BM77,★,http://id.who.int/icd/entity/623613402 OR http://id.who.int/icd/entity/918183131,★,3A01.Z or 3A02.Z
+3,症候性巨赤芽球性貧血,L,D531,LKC6,★,http://id.who.int/icd/entity/623613402 OR http://id.who.int/icd/entity/918183131,★,3A01.Z or 3A02.Z
+3,壊血病性貧血,L,D532,QNGS,=,http://id.who.int/icd/entity/676339366,=,3A03.2 
+3,亜鉛欠乏性貧血,L,D538,KKCG,=,http://id.who.int/icd/entity/31556424 & http://id.who.int/icd/entity/1177060375,=,"3A03.Y & XM1U95
+"
+3,銅欠乏性貧血,L,D538,S73F,=,http://id.who.int/icd/entity/1207626305,=,3A03.3 
+3,銅歇乏性貧血,S1,D538,S73F,=,http://id.who.int/icd/entity/1207626305,=,3A03.3 
+3,微量元素欠乏性貧血,L,D538,UD14,<,http://id.who.int/icd/entity/31556424,<,3A03.Y 
+3,微量元素歇乏性貧血,S1,D538,UD14,<,http://id.who.int/icd/entity/31556424,<,3A03.Y 
+3,慢性貧血,L,D539,E61N,=,http://id.who.int/icd/entity/833635149,<,3A03.Y 
+3,単純性慢性貧血,S2,D539,E61N,=,"http://id.who.int/icd/entity/833635149
+",<,3A03.Y 
+3,小児食事性貧血,L,D539,GHK8,<,http://id.who.int/icd/entity/31556424,<,3A03.Y 
+3,ビタミン欠乏性貧血,L,D539,P0LQ,=,http://id.who.int/icd/entity/963670118 / http://id.who.int/icd/entity/1927722434,<,3A03.Y / 5B7Y
+3,ビタミン歇乏性貧血,S1,D539,P0LQ,=,http://id.who.int/icd/entity/963670118 / http://id.who.int/icd/entity/1927722434,<,3A03.Y / 5B7Y
+3,胃切除後貧血,L,D539,Q1BV,<,http://id.who.int/icd/entity/31556424 ,<,3A03.Y 
+3,無胃性低血色素性貧血,S1,D539,Q1BV,<,http://id.who.int/icd/entity/31556424 ,<,3A03.Y 
+3,胃摘後貧血,S1,D539,Q1BV,<,http://id.who.int/icd/entity/31556424 ,<,3A03.Y 
+3,無胃性低色素性貧血,S1,D539,Q1BV,<,http://id.who.int/icd/entity/31556424 ,<,3A03.Y 
+3,食事性貧血,L,D539,QGFV,<,http://id.who.int/icd/entity/31556424,<,3A03.Y 
+3,栄養性貧血,S1,D539,QGFV,<,http://id.who.int/icd/entity/963670118,<,3A03.Y 
+3,Ｇ６ＰＤ欠乏性貧血,L,D550,EVSS,=,http://id.who.int/icd/entity/506935822,=,3A10.00 
+3,G6PD欠乏性貧血,S0,D550,EVSS,=,http://id.who.int/icd/entity/506935822,=,3A10.00 
+3,グルコース-6-リン酸脱水素酵素欠乏症,S1,D550,EVSS,=,http://id.who.int/icd/entity/506935822,=,3A10.00 
+3,グルコース-6-リン酸脱水素酵素歇乏症,S1,D550,EVSS,=,http://id.who.int/icd/entity/506935822,=,3A10.00 
+3,G6PD歇乏性貧血,S1,D550,EVSS,=,http://id.who.int/icd/entity/506935822,=,3A10.00 
+3,ソラ豆中毒,L,D550,R5V7,=,http://id.who.int/icd/entity/506935822,<,3A10.00 
+3,Ｉ型溶血性非球状赤血球性貧血,L,D551,PB6S,=,http://id.who.int/icd/entity/419112483,<,3A10.00 
+3,I型溶血性非球状赤血球性貧血,S0,D551,PB6S,=,http://id.who.int/icd/entity/419112483,<,3A10.00 
+3,ＩＩ型溶血性非球状赤血球性貧血,L,D552,E6GC,=,http://id.who.int/icd/entity/841499395,<,3A10.Y 
+3,II型溶血性非球状赤血球性貧血,S0,D552,E6GC,=,http://id.who.int/icd/entity/841499395,<,3A10.Y 
+3,三炭糖リン酸イソメラーゼ欠乏性貧血,L,D552,MF7Q,=,http://id.who.int/icd/entity/475025488,<,3A10.Y 
+3,三炭糖りん酸イソメラーゼ欠乏性貧血,S1,D552,MF7Q,=,http://id.who.int/icd/entity/475025488,<,3A10.Y 
+3,三炭糖リン酸イソメラーゼ歇乏性貧血,S1,D552,MF7Q,=,http://id.who.int/icd/entity/475025488,<,3A10.Y 
+3,ピルビン酸キナーゼ欠乏性貧血,L,D552,NMJT,=,http://id.who.int/icd/entity/336454961,<,3A10.Y 
+3,ピルビン酸キナーゼ歇乏性貧血,S1,D552,NMJT,=,http://id.who.int/icd/entity/336454961,<,3A10.Y 
+3,ヘキソキナーゼ欠乏性貧血,L,D552,P4KS,=,http://id.who.int/icd/entity/1942043262,<,3A10.Y
+3,ヘキソキナーゼ歇乏性貧血,S1,D552,P4KS,=,http://id.who.int/icd/entity/1942043262,<,3A10.Y
+3,赤血球酵素欠乏性貧血,L,D559,R3CH,=,http://id.who.int/icd/entity/1728186890,<,3A10.Y
+3,赤血球酵素歇乏性貧血,S1,D559,R3CH,=,http://id.who.int/icd/entity/1728186890,<,3A10.Y
+3,酵素異常による遺伝性溶血性貧血,L,D559,V3C3,=,http://id.who.int/icd/entity/1728186890,<,3A10.Z 
+3,アルファサラセミア,L,D560,GGL9,=,http://id.who.int/icd/entity/531667506,=,3A50.0Z 
+3,クーリー貧血,L,D561,FV0P,=,http://id.who.int/icd/entity/1583088290,<,3A50.2 
+3,COOLEY貧血,S1,D561,FV0P,=,http://id.who.int/icd/entity/1583088290,<,3A50.2 
+3,重症型ベータサラセミア,S1,D561,FV0P,=,http://id.who.int/icd/entity/1583088290,<,3A50.2 
+3,中間型サラセミア,L,D561,RKSS,=,http://id.who.int/icd/entity/1947619935,<,3A50.2
+3,ベータサラセミア,L,D561,TC5Q,=,http://id.who.int/icd/entity/2063292324,=,3A50.2
+3,デルタ・ベータサラセミア,L,D562,HL46,=,http://id.who.int/icd/entity/240519003,<,3A50.3
+3,サラセミア保因者,L,D563,KU82,=,http://id.who.int/icd/entity/330259189,<,3A50.Z
+3,遺伝性高胎児性ヘモグロビン症,L,D564,J206,=,http://id.who.int/icd/entity/418601307,=,3A50.4 
+3,サラセミア,L,D569,PPT4,=,http://id.who.int/icd/entity/330259189,=,3A50.Z
+3,地中海貧血,S1,D569,PPT4,=,http://id.who.int/icd/entity/2063292324,=,3A50.2
+3,サラセミア関節炎,S2,D569,PPT4,=,http://id.who.int/icd/entity/330259189 / http://id.who.int/icd/entity/396939646,=,3A50.Z / FA2Z
+3,ヘモグロビンＳＳ病,L,D570,V85H,=,http://id.who.int/icd/entity/1711513381,=,3A51.1 
+3,ヘモグロビンSS病,S0,D570,V85H,=,http://id.who.int/icd/entity/1711513381,=,3A51.1 
+3,鎌状赤血球症,L,D571,RA6M,=,http://id.who.int/icd/entity/1711513381,=,3A51.1 
+3,鎌状赤血球貧血,S1,D571,RA6M,=,http://id.who.int/icd/entity/1711513381,=,3A51.1 
+3,鎌状赤血球ベータサラセミア,L,D572,B62D,=,http://id.who.int/icd/entity/671487653,<,3A51.3
+3,ヘモグロビンＳＥ病,L,D572,LLN1,=,http://id.who.int/icd/entity/131785602,<,3A51.3 
+3,ヘモグロビンSE病,S0,D572,LLN1,=,http://id.who.int/icd/entity/131785602,<,3A51.3 
+3,ヘモグロビンＳＤ病,L,D572,NEKM,=,http://id.who.int/icd/entity/1601142784,<,3A51.3 
+3,ヘモグロビンSD病,S0,D572,NEKM,=,http://id.who.int/icd/entity/1601142784,<,3A51.3 
+3,ヘモグロビンＳＣ病,L,D572,NT68,=,http://id.who.int/icd/entity/135961609,<,3A51.3 
+3,ヘモグロビンSC病,S0,D572,NT68,=,http://id.who.int/icd/entity/135961609,<,3A51.3 
+3,ヘモグロビンSC症,S1,D572,NT68,=,http://id.who.int/icd/entity/135961609,<,3A51.3 
+3,重複ヘテロ接合型鎌状化障害,L,D572,S42S,=,http://id.who.int/icd/entity/313446364,=,3A51.3 
+3,ヘテロ接合型ヘモグロビンＳ症,L,D573,H4FJ,=,http://id.who.int/icd/entity/2011497038,=,3A51.0 
+3,ヘテロ接合型ヘモグロビンS症,S0,D573,H4FJ,=,http://id.who.int/icd/entity/2011497038,=,3A51.0 
+3,鎌状赤血球保因者,L,D573,SR7U,=,http://id.who.int/icd/entity/2011497038,=,3A51.0 
+3,増殖性鎌状赤血球性網膜症,L,D578,B7S0,=,http://id.who.int/icd/entity/2007271012,<,9B71.Y
+3,遺伝性球状赤血球症,L,D580,HTEQ,=,http://id.who.int/icd/entity/1305248013,<,3A10.Y 
+3,家族性球状赤血球症,S1,D580,HTEQ,=,http://id.who.int/icd/entity/1305248013,<,3A10.Y 
+3,ミンコウスキー・ショパール症候群,S1,D580,HTEQ,=,http://id.who.int/icd/entity/1305248013,<,3A10.Y 
+3,ミンコウスキー・ショファール症候群,S1,D580,HTEQ,=,http://id.who.int/icd/entity/1305248013,<,3A10.Y 
+3,先天性球状赤血球症,S1,D580,HTEQ,=,http://id.who.int/icd/entity/1305248013,<,3A10.Y 
+3,先天性溶血性黄疸,S1,D580,HTEQ,=,http://id.who.int/icd/entity/1305248013,<,3A10.Y 
+3,球状赤血球性貧血,S2,D580,HTEQ,=,http://id.who.int/icd/entity/1305248013,<,3A10.Y 
+3,球状赤血球性黄疸,S2,D580,HTEQ,=,http://id.who.int/icd/entity/1305248013,<,3A10.Y 
+3,無胆汁性黄疸,S2,D580,HTEQ,=,http://id.who.int/icd/entity/1305248013,<,3A10.Y 
+3,無胆汁尿性黄疸,S2,D580,HTEQ,=,http://id.who.int/icd/entity/1305248013,<,3A10.Y 
+3,球状赤血球症,S2,D580,HTEQ,=,http://id.who.int/icd/entity/1305248013,<,3A10.Y 
+3,遺伝性楕円赤血球症,L,D581,V111,=,http://id.who.int/icd/entity/679955609,=,3A10.2
+3,楕円赤血球症,S1,D581,V111,=,http://id.who.int/icd/entity/679955609,=,3A10.2
+3,卵形赤血球症,S1,D581,V111,=,http://id.who.int/icd/entity/679955609,=,3A10.2
+3,先天性楕円赤血球症,S1,D581,V111,=,http://id.who.int/icd/entity/679955609,=,3A10.2
+3,ヘモグロビン異常症,L,D582,GQSS,=,http://id.who.int/icd/entity/1546263654,<,3A51.Y 
+3,異常血色素,S1,D582,GQSS,=,http://id.who.int/icd/entity/1546263654,<,3A51.Y 
+3,異常ヘモグロビン症,S1,D582,GQSS,=,http://id.who.int/icd/entity/1546263654,<,3A51.Y 
+3,異常血色素症,S1,D582,GQSS,=,http://id.who.int/icd/entity/1546263654,<,3A51.Y 
+3,ヘモグロビン代謝異常,S2,D582,GQSS,=,http://id.who.int/icd/entity/1546263654,<,3A51.Y 
+3,ヘモグロビンＣ病,L,D582,HFP0,=,http://id.who.int/icd/entity/2097316574,=,3A51.5
+3,ヘモグロビンC病,S0,D582,HFP0,=,http://id.who.int/icd/entity/2097316574,=,3A51.5
+3,ヘモグロビンC症,S1,D582,HFP0,=,http://id.who.int/icd/entity/2097316574,=,3A51.5
+3,不安定ヘモグロビン症,L,D582,M7PL,=,http://id.who.int/icd/entity/1570172344,<,3A51.Y 
+3,先天性ハインツ小体性貧血,S1,D582,M7PL,=,http://id.who.int/icd/entity/561612692,<,3A1Y 
+3,先天性HEINZ小体性貧血,S1,D582,M7PL,=,http://id.who.int/icd/entity/561612692,<,3A1Y 
+3,異常ヘモグロビン症性骨壊死,L,D582,MRHC,=,http://id.who.int/icd/entity/213920096,=,FB81.4 
+3,ヘモグロビンＥ病,L,D582,PK3A,=,http://id.who.int/icd/entity/1898135714,=,3A51.A
+3,ヘモグロビンE病,S0,D582,PK3A,=,http://id.who.int/icd/entity/1898135714,=,3A51.A
+3,ヘモグロビンＤ病,L,D582,VG5F,=,http://id.who.int/icd/entity/1508363690,=,3A51.6 
+3,ヘモグロビンD病,S0,D582,VG5F,=,http://id.who.int/icd/entity/1508363690,=,3A51.6 
+3,口唇赤血球症,L,D588,D5KT,=,http://id.who.int/icd/entity/595647587,<,3A10.Y
+3,家族性溶血性貧血,L,D589,LSP4,=,http://id.who.int/icd/entity/1909380523,=,3A10.Z
+3,遺伝性溶血性貧血,S1,D589,LSP4,=,http://id.who.int/icd/entity/1909380523,=,3A10
+3,薬剤性自己免疫性溶血性貧血,L,D590,N09A,=,http://id.who.int/icd/entity/1362381196,<,3A20.Y
+3,自己免疫性溶血性貧血,L,D591,ATPD,=,http://id.who.int/icd/entity/880772122,=,3A20.0
+3,寒冷凝集素症,L,D591,D3FT,=,http://id.who.int/icd/entity/2008034337,<,3A20.1
+3,寒冷凝集素病,S1,D591,D3FT,=,http://id.who.int/icd/entity/2008034337,<,3A20.1
+3,寒冷凝集素症候群,S1,D591,D3FT,=,http://id.who.int/icd/entity/2008034337,<,3A20.1
+3,寒冷血球凝集素尿症,S1,D591,D3FT,=,http://id.who.int/icd/entity/2008034337,<,3A20.1
+3,寒冷溶血素症候群,L,D591,MN2B,=,http://id.who.int/icd/entity/1836938544,=,3A20.1
+3,温式自己免疫性溶血性貧血,L,D591,NS3B,=,http://id.who.int/icd/entity/880772122,=,3A20.0
+3,薬剤性酵素欠乏性貧血,L,D592,EL5U,=,http://id.who.int/icd/entity/1087558887,<,3A21.Y 
+3,薬剤性酵素歇乏性貧血,S1,D592,EL5U,=,http://id.who.int/icd/entity/1087558887,<,3A21.Y 
+3,薬剤性溶血性貧血,L,D592,MM6T,=,http://id.who.int/icd/entity/1362381196 OR http://id.who.int/icd/entity/1087558887,<,3A20.Y or 3A21.Y
+3,薬剤性非自己免疫性溶血性貧血,S2,D592,MM6T,=,http://id.who.int/icd/entity/1087558887,<,3A21.Y 
+3,非典型溶血性尿毒症症候群,L,D593,BFP3,=,http://id.who.int/icd/entity/1997831581,<,3A10.Y
+3,AHUS,S1,D593,BFP3,=,http://id.who.int/icd/entity/1997831581,<,3A10.Y
+3,非定型的溶血性尿毒症症候群,S1,D593,BFP3,=,http://id.who.int/icd/entity/1997831581,<,3A10.Y
+3,非典型的溶血性尿毒症症候群,S1,D593,BFP3,=,http://id.who.int/icd/entity/1997831581,<,3A10.Y
+3,非定型溶血性尿毒症症候群,S1,D593,BFP3,=,http://id.who.int/icd/entity/1997831581,<,3A10.Y
+3,溶血性尿毒症症候群,L,D593,T4PL,=,http://id.who.int/icd/entity/630790515,=,3A21.2
+3,溶血性尿毒症性症候群,S1,D593,T4PL,=,http://id.who.int/icd/entity/630790515,=,3A21.2
+3,HUS,S1,D593,T4PL,=,http://id.who.int/icd/entity/630790515,=,3A21.2
+3,中毒性溶血性貧血,L,D594,D6S3,=,http://id.who.int/icd/entity/1674136460,<,3A21.Y 
+3,微小血管障害性溶血性貧血,L,D594,HD6H,=,http://id.who.int/icd/entity/1323666680,=,3A21.1 
+3,細血管障害性溶血性貧血,S2,D594,HD6H,=,http://id.who.int/icd/entity/1323666680,=,3A21.1 
+3,非自己免疫性溶血性貧血,L,D594,J06Q,=,http://id.who.int/icd/entity/1450674919,<,3A21.Y
+3,赤血球破砕症候群,L,D594,NTCE,=,http://id.who.int/icd/entity/1277229154,<,3A21.Y
+3,術後溶血性貧血,L,D594,S7DG,=,http://id.who.int/icd/entity/1087241515&http://id.who.int/icd/entity/182265087,=,3A4Z & XY7V
+3,機械的溶血性貧血,L,D594,SR53,=,http://id.who.int/icd/entity/1120161412,<,3A21.Y 
+3,発作性夜間ヘモグロビン尿症,L,D595,R1E4,=,http://id.who.int/icd/entity/859588467,=,3A21.0
+3,発作性夜間血色素尿症,S1,D595,R1E4,=,http://id.who.int/icd/entity/859588467,=,3A21.0
+3,マルキアファーヴァ・ミケリ症候群,S1,D595,R1E4,=,http://id.who.int/icd/entity/859588467,=,3A21.0
+3,MARCHIAFAVA-MICHELI症候群,S1,D595,R1E4,=,http://id.who.int/icd/entity/859588467,=,3A21.0
+3,発作性寒冷ヘモグロビン尿症,L,D596,FRKM,=,http://id.who.int/icd/entity/715111132,=,3A20.3
+3,発作性ヘモグロビン尿症,S1,D596,FRKM,=,http://id.who.int/icd/entity/715111132,=,3A20.3
+3,発作性寒冷血色素尿症,S1,D596,FRKM,=,http://id.who.int/icd/entity/715111132,=,3A20.3
+3,行軍血色素尿症,L,D596,J5U6,=,http://id.who.int/icd/entity/1077423222,<,3A21.Y
+3,行軍ヘモグロビン尿症,S1,D596,J5U6,=,http://id.who.int/icd/entity/1077423222,<,3A21.Y
+3,寒冷血色素尿症,L,D596,UHS1,=,http://id.who.int/icd/entity/715111132,=,3A20.3
+3,後天性溶血性貧血,L,D599,BAC3,=,http://id.who.int/icd/entity/1858490295,=,3A2Z 
+3,後天性溶血性黄疸,S2,D599,BAC3,=,http://id.who.int/icd/entity/1440701811,<,3A2Z
+3,ハイエム・ウィダール症候群,S2,D599,BAC3,=,http://id.who.int/icd/entity/1858490295,<,3A2Z 
+3,特発性溶血性貧血,L,D599,K4NT,=,http://id.who.int/icd/entity/1886980799,=,3A2Z & XB5F
+3,溶血性貧血,L,D599,TBR5,=,http://id.who.int/icd/entity/162762794,=,3A4Z
+3,溶血性黄疸,S1,D599,TBR5,=,http://id.who.int/icd/entity/1440701811,<,3A2Z
+3,慢性後天性赤芽球ろう,L,D600,D144,=,http://id.who.int/icd/entity/136267428,=,3A61.1 
+3,慢性後天性赤芽球癆,S1,D600,D144,=,http://id.who.int/icd/entity/136267428,=,3A61.1 
+3,一過性後天性赤芽球ろう,L,D601,MMAG,=,http://id.who.int/icd/entity/1834257206,=,3A61.0
+3,一過性後天性赤芽球癆,S1,D601,MMAG,=,http://id.who.int/icd/entity/1834257206,=,3A61.0
+3,赤芽球減少症,L,D609,CBN7,=,http://id.who.int/icd/entity/1980066564,=,3A6Z 
+3,後天性赤芽球ろう,L,D609,KM2A,=,http://id.who.int/icd/entity/45753120,=,3A61.Z 
+3,後天性赤芽球癆,S1,D609,KM2A,=,http://id.who.int/icd/entity/45753120,=,3A61.Z
+3,体質性再生不良性貧血,L,D610,BQ1G,=,http://id.who.int/icd/entity/350719523,=,3A70.0
+3,乳児赤芽球ろう,L,D610,K7UK,=,http://id.who.int/icd/entity/217030515,=,3A60.Z 
+3,乳児赤芽球癆,S1,D610,K7UK,=,http://id.who.int/icd/entity/217030515,=,3A60.Z 
+3,ファンコニ貧血,L,D610,LPML,=,http://id.who.int/icd/entity/1500851497,<,3A70.0
+3,ファンコーニ貧血,S1,D610,LPML,=,http://id.who.int/icd/entity/1500851497,<,3A70.0
+3,ファンコニー貧血,S1,D610,LPML,=,http://id.who.int/icd/entity/1500851497,<,3A70.0
+3,FANCONI貧血,S1,D610,LPML,=,http://id.who.int/icd/entity/1500851497,<,3A70.0
+3,先天性低形成貧血,L,D610,RBPE,=,http://id.who.int/icd/entity/557764336,=,KA8C 
+3,ダイアモンド・ブラックファン貧血,L,D610,S42J,=,http://id.who.int/icd/entity/1355684398,<,3A60.1
+3,先天性赤芽球癆,S1,D610,S42J,=,http://id.who.int/icd/entity/217030515,=,3A60.Z 
+3,ブラックファン・ダイアモンド貧血,S1,D610,S42J,=,http://id.who.int/icd/entity/1355684398,<,3A60.1
+3,ダイアモンド・ブラックファン症候群,S1,D610,S42J,=,"http://id.who.int/icd/entity/1355684398
+",<,3A60.1
+3,BLACKFAN-DIAMOND症候群,S1,D610,S42J,=,"http://id.who.int/icd/entity/1355684398
+",<,3A60.1
+3,DIAMOND-BLACKFAN症候群,S1,D610,S42J,=,"http://id.who.int/icd/entity/1355684398
+",<,3A60.1
+3,ブラックファン・ダイアモンド症候群,S1,D610,S42J,=,"http://id.who.int/icd/entity/1355684398
+",<,3A60.1
+3,先天性赤芽球ろう,S1,D610,S42J,=,http://id.who.int/icd/entity/217030515,=,3A60.Z 
+3,BLACKFAN-DIAMOND貧血,S1,D610,S42J,=,"http://id.who.int/icd/entity/1355684398
+",<,3A60.1
+3,先天性再生不良性貧血,L,D610,TQ8B,=,http://id.who.int/icd/entity/350719523,=,3A70.0
+3,家族性再生不良性貧血,S1,D610,TQ8B,=,http://id.who.int/icd/entity/350719523,=,3A70.0
+3,赤芽球ろう,L,D610,VAB7,=,http://id.who.int/icd/entity/1980066564,=,3A6Z 
+3,赤芽球癆,S1,D610,VAB7,=,http://id.who.int/icd/entity/1980066564,=,3A6Z 
+3,薬剤性再生不良性貧血,L,D611,G9AQ,=,http://id.who.int/icd/entity/1907114935,=,3A70.10 
+3,肝炎後再生不良性貧血,L,D612,HVHS,=,http://id.who.int/icd/entity/759747321 / http://id.who.int/icd/entity/2046015098,=,3A70.1Z  / DB97.Z 
+3,二次性再生不良性貧血,L,D612,JBUG,<,http://id.who.int/icd/entity/759747321,<,3A70.1Z 
+3,放射線性貧血,L,D612,NV32,=,http://id.who.int/icd/entity/83956554 & http://id.who.int/icd/entity/59113228,=,3A70.11& XE60C
+3,特発性再生不良性貧血,L,D613,E39S,=,http://id.who.int/icd/entity/1615519452,=,3A70.12
+3,中等症再生不良性貧血,L,D619,AURH,=,http://id.who.int/icd/entity/502834133 & http://id.who.int/icd/entity/1663264387,=,3A70.Z  & XS0T 
+3,低形成性貧血,L,D619,BE3K,=,http://id.who.int/icd/entity/502834133,=,3A70.Z 
+3,形成不全性貧血,S1,D619,BE3K,=,http://id.who.int/icd/entity/502834133,=,3A70.Z 
+3,無形成性貧血,S2,D619,BE3K,=,http://id.who.int/icd/entity/502834133,=,3A70.Z 
+3,再生不良性貧血,L,D619,BK72,=,http://id.who.int/icd/entity/502834133,=,3A70.Z
+3,汎骨髄ろう,S1,D619,BK72,=,http://id.who.int/icd/entity/502834133,=,3A70.Z
+3,骨髄低形成,L,D619,DL2T,=,http://id.who.int/icd/entity/502834133,=,3A70.Z 
+3,低形成骨髄,S1,D619,DL2T,=,http://id.who.int/icd/entity/502834133,=,3A70.Z 
+3,重症再生不良性貧血,L,D619,G51L,=,http://id.who.int/icd/entity/502834133 & http://id.who.int/icd/entity/1201187093,=,3A70.Z  & XS25 
+3,汎血球減少症,L,D619,HTVJ,=,http://id.who.int/icd/entity/502834133,=,3A70.Z
+3,軽症再生不良性貧血,L,D619,L7DJ,=,http://id.who.int/icd/entity/502834133 & http://id.who.int/icd/entity/562478860,=,3A70.Z  & XS5W
+3,骨髄機能低下,L,D619,M47P,=,http://id.who.int/icd/entity/1525722737,<,3A70.Z 
+3,骨髄抑制下,S1,D619,M47P,=,http://id.who.int/icd/entity/1525722737,<,3A70.Z 
+3,最重症再生不良性貧血,L,D619,QEEV,=,http://id.who.int/icd/entity/502834133 & http://id.who.int/icd/entity/1355303673,=,3A70.Z  & XS2R 
+3,本態性再生不良性貧血,L,D619,VC1K,=,http://id.who.int/icd/entity/502834133,=,3A70.Z 
+3,急性失血性貧血,L,D62,GF0U,=,http://id.who.int/icd/entity/324845131,=,3A94 
+3,急性出血後貧血,S1,D62,GF0U,=,http://id.who.int/icd/entity/324845131,=,3A94
+3,術後貧血,L,D62,M6U6,=,http://id.who.int/icd/entity/324845131 & http://id.who.int/icd/entity/182265087,=,3A94 & XY7V
+3,遺伝性鉄芽球性貧血,L,D640,C9LA,=,http://id.who.int/icd/entity/853645278,=,3A72.00
+3,ピアソン症候群,L,D640,FJR3,=,http://id.who.int/icd/entity/452521132,<,3A72.01 
+3,ピアソン骨髄膵臓症候群,S1,D640,FJR3,=,http://id.who.int/icd/entity/452521132,<,3A72.01 
+3,ペアソン症候群,S1,D640,FJR3,=,http://id.who.int/icd/entity/452521132,<,3A72.01 
+3,PEARSON症候群,S1,D640,FJR3,=,http://id.who.int/icd/entity/452521132,<,3A72.01 
+3,伴性低色素性鉄芽球性貧血,L,D640,Q2RF,≒,http://id.who.int/icd/entity/853645278,=,3A72.00 
+3,後天性鉄芽球性貧血,L,D641,F4N3,=,http://id.who.int/icd/entity/967695084,=,3A72.1
+3,薬剤性鉄芽球性貧血,L,D642,F4TH,<,http://id.who.int/icd/entity/587664055,<,3A72.1
+3,鉄芽球性貧血,L,D643,A66G,=,http://id.who.int/icd/entity/235504456,=,3A72.Z
+3,ピリドキシン反応性貧血,L,D643,G0QC,=,http://id.who.int/icd/entity/438340906,<,3A72.1
+3,ビタミンB6反応性貧血,S1,D643,G0QC,=,http://id.who.int/icd/entity/438340906,<,3A72.1
+3,先天性赤血球形成異常性貧血,L,D644,CFQ5,=,http://id.who.int/icd/entity/899830967,=,3A73
+3,赤血球形成異常性貧血,S1,D644,CFQ5,=,http://id.who.int/icd/entity/899830967,=,3A73
+3,先天性赤血球酵素異常,L,D644,QV0B,=,http://id.who.int/icd/entity/899830967,=,3A73 
+3,白赤芽球症,L,D648,BGQU,<,http://id.who.int/icd/entity/224336967,<, 3A9Y
+3,白赤芽球性貧血,S1,D648,BGQU,<,http://id.who.int/icd/entity/224336967,<, 3A9Y
+3,症候性貧血,L,D648,LQAH,<,http://id.who.int/icd/entity/224336967,<,3A9Z
+3,二次性貧血,S1,D648,LQAH,<,http://id.who.int/icd/entity/224336967,<,3A9Z
+3,続発性貧血,S1,D648,LQAH,<,http://id.who.int/icd/entity/224336967,<,3A9Z
+3,乳児偽白血病,L,D648,NNA1,<,http://id.who.int/icd/entity/224336967 & http://id.who.int/icd/entity/1588782340,<,3A9Y & XT2C
+3,脾性貧血,L,D648,SVLT,=,http://id.who.int/icd/entity/224336967 / http://id.who.int/icd/entity/567425990,=,3A9Y  / 3B8Z 
+3,本態性貧血,L,D649,BGJA,=,http://id.who.int/icd/entity/224336967,=,3A9Z
+3,正球性貧血,L,D649,C1L9,=,http://id.who.int/icd/entity/224336967,=,3A9Z
+3,正色素性貧血,L,D649,F0H6,=,http://id.who.int/icd/entity/224336967,=,3A9Z
+3,正球性正色素性貧血,L,D649,HG2E,=,http://id.who.int/icd/entity/224336967,=,3A9Z
+3,正球性血色素性貧血,S1,D649,HG2E,=,http://id.who.int/icd/entity/224336967,=,3A9Z
+3,思春期貧血,L,D649,J20P,=,http://id.who.int/icd/entity/224336967 & http://id.who.int/icd/entity/275453639,=,3A9Z & XT7M 
+3,貧血,L,D649,LTTM,=,http://id.who.int/icd/entity/224336967,=,3A9Z
+3,赤血球不足,S2,D649,LTTM,=,http://id.who.int/icd/entity/224336967,=,3A9Z
+3,赤血球減少症,S2,D649,LTTM,=,http://id.who.int/icd/entity/224336967,=,3A9Z
+3,貧血状態,S2,D649,LTTM,=,http://id.who.int/icd/entity/224336967,=,3A9Z
+3,老人性貧血,L,D649,T7AB,=,http://id.who.int/icd/entity/224336967 & (http://id.who.int/icd/entity/1733780743 or http://id.who.int/icd/entity/1276541597),=,3A9Z & (XT19 or XT19 )
+3,線維素溶解性紫斑病,L,D65,ARG6,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,続発性線維素溶解性障害,L,D65,ENVU,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,続発性フィブリン溶解性障害,S1,D65,ENVU,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,播種性血管内凝固,L,D65,GTGN,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,DIC,S1,D65,GTGN,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,播種性血管内凝固症候群,S1,D65,GTGN,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,汎発性血管内血液凝固症候群,S1,D65,GTGN,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,DIC症候群,S1,D65,GTGN,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,汎発性血管内凝固,S1,D65,GTGN,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,汎血管内凝固症候群,S1,D65,GTGN,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,播種性血管内血液凝固症候群,S1,D65,GTGN,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,汎発性血管内血液凝固症,S1,D65,GTGN,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,播種性血管内血液凝固,S1,D65,GTGN,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,脱線維素症候群,S2,D65,GTGN,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,血管内凝固病,S2,D65,GTGN,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,血管内凝固症候群,S2,D65,GTGN,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,脈管内血液凝固,S2,D65,GTGN,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,線溶亢進,L,D65,H6LG,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,異常線維素溶解,S1,D65,H6LG,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,消費性凝固障害,L,D65,HK90,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,消費性凝固異常症,S1,D65,HK90,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,消費性血管内凝固症候群,S1,D65,HK90,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,消耗性凝固障害,S1,D65,HK90,=,http://id.who.int/icd/entity/1622289887,=,3B20
+3,劇症紫斑病,L,D65,JLUV,=,http://id.who.int/icd/entity/1293848111,<,3B20
+3,壊死性紫斑病,S1,D65,JLUV,=,http://id.who.int/icd/entity/178389636,<,3B20
+3,後天性無フィブリノゲン血症,L,D65,LR2H,=,http://id.who.int/icd/entity/1253372661,<,3B20
+3,第ＶＩＩＩ因子インヒビター陽性先天性血友病,L,D66,B407,=,http://id.who.int/icd/entity/337607970,=,3B10.0 
+3,第VIII因子インヒビター陽性先天性血友病,S0,D66,B407,=,http://id.who.int/icd/entity/337607970,=,3B10.0 
+3,第8因子インヒビター陽性先天性血友病,S1,D66,B407,=,http://id.who.int/icd/entity/337607970,=,3B10.0 
+3,血友病,L,D66,CNHC,=,http://id.who.int/icd/entity/337607970,=,3B10.0 
+3,血友病性出血,L,D66,DGKB,=,http://id.who.int/icd/entity/337607970 / http://id.who.int/icd/entity/940081636,=,3B10.0 /  MG27 
+3,血友病Ａ,L,D66,LTCM,=,http://id.who.int/icd/entity/337607970,=,3B10.0 
+3,血友病A,S0,D66,LTCM,=,http://id.who.int/icd/entity/337607970,=,3B10.0 
+3,遺伝性第VIII因子歇乏症,S1,D66,LTCM,=,http://id.who.int/icd/entity/1573164739,=,3B10.Z
+3,先天性第VIII因子障害,S1,D66,LTCM,=,http://id.who.int/icd/entity/1573164739,=,3B10.Z
+3,遺伝性第8因子欠乏症,S1,D66,LTCM,=,http://id.who.int/icd/entity/1573164739,=,3B10.Z
+3,第VIII因子欠乏症,S1,D66,LTCM,=,http://id.who.int/icd/entity/1573164739,=,3B10.Z
+3,第VIII因子歇乏症,S1,D66,LTCM,=,http://id.who.int/icd/entity/1573164739,=,3B10.Z
+3,遺伝性第VIII因子欠乏症,S1,D66,LTCM,=,http://id.who.int/icd/entity/1573164739,=,3B10.Z
+3,先天性第8因子障害,S1,D66,LTCM,=,http://id.who.int/icd/entity/1573164739,=,3B10.Z
+3,第8因子欠乏症,S1,D66,LTCM,=,http://id.who.int/icd/entity/1573164739,=,3B10.Z
+3,血友病関節炎,L,D66,R378,=,http://id.who.int/icd/entity/1660841611,=,FA38.3 
+3,血友病性関節症,S1,D66,R378,=,http://id.who.int/icd/entity/1660841611,=,FA38.3 
+3,血友病性関節障害,S2,D66,R378,=,http://id.who.int/icd/entity/1660841611,=,FA38.3 
+3,低トロンビン血症,L,D67,AK80,=,http://id.who.int/icd/entity/272299518,<,3B14.Z 
+3,血友病Ｂ,L,D67,MQS2,=,http://id.who.int/icd/entity/1901375668,=,3B11.0
+3,血友病B,S0,D67,MQS2,=,http://id.who.int/icd/entity/1901375668,=,3B11.0
+3,先天性第IX因子障害,S1,D67,MQS2,=,http://id.who.int/icd/entity/755266992,=,3B11.Z
+3,第IX因子歇乏症,S1,D67,MQS2,=,http://id.who.int/icd/entity/755266992,=,3B11.Z
+3,遺伝性第IX因子欠乏症,S1,D67,MQS2,=,http://id.who.int/icd/entity/755266992,=,3B11.Z
+3,CHRISTMAS病,S1,D67,MQS2,=,http://id.who.int/icd/entity/1901375668,=,3B11.0
+3,遺伝性第9因子欠乏症,S1,D67,MQS2,=,http://id.who.int/icd/entity/755266992,=,3B11.Z
+3,第9因子欠乏症,S1,D67,MQS2,=,http://id.who.int/icd/entity/755266992,=,3B11.Z
+3,第IX因子欠乏症,S1,D67,MQS2,=,http://id.who.int/icd/entity/755266992,=,3B11.Z
+3,クリスマス病,S1,D67,MQS2,=,http://id.who.int/icd/entity/1901375668,=,3B11.0
+3,先天性第9因子障害,S1,D67,MQS2,=,http://id.who.int/icd/entity/755266992,=,3B11.Z
+3,遺伝性第IX因子歇乏症,S1,D67,MQS2,=,http://id.who.int/icd/entity/755266992,=,3B11.Z
+3,第ＩＸ因子インヒビター陽性先天性血友病,L,D67,V3FV,=,http://id.who.int/icd/entity/1901375668,=,3B11.0 
+3,第IX因子インヒビター陽性先天性血友病,S0,D67,V3FV,=,http://id.who.int/icd/entity/1901375668,=,3B11.0
+3,第9因子インヒビター陽性先天性血友病,S1,D67,V3FV,=,http://id.who.int/icd/entity/1901375668,=,3B11.0
+3,フォンウィルブランド病,L,D680,BTBK,=,http://id.who.int/icd/entity/2112021600,=,3B12
+3,フォン・ウィルブランド病,S1,D680,BTBK,=,http://id.who.int/icd/entity/2112021600,=,3B12
+3,フォンビルブランド病,S1,D680,BTBK,=,http://id.who.int/icd/entity/2112021600,=,3B12
+3,フォン・ビルブランド病,S1,D680,BTBK,=,http://id.who.int/icd/entity/2112021600,=,3B12
+3,VON WILLEBRAND病,S1,D680,BTBK,=,http://id.who.int/icd/entity/2112021600,=,3B12
+3,遺伝性偽血友病,S1,D680,BTBK,=,http://id.who.int/icd/entity/2112021600,=,3B12
+3,偽性血友病,S1,D680,BTBK,=,http://id.who.int/icd/entity/2112021600,=,3B12
+3,ウィルブランド・ジュルゲンス血小板病,L,D680,JP0K,=,http://id.who.int/icd/entity/2112021600,=,3B12 
+3,血管性血友病,L,D680,M2G7,=,http://id.who.int/icd/entity/2112021600,=,3B12 
+3,ローゼンタール病,L,D681,F6VB,=,http://id.who.int/icd/entity/413739466,=,3B13
+3,第ＸＩ因子欠乏症,L,D681,LJQ4,=,http://id.who.int/icd/entity/413739466,=,3B13
+3,第XI因子欠乏症,S0,D681,LJQ4,=,http://id.who.int/icd/entity/413739466,=,3B13
+3,血液凝固第XI因子欠乏症,S1,D681,LJQ4,=,http://id.who.int/icd/entity/413739466,=,3B13
+3,遺伝性第XI因子歇乏症,S1,D681,LJQ4,=,http://id.who.int/icd/entity/413739466,=,3B13
+3,先天性第XI因子歇乏症,S1,D681,LJQ4,=,http://id.who.int/icd/entity/413739466,=,3B13
+3,第11因子欠乏症,S1,D681,LJQ4,=,http://id.who.int/icd/entity/413739466,=,3B13
+3,血漿トロンボプラスチン前駆因子歇乏症,S1,D681,LJQ4,=,http://id.who.int/icd/entity/413739466,=,3B13
+3,血液凝固第11因子欠乏症,S1,D681,LJQ4,=,http://id.who.int/icd/entity/413739466,=,3B13
+3,PTA歇乏症,S1,D681,LJQ4,=,http://id.who.int/icd/entity/413739466,=,3B13
+3,遺伝性第11因子欠乏症,S1,D681,LJQ4,=,http://id.who.int/icd/entity/413739466,=,3B13
+3,先天性第XI因子欠乏症,S1,D681,LJQ4,=,http://id.who.int/icd/entity/413739466,=,3B13
+3,先天性第11因子欠乏症,S1,D681,LJQ4,=,http://id.who.int/icd/entity/413739466,=,3B13
+3,血友病C,S1,D681,LJQ4,=,http://id.who.int/icd/entity/413739466,=,3B13
+3,第XI因子歇乏症,S1,D681,LJQ4,=,http://id.who.int/icd/entity/413739466,=,3B13
+3,血漿トロンボプラスチン前駆因子欠乏症,S1,D681,LJQ4,=,http://id.who.int/icd/entity/413739466,=,3B13
+3,遺伝性第XI因子欠乏症,S1,D681,LJQ4,=,http://id.who.int/icd/entity/413739466,=,3B13
+3,PTA欠乏症,S1,D681,LJQ4,=,http://id.who.int/icd/entity/413739466,=,3B13
+3,先天性フィブリノーゲン欠乏症,L,D682,ARQA,=,http://id.who.int/icd/entity/1452989457,=,3B14.0 
+3,先天性第1因子欠乏症,S1,D682,ARQA,=,http://id.who.int/icd/entity/1452989457,=,3B14.0 
+3,先天性無フィブリノーゲン血症,S1,D682,ARQA,=,http://id.who.int/icd/entity/608641873,<,3B14.0
+3,先天性無フィブリノゲン血症,S1,D682,ARQA,=,http://id.who.int/icd/entity/608641873,<,3B14.0
+3,先天性無線維素原血症,S1,D682,ARQA,=,http://id.who.int/icd/entity/608641873,<,3B14.0
+3,先天性第I因子欠乏症,S1,D682,ARQA,=,http://id.who.int/icd/entity/1452989457,=,3B14.0 
+3,先天性第I因子歇乏症,S1,D682,ARQA,=,http://id.who.int/icd/entity/1452989457,<,3B14.0 
+3,第ＸＩＩＩ因子欠乏症,L,D682,CJCG,=,http://id.who.int/icd/entity/2079957863 ,=,"3B14.Z
+"
+3,第XIII因子欠乏症,S0,D682,CJCG,=,http://id.who.int/icd/entity/2079957863 ,=,"3B14.Z
+"
+3,血液凝固第13因子欠乏症,S1,D682,CJCG,=,http://id.who.int/icd/entity/2079957863 ,=,"3B14.Z
+"
+3,先天性第XIII因子歇乏症,S1,D682,CJCG,=,http://id.who.int/icd/entity/2079957863 ,=,"3B14.Z
+"
+3,先天性血液凝固第XIII因子欠乏,S1,D682,CJCG,=,http://id.who.int/icd/entity/2079957863 ,=,"3B14.Z
+"
+3,先天性第XIII因子欠乏症,S1,D682,CJCG,=,http://id.who.int/icd/entity/2079957863 ,=,"3B14.Z
+"
+3,第13因子欠乏症,S1,D682,CJCG,=,http://id.who.int/icd/entity/2079957863 ,=,"3B14.Z
+"
+3,先天性第13因子欠乏症,S1,D682,CJCG,=,http://id.who.int/icd/entity/2079957863 ,=,"3B14.Z
+"
+3,先天性血液凝固第13因子欠乏,S1,D682,CJCG,=,http://id.who.int/icd/entity/2079957863 ,=,"3B14.Z
+"
+3,血液凝固第XIII因子欠乏症,S1,D682,CJCG,=,http://id.who.int/icd/entity/2079957863 ,=,"3B14.Z
+"
+3,先天性プロトロンビン欠乏症,L,D682,CNDQ,=,http://id.who.int/icd/entity/1522212461,<,3B14.Z
+3,先天性第II因子欠乏症,S1,D682,CNDQ,=,http://id.who.int/icd/entity/1522212461,=,3B14.Z
+3,低プロトロンビン症,S1,D682,CNDQ,=,http://id.who.int/icd/entity/1522212461,<,3B14.Z
+3,プロトロンビン欠乏症,S1,D682,CNDQ,=,http://id.who.int/icd/entity/1522212461,<,3B14.Z
+3,低プロトロンビン血症,S1,D682,CNDQ,=,http://id.who.int/icd/entity/272299518,<,3B14.Z
+3,先天性第2因子欠乏症,S1,D682,CNDQ,=,http://id.who.int/icd/entity/1522212461,<,3B14.Z
+3,先天性第II因子歇乏症,S1,D682,CNDQ,=,http://id.who.int/icd/entity/1522212461,<,3B14.Z
+3,プロトロンビン歇乏症,S1,D682,CNDQ,=,http://id.who.int/icd/entity/1522212461,<,3B14.Z
+3,フィブリノゲン欠乏症,L,D682,DF85,=,http://id.who.int/icd/entity/1452989457,=,3B14.0 
+3,低フィブリノゲン血症,S1,D682,DF85,=,http://id.who.int/icd/entity/559585471,<,3B14.0 
+3,低フィブリノーゲン血症,S1,D682,DF85,=,http://id.who.int/icd/entity/559585471,<,3B14.0 
+3,フィブリノゲン歇乏症,S1,D682,DF85,=,http://id.who.int/icd/entity/1452989457,=,3B14.0 
+3,フィブリノゲン異常症,L,D682,E5N0,=,http://id.who.int/icd/entity/815934276,<,3B14.0 
+3,異常線維素原症,S1,D682,E5N0,=,http://id.who.int/icd/entity/815934276,<,3B14.0 
+3,フィブリノーゲン異常症,S1,D682,E5N0,=,http://id.who.int/icd/entity/815934276,<,3B14.0 
+3,異常線維素原血症,S1,D682,E5N0,=,http://id.who.int/icd/entity/815934276,<,3B14.0 
+3,第Ｖ因子欠乏症,L,D682,GLDA,=,http://id.who.int/icd/entity/1969994731,<,3B14.Z 
+3,第V因子欠乏症,S0,D682,GLDA,=,http://id.who.int/icd/entity/1969994731,<,3B14.Z 
+3,先天性第V因子欠乏症,S1,D682,GLDA,=,http://id.who.int/icd/entity/1969994731,<,3B14.Z 
+3,第V因子歇乏症,S1,D682,GLDA,=,http://id.who.int/icd/entity/1969994731,<,3B14.Z 
+3,先天性第V因子歇乏症,S1,D682,GLDA,=,http://id.who.int/icd/entity/1969994731,<,3B14.Z 
+3,血液凝固第5因子欠乏症,S1,D682,GLDA,=,http://id.who.int/icd/entity/1969994731,<,3B14.Z 
+3,ACグロブリン欠乏症,S1,D682,GLDA,=,http://id.who.int/icd/entity/1969994731,<,3B14.Z 
+3,血液凝固第V因子欠乏症,S1,D682,GLDA,=,http://id.who.int/icd/entity/1969994731,<,3B14.Z 
+3,パラ血友病,S1,D682,GLDA,=,http://id.who.int/icd/entity/1969994731,<,3B14.Z 
+3,プロアクセレリン歇乏症,S1,D682,GLDA,=,http://id.who.int/icd/entity/1969994731,<,3B14.Z 
+3,プロアクセレリン欠乏症,S1,D682,GLDA,=,http://id.who.int/icd/entity/1969994731,<,3B14.Z 
+3,オーレン病,S1,D682,GLDA,=,http://id.who.int/icd/entity/1969994731,<,3B14.Z 
+3,ACグロブリン歇乏症,S1,D682,GLDA,=,http://id.who.int/icd/entity/1969994731,<,3B14.Z 
+3,先天性第5因子欠乏症,S1,D682,GLDA,=,http://id.who.int/icd/entity/1969994731,<,3B14.Z 
+3,第5因子欠乏症,S1,D682,GLDA,=,http://id.who.int/icd/entity/1969994731,<,3B14.Z 
+3,低プロアクセレリン血症,S2,D682,GLDA,=,http://id.who.int/icd/entity/1969994731,<,3B14.Z 
+3,第Ｘ因子欠乏症,L,D682,KEJ1,=,http://id.who.int/icd/entity/1886781445,=,3B14.1
+3,第X因子欠乏症,S0,D682,KEJ1,=,http://id.who.int/icd/entity/1886781445,=,3B14.1
+3,血液凝固第X因子欠乏症,S1,D682,KEJ1,=,http://id.who.int/icd/entity/1886781445,=,3B14.1
+3,先天性第X因子欠乏症,S1,D682,KEJ1,=,http://id.who.int/icd/entity/1886781445,=,3B14.1
+3,スチュアルト・プラウアー因子欠乏症,S1,D682,KEJ1,=,http://id.who.int/icd/entity/1886781445,=,3B14.1
+3,STUART-PROWER因子欠乏症,S1,D682,KEJ1,=,http://id.who.int/icd/entity/1886781445,=,3B14.1
+3,第10因子欠乏症,S1,D682,KEJ1,=,http://id.who.int/icd/entity/1886781445,=,3B14.1
+3,血液凝固第10因子欠乏症,S1,D682,KEJ1,=,http://id.who.int/icd/entity/1886781445,=,3B14.1
+3,先天性血液凝固第X因子欠乏症,S1,D682,KEJ1,=,http://id.who.int/icd/entity/1886781445,=,3B14.1
+3,先天性第X因子歇乏症,S1,D682,KEJ1,=,http://id.who.int/icd/entity/1886781445,=,3B14.1
+3,第X因子歇乏症,S1,D682,KEJ1,=,http://id.who.int/icd/entity/1886781445,=,3B14.1
+3,先天性血液凝固第10因子欠乏症,S1,D682,KEJ1,=,http://id.who.int/icd/entity/1886781445,=,3B14.1
+3,先天性第10因子欠乏症,S1,D682,KEJ1,=,http://id.who.int/icd/entity/1886781445,=,3B14.1
+3,スチュアルト・プラウアー因子歇乏症,S1,D682,KEJ1,=,http://id.who.int/icd/entity/1886781445,=,3B14.1
+3,プレカリクレイン欠乏症,L,D682,M005,=,http://id.who.int/icd/entity/2010669339,<,3B15
+3,プレカリクレイン歇乏症,S1,D682,M005,=,http://id.who.int/icd/entity/2010669339,<,3B15
+3,高フィブリノゲン血症,L,D682,MP2A,<,http://id.who.int/icd/entity/1016799900,<,3B4Z
+3,線維素原過剰血症,S1,D682,MP2A,<,http://id.who.int/icd/entity/1016799900,<,3B4Z
+3,高フィブリノーゲン血症,S1,D682,MP2A,<,http://id.who.int/icd/entity/1016799900,<,3B4Z
+3,高線維素原血症,S1,D682,MP2A,<,http://id.who.int/icd/entity/1016799900,<,3B4Z
+3,先天性第ＸＩＩＩ因子Ｂサブユニット欠乏症,L,D682,N9TB,<,http://id.who.int/icd/entity/2079957863,<,3B14.Z 
+3,先天性第XIII因子Bサブユニット欠乏症,S0,D682,N9TB,<,http://id.who.int/icd/entity/2079957863,<,3B14.Z 
+3,先天性血液第XIII因子Bサブユニット欠乏症,S1,D682,N9TB,<,http://id.who.int/icd/entity/2079957863,<,3B14.Z 
+3,先天性第13因子Bサブユニット欠乏症,S1,D682,N9TB,<,http://id.who.int/icd/entity/2079957863,<,3B14.Z 
+3,FXIII-B欠損症,S1,D682,N9TB,=,http://id.who.int/icd/entity/2079957863,<,3B14.Z 
+3,第ＶＩＩ因子欠乏症,L,D682,P897,=,http://id.who.int/icd/entity/2034923927,<,3B14.Z
+3,第VII因子欠乏症,S0,D682,P897,=,http://id.who.int/icd/entity/2034923927,<,3B14.Z
+3,先天性第7因子欠乏症,S1,D682,P897,=,http://id.who.int/icd/entity/2034923927,<,3B14.Z
+3,第7因子欠乏症,S1,D682,P897,=,http://id.who.int/icd/entity/2034923927,<,3B14.Z
+3,低プロコンバーチン血症,S1,D682,P897,=,http://id.who.int/icd/entity/2034923927,<,3B14.Z
+3,先天性第VII因子欠乏症,S1,D682,P897,=,http://id.who.int/icd/entity/2034923927,<,3B14.Z
+3,血液凝固第7因子欠乏症,S1,D682,P897,=,http://id.who.int/icd/entity/2034923927,<,3B14.Z
+3,先天性第VII因子歇乏症,S1,D682,P897,=,http://id.who.int/icd/entity/2034923927,<,3B14.Z
+3,血液凝固第VII因子欠乏症,S1,D682,P897,=,http://id.who.int/icd/entity/2034923927,<,3B14.Z
+3,フィブリン減少症,L,D682,Q5A6,=,http://id.who.int/icd/entity/1452989457 OR http://id.who.int/icd/entity/1253372661,<,3B14.0  OR 3B20
+3,第ＸＩＩ因子欠乏症,L,D682,RDHA,=,http://id.who.int/icd/entity/2086126201,<,3B15
+3,第XII因子欠乏症,S0,D682,RDHA,=,http://id.who.int/icd/entity/2086126201,<,3B15
+3,ハーゲマン因子歇損,S1,D682,RDHA,=,http://id.who.int/icd/entity/2086126201,<,3B15
+3,HAGEMAN因子歇乏,S1,D682,RDHA,=,http://id.who.int/icd/entity/2086126201,<,3B15
+3,先天性血液凝固第12因子欠乏症,S1,D682,RDHA,=,http://id.who.int/icd/entity/2086126201,<,3B15
+3,HAGEMAN因子欠乏,S1,D682,RDHA,=,http://id.who.int/icd/entity/2086126201,<,3B15
+3,HAGEMAN因子欠損,S1,D682,RDHA,=,http://id.who.int/icd/entity/2086126201,<,3B15
+3,HAGEMAN因子不足,S1,D682,RDHA,=,http://id.who.int/icd/entity/2086126201,<,3B15
+3,第12因子欠乏症,S1,D682,RDHA,=,http://id.who.int/icd/entity/2086126201,<,3B15
+3,HAGEMAN因子歇損,S1,D682,RDHA,=,http://id.who.int/icd/entity/2086126201,<,3B15
+3,血液凝固第XII因子欠乏症,S1,D682,RDHA,=,http://id.who.int/icd/entity/2086126201,<,3B15
+3,先天性第XII因子欠乏症,S1,D682,RDHA,=,http://id.who.int/icd/entity/2086126201,<,3B15
+3,先天性血液凝固第XII因子欠乏症,S1,D682,RDHA,=,http://id.who.int/icd/entity/2086126201,<,3B15
+3,血液凝固第12因子欠乏症,S1,D682,RDHA,=,http://id.who.int/icd/entity/2086126201,<,3B15
+3,ハーゲマン因子欠乏,S1,D682,RDHA,=,http://id.who.int/icd/entity/2086126201,<,3B15
+3,先天性第XII因子歇乏症,S1,D682,RDHA,=,http://id.who.int/icd/entity/2086126201,<,3B15
+3,先天性第12因子欠乏症,S1,D682,RDHA,=,http://id.who.int/icd/entity/2086126201,<,3B15
+3,ハーゲマン因子欠損,S1,D682,RDHA,=,http://id.who.int/icd/entity/2086126201,<,3B15
+3,ハーゲマン因子不足,S1,D682,RDHA,=,http://id.who.int/icd/entity/2086126201,<,3B15
+3,ハーゲマン因子歇乏,S1,D682,RDHA,=,http://id.who.int/icd/entity/2086126201,<,3B15
+3,先天性第ＸＩＩＩ因子Ａサブユニット欠乏症,L,D682,VU1J,<,http://id.who.int/icd/entity/2079957863,<,3B14.Z 
+3,先天性第XIII因子Aサブユニット欠乏症,S0,D682,VU1J,<,http://id.who.int/icd/entity/2079957863,<,3B14.Z 
+3,FXIII-A欠損症,S1,D682,VU1J,<,http://id.who.int/icd/entity/2079957863,<,3B14.Z 
+3,先天性第13因子Aサブユニット欠乏症,S1,D682,VU1J,<,http://id.who.int/icd/entity/2079957863,<,3B14.Z 
+3,先天性血液第XIII因子Aサブユニット欠乏症,S1,D682,VU1J,<,http://id.who.int/icd/entity/2079957863,<,3B14.Z 
+3,循環性抗凝血因子症,L,D683,M3J1,=,http://id.who.int/icd/entity/156218529,=,3B21.Z
+3,循環性抗凝血因子病,S1,D683,M3J1,=,http://id.who.int/icd/entity/156218529,=,3B21.Z
+3,高ヘパリン血症,L,D683,QR38,=,http://id.who.int/icd/entity/432236525,<,3B21.Y
+3,ヘパリン過剰血症,S1,D683,QR38,=,http://id.who.int/icd/entity/432236525,<,3B21.Y
+3,自己免疫性後天性凝固因子欠乏症,L,D684,FN7B,=,http://id.who.int/icd/entity/1559879199,=,3B22
+3,後天性第ＸＩＩＩ因子欠乏症,L,D684,KC2P,=,http://id.who.int/icd/entity/939366157,=,3B22
+3,後天性第XIII因子欠乏症,S0,D684,KC2P,=,http://id.who.int/icd/entity/939366157,=,3B22
+3,後天性血友病13,S1,D684,KC2P,=,http://id.who.int/icd/entity/939366157,=,3B22 
+3,後天性血液凝固第13因子欠乏症,S1,D684,KC2P,=,http://id.who.int/icd/entity/939366157,=,3B22 & XM1UV6
+3,後天性血液凝固第XIII因子欠乏症,S1,D684,KC2P,=,http://id.who.int/icd/entity/939366157,=,3B22 & XM1UV6
+3,後天性第13因子欠乏症,S1,D684,KC2P,=,http://id.who.int/icd/entity/939366157,=,3B22 & XM1UV6
+3,後天性血友病XIII,S1,D684,KC2P,=,http://id.who.int/icd/entity/939366157,=,3B22 
+3,後天性血友病Ａ,L,D684,M757,=,http://id.who.int/icd/entity/466705123,<,3B22
+3,後天性血友病A,S0,D684,M757,=,http://id.who.int/icd/entity/466705123,<,3B22
+3,第VIII因子インヒビター陽性後天性血友病,S1,D684,M757,=,http://id.who.int/icd/entity/939366157,=,3B22
+3,第8因子インヒビター陽性後天性血友病,S1,D684,M757,=,http://id.who.int/icd/entity/939366157,=,3B22
+3,後天性第Ｖ因子欠乏症,L,D684,N0B9,=,http://id.who.int/icd/entity/1671214092,<,3B2Y
+3,後天性第V因子欠乏症,S0,D684,N0B9,=,http://id.who.int/icd/entity/1671214092,<,3B2Y
+3,後天性第5因子欠乏症,S1,D684,N0B9,=,http://id.who.int/icd/entity/1671214092,<,3B2Y
+3,後天性低プロトロンビン血症,L,D684,NEKK,=,http://id.who.int/icd/entity/1291939300,<,3B2Y
+3,後天性血友病Ｂ,L,D684,NLE5,=,http://id.who.int/icd/entity/742554525,<,3B22
+3,後天性血友病B,S0,D684,NLE5,=,http://id.who.int/icd/entity/742554525,<,3B22
+3,第IX因子インヒビター陽性後天性血友病,S1,D684,NLE5,=,http://id.who.int/icd/entity/742554525,<,3B22
+3,第9因子インヒビター陽性後天性血友病,S1,D684,NLE5,=,http://id.who.int/icd/entity/742554525,<,3B22
+3,肝疾患による凝固因子欠乏,L,D684,QL0H,=,http://id.who.int/icd/entity/2111500767,<,3B2Y
+3,肝疾患による凝固因子歇乏,S1,D684,QL0H,=,http://id.who.int/icd/entity/2111500767,<,3B2Y
+3,自己免疫性後天性フォンウィルブランド病,L,D684,S3RP,=,http://id.who.int/icd/entity/62860395,<,3B2Y
+3,自己免疫性後天性VON WILLEBRAND病,S1,D684,S3RP,=,http://id.who.int/icd/entity/62860395,<,3B2Y
+3,後天性凝固因子欠乏症,L,D684,THJ0,=,http://id.who.int/icd/entity/2057381685,=,3B2Y
+3,後天性凝固因子歇乏症,S1,D684,THJ0,=,http://id.who.int/icd/entity/2057381685,=,3B2Y
+3,ビタミンＫ欠乏による凝固因子欠乏,L,D684,VVDT,=,http://id.who.int/icd/entity/554344978,<,3B2Y
+3,ビタミンK欠乏による凝固因子欠乏,S0,D684,VVDT,=,http://id.who.int/icd/entity/554344978,<,3B2Y
+3,ビタミンK歇乏による凝固因子歇乏,S1,D684,VVDT,=,http://id.who.int/icd/entity/554344978,<,3B2Y
+3,ビタミンK欠乏による凝固因子歇乏,S1,D684,VVDT,=,http://id.who.int/icd/entity/554344978,<,3B2Y
+3,ビタミンK歇乏による凝固因子欠乏,S1,D684,VVDT,=,http://id.who.int/icd/entity/554344978,<,3B2Y
+3,プロテインＣ欠乏症,L,D685,EC10,=,http://id.who.int/icd/entity/2021932081,<,3B61.0Y
+3,プロテインC欠乏症,S0,D685,EC10,=,http://id.who.int/icd/entity/2021932081,<,3B61.0Y
+3,先天性プロテインC欠乏症,S1,D685,EC10,=,http://id.who.int/icd/entity/2021932081,<,3B61.0Y
+3,プロテインＳ欠乏症,L,D685,LNA5,=,http://id.who.int/icd/entity/1305244529,<,3B61.0Y 
+3,プロテインS欠乏症,S0,D685,LNA5,=,http://id.who.int/icd/entity/1305244529,<,3B61.0Y 
+3,先天性プロテインS欠乏症,S1,D685,LNA5,=,http://id.who.int/icd/entity/1305244529,<,3B61.0Y 
+3,ヘパリン・コファクターＩＩ欠乏症,L,D685,NS3M,=,http://id.who.int/icd/entity/1059796074,<,3B61.0Y
+3,ヘパリン・コファクターII欠乏症,S0,D685,NS3M,=,http://id.who.int/icd/entity/1059796074,<,3B61.0Y
+3,ヘパリンコファクター2欠乏症,S1,D685,NS3M,=,http://id.who.int/icd/entity/1059796074,<,3B61.0Y
+3,ヘパリンコファクターII欠乏症,S1,D685,NS3M,=,http://id.who.int/icd/entity/1059796074,<,3B61.0Y
+3,ヘパリン・コファクター2欠乏症,S1,D685,NS3M,=,http://id.who.int/icd/entity/1059796074,<,3B61.0Y
+3,アンチトロンビン欠乏症,L,D685,RVQV,=,http://id.who.int/icd/entity/1957035597,<,3B61.0Y
+3,アンチトロンビンＩＩＩ欠乏症,L,D685,RVQV,=,http://id.who.int/icd/entity/1957035597,<,3B61.0Y
+3,アンチトロンビンIII欠乏症,S0,D685,RVQV,=,http://id.who.int/icd/entity/1957035597,<,3B61.0Y
+3,先天性アンチトロンビンIII欠乏症,S1,D685,RVQV,=,http://id.who.int/icd/entity/1957035597,<,3B61.0Y
+3,アンチトロンビンIII歇乏症,S1,D685,RVQV,=,http://id.who.int/icd/entity/1957035597,<,3B61.0Y
+3,後天性プロテインＳ欠乏症,L,D686,BFTB,=,http://id.who.int/icd/entity/1906006666,<,3B61.1 
+3,後天性プロテインS欠乏症,S0,D686,BFTB,=,http://id.who.int/icd/entity/1906006666,<,3B61.1 
+3,原発性抗リン脂質抗体症候群,L,D686,C4BP,=,http://id.who.int/icd/entity/85700944,=,4A45.0 
+3,抗リン脂質抗体症候群,L,D686,LUTK,=,http://id.who.int/icd/entity/1173370808,=,4A45.Z 
+3,ループスアンチコアグラント,L,D686,PNCS,<,http://id.who.int/icd/entity/1034282518,<,3B61.1 
+3,ループス抗凝固因子,S1,D686,PNCS,<,http://id.who.int/icd/entity/1034282518,<,3B61.1 
+3,後天性プロテインＣ欠乏症,L,D686,VUT0,<,http://id.who.int/icd/entity/1034282518,<,3B61.1
+3,後天性プロテインC欠乏症,S0,D686,VUT0,<,http://id.who.int/icd/entity/1034282518,<,3B61.1
+3,無フィブリノゲン血症,L,D688,KUFB,=,http://id.who.int/icd/entity/608641873 OR http://id.who.int/icd/entity/1253372661,<,3B14.0 or 3B20
+3,無線維素原症,S1,D688,KUFB,=,http://id.who.int/icd/entity/608641873 OR http://id.who.int/icd/entity/1253372661,<,3B14.0 or 3B20
+3,無線維素原血症,S1,D688,KUFB,=,http://id.who.int/icd/entity/608641873 OR http://id.who.int/icd/entity/1253372661,<,3B14.0 or 3B20
+3,無フィブリノーゲン血症,S1,D688,KUFB,=,http://id.who.int/icd/entity/608641873 OR http://id.who.int/icd/entity/1253372661,<,3B14.0 or 3B20
+3,先天性プラスミノゲン欠損症,L,D688,LKRA,<,http://id.who.int/icd/entity/1240776230,<,DA0D.3 
+3,先天性プラスミノーゲン欠損症,S1,D688,LKRA,<,http://id.who.int/icd/entity/1240776230,<,DA0D.3 
+3,先天性プラスミノーゲン欠乏症,S1,D688,LKRA,<,http://id.who.int/icd/entity/1240776230,<,DA0D.3 
+3,先天性プラスミノゲン欠乏症,S1,D688,LKRA,<,http://id.who.int/icd/entity/1240776230,<,DA0D.3 
+3,フィブリノゲン減少症,L,D688,M2HU,=,http://id.who.int/icd/entity/559585471 OR http://id.who.int/icd/entity/1253372661,<,3B14.0 OR 3B20 
+3,線維素原減少症,S1,D688,M2HU,=,http://id.who.int/icd/entity/559585471 OR http://id.who.int/icd/entity/1253372661,<,3B14.0 OR 3B20
+3,フィブリノーゲン減少症,S1,D688,M2HU,=,http://id.who.int/icd/entity/559585471 OR http://id.who.int/icd/entity/1253372661,<,3B14.0 OR 3B20
+3,ループス血小板減少症,L,D688,MHT5,=,http://id.who.int/icd/entity/51520034 / http://id.who.int/icd/entity/749596428,=,3B64.11 / 4A40.0Z
+3,低線維素血症,L,D688,S1L9,=,http://id.who.int/icd/entity/559585471 OR http://id.who.int/icd/entity/1253372661,<,3B14.0 OR 3B20 
+3,トルソー症候群,L,D688,SB88,<,http://id.who.int/icd/entity/1034282518 / http://id.who.int/icd/entity/1594217552,<,3B64.01
+3,TROUSSEAU症候群,S1,D688,SB88,<,http://id.who.int/icd/entity/1034282518 / http://id.who.int/icd/entity/1594217552,<,3B64.01
+3,トルーソー症候群,S1,D688,SB88,<,http://id.who.int/icd/entity/1034282518 / http://id.who.int/icd/entity/1594217552,<,3B64.01
+3,血液凝固異常,L,D689,B4UV,=,http://id.who.int/icd/entity/1016799900,=,3B4Z
+3,出血凝固異常,S1,D689,B4UV,=,http://id.who.int/icd/entity/1016799900,=,3B4Z
+3,凝固不全,S1,D689,B4UV,=,http://id.who.int/icd/entity/1016799900,=,3B4Z
+3,凝固障害,S1,D689,B4UV,=,http://id.who.int/icd/entity/1016799900,=,3B4Z
+3,血液凝固障害,S1,D689,B4UV,=,http://id.who.int/icd/entity/1016799900,=,3B4Z
+3,血栓傾向,S2,D689,B4UV,=,http://id.who.int/icd/entity/1733531851,=,3B61.Z 
+3,先天性血液凝固因子異常,L,D689,BKTK,=,http://id.who.int/icd/entity/1016799900,=,3B4Z & XB8M
+3,凝固因子欠乏症,L,D689,FRBL,=,http://id.who.int/icd/entity/1016799900,=,3B4Z
+3,凝固因子歇乏症,S1,D689,FRBL,=,http://id.who.int/icd/entity/1016799900,=,3B4Z
+3,血液凝固因子欠乏,S1,D689,FRBL,=,http://id.who.int/icd/entity/1016799900,=,3B4Z
+3,遺伝性血栓性素因による特発性血栓症,L,D689,J5LD,=,http://id.who.int/icd/entity/535489185 & http://id.who.int/icd/entity/894194405,=,3B61.0Z & XB5F
+3,症候性紫斑病,L,D690,AHUV,=,http://id.who.int/icd/entity/1629105375,=,4A44.92
+3,アナフィラクトイド紫斑,L,D690,CRKR,=,http://id.who.int/icd/entity/1629105375,=,4A44.92
+3,ＩｇＡ血管炎性関節炎,L,D690,FVCV,=,http://id.who.int/icd/entity/1629105375 / http://id.who.int/icd/entity/1952133259,=,4A44.92 / FA38.2
+3,IGA血管炎性関節炎,S0,D690,FVCV,=,http://id.who.int/icd/entity/1629105375 / http://id.who.int/icd/entity/1952133259,=,4A44.92 / FA38.2
+3,HENOCH紫斑病性関節炎,S1,D690,FVCV,=,http://id.who.int/icd/entity/1525011151,≒,4A44.92 / FA2Z 
+3,シェーンライン・ヘノッホ紫斑病性関節炎,S1,D690,FVCV,=,http://id.who.int/icd/entity/1525011151,≒,4A44.92 / FA2Z 
+3,SCHONLEIN HENOCH紫斑病性関節炎,S1,D690,FVCV,=,http://id.who.int/icd/entity/1525011151,≒,4A44.92 / FA2Z 
+3,ヘノッホ紫斑病性関節炎,S1,D690,FVCV,=,http://id.who.int/icd/entity/1525011151,≒,4A44.92 / FA2Z 
+3,ＩｇＡ血管炎,L,D690,NC2T,=,http://id.who.int/icd/entity/1629105375,=,4A44.92
+3,IGA血管炎,S0,D690,NC2T,=,http://id.who.int/icd/entity/1629105375,=,4A44.92
+3,SCHONLEIN HENOCH紫斑病,S1,D690,NC2T,≒,http://id.who.int/icd/entity/1629105375,≒,4A44.92
+3,HENOCH病,S1,D690,NC2T,≒,http://id.who.int/icd/entity/1629105375,≒,4A44.92
+3,シェーンライン・ヘノッホ紫斑病,S1,D690,NC2T,≒,http://id.who.int/icd/entity/1629105375,≒,4A44.92
+3,ヘノッホ病,S1,D690,NC2T,≒,http://id.who.int/icd/entity/1629105375,≒,4A44.92
+3,血小板非減少性紫斑症,S1,D690,NC2T,=,http://id.who.int/icd/entity/1895608758,=,3B60 
+3,ヘノッホ・シェーンライン紫斑病,S1,D690,NC2T,≒,http://id.who.int/icd/entity/1629105375,≒,4A44.92
+3,血小板非減少性紫斑病,S1,D690,NC2T,=,http://id.who.int/icd/entity/1895608758,=,3B60 
+3,HENOCH SCHONLEIN紫斑病,S1,D690,NC2T,≒,http://id.who.int/icd/entity/1629105375,≒,4A44.92
+3,アナフィラキトイド紫斑病,S2,D690,NC2T,≒,http://id.who.int/icd/entity/1629105375,≒,4A44.92
+3,血管性紫斑病,S2,D690,NC2T,=,http://id.who.int/icd/entity/1629105375,=,4A44.92
+3,過敏症様紫斑病,S2,D690,NC2T,=,http://id.who.int/icd/entity/1629105375,=,4A44.92
+3,リウマチ性紫斑病,S2,D690,NC2T,≒,http://id.who.int/icd/entity/1629105375,≒,4A44.92
+3,HENOCH紫斑病,S2,D690,NC2T,=,http://id.who.int/icd/entity/1629105375,=,4A44.92
+3,リウマチ性紫斑症,S2,D690,NC2T,≒,http://id.who.int/icd/entity/1629105375,≒,4A44.92
+3,アレルギー性紫斑病,S2,D690,NC2T,=,http://id.who.int/icd/entity/1629105375,=,4A44.92
+3,アナフィラキシー様紫斑病,S2,D690,NC2T,=,http://id.who.int/icd/entity/1629105375,=,4A44.92
+3,腸性紫斑病,S2,D690,NC2T,=,http://id.who.int/icd/entity/952830082,=,4A44.92
+3,アナフィラキシー性紫斑病,S2,D690,NC2T,=,http://id.who.int/icd/entity/1629105375,=,4A44.92
+3,腹性紫斑病,S2,D690,NC2T,=,http://id.who.int/icd/entity/952830082,=,4A44.92
+3,血管神経性紫斑病,S2,D690,NC2T,=,http://id.who.int/icd/entity/1629105375,=,4A44.92
+3,ヘノッホ紫斑病,S2,D690,NC2T,=,http://id.who.int/icd/entity/1629105375,=,4A44.92
+3,アナフィラキシ性紫斑病,S2,D690,NC2T,=,http://id.who.int/icd/entity/1629105375,=,4A44.92
+3,血管性紫斑症,S2,D690,NC2T,=,http://id.who.int/icd/entity/1629105375,=,4A44.92
+3,アレルギー性紫斑症,S2,D690,NC2T,=,http://id.who.int/icd/entity/1629105375,=,4A44.92
+3,リウマチ様紫斑病,S2,D690,NC2T,≒,http://id.who.int/icd/entity/1629105375,≒,4A44.92
+3,アナフィラキトイド紫斑症,S2,D690,NC2T,=,http://id.who.int/icd/entity/1629105375,=,4A44.92
+3,アレルギー性血管炎,L,D690,PG2J,=,http://id.who.int/icd/entity/748282847,=,4A44.BZ
+3,紫斑病腎炎,L,D690,VCAQ,=,http://id.who.int/icd/entity/1629105375 / http://id.who.int/icd/entity/1783829886,=,4A44.92 / GB40
+3,紫斑病性腎炎,S1,D690,VCAQ,=,http://id.who.int/icd/entity/1629105375 / http://id.who.int/icd/entity/1783829886,=,4A44.92 / GB40
+3,血管性紫斑病性腎炎,S2,D690,VCAQ,=,http://id.who.int/icd/entity/1629105375 / http://id.who.int/icd/entity/1783829886,=,4A44.92 / GB40
+3,アレルギー性紫斑病性腎炎,S2,D690,VCAQ,=,http://id.who.int/icd/entity/1629105375 / http://id.who.int/icd/entity/1783829886,=,4A44.92 / GB40
+3,先天性血小板機能低下,L,D691,D5JJ,=,http://id.who.int/icd/entity/1410128892,=,3B62.0Z 
+3,グレイ血小板症候群,L,D691,E800,=,http://id.who.int/icd/entity/1818085572,<,3B62.00
+3,巨大血小板症候群,L,D691,EMQB,=,http://id.who.int/icd/entity/507309898,<,3B62.01 
+3,円形血小板症,L,D691,KHVR,<,http://id.who.int/icd/entity/72474955,<,3B62.Z 
+3,異常血小板,L,D691,L2QE,=,http://id.who.int/icd/entity/72474955,=,3B62.Z 
+3,異常血小板産生,S1,D691,L2QE,=,http://id.who.int/icd/entity/72474955,=,3B62.Z 
+3,ベルナール・スーリエ症候群,L,D691,Q6FG,=,http://id.who.int/icd/entity/507309898,<,3B62.01 
+3,ベルナール・スーリア症候群,S1,D691,Q6FG,=,http://id.who.int/icd/entity/507309898,<,3B62.01 
+3,バーナード・スーリエ症候群,S1,D691,Q6FG,=,http://id.who.int/icd/entity/507309898,<,3B62.01 
+3,ベルナール・スーリエ病,S1,D691,Q6FG,=,http://id.who.int/icd/entity/507309898,<,3B62.01 
+3,BERNARD-SOULIER症候群,S1,D691,Q6FG,=,http://id.who.int/icd/entity/507309898,<,3B62.01 
+3,ベルナール・スリーア症候群,S1,D691,Q6FG,=,http://id.who.int/icd/entity/507309898,<,3B62.01 
+3,血小板機能異常症,L,D691,RL83,=,http://id.who.int/icd/entity/72474955,=,3B62.Z
+3,血小板無力症,L,D691,SP6H,=,http://id.who.int/icd/entity/72474955,=,3B62.Z
+3,グランツマン血小板無力症,S1,D691,SP6H,=,http://id.who.int/icd/entity/1927726560,<,3B62.0Y
+3,GLANZMANN病,S1,D691,SP6H,=,http://id.who.int/icd/entity/1927726560,<,3B62.0Y
+3,グランツマン病,S1,D691,SP6H,=,http://id.who.int/icd/entity/1927726560,<,3B62.0Y
+3,GLANZMANN血小板無力症,S1,D691,SP6H,=,http://id.who.int/icd/entity/1927726560,<,3B62.0Y
+3,後天性血小板機能低下,L,D691,SS5C,=,http://id.who.int/icd/entity/72474955,=,3B62.Z 
+3,後天性血小板障害,S2,D691,SS5C,=,http://id.who.int/icd/entity/72474955,=,3B62.Z 
+3,血小板放出機構異常症,L,D691,TFTL,=,http://id.who.int/icd/entity/72474955,=,3B62.Z 
+3,血小板機能低下,L,D691,V93N,=,http://id.who.int/icd/entity/72474955,=,3B62.Z 
+3,血小板機能障害,S1,D691,V93N,=,http://id.who.int/icd/entity/72474955,=,3B62.Z 
+3,血小板障害症,L,D691,VPFU,=,http://id.who.int/icd/entity/72474955,=,3B62.Z 
+3,血管拡張性環状紫斑症,L,D692,ASLD,=,http://id.who.int/icd/entity/2086688332,<,EF40.0
+3,マヨッキー病,S1,D692,ASLD,=,http://id.who.int/icd/entity/2086688332,<,EF40.0
+3,MAJOCCHI血管拡張性環状紫斑,S1,D692,ASLD,=,http://id.who.int/icd/entity/2086688332,<,EF40.0
+3,マヨッキー紫斑,S1,D692,ASLD,=,http://id.who.int/icd/entity/2086688332,<,EF40.0
+3,MAJOCCHI症候群,S1,D692,ASLD,=,http://id.who.int/icd/entity/2086688332,<,EF40.0
+3,血管拡張性環状性紫斑,S1,D692,ASLD,=,http://id.who.int/icd/entity/2086688332,<,EF40.0
+3,マヨッキー症候群,S1,D692,ASLD,=,http://id.who.int/icd/entity/2086688332,<,EF40.0
+3,MAJOCCHI病,S1,D692,ASLD,=,http://id.who.int/icd/entity/2086688332,<,EF40.0
+3,マヨッキー血管拡張性環状紫斑,S1,D692,ASLD,=,http://id.who.int/icd/entity/2086688332,<,EF40.0
+3,老人性紫斑,L,D692,D1H4,=,http://id.who.int/icd/entity/1579914789,<,EE40.32 
+3,老年性紫斑病,S1,D692,D1H4,=,http://id.who.int/icd/entity/1579914789,<,EE40.32 
+3,老人性紫斑病,S1,D692,D1H4,=,http://id.who.int/icd/entity/1579914789,<,EE40.32 
+3,紫斑病,L,D692,DB9L,=,http://id.who.int/icd/entity/1648358712,<,3B6Z 
+3,紫斑症,S1,D692,DB9L,=,http://id.who.int/icd/entity/1648358712,<,3B6Z 
+3,単純性紫斑病,L,D692,EMTU,=,http://id.who.int/icd/entity/280360139,=,EF40.0
+3,単純性紫斑,S1,D692,EMTU,=,http://id.who.int/icd/entity/280360139,=,EF40.0 
+3,全身性紫斑病,L,D692,FDLR,=,http://id.who.int/icd/entity/1648358712 & http://id.who.int/icd/entity/1479602347,=,3B6Z & XK63 
+3,自己赤血球感作症候群,L,D692,KAM0,=,http://id.who.int/icd/entity/347603209,=,ED02 
+3,デビス紫斑,L,D692,USUJ,=,http://id.who.int/icd/entity/514736244,<,EE40.32
+3,急性特発性血小板減少性紫斑病,L,D693,EQAJ,=,http://id.who.int/icd/entity/364346400 & http://id.who.int/icd/entity/786106375,=,3B64.10 & XT5R
+3,急性型特発性血小板減少性紫斑病,S1,D693,EQAJ,=,http://id.who.int/icd/entity/364346400 & http://id.who.int/icd/entity/786106375,=,3B64.10 & XT5R
+3,慢性特発性血小板減少性紫斑病,L,D693,FT9F,=,http://id.who.int/icd/entity/364346400 & http://id.who.int/icd/entity/490003542,=,3B64.10 & XT8W
+3,慢性型特発性血小板減少性紫斑病,S1,D693,FT9F,=,http://id.who.int/icd/entity/364346400 & http://id.who.int/icd/entity/490003542,=,3B64.10 & XT8W
+3,特発性血小板減少性紫斑病,L,D693,P5MD,=,http://id.who.int/icd/entity/364346400,=,3B64.10
+3,ウェルホーフ氏病,S1,D693,P5MD,=,http://id.who.int/icd/entity/364346400,=,3B64.10
+3,免疫性血小板減少性紫斑病,S1,D693,P5MD,=,http://id.who.int/icd/entity/364346400,=,3B64.10
+3,ITP,S1,D693,P5MD,=,http://id.who.int/icd/entity/364346400,=,3B64.10
+3,ウェルホーフ氏紫斑病,S1,D693,P5MD,=,http://id.who.int/icd/entity/364346400,=,3B64.10
+3,自己免疫性血小板減少性紫斑病,S1,D693,P5MD,=,http://id.who.int/icd/entity/364346400,=,3B64.10
+3,特発性栓球減少性紫斑病,S1,D693,P5MD,=,http://id.who.int/icd/entity/364346400,=,3B64.10
+3,WERLHOF病,S1,D693,P5MD,=,http://id.who.int/icd/entity/364346400,=,3B64.10
+3,WERLHOF紫斑病,S1,D693,P5MD,=,http://id.who.int/icd/entity/364346400,=,3B64.10
+3,ウェルホーフ病,S1,D693,P5MD,=,http://id.who.int/icd/entity/364346400,=,3B64.10
+3,ウェルホーフ紫斑病,S1,D693,P5MD,=,http://id.who.int/icd/entity/364346400,=,3B64.10
+3,本態性血小板減少症,S2,D693,P5MD,=,http://id.who.int/icd/entity/364346400,=,3B64.10
+3,特発性血小板減少症,S2,D693,P5MD,=,http://id.who.int/icd/entity/364346400,=,3B64.10
+3,エバンス症候群,L,D693,QB38,=,http://id.who.int/icd/entity/1048228553,=,3A20.5 
+3,EVANS症候群,S1,D693,QB38,=,http://id.who.int/icd/entity/1048228553,=,3A20.5 
+3,原発性血小板減少症,L,D694,FJN6,=,http://id.who.int/icd/entity/364346400,=,3B64.10 
+3,骨髄低形成血小板減少症,L,D694,JH0F,=,http://id.who.int/icd/entity/51520034 / http://id.who.int/icd/entity/502834133,=,3B64.11 / 3A70.Z
+3,先天性無巨核球性血小板減少症,L,D694,K7GC,=,http://id.who.int/icd/entity/801723173,<,3B64.01
+3,CAMT,S1,D694,K7GC,=,http://id.who.int/icd/entity/801723173,<,3B64.01
+3,血小板減少性紫斑病,L,D694,KKUD,=,http://id.who.int/icd/entity/364346400,=,3B64.Z
+3,血小板減少性紫斑,S1,D694,KKUD,=,http://id.who.int/icd/entity/364346400,=,3B64.Z
+3,カサバッハ・メリット症候群,L,D694,N6KE,=,http://id.who.int/icd/entity/2059601885,<,KA8Y
+3,KASABACH MERRITT症候群,S1,D694,N6KE,=,http://id.who.int/icd/entity/2059601885,<,KA8Y
+3,カサバッハ・メリット現象,S1,D694,N6KE,=,http://id.who.int/icd/entity/2059601885,<,KA8Y
+3,KASABACH-MERRITT症候群,S1,D694,N6KE,=,http://id.who.int/icd/entity/2059601885,<,KA8Y
+3,遺伝性血小板減少症,L,D694,RU3Q,=,http://id.who.int/icd/entity/827950289,=,3B64.01
+3,メイ・ヘグリン異常症,L,D694,UA4B,=,http://id.who.int/icd/entity/2062728051,<,3B64.01
+3,MYH9異常症,S1,D694,UA4B,=,http://id.who.int/icd/entity/109013938,<,3B64.01
+3,MAY-HEGGLIN異常症,S1,D694,UA4B,=,http://id.who.int/icd/entity/2062728051,<,3B64.01
+3,ヘパリン起因性血小板減少症,L,D695,H0VL,=,http://id.who.int/icd/entity/1143142333,<,3B64.12
+3,続発性血小板減少性紫斑病,L,D695,KMJM,=,http://id.who.int/icd/entity/51520034,=,3B64.11
+3,続発性紫斑病,L,D695,PB38,=,http://id.who.int/icd/entity/51520034,=,3B64.11
+3,続発性血小板減少症,L,D695,RR4B,=,http://id.who.int/icd/entity/51520034,=,3B64.11 
+3,二次性血小板減少症,S1,D695,RR4B,=,http://id.who.int/icd/entity/51520034,=,3B64.11 
+3,薬剤性血小板減少性紫斑病,L,D695,UM4D,=,http://id.who.int/icd/entity/7135461,=,3B64.12 
+3,周期性血小板減少症,L,D696,EJ9V,<,http://id.who.int/icd/entity/683583694,<,3B64.Z 
+3,巨大血小板性血小板減少症,L,D696,J5NU,=,http://id.who.int/icd/entity/2069754587,=,3B62.01 
+3,血小板減少症,L,D696,M4D9,=,http://id.who.int/icd/entity/683583694,=,3B64.Z
+3,栓球減少症,S1,D696,M4D9,=,http://id.who.int/icd/entity/683583694,=,3B64.Z
+3,エプスタイン症候群,L,D696,V9PL,=,http://id.who.int/icd/entity/1379284603,<,3B64.01
+3,EPSTEIN症候群,S1,D696,V9PL,=,http://id.who.int/icd/entity/1379284603,<,3B64.01
+3,うっ血性紫斑病,L,D698,CH4R,=,http://id.who.int/icd/entity/1454196772,=,EE40.32
+3,血管性偽血友病,S2,D698,CH4R,=,http://id.who.int/icd/entity/1454196772,=,EE40.32
+3,毛細血管脆弱症,L,D698,F6NE,=,http://id.who.int/icd/entity/1454196772,=,EE40.32
+3,毛細管脆弱症,S1,D698,F6NE,=,http://id.who.int/icd/entity/1454196772,=,EE40.32
+3,血管脆弱,S2,D698,F6NE,=,http://id.who.int/icd/entity/1454196772,=,EE40.32
+3,老年性出血,L,D699,DFGE,=,http://id.who.int/icd/entity/1579914789,<,EE40.32
+3,老人性出血,S1,D699,DFGE,=,http://id.who.int/icd/entity/1579914789,<,EE40.32
+3,出血傾向,L,D699,NQEH,=,http://id.who.int/icd/entity/181823389,<,3B6Z 
+3,出血性素質,S1,D699,NQEH,=,http://id.who.int/icd/entity/181823389,<,3B6Z 
+3,出血性素因,S1,D699,NQEH,=,http://id.who.int/icd/entity/181823389,<,3B6Z
+3,出血性傾向,S1,D699,NQEH,=,http://id.who.int/icd/entity/181823389,<,3B6Z 
+3,止血障害,S2,D699,NQEH,=,http://id.who.int/icd/entity/1762461746,=,3B6Z 
+3,脾性好中球減少症,L,D70,A553,=,http://id.who.int/icd/entity/1539576043,<,4B00.0Z
+3,好中球減少性脾腫,S1,D70,A553,=,http://id.who.int/icd/entity/1539576043,<,4B00.0Z
+3,中毒性好中球減少症,L,D70,D4TQ,=,http://id.who.int/icd/entity/2100655584,<,4B00.01
+3,慢性良性顆粒球減少症,L,D70,DBQP,<,http://id.who.int/icd/entity/1307688552 & http://id.who.int/icd/entity/490003542,<,4B00.0Z & XT8W
+3,慢性顆粒細胞減少症,S1,D70,DBQP,<,http://id.who.int/icd/entity/1307688552 & http://id.who.int/icd/entity/490003542,<,4B00.0Z & XT8W
+3,二次性白血球減少症,L,D70,E29V,<,http://id.who.int/icd/entity/918270263,<,4B00.0Z
+3,好中球Ｇ６ＰＤ欠乏症,L,D70,F5QS,=,http://id.who.int/icd/entity/1434413881 / http://id.who.int/icd/entity/377675277,<,4B00 / 5C51.3
+3,好中球G6PD欠乏症,S0,D70,F5QS,=,http://id.who.int/icd/entity/1434413881 / http://id.who.int/icd/entity/377675277,<,4B00 / 5C51.3
+3,好中球G6PD歇乏症,S1,D70,F5QS,=,http://id.who.int/icd/entity/1434413881 / http://id.who.int/icd/entity/377675277,<,4B00 / 5C51.3
+3,白血球減少症,L,D70,FS06,=,http://id.who.int/icd/entity/918270263,<,4B00.0Z
+3,好中球減少症,L,D70,G722,=,http://id.who.int/icd/entity/926492960,=,4B00.0Z
+3,重症先天性好中球減少症,L,D70,GF9J,=,http://id.who.int/icd/entity/473816983,=,4B00.00 & XS25
+3,無顆粒球性アンギナ,L,D70,GRM8,=,http://id.who.int/icd/entity/745700723,<,4B00.0Z
+3,無顆粒球性アンギーナ,S1,D70,GRM8,=,http://id.who.int/icd/entity/745700723,<,4B00.0Z
+3,薬剤性顆粒球減少症,L,D70,HV2C,=,http://id.who.int/icd/entity/1897183140,<,4B00.01 
+3,薬物誘発性好中球減少症,S1,D70,HV2C,=,http://id.who.int/icd/entity/1897183140,<,4B00.01
+3,無顆粒球症,L,D70,LTKL,=,http://id.who.int/icd/entity/745700723,<,4B00.0Z
+3,シュルツ病,S1,D70,LTKL,=,http://id.who.int/icd/entity/745700723,<,4B00.0Z
+3,無顆粒細胞症,S1,D70,LTKL,=,http://id.who.int/icd/entity/1913706366,<,4B00.0Z
+3,特発性好中球減少症,L,D70,MNAV,=,http://id.who.int/icd/entity/926492960 & http://id.who.int/icd/entity/894194405,=,4B00.0Z & XB5F
+3,慢性本態性好中球減少症症候群,L,D70,MUM7,=,http://id.who.int/icd/entity/348671706 & http://id.who.int/icd/entity/894194405 & http://id.who.int/icd/entity/490003542,=,4B00.01 & XB5F & XT8W
+3,自己免疫性好中球減少症,L,D70,NBR0,=,http://id.who.int/icd/entity/348671706,=,4B00.01 
+3,シュワッハマン・ダイアモンド症候群,L,D70,PDQV,=,http://id.who.int/icd/entity/232885463,<,3A70.0 
+3,SHWACHMAN症候群,S1,D70,PDQV,=,http://id.who.int/icd/entity/232885463,<,3A70.0 
+3,シュワックマン・ダイアモンド症候群,S1,D70,PDQV,=,http://id.who.int/icd/entity/232885463,<,3A70.0 
+3,シュワックマン症候群,S1,D70,PDQV,=,http://id.who.int/icd/entity/232885463,<,3A70.0 
+3,SHWACHMAN-DIAMOND症候群,S1,D70,PDQV,=,http://id.who.int/icd/entity/232885463,<,3A70.0 
+3,周期性好中球減少症,L,D70,PLQL,=,http://id.who.int/icd/entity/926492960,<,4B00.0Z
+3,周期性顆粒球減少症,S1,D70,PLQL,=,http://id.who.int/icd/entity/926492960,<,4B00.0Z
+3,単球減少症,L,D70,PV25,=,http://id.who.int/icd/entity/266517577,=,4B04
+3,小児遺伝性無顆粒球症,L,D70,QLTJ,=,http://id.who.int/icd/entity/926240117,=,4B00.00 & XT2C
+3,KOSTMANN症候群,S1,D70,QLTJ,=,http://id.who.int/icd/entity/421553273,<,4B00.00
+3,コストマン病,S1,D70,QLTJ,=,http://id.who.int/icd/entity/421553273,<,4B00.00
+3,常染色体劣性重症先天性好中球減少症,S1,D70,QLTJ,=,http://id.who.int/icd/entity/780511169 or http://id.who.int/icd/entity/379753289 or http://id.who.int/icd/entity/421553273 ,<,4B00.00
+3,コストマン症候群,S1,D70,QLTJ,=,http://id.who.int/icd/entity/421553273,<,4B00.00
+3,KOSTMANN病,S1,D70,QLTJ,=,http://id.who.int/icd/entity/421553273,<,4B00.00
+3,発熱性好中球減少症,L,D70,QNB9,=,http://id.who.int/icd/entity/348671706 / http://id.who.int/icd/entity/915343154,<,4B00.0Z / MG26
+3,好中球減少性発熱,S1,D70,QNB9,=,http://id.who.int/icd/entity/348671706 / http://id.who.int/icd/entity/915343154,<,4B00.0Z / MG26
+3,先天性好中球減少症,L,D70,RUHK,=,http://id.who.int/icd/entity/87096615,=,4B00.00
+3,顆粒球減少症,L,D70,RVFA,=,http://id.who.int/icd/entity/1307688552,<,4B00.0Z 
+3,顆粒細胞減少症,S1,D70,RVFA,=,http://id.who.int/icd/entity/1307688552,<,4B00.0Z 
+3,顆粒白血球減少症,S1,D70,RVFA,=,http://id.who.int/icd/entity/1307688552,<,4B00.0Z 
+3,後天性顆粒球機能異常症,L,D71,B67A,=,http://id.who.int/icd/entity/966435382,<,"(F)(M)  好中球機能不全症 (4A00.0Z 好中球機能不全症、詳細不明 ) 
+
+顆粒球機能異常症（機能低下）は、白血球の大部分を占める好中球の働きが正常に機能しない病態の総称であり、実質的に好中球機能不全症（機能低下）と同じ"
+3,ＣＲ３欠損症,L,D71,BRCV,=,http://id.who.int/icd/entity/516653913,<,4A00.0Y
+3,CR3欠損症,S0,D71,BRCV,=,http://id.who.int/icd/entity/516653913,<,4A00.0Y
+3,CR3歇損症,S1,D71,BRCV,=,http://id.who.int/icd/entity/516653913,<,4A00.0Y
+3,慢性肉芽腫症,L,D71,DRF8,=,http://id.who.int/icd/entity/1329764681,<,4A00.0Y
+3,慢性肉芽腫(症),S1,D71,DRF8,=,http://id.who.int/icd/entity/1329764681,<,4A00.0Y
+3,慢性肉芽腫,S1,D71,DRF8,=,http://id.who.int/icd/entity/1329764681,<,4A00.0Y
+3,進行性敗血症性肉芽腫症,L,D71,EQ06,=,http://id.who.int/icd/entity/1552921428,<,4A00.0Y
+3,先天性好中球機能不全症,L,D71,G5S7,=,http://id.who.int/icd/entity/808756909,=,4A00.0Z & XB8M
+3,好中球機能不全症,S1,D71,G5S7,=,http://id.who.int/icd/entity/808756909,=,4A00.0Z
+3,顆粒球機能異常症,L,D71,GQ6C,=,http://id.who.int/icd/entity/808756909 & http://id.who.int/icd/entity/480467040,<,4A00.0Y & XA2WC0
+3,多核好中球機能障害,L,D71,JJKT,=,http://id.who.int/icd/entity/808756909,=,4A00.0Z
+3,先天性貪食能異常症,L,D71,P2R2,=,http://id.who.int/icd/entity/808756909,=,4A00.0Z
+3,後天性好中球機能不全症,L,D71,PLQS,=,http://id.who.int/icd/entity/808756909,=,4A00.0Z
+3,白血球接着不全症,L,D71,UAJH,=,http://id.who.int/icd/entity/317341989,<,4A00.0Y
+3,白血球接着不全症候群,S1,D71,UAJH,=,http://id.who.int/icd/entity/317341989,<,4A00.0Y
+3,白血球接着歇陥症,S1,D71,UAJH,=,http://id.who.int/icd/entity/317341989,<,4A00.0Y
+3,白血球接着欠陥症,S1,D71,UAJH,=,http://id.who.int/icd/entity/317341989,<,4A00.0Y
+3,アルダー異常,L,D720,CN71,=,http://id.who.int/icd/entity/1389056131,<,4B0Y
+3,アルダー症候群,S2,D720,CN71,=,http://id.who.int/icd/entity/1389056131,<,4B0Y
+3,遺伝性白血球メラニン症,L,D720,H1KL,<,http://id.who.int/icd/entity/966435382 & http://id.who.int/icd/entity/789096057,<,4B0Y & XB7K
+3,メイ・ヘグリン症候群,L,D720,HFF5,=,http://id.who.int/icd/entity/2049753760,<,4B0Y
+3,MAY-HEGGLIN症候群,S1,D720,HFF5,=,http://id.who.int/icd/entity/2049753760,<,4B0Y
+3,二次顆粒欠損症,L,D720,NPGC,<,http://id.who.int/icd/entity/1051492133,<,4B00.00 
+3,二次顆粒歇損症,S1,D720,NPGC,<,http://id.who.int/icd/entity/1051492133,<,4B00.00 
+3,白血球の遺伝性異常,L,D720,PN5D,=,http://id.who.int/icd/entity/966435382 & http://id.who.int/icd/entity/789096057,=,4B0Z & XB7K 
+3,ペルゲル・ヒュー症候群,L,D720,QJ66,=,http://id.who.int/icd/entity/1210390183,<,4B0Y
+3,遺伝性白血球寡少分節,L,D720,RTC1,<,http://id.who.int/icd/entity/966435382 & http://id.who.int/icd/entity/789096057,<,4B0Y & XB7K 
+3,遺伝性白血球過分節,L,D720,VHU3,<,http://id.who.int/icd/entity/966435382 & http://id.who.int/icd/entity/789096057,<,4B0Y & XB7K 
+3,好酸球増加症,L,D721,CS29,=,http://id.who.int/icd/entity/726177562,=,4B03.Z
+3,好酸球増加症候群,S1,D721,CS29,=,http://id.who.int/icd/entity/110429919,<,BC43.20
+3,好酸球増多症,S1,D721,CS29,=,http://id.who.int/icd/entity/726177562,=,4B03.Z
+3,エオジン細胞増加症,S1,D721,CS29,=,http://id.who.int/icd/entity/726177562,=,4B03.Z
+3,特発性好酸球増多症候群,L,D721,GH56,=,http://id.who.int/icd/entity/703101846,<,4B03.Z & XB5F
+3,アレルギー性好酸球増加症,L,D721,M0DQ,=,http://id.who.int/icd/entity/1117645795,<,4B03.1 
+3,遺伝性好酸球増加症,L,D721,R986,=,http://id.who.int/icd/entity/1180087344,=,4B03.0
+3,無リンパ球症,L,D728,C10F,<,http://id.who.int/icd/entity/298296736 & http://id.who.int/icd/entity/1201187093,<,4B0Z & XA8YQ2 & XS25
+3,骨髄性類白血病反応,L,D728,C37S,=,http://id.who.int/icd/entity/1478910722,<,MA16.11
+3,リンパ組織球増多症,L,D728,CL44,=,http://id.who.int/icd/entity/643073246,<,4B0Z & XA8YQ2
+3,異型リンパ球増加症,L,D728,E600,=,http://id.who.int/icd/entity/1285355119,<,4B07 
+3,リンパ球増加症,L,D728,FKRT,=,http://id.who.int/icd/entity/643073246,<,4B0Z & XA8YQ2
+3,リンパ球増多症,S1,D728,FKRT,=,http://id.who.int/icd/entity/643073246,<,4B0Z & XA8YQ2
+3,単球性類白血病反応,L,D728,G1QF,=,http://id.who.int/icd/entity/1489214354,<,MA16.11
+3,リンパ球減少症,L,D728,HHMK,=,http://id.who.int/icd/entity/298296736,<,4B0Z & XA8YQ2 
+3,リンパ球異常,L,D728,L4JS,<,http://id.who.int/icd/entity/416858905,<,4B0Y & XA8YQ2 
+3,単球増加症,L,D728,LM7V,=,http://id.who.int/icd/entity/1038837840,=,4B05
+3,プラスマ細胞増加症,L,D728,LUHV,=,http://id.who.int/icd/entity/918298325,<,MA16.11
+3,形質細胞増加症,S1,D728,LUHV,=,http://id.who.int/icd/entity/918298325,<,MA16.11
+3,リンパ球性類白血病反応,L,D728,MN8R,=,http://id.who.int/icd/entity/1477386732,<,MA16.11
+3,好中球増加症,L,D728,P9HE,=,http://id.who.int/icd/entity/494107103,=,4B00.1Z
+3,本態性白血球増多症,L,D728,QGKJ,=,http://id.who.int/icd/entity/1887214457,=,MA16.11
+3,類白血病反応,L,D728,QR51,=,http://id.who.int/icd/entity/1231209818,<,MA16.11
+3,偽白血病,S1,D728,QR51,=,http://id.who.int/icd/entity/1231209818,<,MA16.11
+3,白血球増加症,L,D728,T43F,=,http://id.who.int/icd/entity/1887214457,=,MA16.11
+3,白血球増多症,S1,D728,T43F,=,http://id.who.int/icd/entity/1887214457,=,MA16.11
+3,好酸球減少症,L,D728,UEP4,=,http://id.who.int/icd/entity/484161124,=,4B02.Z
+3,白血球機能障害,L,D729,PGE5,=,http://id.who.int/icd/entity/966435382,=,4B0Z 
+3,脾機能低下症,L,D730,A5H0,=,http://id.who.int/icd/entity/660521540,=,3B81.2
+3,脾機能不全症,S1,D730,A5H0,=,http://id.who.int/icd/entity/660521540,=,3B81.2
+3,脾機能失調症,S2,D730,A5H0,=,http://id.who.int/icd/entity/660521540,=,3B81.2
+3,脾機能障害,S2,D730,A5H0,=,http://id.who.int/icd/entity/660521540,=,3B81.2
+3,摘脾による無脾,L,D730,PQ4R,=,http://id.who.int/icd/entity/1409065148,=,3B81.1 
+3,脾萎縮,L,D730,VTVB,=,http://id.who.int/icd/entity/660521540,=,3B81.2
+3,脾機能亢進症,L,D731,A0NP,=,http://id.who.int/icd/entity/2093549625,=,3B81.B
+3,オピッツ病,L,D732,J32Q,=,http://id.who.int/icd/entity/958295861,<,3B81.C
+3,うっ血性巨脾,L,D732,U67P,=,http://id.who.int/icd/entity/140794056,=,3B81.C
+3,脾うっ血,S1,D732,U67P,=,http://id.who.int/icd/entity/830712729,<,3B81.Y
+3,うっ血性脾腫,S1,D732,U67P,=,http://id.who.int/icd/entity/140794056,=,3B81.C
+3,慢性うっ血性脾腫,S2,D732,U67P,=,http://id.who.int/icd/entity/140794056,=,3B81.C
+3,脾膿瘍,L,D733,LKHE,=,http://id.who.int/icd/entity/1831834962,=,3B81.71
+3,脾のう胞,L,D734,J76Q,=,http://id.who.int/icd/entity/1074626599,=,3B81.5Z 
+3,脾嚢胞,S1,D734,J76Q,=,http://id.who.int/icd/entity/1074626599,=,3B81.5Z 
+3,脾のう腫,S2,D734,J76Q,=,http://id.who.int/icd/entity/1074626599,=,3B81.5Z 
+3,脾嚢腫,S2,D734,J76Q,=,http://id.who.int/icd/entity/1074626599,=,3B81.5Z 
+3,非外傷性脾臓破裂,L,D735,BKLN,=,http://id.who.int/icd/entity/2051708973,=,3B81.3 
+3,脾捻転,L,D735,C182,=,http://id.who.int/icd/entity/613636228,=,3B81.8
+3,脾梗塞,L,D735,RCJF,=,http://id.who.int/icd/entity/2072693588,=,3B81.6
+3,脾臓炎,L,D738,L61V,=,http://id.who.int/icd/entity/211426732,<,3B81.Y 
+3,脾炎,S1,D738,L61V,=,http://id.who.int/icd/entity/211426732,<,3B81.Y 
+3,脾線維症,L,D738,NN60,=,http://id.who.int/icd/entity/197440403,=,3B81.9
+3,脾周囲炎,L,D738,QB1B,=,http://id.who.int/icd/entity/589504944,=,3B81.A
+3,ヘモグロビンＭ病,L,D740,KR78,=,http://id.who.int/icd/entity/586921197,=,3A92
+3,ヘモグロビンM病,S0,D740,KR78,=,http://id.who.int/icd/entity/586921197,=,3A92
+3,先天性メトヘモグロビン血症,L,D740,KR9R,=,http://id.who.int/icd/entity/1981095916,=,3A91
+3,遺伝性メトヘモグロビン血症,S1,D740,KR9R,=,http://id.who.int/icd/entity/586921197,=,3A92
+3,先天性ＮＡＤＨ・メトヘモグロビン還元酵素欠損症,L,D740,P7TR,=,http://id.who.int/icd/entity/586921197,=,3A92
+3,先天性NADH・メトヘモグロビン還元酵素欠損症,S0,D740,P7TR,=,http://id.who.int/icd/entity/586921197,=,3A92
+3,先天性NADH・メトヘモグロビン還元酵素歇損症,S1,D740,P7TR,=,http://id.who.int/icd/entity/586921197,=,3A92
+3,スルフヘモグロビン血症,L,D748,L327,=,http://id.who.int/icd/entity/746336827,=,3A93
+3,サルフヘモグロビン血症,S1,D748,L327,=,http://id.who.int/icd/entity/746336827,=,3A93
+3,スルホヘモグロビン血症,S1,D748,L327,=,http://id.who.int/icd/entity/746336827,=,3A93
+3,後天性メトヘモグロビン血症,L,D748,MPHD,=,http://id.who.int/icd/entity/746336827,=,3A93
+3,中毒性メトヘモグロビン血症,L,D748,TER3,=,http://id.who.int/icd/entity/2034055495,<,3A93
+3,メトヘモグロビン血症,L,D749,F3KB,=,http://id.who.int/icd/entity/586921197,=,3A92
+3,家族性赤血球増加症,L,D750,CPLD,=,http://id.who.int/icd/entity/962836252,=,3A80.0 
+3,家族性赤血球増多症,S1,D750,CPLD,=,http://id.who.int/icd/entity/962836252,=,3A80.0 
+3,家族性良性赤血球増加症,L,D750,FDUT,=,http://id.who.int/icd/entity/962836252,=,3A80.0 
+3,良性家族性多血症,S1,D750,FDUT,<,http://id.who.int/icd/entity/962836252,<,3A80.0 
+3,良性赤血球増加症,L,D750,R5LN,<,http://id.who.int/icd/entity/457885282,<,3A8Z 
+3,赤血球増加症,L,D751,BNQC,=,http://id.who.int/icd/entity/457885282,=,3A8Z 
+3,赤血球増多症,S1,D751,BNQC,=,http://id.who.int/icd/entity/457885282,=,3A8Z 
+3,続発性赤血球増加症,L,D751,FD7G,=,http://id.who.int/icd/entity/1159594433,=,3A81.Z 
+3,二次性多血症,S1,D751,FD7G,=,http://id.who.int/icd/entity/1159594433,=,3A81.Z 
+3,続発性多血症,S1,D751,FD7G,=,http://id.who.int/icd/entity/1159594433,=,3A81.Z 
+3,二次性赤血球増加症,S1,D751,FD7G,=,http://id.who.int/icd/entity/1159594433,=,3A81.Z 
+3,相対的赤血球増加症,L,D751,GE6G,=,http://id.who.int/icd/entity/1829691373,=,3A81.2 
+3,多血症,L,D751,JSUE,=,http://id.who.int/icd/entity/457885282,=,3A8Z
+3,低酸素性赤血球増加症,L,D751,PPH9,=,http://id.who.int/icd/entity/1401067562,=,3A81.0 
+3,後天性赤血球増加症,L,D751,QUU3,=,http://id.who.int/icd/entity/1159594433,=,3A81.Z 
+3,エリスロポエチン産生腫瘍,L,D751,T04G,=,http://id.who.int/icd/entity/2050269373,<,3A81.2 
+3,ストレス赤血球増加症,L,D751,VHPA,=,http://id.who.int/icd/entity/533704171,<,3B61.1
+3,ガイスベック症候群,S1,D751,VHPA,=,http://id.who.int/icd/entity/533704171,<,3B61.1
+3,GAISBOCK症候群,S1,D751,VHPA,=,http://id.who.int/icd/entity/533704171,<,3B61.1
+3,ストレス多血症,S1,D751,VHPA,=,http://id.who.int/icd/entity/533704171,<,3B61.1
+3,情動性赤血球増加症,S2,D751,VHPA,=,http://id.who.int/icd/entity/533704171,<,3B61.1
+3,血小板増加症,L,D758,BM76,=,http://id.who.int/icd/entity/11621191,=,3B63.Z
+3,血小板増多症,S1,D758,BM76,=,http://id.who.int/icd/entity/11621191,=,3B63.Z
+3,二次性血小板増加症,L,D758,BNF8,=,http://id.who.int/icd/entity/787723347,=,3B63.10
+3,好塩基球増加症,L,D758,MT5S,=,http://id.who.int/icd/entity/1504206060,<,MA16.11
+3,家族性血球貪食性細網症,L,D761,JCRU,=,http://id.who.int/icd/entity/950019605,<,4A01.23 
+3,血球貪食性リンパ組織球症,L,D761,UDSM,=,http://id.who.int/icd/entity/1523519942,=,4A01.23 
+3,ウイルス関連血球貪食症候群,L,D762,JCDE,=,http://id.who.int/icd/entity/778191161 & http://id.who.int/icd/entity/1208497819,=,3B62.5 & XN3BH
+3,細菌関連血球貪食症候群,L,D762,SN5J,=,http://id.who.int/icd/entity/778191161 & http://id.who.int/icd/entity/83217129,=,3B62.5 & XN74M
+3,多中心性細網組織球症,L,D763,HVQL,=,http://id.who.int/icd/entity/977116795,<,EE8Y
+3,リポイド皮膚関節炎,S1,D763,HVQL,=,http://id.who.int/icd/entity/989760962,<,FA38.Y
+3,網内組織球腫,L,D763,J731,=,http://id.who.int/icd/entity/1523519942,=,4A01.23
+3,自己免疫関連血球貪食症候群,L,D763,JQKL,<,http://id.who.int/icd/entity/1523519942,<,4A01.23
+3,組織球性壊死性リンパ節炎,L,D763,JT00,=,http://id.who.int/icd/entity/2087666237,<,4B2Y 
+3,亜急性壊死性リンパ節炎,S1,D763,JT00,=,http://id.who.int/icd/entity/2087666237 & http://id.who.int/icd/entity/2058324694,<,"4B2Y & XT1L
+"
+3,頚部亜急性壊死性リンパ節炎,S1,D763,JT00,=,http://id.who.int/icd/entity/2087666237 & http://id.who.int/icd/entity/956558826 & http://id.who.int/icd/entity/2058324694,<,4B2Y & XA7AA6 & XT1L
+3,亜急性頚部壊死性リンパ節炎,S1,D763,JT00,=,http://id.who.int/icd/entity/2087666237 & http://id.who.int/icd/entity/956558826 & http://id.who.int/icd/entity/2058324694,<,4B2Y & XA7AA6 & XT1L
+3,菊池病,S1,D763,JT00,=,http://id.who.int/icd/entity/2087666237,<,4B2Y 
+3,ＲＡＳ関連自己免疫性リンパ増殖症候群様疾患,L,D763,KUU5,<,http://id.who.int/icd/entity/969875874,<,4A01.22
+3,RAS関連自己免疫性リンパ増殖症候群様疾患,S0,D763,KUU5,<,http://id.who.int/icd/entity/969875874,<,4A01.22
+3,RALD,S1,D763,KUU5,<,http://id.who.int/icd/entity/969875874,<,4A01.22
+3,自己免疫性リンパ増殖症候群,L,D763,P5GH,=,http://id.who.int/icd/entity/1072688797,<,4A01.22
+3,ALPS,S1,D763,P5GH,=,http://id.who.int/icd/entity/1072688797,<,4A01.22
+3,自己免疫性リンパ球増殖症候群,S1,D763,P5GH,=,http://id.who.int/icd/entity/1072688797,<,4A01.22
+3,エルドハイム・チェスター病,L,D763,Q1P6,=,http://id.who.int/icd/entity/1395439137,=,2B31.Y & XH1VJ3
+3,ERDHEIM-CHESTER病,S1,D763,Q1P6,=,http://id.who.int/icd/entity/1395439137,=,2B31.Y & XH1VJ3
+3,リンパ腫関連血球貪食症候群,L,D763,SQ40,=,http://id.who.int/icd/entity/239985204,<,3B62.Y
+3,組織球症症候群,L,D763,TJS0,=,http://id.who.int/icd/entity/2022303330,=,2B31.Z  
+3,黄色肉芽腫,L,D763,UU8C,=,http://id.who.int/icd/entity/98595592,=,2B31.0 
+3,血球貪食症候群,L,D763,V6PT,=,http://id.who.int/icd/entity/1523519942,=,4A01.23
+3,ＩＣＦ症候群,L,D800,B61D,=,http://id.who.int/icd/entity/1446083793,<,4A01.00 
+3,ICF症候群,S0,D800,B61D,=,http://id.who.int/icd/entity/1446083793,<,4A01.00 
+3,Ｘ連鎖無ガンマグロブリン血症,L,D800,GRAL,=,http://id.who.int/icd/entity/1594688835,<,4A01.00 
+3,X連鎖無ガンマグロブリン血症,S0,D800,GRAL,=,http://id.who.int/icd/entity/1594688835,<,4A01.00 
+3,ブルトン型無ガンマグロブリン血症,S1,D800,GRAL,=,http://id.who.int/icd/entity/1594688835,<,4A01.00 
+3,BRUTON型無ガンマグロブリン血症,S1,D800,GRAL,=,http://id.who.int/icd/entity/1594688835,<,4A01.00 
+3,伴性無ガンマグロブリン血症,S1,D800,GRAL,=,http://id.who.int/icd/entity/1594688835,<,4A01.00 
+3,ブルートン型無ガンマグロブリン血症,S1,D800,GRAL,=,http://id.who.int/icd/entity/1594688835,<,4A01.00 
+3,常染色体性劣性無ガンマグロブリン血症,L,D800,LR0E,=,http://id.who.int/icd/entity/1395443519,<,4A01.00 
+3,スイス型常染色体性劣性無ガンマグロブリン血症,S1,D800,LR0E,=,http://id.who.int/icd/entity/652565145,<,4A01.00 
+3,先天性無ガンマグロブリン血症,L,D800,M3BK,=,http://id.who.int/icd/entity/393046642,=,4A01.00 
+3,遺伝性低ガンマグロブリン血症,L,D800,RR6T,=,http://id.who.int/icd/entity/1727245038,=,4A01.00
+3,低ガンマグロブリン血症,L,D801,BAL5,=,http://id.who.int/icd/entity/1915135976,=,4A01.01
+3,異ガンマグロブリン血症,S1,D801,BAL5,=,http://id.who.int/icd/entity/1915135976,=,4A01.01
+3,ガンマグロブリン減少症,S1,D801,BAL5,=,http://id.who.int/icd/entity/1915135976,=,4A01.01
+3,グロブリン低下症,S1,D801,BAL5,=,http://id.who.int/icd/entity/1915135976,=,4A01.01
+3,ディスガンマグロブリン血症,S1,D801,BAL5,=,http://id.who.int/icd/entity/1915135976,=,4A01.01
+3,無ガンマグロブリン血症,L,D801,BMJQ,=,http://id.who.int/icd/entity/1915135976,=,4A01.01
+3,免疫グロブリン欠乏症,S1,D801,BMJQ,=,http://id.who.int/icd/entity/1915135976,=,4A01.01
+3,免疫グロブリン欠損症,S1,D801,BMJQ,=,http://id.who.int/icd/entity/1915135976,=,4A01.01
+3,免疫グロブリン歇乏症,S1,D801,BMJQ,=,http://id.who.int/icd/entity/1915135976,=,4A01.01
+3,免疫グロブリン歇損症,S1,D801,BMJQ,=,http://id.who.int/icd/entity/1915135976,=,4A01.01
+3,非家族性低ガンマグロブリン血症,L,D801,EME6,=,http://id.who.int/icd/entity/1915135976,=,4A01.01
+3,成人型原発性無ガンマグロブリン血症,L,D801,KPMT,=,http://id.who.int/icd/entity/1915135976,<,4A01.01 & XT6S
+3,ＩｇＡ欠損症,L,D802,FDT6,=,http://id.who.int/icd/entity/109836057,<,4A01.04 
+3,IGA欠損症,S0,D802,FDT6,=,http://id.who.int/icd/entity/109836057,<,4A01.04 
+3,IGA単独欠損症,S1,D802,FDT6,=,http://id.who.int/icd/entity/109836057,<,4A01.04 
+3,低IGA血症,S1,D802,FDT6,=,http://id.who.int/icd/entity/109836057,<,4A01.04 
+3,IGA欠乏症,S1,D802,FDT6,=,http://id.who.int/icd/entity/109836057,<,4A01.04 
+3,IGA低ガンマグロブリン血症,S1,D802,FDT6,=,http://id.who.int/icd/entity/109836057,<,4A01.04 
+3,選択的IGA欠損,S1,D802,FDT6,=,http://id.who.int/icd/entity/109836057,<,4A01.04 
+3,低IGA免疫不全症候群,S1,D802,FDT6,=,http://id.who.int/icd/entity/109836057,<,4A01.04 
+3,IGA歇乏症,S1,D802,FDT6,=,http://id.who.int/icd/entity/109836057,<,4A01.04 
+3,IGA単独歇損症,S1,D802,FDT6,=,http://id.who.int/icd/entity/109836057,<,4A01.04 
+3,線状ＩｇＡ病,L,D802,V9HM,=,http://id.who.int/icd/entity/109836057,<,4A01.04 
+3,線状IGA病,S0,D802,V9HM,=,http://id.who.int/icd/entity/109836057,<,4A01.04 
+3,ＩｇＧサブクラス欠損症,L,D803,FS4H,=,http://id.who.int/icd/entity/1673542285,<,4A01.04 
+3,IGGサブクラス欠損症,S0,D803,FS4H,=,http://id.who.int/icd/entity/1673542285,<,4A01.04 
+3,選択的IGGサブクラス欠損症,S1,D803,FS4H,=,http://id.who.int/icd/entity/1673542285,<,4A01.04 
+3,選択的IGGサブクラス歇乏症,S1,D803,FS4H,=,http://id.who.int/icd/entity/1673542285,<,4A01.04 
+3,選択的IGGサブクラス欠乏症,S1,D803,FS4H,=,http://id.who.int/icd/entity/1673542285,<,4A01.04 
+3,ＩｇＭ欠損症,L,D804,N6L4,=,http://id.who.int/icd/entity/271493401,<,4A01.04 
+3,IGM欠損症,S0,D804,N6L4,=,http://id.who.int/icd/entity/271493401,<,4A01.04 
+3,IGM低ガンマグロブリン血症,S1,D804,N6L4,=,http://id.who.int/icd/entity/271493401,<,4A01.04 
+3,低IGM免疫不全,S2,D804,N6L4,=,http://id.who.int/icd/entity/271493401,<,4A01.04 
+3,高ＩｇＭ症候群,L,D805,GHFB,=,http://id.who.int/icd/entity/769068598,=,4A01.05 
+3,高IGM症候群,S0,D805,GHFB,=,http://id.who.int/icd/entity/769068598,=,4A01.05 
+3,IGM増加免疫不全症,S2,D805,GHFB,=,http://id.who.int/icd/entity/769068598,=,4A01.05 
+3,高IGM性免疫不全症,S2,D805,GHFB,=,http://id.who.int/icd/entity/769068598,=,4A01.05 
+3,Ｘ連鎖高ＩｇＭ症候群,L,D805,SUF9,=,http://id.who.int/icd/entity/259869879,<,4A01.1Y
+3,X連鎖高IGM症候群,S0,D805,SUF9,=,http://id.who.int/icd/entity/259869879,<,4A01.1Y
+3,特異抗体産生不全症,L,D806,GJQ8,=,http://id.who.int/icd/entity/29897844,=,4A01.02 
+3,乳児一過性低ガンマグロブリン血症,L,D807,KTMV,=,http://id.who.int/icd/entity/1686370790,=,4A01.03
+3,カッパ鎖欠乏症,L,D808,BT84,=,http://id.who.int/icd/entity/48917367,<,4A01.0Y 
+3,カッパ鎖歇乏症,S1,D808,BT84,=,http://id.who.int/icd/entity/48917367,<,4A01.0Y 
+3,免疫グロブリンＨ鎖欠損症,L,D808,S71S,<,http://id.who.int/icd/entity/434826404,<,4A01.0Y 
+3,免疫グロブリンH鎖欠損症,S0,D808,S71S,<,http://id.who.int/icd/entity/434826404,<,4A01.0Y 
+3,免疫グロブリンH鎖遺伝子歇失,S1,D808,S71S,<,http://id.who.int/icd/entity/434826404,<,4A01.0Y 
+3,免疫グロブリンH鎖遺伝子欠失,S1,D808,S71S,<,http://id.who.int/icd/entity/434826404,<,4A01.0Y 
+3,体液性免疫不全症,L,D809,RD08,=,http://id.who.int/icd/entity/85074116,=,4A01.0Z
+3,細網異形成症,L,D810,A8P1,=,http://id.who.int/icd/entity/194355955,<,4A01.10
+3,細網系異形成,S1,D810,A8P1,=,http://id.who.int/icd/entity/194355955,<,4A01.10
+3,ＡＤＡ欠乏症,L,D813,MF9A,=, http://id.who.int/icd/entity/2134438414,<,4A01.10 
+3,ADA欠乏症,S0,D813,MF9A,=,http://id.who.int/icd/entity/2134438414,<,4A01.10
+3,ADA歇乏症,S1,D813,MF9A,=,http://id.who.int/icd/entity/2134438414,<,4A01.10
+3,アデノシン・デアミネース歇乏症,S1,D813,MF9A,=,http://id.who.int/icd/entity/2134438414,<,4A01.10
+3,アデノシンデアミナーゼ欠損症,S1,D813,MF9A,=,http://id.who.int/icd/entity/2134438414,<,4A01.10
+3,アデノシン・デアミナーゼ欠損症,S1,D813,MF9A,=,http://id.who.int/icd/entity/2134438414,<,4A01.10
+3,アデノシン・デアミナーゼ歇損症,S1,D813,MF9A,=,http://id.who.int/icd/entity/2134438414,<,4A01.10
+3,アデノシン・デアミネース欠乏症,S1,D813,MF9A,=,http://id.who.int/icd/entity/2134438414,<,4A01.10
+3,ＰＮＰ欠損症,L,D815,V81D,=,http://id.who.int/icd/entity/1771940876,<,4A01.1Y 
+3,PNP欠損症,S0,D815,V81D,=,http://id.who.int/icd/entity/1771940876,<,4A01.1Y 
+3,PNP欠乏症,S1,D815,V81D,=,http://id.who.int/icd/entity/1771940876,<,4A01.1Y 
+3,PNP歇乏症,S1,D815,V81D,=,http://id.who.int/icd/entity/1771940876,<,4A01.1Y 
+3,プリンヌクレオシドホスホリラーゼ歇乏症,S1,D815,V81D,=,http://id.who.int/icd/entity/1771940876,<,4A01.1Y 
+3,プリンヌクレオシドホスホリラーゼ欠乏症,S1,D815,V81D,=,http://id.who.int/icd/entity/1771940876,<,4A01.1Y 
+3,プリンヌクレオシドフォスフォリラーゼ欠損,S1,D815,V81D,=,http://id.who.int/icd/entity/1771940876,<,4A01.1Y 
+3,プリンヌクレオシドフォスフォリラーゼ歇損,S1,D815,V81D,=,http://id.who.int/icd/entity/1771940876,<,4A01.1Y 
+3,プリンヌクレオシドホスホリラーゼ欠損症,S1,D815,V81D,=,http://id.who.int/icd/entity/1771940876,<,4A01.1Y 
+3,露出リンパ球症候群,L,D816,NK55,=,http://id.who.int/icd/entity/489749747,=,4A01.11
+3,裸リンパ球症候群,S1,D816,NK55,=,http://id.who.int/icd/entity/489749747,=,4A01.11
+3,ＭＨＣクラスＩ欠損症,L,D816,T35L,=,http://id.who.int/icd/entity/489749747,=,4A01.11 
+3,MHCクラスI欠損症,S0,D816,T35L,=,http://id.who.int/icd/entity/489749747,=,4A01.11 
+3,主要組織適合遺伝子複合体クラスI欠乏症,S1,D816,T35L,=,http://id.who.int/icd/entity/489749747,=,4A01.11 
+3,主要組織適合遺伝子複合体クラスI歇乏症,S1,D816,T35L,=,http://id.who.int/icd/entity/489749747,=,4A01.11 
+3,ＭＨＣクラスＩＩ欠損症,L,D817,U4C0,=,http://id.who.int/icd/entity/2021339495,=,4A01.12
+3,MHCクラスII欠損症,S0,D817,U4C0,=,http://id.who.int/icd/entity/2021339495,=,4A01.12
+3,主要組織適合遺伝子複合体クラスII欠乏症,S1,D817,U4C0,=,http://id.who.int/icd/entity/2021339495,=,4A01.12
+3,主要組織適合遺伝子複合体クラスII歇乏症,S1,D817,U4C0,=,http://id.who.int/icd/entity/2021339495,=,4A01.12
+3,ＭＨＣクラスＩ・ＩＩ欠損症,L,D818,MUHB,=,http://id.who.int/icd/entity/489749747 & http://id.who.int/icd/entity/2021339495,=,4A01.11 / 4A01.12
+3,MHCクラスI・II欠損症,S0,D818,MUHB,=,http://id.who.int/icd/entity/489749747 & http://id.who.int/icd/entity/2021339495,=,4A01.11 / 4A01.12
+3,ホロカルボキシラーゼ合成酵素欠損症,L,D818,QSP0,=,http://id.who.int/icd/entity/1184113045,<,5C50.E0 
+3,複合カルボキシラーゼ欠損症,L,D818,RGFR,=,http://id.who.int/icd/entity/1133091451,<,5C50.E0
+3,ビオチン依存性カルボキシラーゼ欠乏症,S1,D818,RGFR,=,http://id.who.int/icd/entity/1636504611,<,4B4Y
+3,ビオチン依存性カルボキシラーゼ歇乏症,S1,D818,RGFR,=,http://id.who.int/icd/entity/1636504611,<,4B4Y
+3,複合カルボキシラーゼ血症,S1,D818,RGFR,=,http://id.who.int/icd/entity/1133091451,<,5C50.E0
+3,マルチプルカルボキシラーゼ欠損症,S1,D818,RGFR,=,http://id.who.int/icd/entity/1133091451,<,5C50.E0
+3,ＣＤ８欠損症,L,D818,TQFU,=,http://id.who.int/icd/entity/220561401,<,4A01.1Y 
+3,CD8欠損症,S0,D818,TQFU,=,http://id.who.int/icd/entity/220561401,<,4A01.1Y 
+3,ＺＡＰ－７０欠損症,L,D818,UFJS,=,http://id.who.int/icd/entity/1718367094,<,4A01.1Y 
+3,ZAP-70欠損症,S0,D818,UFJS,=,http://id.who.int/icd/entity/1718367094,<,4A01.1Y 
+3,オーメン症候群,L,D818,URCE,=,http://id.who.int/icd/entity/1770823271,<,4A01.10
+3,OMENN症候群,S1,D818,URCE,=,http://id.who.int/icd/entity/1770823271,<,4A01.10
+3,重症複合免疫不全症,L,D819,J8P3,=,http://id.who.int/icd/entity/963193284,=,4A01.10
+3,SCID,S1,D819,J8P3,=,http://id.who.int/icd/entity/963193284,=,4A01.10
+3,重症複合型免疫不全症,S1,D819,J8P3,=,http://id.who.int/icd/entity/963193284,=,4A01.10
+3,胸腺性リンパ球無形成症,S1,D819,J8P3,=,http://id.who.int/icd/entity/963193284,<,4A01.10
+3,ウィスコット・オルドリッチ症候群,L,D820,PN4C,=,http://id.who.int/icd/entity/168952525,<,3B62.0Y
+3,WISKOTT-ALDRICH症候群,S1,D820,PN4C,=,http://id.who.int/icd/entity/168952525,<,3B62.0Y
+3,オルドリッチ・ウィスコット症候群,S1,D820,PN4C,=,http://id.who.int/icd/entity/168952525,<,3B62.0Y
+3,オルドリッチ症候群,S1,D820,PN4C,=,http://id.who.int/icd/entity/168952525,<,3B62.0Y
+3,ALDRICH症候群,S1,D820,PN4C,=,http://id.who.int/icd/entity/168952525,<,3B62.0Y
+3,ALDRICH-WISKOTT症候群,S1,D820,PN4C,=,http://id.who.int/icd/entity/168952525,<,3B62.0Y
+3,胸腺無形成性免疫不全症,L,D821,AT09,=,http://id.who.int/icd/entity/1868156761,<,LD44.N0 
+3,胸腺腫を伴う免疫不全症,S1,D821,AT09,=,http://id.who.int/icd/entity/812332735,=,4B40.2 
+3,胸腺腫性免疫不全症,S1,D821,AT09,=,http://id.who.int/icd/entity/812332735,=,4B40.2 
+3,デイジョージ症候群,L,D821,KN86,=,http://id.who.int/icd/entity/1868156761,=,LD44.N0 
+3,DI GEORGE症候群,S1,D821,KN86,=,http://id.who.int/icd/entity/1868156761,=,LD44.N0 
+3,咽頭のう症候群,S1,D821,KN86,=,http://id.who.int/icd/entity/1868156761,=,LD44.N0 
+3,咽頭嚢症候群,S1,D821,KN86,=,http://id.who.int/icd/entity/1868156761,=,LD44.N0
+3,デイゲオルゲ症候群,S1,D821,KN86,=,http://id.who.int/icd/entity/1868156761,=,LD44.N0
+3,ディジョージ症候群,S1,D821,KN86,=,http://id.who.int/icd/entity/1868156761,=,LD44.N0
+3,Ｘ連鎖重症複合免疫不全症,L,D821,LHLC,=,http://id.who.int/icd/entity/893971384,<,4A01.10 
+3,X連鎖重症複合免疫不全症,S0,D821,LHLC,=,http://id.who.int/icd/entity/893971384,<,4A01.10 
+3,原発性リンパ球減少性免疫不全症,S1,D821,LHLC,=,http://id.who.int/icd/entity/764656396,<,4A0Y 
+3,胸腺無形成症,L,D821,PET6,=,http://id.who.int/icd/entity/215376282,<,4A01.30
+3,Ｘ連鎖リンパ増殖症候群,L,D823,BDD4,=,http://id.who.int/icd/entity/2126467634,<,4A01.22
+3,X連鎖リンパ増殖症候群,S0,D823,BDD4,=,http://id.who.int/icd/entity/2126467634,<,4A01.22
+3,DUNCAN病,S1,D823,BDD4,=,http://id.who.int/icd/entity/2126467634,<,4A01.22
+3,ダンカン病,S1,D823,BDD4,=,http://id.who.int/icd/entity/2126467634,<,4A01.22
+3,伴性リンパ組織増殖性疾患,S1,D823,BDD4,=,http://id.who.int/icd/entity/2126467634,<,4A01.22
+3,ＥＢウイルス関連免疫不全症,L,D823,TKVB,=,http://id.who.int/icd/entity/2126467634,<,4A01.22
+3,EBウイルス関連免疫不全症,S0,D823,TKVB,=,http://id.who.int/icd/entity/2126467634,<,4A01.22
+3,高ＩｇＥ症候群,L,D824,KP18,=,http://id.who.int/icd/entity/223461798,=,4A01.34 
+3,高IGE症候群,S0,D824,KP18,=,http://id.who.int/icd/entity/223461798,=,4A01.34 
+3,高免疫グロブリンE症候群,S1,D824,KP18,=,http://id.who.int/icd/entity/223461798,=,4A01.34
+3,グリセリ症候群,L,D828,AKV0,=,http://id.who.int/icd/entity/1881966012,<,EC23.2Y 
+3,GRISCELLI症候群,S1,D828,AKV0,=,http://id.who.int/icd/entity/1881966012,<,EC23.2Y 
+3,ＲＩＤＤＬＥ症候群,L,D828,Q5EV,=,http://id.who.int/icd/entity/2066369573,<,BA04.Y
+3,RIDDLE症候群,S0,D828,Q5EV,=,http://id.who.int/icd/entity/2066369573,<,BA04.Y
+3,ナイミーヘン染色体不安定症候群,L,D828,RTU2,=,http://id.who.int/icd/entity/1925662580,<,4A01.31
+3,ナイミーヘン症候群,S1,D828,RTU2,=,http://id.who.int/icd/entity/1925662580,<,4A01.31
+3,NIJMEGEN染色体不安定症候群,S1,D828,RTU2,=,http://id.who.int/icd/entity/1925662580,<,4A01.31
+3,NIJMEGEN症候群,S1,D828,RTU2,=,http://id.who.int/icd/entity/1925662580,<,4A01.31
+3,分類不能型免疫不全症,L,D839,C96V,=,http://id.who.int/icd/entity/1908371517,<,4A01.0Y 
+3,CVID,S1,D839,C96V,=,http://id.who.int/icd/entity/1908371517,<,4A01.0Y 
+3,分類不能免疫不全症,S1,D839,C96V,=,http://id.who.int/icd/entity/1908371517,<,4A01.0Y 
+3,ＬＦＡ－１欠乏症,L,D840,RQLB,=,http://id.who.int/icd/entity/764656396,<,4A0Y 
+3,LFA-1欠乏症,S0,D840,RQLB,=,http://id.who.int/icd/entity/764656396,<,4A0Y 
+3,リンパ球機能抗原-1歇乏症,S1,D840,RQLB,=,http://id.who.int/icd/entity/764656396,<,4A0Y 
+3,LFA-1歇乏症,S1,D840,RQLB,=,http://id.who.int/icd/entity/764656396,<,4A0Y 
+3,リンパ球機能抗原-1欠乏症,S1,D840,RQLB,=,http://id.who.int/icd/entity/764656396,<,4A0Y 
+3,遺伝性血管性浮腫,L,D841,N57R,=,http://id.who.int/icd/entity/795969334,=,4A00.14 
+3,C1エステラーゼ抑制因子欠乏症,S1,D841,N57R,=,http://id.who.int/icd/entity/1918767567,<,4A00.14 
+3,遺伝性神経性浮腫,S1,D841,N57R,=,http://id.who.int/icd/entity/795969334,=,4A00.14 
+3,C1 INHIBITOR欠損症,S1,D841,N57R,=,http://id.who.int/icd/entity/1918767567,<,4A00.14 
+3,遺伝性脈管神経性浮腫,S1,D841,N57R,=,http://id.who.int/icd/entity/795969334,=,4A00.14 
+3,C1エステラーゼ抑制因子歇乏症,S1,D841,N57R,=,http://id.who.int/icd/entity/1918767567,<,4A00.14 
+3,遺伝性血管神経性浮腫,S1,D841,N57R,=,http://id.who.int/icd/entity/795969334,=,4A00.14 
+3,後天性血管性浮腫,L,D841,R8GG,=,http://id.who.int/icd/entity/1078767412,=,4A00.15
+3,補体欠損症,L,D841,SBV4,=,http://id.who.int/icd/entity/1222145690,=,4A00.1Z 
+3,補体歇損症,S1,D841,SBV4,=,http://id.who.int/icd/entity/1222145690,=,4A00.1Z 
+3,先天性補体欠損症,L,D841,UVVB,=,http://id.who.int/icd/entity/1222145690 & http://id.who.int/icd/entity/1048408993,=,4A00.1Z  & XB8M 
+3,原発性補体歇損症,S1,D841,UVVB,=,http://id.who.int/icd/entity/1222145690,=,4A00.1Z 
+3,原発性補体欠損症,S1,D841,UVVB,=,http://id.who.int/icd/entity/1222145690,=,4A00.1Z 
+3,ＭｙＤ８８欠損症,L,D848,BEEK,=,http://id.who.int/icd/entity/444523526,<,4A00.2
+3,MYD88欠損症,S0,D848,BEEK,=,http://id.who.int/icd/entity/444523526,<,4A00.2
+3,肝中心静脈閉鎖症を伴う免疫不全症,L,D848,CGB3,=,http://id.who.int/icd/entity/712514250,=,4A01.33 
+3,ＩＰＥＸ症候群,L,D848,DNQQ,=,http://id.who.int/icd/entity/1060287444,<,4A01.21
+3,IPEX症候群,S0,D848,DNQQ,=,http://id.who.int/icd/entity/1060287444,<,4A01.21
+3,ＩＲＡＫ４欠損症,L,D848,G0JT,=,http://id.who.int/icd/entity/375334522,<,4A00.2 
+3,IRAK4欠損症,S0,D848,G0JT,=,http://id.who.int/icd/entity/375334522,<,4A00.2 
+3,ＰＭＳ２異常症,L,D848,GP0V,<,http://id.who.int/icd/entity/1362501774,<,4A01.31 
+3,PMS2異常症,S0,D848,GP0V,<,http://id.who.int/icd/entity/1362501774,<,4A01.31 
+3,先天性免疫不全症候群,L,D848,HHJS,=,http://id.who.int/icd/entity/587326822 & http://id.who.int/icd/entity/1048408993,=,4A0Z & XB8M 
+3,シムケ症候群,L,D848,HP6V,=,http://id.who.int/icd/entity/2002226225,<,4A01.32
+3,SCHIMKE症候群,S1,D848,HP6V,=,http://id.who.int/icd/entity/2002226225,<,4A01.32
+3,反復性皮膚疾患,L,D848,KAQM,<,http://id.who.int/icd/entity/609223181,<,4A20.Y
+3,成人発症型免疫不全症,L,D848,N42F,=,http://id.who.int/icd/entity/1843843106,=,4A20.0 
+3,細胞性免疫不全症,L,D848,NV3B,<,http://id.who.int/icd/entity/1954798891,<,4B4Y
+3,原発性免疫不全症候群,L,D848,PP61,=,http://id.who.int/icd/entity/587326822,=,4A0Z 
+3,重症免疫不全症候群,S1,D848,PP61,=,http://id.who.int/icd/entity/587326822 & http://id.who.int/icd/entity/1201187093,=,4A0Z  & XS25 
+3,メンデル遺伝型マイコバクテリア易感染症,L,D848,V7P4,=,http://id.who.int/icd/entity/1371400590,<,4A00.2
+3,メンデル遺伝型抗酸菌易感染症,S1,D848,V7P4,=,http://id.who.int/icd/entity/1371400590,<,4A00.2
+3,MSMD,S1,D848,V7P4,=,http://id.who.int/icd/entity/1371400590,<,4A00.2
+3,続発性免疫不全症候群,L,D848,VRLU,<,http://id.who.int/icd/entity/609223181,<,4A20.Z 
+3,続発性免疫不全症,S1,D848,VRLU,<,http://id.who.int/icd/entity/609223181,<,4A20.Z 
+3,後天的な免疫系障害による免疫不全症,L,D849,RSCT,=,http://id.who.int/icd/entity/609223181,=,4A20.Z
+3,免疫不全,L,D849,TBAK,=,http://id.who.int/icd/entity/978368870,=,4B4Z
+3,肺サルコイドーシス,L,D860,RB1M,=,http://id.who.int/icd/entity/820827059,=,4B20.0
+3,肺型サルコイド症,S1,D860,RB1M,=,http://id.who.int/icd/entity/820827059,=,4B20.0
+3,肺型サルコイドーシス,S1,D860,RB1M,=,http://id.who.int/icd/entity/820827059,=,4B20.0
+3,リンパ節サルコイドーシス,L,D861,E67J,=,http://id.who.int/icd/entity/1437015591,=,4B20.1
+3,皮膚サルコイドーシス,L,D863,V3AF,=,http://id.who.int/icd/entity/1145144140,=,4B20.5
+3,サルコイドミオパチー,L,D868,ABKK,=,http://id.who.int/icd/entity/1908479253,=,4B20.Y / 8C8Z
+3,サルコイドミオパシー,S1,D868,ABKK,=,http://id.who.int/icd/entity/1908479253,=,4B20.Y / 8C8Z
+3,サルコイドーシス性ぶどう膜炎,L,D868,BQ3F,=,http://id.who.int/icd/entity/58596440,=,4B20.4 / 9A96.1
+3,サルコイドーシス性ブドウ膜炎,S1,D868,BQ3F,=,http://id.who.int/icd/entity/58596440,=,4B20.4 / 9A96.1
+3,サルコイドーシスぶどう膜炎,S1,D868,BQ3F,=,http://id.who.int/icd/entity/58596440,=,4B20.4 / 9A96.1
+3,眼サルコイドーシス,L,D868,CAD3,=,http://id.who.int/icd/entity/1980319000,=,4B20.4
+3,筋サルコイドーシス,L,D868,CBCN,=,http://id.who.int/icd/entity/2069508853 & http://id.who.int/icd/entity/1448567552,<,4B20.Y
+3,サルコイド心筋炎,L,D868,J5TR,=,http://id.who.int/icd/entity/1037124796,<,4B20.Y / BC42.Z 
+3,心サルコイドーシス,L,D868,KNT9,=,http://id.who.int/icd/entity/2069508853 & http://id.who.int/icd/entity/1770830923,=,4B20.Y & XA6283
+3,心臓サルコイドーシス,S1,D868,KNT9,=,http://id.who.int/icd/entity/2069508853 & http://id.who.int/icd/entity/1770830923,=,4B20.Y & XA6283
+3,心筋サルコイドーシス,S1,D868,KNT9,=,http://id.who.int/icd/entity/2069508853 & http://id.who.int/icd/entity/1770830923,=,4B20.Y & XA6283
+3,腫瘤型筋サルコイドーシス,L,D868,LL35,<,http://id.who.int/icd/entity/2069508853 & http://id.who.int/icd/entity/1448567552,<,4B20.Y
+3,骨サルコイドーシス,L,D868,MEA5,=,http://id.who.int/icd/entity/1500011635,<,4B20.Y
+3,鼻腔サルコイドーシス,L,D868,PV7C,=,http://id.who.int/icd/entity/330792642 & http://id.who.int/icd/entity/208474189,=,4B20.Y & XA43C9
+3,サルコイドーシス性虹彩毛様体炎,L,D868,QFT8,=,http://id.who.int/icd/entity/58596440,=,4B20.4 / 9A96.1
+3,サルコイド筋炎,L,D868,QH7M,=,http://id.who.int/icd/entity/1908479253,=,4B20.Y / FB33
+3,サルコイドーシスにおける筋炎,S1,D868,QH7M,=,http://id.who.int/icd/entity/1908479253,=,4B20.Y / FB33
+3,腎サルコイドーシス,L,D868,RQSQ,=,http://id.who.int/icd/entity/1084112646,=,GB55.Y / 4B20.Z 
+3,サルコイド腎症,S1,D868,RQSQ,=,http://id.who.int/icd/entity/1084112646,=,GB55.Y / 4B20.Z 
+3,肝サルコイドーシス,L,D868,SGKH,=,http://id.who.int/icd/entity/1303332626,=,4B20.2 & XA5DY0
+3,サルコイドーシス性肝肉芽腫,S1,D868,SGKH,=,http://id.who.int/icd/entity/1303332626,=,4B20.2 & XA5DY0
+3,ぶどう膜耳下腺熱,L,D868,SMRV,=,http://id.who.int/icd/entity/2079034902,<,4B20.Y
+3,HEERFORDT症候群,S1,D868,SMRV,=,http://id.who.int/icd/entity/2079034902,<,4B20.Y
+3,ブドウ膜耳下腺熱,S1,D868,SMRV,=,http://id.who.int/icd/entity/2079034902,<,4B20.Y
+3,ヘールフォルト症候群,S1,D868,SMRV,=,http://id.who.int/icd/entity/2079034902,<,4B20.Y
+3,神経サルコイドーシス,L,D868,T8HC,=,http://id.who.int/icd/entity/1479285656,=,4B20.3
+3,サルコイドーシスにおける多発性脳神経麻痺,S1,D868,T8HC,=,http://id.who.int/icd/entity/2078362164,<,4B20.3
+3,胃サルコイドーシス,L,D868,V2PT,=,http://id.who.int/icd/entity/218460373,=,DA42.Y / 4B20.Z 
+3,サルコイド関節障害,L,D868,VBDN,=,http://id.who.int/icd/entity/691293353,=,4B20.Y / FA38.Y 
+3,サルコイドーシス性関節障害,S1,D868,VBDN,=,http://id.who.int/icd/entity/691293353,=,4B20.Y / FA38.Y 
+3,サルコイドーシス,L,D869,CR40,=,http://id.who.int/icd/entity/330792642,=,4B20.Z
+3,ベックサルコイド,S1,D869,CR40,=,http://id.who.int/icd/entity/330792642,=,4B20.Z
+3,ベック疾患,S1,D869,CR40,=,http://id.who.int/icd/entity/330792642,=,4B20.Z
+3,サルコイド肉芽腫,S1,D869,CR40,=,http://id.who.int/icd/entity/330792642,=,4B20.Z
+3,類肉腫症,S1,D869,CR40,=,http://id.who.int/icd/entity/330792642,=,4B20.Z
+3,BECK疾患,S1,D869,CR40,=,http://id.who.int/icd/entity/330792642,=,4B20.Z
+3,サルコイド,S1,D869,CR40,=,http://id.who.int/icd/entity/330792642,=,4B20.Z
+3,高グロブリン血性紫斑病,L,D890,CP9L,=,http://id.who.int/icd/entity/888627426,<,EF5Y 
+3,高グロブリン血症性紫斑病,S1,D890,CP9L,=,http://id.who.int/icd/entity/888627426,<,EF5Y 
+3,高ガンマグロブリン血症性紫斑病,S1,D890,CP9L,=,http://id.who.int/icd/entity/888627426,<,EF5Y 
+3,原発性高グロブリン血症性紫斑病,S2,D890,CP9L,<,http://id.who.int/icd/entity/888627426,<,EF5Y 
+3,良性高グロブリン血症性紫斑病,L,D890,E03E,=,http://id.who.int/icd/entity/888627426,<,EF5Y 
+3,多クローン性高ガンマグロブリン血症,L,D890,GANN,=,http://id.who.int/icd/entity/2120744975,=,4B21
+3,多クローン性ガンマグロブリン血症,S1,D890,GANN,=,http://id.who.int/icd/entity/2120744975,=,4B21
+3,多クローン性異常免疫グロブリン血症,S1,D890,GANN,=,http://id.who.int/icd/entity/2120744975,=,4B21
+3,ワルデンストレーム高ガンマグロブリン血症,L,D890,STG5,=,http://id.who.int/icd/entity/517947570,<,4B21
+3,WALDENSTROM高ガンマグロブリン血症,S1,D890,STG5,=,http://id.who.int/icd/entity/517947570,<,4B21
+3,本態性クリオグロブリン血症,L,D891,A8BG,=,http://id.who.int/icd/entity/455331227,=,4B22 
+3,特発性クリオグロブリン血症,S1,D891,A8BG,=,http://id.who.int/icd/entity/455331227 & http://id.who.int/icd/entity/894194405,=,4B22  & XB5F
+3,混合型クリオグロブリン血症,L,D891,CLC2,=,http://id.who.int/icd/entity/55133785,=,4A44.90
+3,クリオグロブリン血症性呼吸器障害,L,D891,E58N,=,http://id.who.int/icd/entity/1582483457,=,CB40.Y / 4B22 
+3,クリオグロブリン血症性血管炎,L,D891,EFAU,=,http://id.who.int/icd/entity/55133785,=,4A44.90
+3,クリオグロブリン血症性紫斑病,L,D891,K8VC,=,http://id.who.int/icd/entity/1370194914,=,4B22/ EF3Z 
+3,クリオグロブリン血性紫斑病,S1,D891,K8VC,=,http://id.who.int/icd/entity/1370194914,=,4B22/ EF3Z 
+3,クリオグロブリン血症,L,D891,M46H,=,http://id.who.int/icd/entity/455331227,=,4B22
+3,寒冷グロブリン血症,S1,D891,M46H,=,http://id.who.int/icd/entity/455331227,=,4B22
+3,クリオグロブリン血(症),S1,D891,M46H,=,http://id.who.int/icd/entity/455331227,=,4B22
+3,続発性クリオグロブリン血症,L,D891,MFSQ,<,http://id.who.int/icd/entity/455331227,<,4B22 
+3,続発性寒冷グロブリン血症,S1,D891,MFSQ,<,http://id.who.int/icd/entity/455331227,<,4B22 
+3,原発性クリオグロブリン血症,L,D891,RMLU,<,http://id.who.int/icd/entity/455331227,<,4B22 
+3,原発性寒冷クリオグロブリン血症,S1,D891,RMLU,<,http://id.who.int/icd/entity/455331227,<,4B22 
+3,結晶クリオグロブリン血症,L,D891,SNGC,<,http://id.who.int/icd/entity/455331227,<,4B22 
+3,結晶寒冷クリオグロブリン血症,S1,D891,SNGC,<,http://id.who.int/icd/entity/455331227,<,4B22 
+3,クリオフィブリノゲン血症,L,D891,UH4J,=,http://id.who.int/icd/entity/455331227,=,4B22 
+3,寒冷フィブリノゲン血症,S1,D891,UH4J,<,http://id.who.int/icd/entity/455331227,<,4B22 
+3,寒冷フィブリノーゲン血症,S1,D891,UH4J,<,http://id.who.int/icd/entity/455331227,<,4B22 
+3,続発性寒冷フィブリノゲン血症,L,D891,UMA5,<,http://id.who.int/icd/entity/455331227,<,4B22 
+3,続発性寒冷線維素原血症,S1,D891,UMA5,<,http://id.who.int/icd/entity/455331227,<,4B22 
+3,高ガンマグロブリン血症,L,D892,FS0R,=,http://id.who.int/icd/entity/45411563 OR http://id.who.int/icd/entity/2120744975,=,2A83.0 OR  4B21 
+3,免疫グロブリン増加症,S1,D892,FS0R,<,http://id.who.int/icd/entity/1860070272,<,4B2Y 
+3,ガンマグロブリン血症,S1,D892,FS0R,<,http://id.who.int/icd/entity/1860070272,<,4B2Y 
+3,ガンマグロブリン増加,S1,D892,FS0R,<,http://id.who.int/icd/entity/1860070272,<,4B2Y 
+3,パラプロテイン血症,L,D892,MH4A,=,http://id.who.int/icd/entity/15601696,<,2A83.0
+3,家族性免疫グロブリン異化亢進症,L,D892,TAHF,<,http://id.who.int/icd/entity/1860070272,<,4B2Y 
+3,後天性免疫グロブリン血症,L,D892,TF65,=,http://id.who.int/icd/entity/1709907983,=,4A20.1  
+3,特発性高ガンマグロブリン血症,L,D892,TN80,=,http://id.who.int/icd/entity/2120744975 & http://id.who.int/icd/entity/894194405,=,4B21
+3,ブラウ症候群,L,D898,CFAS,=,http://id.who.int/icd/entity/382488319,<,4A60.Y
+3,BLAU症候群,S1,D898,CFAS,=,http://id.who.int/icd/entity/382488319,<,4A60.Y
+3,若年発症サルコイドーシス,S1,D898,CFAS,=,http://id.who.int/icd/entity/2104608649,<,4A60.Y
+3,ＴＮＦ受容体関連周期性症候群,L,D898,E74J,=,http://id.who.int/icd/entity/1869883509,=,4A60.2
+3,TNF受容体関連周期性症候群,S0,D898,E74J,=,http://id.who.int/icd/entity/1869883509,=,4A60.2
+3,TRAPS,S1,D898,E74J,=,http://id.who.int/icd/entity/1869883509,=,4A60.2
+3,マックル・ウエルズ症候群,L,D898,GQD8,=,http://id.who.int/icd/entity/1983358487,<,4A60.1 
+3,MUCKLE-WELLS症候群,S1,D898,GQD8,=,http://id.who.int/icd/entity/1983358487,<,4A60.1 
+3,MWS,S1,D898,GQD8,=,http://id.who.int/icd/entity/1983358487,<,4A60.1 
+3,クリオピリン関連周期熱症候群,L,D898,H10L,=,http://id.who.int/icd/entity/2139918612,=,4A60.1
+3,クリオピリン関連周期性症候群,S1,D898,H10L,=,http://id.who.int/icd/entity/2139918612,=,4A60.1
+3,クリオピリン発熱症,S1,D898,H10L,=,http://id.who.int/icd/entity/2139918612,=,4A60.1
+3,クライオパイリン関連周期性症候群,S1,D898,H10L,=,http://id.who.int/icd/entity/2139918612,=,4A60.1
+3,CAPS,S1,D898,H10L,=,http://id.who.int/icd/entity/2139918612,=,4A60.1
+3,クリオピリン関連周期性発熱症候群,S1,D898,H10L,=,http://id.who.int/icd/entity/2139918612,=,4A60.1
+3,ＳＡＰＨＯ症候群,L,D898,K9JP,=,http://id.who.int/icd/entity/1901494067,=,4A61 
+3,SAPHO症候群,S0,D898,K9JP,=,http://id.who.int/icd/entity/1901494067,=,4A61
+3,後天性骨過形成症候群,S1,D898,K9JP,<,http://id.who.int/icd/entity/1901494067,<,4A61
+3,ＰＡＰＡ症候群,L,D898,L1FL,=,http://id.who.int/icd/entity/1113124609,<,4A60.Y 
+3,PAPA症候群,S0,D898,L1FL,=,http://id.who.int/icd/entity/1113124609,<,4A60.Y 
+3,化膿性無菌性関節炎・壊疽性膿皮症・アクネ症候群,S1,D898,L1FL,=,http://id.who.int/icd/entity/1113124609,<,4A60.Y 
+3,エカルディ・グティエール症候群,L,D898,MF2B,=,http://id.who.int/icd/entity/2025818872,<,5C55.2 
+3,AICARDI-GOUTIERES症候群,S1,D898,MF2B,=,http://id.who.int/icd/entity/2025818872,<,5C55.2 
+3,中條・西村症候群,L,D898,NMN7,=,http://id.who.int/icd/entity/798723102,<,LD27.6Z
+3,インターロイキンＩ受容体拮抗分子欠損症,L,D898,P9UM,=,http://id.who.int/icd/entity/1499483400,<,4A00.Y
+3,インターロイキンI受容体拮抗分子欠損症,S0,D898,P9UM,=,http://id.who.int/icd/entity/1499483400,<,4A00.Y
+3,先天性高インスリン症,S1,D898,P9UM,=,http://id.who.int/icd/entity/224022886 &  http://id.who.int/icd/entity/1048408993,<,5A4Y & XB8M
+3,家族性寒冷自己炎症症候群,L,D898,R1V2,=,http://id.who.int/icd/entity/1932140025,<,4A60.1
+3,FCU,S1,D898,R1V2,=,http://id.who.int/icd/entity/1932140025,<,4A60.1
+3,家族性寒冷蕁麻疹,S1,D898,R1V2,=,http://id.who.int/icd/entity/1932140025,<,4A60.1
+3,FCAS,S1,D898,R1V2,=,http://id.who.int/icd/entity/1932140025,<,4A60.1
+3,高ＩｇＤ症候群,L,D898,RB20,=,http://id.who.int/icd/entity/910632716,<,4A60.Y 
+3,高IGD症候群,S0,D898,RB20,=,http://id.who.int/icd/entity/910632716,<,4A60.Y 
+3,ＮＬＲＣ４異常症,L,D898,RE5N,<,http://id.who.int/icd/entity/1576710885,<,4A60.Y 
+3,NLRC4異常症,S0,D898,RE5N,<,http://id.who.int/icd/entity/1576710885,<,4A60.Y 
+3,ＡＤＡ２欠損症,L,D898,SPPN,<,http://id.who.int/icd/entity/1576710885,<,4A60.Y 
+3,ADA2欠損症,S0,D898,SPPN,<,http://id.who.int/icd/entity/2134438414,<,4A01.10
+3,アデノシンデアミナーゼ-2欠損症,S1,D898,SPPN,<,http://id.who.int/icd/entity/2134438414,<,4A01.10
+3,新生児期発症多臓器系炎症性疾患,L,D898,TV4J,=,http://id.who.int/icd/entity/1741624812,<,4A60.1
+3,NOMID,S1,D898,TV4J,=,http://id.who.int/icd/entity/1741624812,<,4A60.1
+3,慢性乳児期発症-神経-皮膚-関節症候群,S1,D898,TV4J,=,http://id.who.int/icd/entity/1741624812,<,4A60.1
+3,CINCA,S1,D898,TV4J,=,http://id.who.int/icd/entity/1741624812,<,4A60.1
+3,ＰＦＡＰＡ症候群,L,D898,UB8R,=,http://id.who.int/icd/entity/451775619,<,DA01.10
+3,PFAPA症候群,S0,D898,UB8R,=,http://id.who.int/icd/entity/451775619,<,DA01.10
+3,周期性発熱・アフタ性口内炎・咽頭炎・リンパ節炎症候群,S1,D898,UB8R,=,http://id.who.int/icd/entity/451775619,<,DA01.10
+3,慢性再発性多発性骨髄炎,L,D898,VRR6,=,http://id.who.int/icd/entity/1256384247,<,4A6Y
+3,ＴＡＦＲＯ症候群,L,D899,MRU4,=,http://id.who.int/icd/entity/1505841618,<,4A4Y
+3,TAFRO症候群,S0,D899,MRU4,=,http://id.who.int/icd/entity/1505841618,<,4A4Y
+3,免疫疾患,L,D899,QE75,=,http://id.who.int/icd/entity/1954798891,=,4B4Z 
+3,易感染性,L,D899,QGFJ,=,http://id.who.int/icd/entity/1954798891,=,4B4Z 
+3,遺伝性自己炎症疾患,L,D899,RLNA,=,http://id.who.int/icd/entity/2115467890 & http://id.who.int/icd/entity/789096057,=,4A6Z & XB7K 
+3,自己炎症症候群,S1,D899,RLNA,=,http://id.who.int/icd/entity/2115467890,=,4A6Z

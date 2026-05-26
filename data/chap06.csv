@@ -1,0 +1,2274 @@
+ICD10 章,標準病名,代表・同義,ICD10コード,交換コード,関係,ICD11 Foundation URI,関係,MMS
+6,インフルエンザ菌性髄膜炎,L,G000,AKS3,=,http://id.who.int/icd/entity/1005770900,=,1D01.00 
+6,インフルエンザ菌髄膜炎,S1,G000,AKS3,=,http://id.who.int/icd/entity/1005770900,=,1D01.00 
+6,インフルエンザ球菌髄膜炎,S1,G000,AKS3,=,http://id.who.int/icd/entity/1005770900,=,1D01.00 
+6,肺炎球菌性髄膜炎,L,G001,BAT2,=,http://id.who.int/icd/entity/879178398,=,1B53 & XN3PW
+6,肺炎双球菌髄膜炎,S1,G001,BAT2,=,http://id.who.int/icd/entity/879178398,<,1B53
+6,連鎖球菌性髄膜炎,L,G002,G2LM,=,http://id.who.int/icd/entity/705971711,=,1B53
+6,れんさ球菌性髄膜炎,S1,G002,G2LM,=,http://id.who.int/icd/entity/705971711,=,1B53
+6,ぶどう球菌性髄膜炎,L,G003,C6UH,=,http://id.who.int/icd/entity/1331660907,=,1B54 
+6,ブドウ球菌性髄膜炎,S1,G003,C6UH,=,http://id.who.int/icd/entity/1331660907,=,1B54 
+6,ＭＲＳＡ髄膜炎,L,G003,J644,=,http://id.who.int/icd/entity/578705533,=,1B54&XN6BM 
+6,MRSA髄膜炎,S0,G003,J644,=,http://id.who.int/icd/entity/578705533,=,1B54&XN6BM 
+6,緑膿菌髄膜炎,L,G008,NQBB,=,http://id.who.int/icd/entity/537912379 & http://id.who.int/icd/entity/1811342866,=,1D01.0Z & XN5L6
+6,大腸菌髄膜炎,L,G008,PR6V,=,http://id.who.int/icd/entity/1855224446,=,1D01.0Y & XN6P4
+6,クレブシェラ性髄膜炎,L,G008,R5B5,=,http://id.who.int/icd/entity/1327378915,=,1D01.0Z & XN620
+6,フリードレンダー桿菌性髄膜炎,L,G008,VHV8,=,http://id.who.int/icd/entity/26099274,=,1D01.0Y & XN741 
+6,細菌性髄膜炎,L,G009,D3FR,=,http://id.who.int/icd/entity/684930313,=,1D01.0Z 
+6,細菌性軟膜炎,S2,G009,D3FR,≒,http://id.who.int/icd/entity/684930313,=,1D01.0Z 
+6,細菌性くも膜炎,S2,G009,D3FR,≒,http://id.who.int/icd/entity/684930313,=,1D01.0Z 
+6,急性細菌性髄膜炎,L,G009,HA9C,=,http://id.who.int/icd/entity/684930313 & http://id.who.int/icd/entity/786106375,=,1D01.0Z & XT5R
+6,化膿性髄膜炎,S2,G009,HA9C,=,http://id.who.int/icd/entity/1346278360,<,1D01.0Z
+6,急性化膿性髄膜炎,S2,G009,HA9C,=,http://id.who.int/icd/entity/1346278360 & http://id.who.int/icd/entity/786106375,<,1D01.0Z & XT5R
+6,細菌性硬膜炎,L,G009,NCH8,=,http://id.who.int/icd/entity/684930313,=,1D01.0Z 
+6,原因菌不明髄膜炎,L,G009,TVEH,=,http://id.who.int/icd/entity/1346278360,<,1D01.0Z 
+6,無菌性髄膜炎,L,G030,V95N,=, http://id.who.int/icd/entity/980777132,<,1D01.Z 
+6,非細菌性髄膜炎,S1,G030,V95N,≒, http://id.who.int/icd/entity/980777132,<,1D01.Z 
+6,非化膿性髄膜炎,S2,G030,V95N,≒, http://id.who.int/icd/entity/980777132,<,1D01.Z 
+6,慢性髄膜炎,L,G031,VQ59,=,http://id.who.int/icd/entity/1597945150,=,1D01.Z & XT8W 
+6,モラレ髄膜炎,L,G032,B01D,=,http://id.who.int/icd/entity/731112897,=,1D01.3
+6,良性再発性髄膜炎,S2,G032,B01D,=,http://id.who.int/icd/entity/731112897,=,1D01.3
+6,癒着性くも膜炎,L,G039,D19T,<,http://id.who.int/icd/entity/414817254,<,8E40.3 
+6,癒着性髄膜炎,S2,G039,D19T,=,http://id.who.int/icd/entity/553062542 & http://id.who.int/icd/entity/1979147242,<,8E40.Y & XA6HA2
+6,癒着性脊髄膜炎,S2,G039,D19T,=,http://id.who.int/icd/entity/553062542 & http://id.who.int/icd/entity/1284492970 ,<,8E40.Y & XA5AH0
+6,視神経髄膜炎,L,G039,E8FQ,=,http://id.who.int/icd/entity/631153919 & http://id.who.int/icd/entity/2013768320 ,=,8E40.Z & XA1E00
+6,肥厚性硬膜炎,L,G039,EU4Q,=,http://id.who.int/icd/entity/1561437485,<,8E40.Y 
+6,髄膜炎,L,G039,G3CA,=,http://id.who.int/icd/entity/106596694,=,8E40.Z
+6,脳脊髄膜炎,S1,G039,G3CA,=,http://id.who.int/icd/entity/106596694,=,8E40.Z 
+6,脳髄膜炎,S2,G039,G3CA,=,http://id.who.int/icd/entity/106596694 & http://id.who.int/icd/entity/1979147242,=,8E40.Z & XA6HA2
+6,脳膜炎,S2,G039,G3CA,=,http://id.who.int/icd/entity/692856715,<,8E40.3
+6,軟膜炎,L,G039,H4PS,=,http://id.who.int/icd/entity/106596694 & http://id.who.int/icd/entity/39030115,=,8E40.Z & XA6AF5 
+6,偽性髄膜炎,L,G039,H67J,<,http://id.who.int/icd/entity/106596694,<,8E40.Z
+6,くも膜炎,L,G039,K2RC,=,http://id.who.int/icd/entity/414817254,=,8E40.3
+6,脊髄膜炎,L,G039,S31N,=,http://id.who.int/icd/entity/106596694 & http://id.who.int/icd/entity/1284492970,=,8E40.Z & XA5AH0
+6,脊髄性くも膜炎,S2,G039,S31N,=,http://id.who.int/icd/entity/1074591848,<,8E40.3
+6,閉塞性髄膜炎,L,G039,TG9A,<,http://id.who.int/icd/entity/106596694,<,8E40.Y
+6,頚髄癒着性脊髄膜炎,S1,G039,TG9A,=,http://id.who.int/icd/entity/553062542 & http://id.who.int/icd/entity/1284492970 & http://id.who.int/icd/entity/559293431,<,"8E40.Y & XA5AH0 & XA1SP1
+"
+6,閉鎖性髄膜炎,S1,G039,TG9A,<,http://id.who.int/icd/entity/106596694,<,8E40.Y
+6,頸髄癒着性脊髄膜炎,S1,G039,TG9A,=,http://id.who.int/icd/entity/553062542 & http://id.who.int/icd/entity/1284492970 & http://id.who.int/icd/entity/559293431,<,"8E40.Y & XA5AH0 & XA1SP1
+"
+6,硬膜炎,L,G039,UD25,=,http://id.who.int/icd/entity/592562777,=,8E41.Z
+6,予防接種後脳炎,L,G040,CMFC,=,http://id.who.int/icd/entity/1229845027,<,8A42.Y
+6,免疫処置後脳炎,S2,G040,CMFC,=,http://id.who.int/icd/entity/1229845027,<,8A42.Y
+6,種痘後脳炎,S2,G040,CMFC,=,http://id.who.int/icd/entity/1229845027,<,8A42.Y
+6,急性散在性脳脊髄炎,L,G040,F456,=,http://id.who.int/icd/entity/1390433308,=,8A42.Z
+6,播種性脳脊髄炎,S1,G040,F456,=,http://id.who.int/icd/entity/1390433308,=,8A42.Z
+6,急性播種性脳炎,S1,G040,F456,=,http://id.who.int/icd/entity/1390433308,=,8A42.Z
+6,ADEM,S1,G040,F456,=,http://id.who.int/icd/entity/1390433308,=,8A42.Z
+6,予防接種後脳脊髄炎,L,G040,S7T2,=,http://id.who.int/icd/entity/1229845027,<,8A42.Y
+6,ワクチン接種後脳炎,S1,G040,S7T2,=,http://id.who.int/icd/entity/1229845027,<,8A42.Y
+6,ワクチン接種後脳脊髄炎,S1,G040,S7T2,=,http://id.who.int/icd/entity/1229845027,<,8A42.Y
+6,種痘後脊髄炎,S2,G040,S7T2,=,http://id.who.int/icd/entity/1229845027,<,8A42.Y
+6,種痘後脳脊髄炎,S2,G040,S7T2,=,http://id.who.int/icd/entity/1229845027,<,8A42.Y
+6,化膿性脊髄炎,L,G042,J1AS,=,http://id.who.int/icd/entity/392898612,<,1D02.Z
+6,化膿性脳髄膜炎,L,G042,NRRF,=,http://id.who.int/icd/entity/976163179,<,1D01.Z & XA6HA2
+6,抗ＮＭＤＡ受容体脳炎,L,G048,A01K,=,http://id.who.int/icd/entity/1568915618,<,8E4A.0 
+6,抗NMDA受容体脳炎,S0,G048,A01K,=,http://id.who.int/icd/entity/1568915618,<,8E4A.0 
+6,急性小脳性失調症,L,G048,ELFK,=,http://id.who.int/icd/entity/385351156 & http://id.who.int/icd/entity/976604742 & http://id.who.int/icd/entity/786106375,<,8E4A.0 & XA1CW2 & XT5R
+6,自己免疫性辺縁系脳炎,L,G048,GFR8,=,http://id.who.int/icd/entity/1254443511,<,8E4A.0 
+6,感染後脳炎,L,G048,HVPA,=,http://id.who.int/icd/entity/385351156,<,8E4A.0 
+6,感染後脳脊髄炎,L,G048,JU1G,=,http://id.who.int/icd/entity/680294872,<,8A42.Y 
+6,ラスムッセン脳炎,L,G048,KFAM,=,http://id.who.int/icd/entity/182666470,<,8A62.Y
+6,RASMUSSEN症候群,S1,G048,KFAM,<,http://id.who.int/icd/entity/669338526,<,8A66.Y
+6,ラスムッセン症候群,S1,G048,KFAM,<,http://id.who.int/icd/entity/669338526,<,8A66.Y
+6,RASMUSSEN脳炎,S1,G048,KFAM,<,http://id.who.int/icd/entity/669338526,<,8A66.Y
+6,アトピー性脊髄炎,L,G048,M1MA,=,http://id.who.int/icd/entity/1993728609 / http://id.who.int/icd/entity/642618805 ,=,8B41 / 4A8Z 
+6,圧迫性脊髄炎,L,G049,A08G,<,http://id.who.int/icd/entity/1993728609 / http://id.who.int/icd/entity/1989556002,<,8B41 / FB1Z
+6,脳炎,L,G049,BA38,=,http://id.who.int/icd/entity/151219786,<,8E4Y
+6,辺縁系脳炎,L,G049,BJMV,=,http://id.who.int/icd/entity/1058231555 & http://id.who.int/icd/entity/407816093,=,1D00.Z & XA8733 
+6,辺縁系脳症,S1,G049,BJMV,=,http://id.who.int/icd/entity/1375895174 & http://id.who.int/icd/entity/407816093 ,=,8E47 & XA8733 
+6,急性上行性脊髄炎,L,G049,CQAN,=,http://id.who.int/icd/entity/1328350091 & http://id.who.int/icd/entity/786106375,1,8B41 & XT5R 
+6,続発性脳炎,L,G049,CVAN,<,http://id.who.int/icd/entity/151219786,<,8E4Y
+6,多発性脊髄神経根炎,L,G049,FJ11,<,http://id.who.int/icd/entity/1993728609 ,<,MB41 
+6,多発性脊髄根神経根炎,S1,G049,FJ11,<,http://id.who.int/icd/entity/1993728609 ,<,MB41 
+6,慢性脊髄炎,L,G049,HAVT,=,http://id.who.int/icd/entity/1993728609 & http://id.who.int/icd/entity/490003542 ,=,8B41 & XT8W
+6,脊髄髄膜炎,L,G049,HRCF,=,http://id.who.int/icd/entity/631153919 & http://id.who.int/icd/entity/1284492970,=, 8E40.Z & XA5AH0
+6,急性脊髄炎,L,G049,K4PC,=,"http://id.who.int/icd/entity/1993728609 & http://id.who.int/icd/entity/786106375 
+",=,8B41 & XT5R
+6,慢性脳炎,L,G049,LAB3,=,http://id.who.int/icd/entity/151219786  & http://id.who.int/icd/entity/490003542  ,=,8E4Y & XT8W
+6,髄膜脊髄炎,L,G049,N1JF,=,http://id.who.int/icd/entity/631153919 & http://id.who.int/icd/entity/1284492970 ,=,8E40.Z & XA5AH0
+6,硬化性脊髄炎,L,G049,NUQD,<,http://id.who.int/icd/entity/1328350091,<,8A41.0
+6,脳室炎,L,G049,P67M,=,http://id.who.int/icd/entity/1993728609 & http://id.who.int/icd/entity/1651949308 ,=,8E4Y & XA26E8
+6,脳脊髄炎,L,G049,S3C2,<,http://id.who.int/icd/entity/1993728609,<,8B41
+6,脊髄炎,L,G049,TBHR,=,http://id.who.int/icd/entity/1993728609,=,8B41
+6,髄膜脳炎,L,G049,VDF0,<,http://id.who.int/icd/entity/631153919 ,<, 8E40.Z 
+6,前頭部脳膿瘍,L,G060,A01D,=,http://id.who.int/icd/entity/1869337295,=,1D03.3Y & XA2NT0
+6,側頭部脳膿瘍,L,G060,BE9P,=,http://id.who.int/icd/entity/1881104788,=,1D03.3Y & XA97T4
+6,脳膿瘍,L,G060,DF8T,=,http://id.who.int/icd/entity/1128677700 ,=,1D03.3Z
+6,後頭部脳膿瘍,L,G060,E9S3,=,http://id.who.int/icd/entity/1386001399,=,1D03.3Y & XA89Y2
+6,頭頂部脳膿瘍,L,G060,FMFF,=,http://id.who.int/icd/entity/1200373998,=,1D03.3Y & XA92Y6
+6,硬膜下肉芽腫,L,G060,KM33,=,http://id.who.int/icd/entity/629126866 & http://id.who.int/icd/entity/277341308,=,1D04.1Z & XA1FQ8
+6,頭蓋内膿瘍,L,G060,NQGM,=,http://id.who.int/icd/entity/1128677700,=,1D03.3Z 
+6,大脳性膿瘍,S2,G060,NQGM,=,http://id.who.int/icd/entity/1077688798,=,1D03.3Y & XA1M33
+6,側頭葉膿瘍,S2,G060,NQGM,=,http://id.who.int/icd/entity/1881104788,=,1D03.3Y & XA97T4
+6,小脳脳膿瘍,L,G060,U3LK,=,http://id.who.int/icd/entity/1656744891,<,1D03.3Y
+6,小脳膿瘍,S1,G060,U3LK,=,http://id.who.int/icd/entity/1656744891,<,1D03.3Y
+6,小脳性膿瘍,S1,G060,U3LK,=,http://id.who.int/icd/entity/1656744891,<,1D03.3Y
+6,硬膜外肉芽腫,L,G060,VB5C,<,http://id.who.int/icd/entity/629126866,<,1D04.1Y
+6,脊椎管内肉芽腫,L,G061,DGGT,=,http://id.who.int/icd/entity/2017227771,=,1D04.2 
+6,脊髄膿瘍,L,G061,F3KC,=,http://id.who.int/icd/entity/486617244,=,1D03.5
+6,髄内膿瘍,S1,G061,F3KC,=,http://id.who.int/icd/entity/486617244,=,1D03.5
+6,脊髄伝染膿瘍,S2,G061,F3KC,=,http://id.who.int/icd/entity/486617244,=,1D03.5
+6,脊髄伝染瘍,S2,G061,F3KC,=,http://id.who.int/icd/entity/486617244,=,1D03.5
+6,脊髄硬膜外膿瘍,L,G061,R8BS,=,http://id.who.int/icd/entity/1299705786,=,1D03.4 
+6,脊柱管内膿瘍,S2,G061,R8BS,=,http://id.who.int/icd/entity/486617244,=,1D03.5
+6,脊椎管内膿瘍,S2,G061,R8BS,=,http://id.who.int/icd/entity/486617244,=,1D03.5
+6,硬膜下膿瘍,L,G062,L5K1,=,http://id.who.int/icd/entity/613341872,=,1D03.1
+6,くも膜下膿瘍,L,G062,QPAF,=,http://id.who.int/icd/entity/1913657904,=,1D03.Y & XA1XM6
+6,硬膜内膿瘍,L,G062,SC5T,=,http://id.who.int/icd/entity/613341872,=,1D03.1
+6,硬膜外膿瘍,L,G062,VF8R,=,http://id.who.int/icd/entity/1147230459,=,1D03.2
+6,脳静脈洞血栓症,L,G08,AU63,=,http://id.who.int/icd/entity/1655658429,=,8B22.1
+6,頭蓋内静脈洞血栓症,S1,G08,AU63,=,http://id.who.int/icd/entity/1655658429,=,8B22.1
+6,脳静脈洞血栓,S1,G08,AU63,=,http://id.who.int/icd/entity/1655658429,=,8B22.1
+6,頭蓋静脈洞血栓,S1,G08,AU63,=,http://id.who.int/icd/entity/1655658429,=,8B22.1
+6,頭蓋内静脈洞炎,S2,G08,AU63,=,http://id.who.int/icd/entity/1655658429,=,8B22.1
+6,頭蓋静脈洞炎,S2,G08,AU63,=,http://id.who.int/icd/entity/1655658429,=,8B22.1
+6,横静脈洞血栓症,L,G08,J4L0,=,http://id.who.int/icd/entity/1297208911,=,8B22.1 & XA4289
+6,横静脈洞血栓,S1,G08,J4L0,=,http://id.who.int/icd/entity/1297208911,=,8B22.1 & XA4289
+6,Ｓ状静脈洞血栓症,L,G08,LPGE,=,http://id.who.int/icd/entity/1966883342,=,8B22.1 & XA4041
+6,S状静脈洞血栓症,S0,G08,LPGE,=,http://id.who.int/icd/entity/1966883342,=,8B22.1 & XA4041
+6,S字状静脈洞血栓症,S1,G08,LPGE,=,http://id.who.int/icd/entity/1966883342,=,8B22.1 & XA4041
+6,海綿静脈洞血栓症,L,G08,U8QF,=,http://id.who.int/icd/entity/1472172139,=,8B22.1 & XA5WN3
+6,海綿静脈洞血栓性静脈炎,S2,G08,U8QF,=,http://id.who.int/icd/entity/1472172139,=,8B22.1 & XA5WN3
+6,矢状静脈洞血栓症,L,G08,VF7T,=,http://id.who.int/icd/entity/1587607250,=,8B22.1 & XA1RV1
+6,髄膜炎罹患後精神障害,L,G09,DQBR,=,http://id.who.int/icd/entity/703043937 / http://id.who.int/icd/entity/334423054,=,1D01.Y / 6E8Z
+6,脊髄炎後遺症,L,G09,EP7G,=,http://id.who.int/icd/entity/703043937 & http://id.who.int/icd/entity/472249438,=,1D01.Z & XT9C 
+6,頭蓋内膿瘍後遺症,L,G09,GNH8,=,http://id.who.int/icd/entity/1128677700 & http://id.who.int/icd/entity/472249438,=,1D03.3Z & XT9C
+6,脳炎後てんかん,L,G09,JBHK,=,http://id.who.int/icd/entity/270831052,=,8A60.4  / 1D00.Z
+6,脳脊髄膜炎後四肢痙性麻痺,L,G09,LH41,=,http://id.who.int/icd/entity/390005245 / http://id.who.int/icd/entity/1591776568,<,1D00.Y / MB51
+6,脳炎後遺症,L,G09,QKJJ,=,http://id.who.int/icd/entity/62637936 & http://id.who.int/icd/entity/472249438,=,1D00.Z & XT9C
+6,陳旧性脳膜炎,L,G09,QU84,=,http://id.who.int/icd/entity/62637936 & http://id.who.int/icd/entity/472249438,=,1D00.Z & XT9C
+6,髄膜炎後遺症,L,G09,RT72,=,http://id.who.int/icd/entity/703043937 & http://id.who.int/icd/entity/472249438,<,1D0.Z & XT9C
+6,漿液性脳膜炎後遺症,S2,G09,RT72,<,http://id.who.int/icd/entity/703043937 & http://id.who.int/icd/entity/472249438,<,1D0.Z & XT9C
+6,脳膜炎後遺症,S2,G09,RT72,<,http://id.who.int/icd/entity/703043937 & http://id.who.int/icd/entity/472249438,<,1D0.Z & XT9C
+6,若年型ハンチントン病,L,G10,MHA2,<,http://id.who.int/icd/entity/2132180242,<,8A01.10
+6,若年型HUNTINGTON病,S1,G10,MHA2,<,http://id.who.int/icd/entity/2132180242,<,8A01.10
+6,ハンチントン病の認知症,L,G10,P97P,=,http://id.who.int/icd/entity/1397836700,=,8A01.10 / 6D85.1
+6,HUNTINGTON病の痴呆,S1,G10,P97P,=,http://id.who.int/icd/entity/1397836700,=,8A01.10 / 6D85.1
+6,HUNTINGTON病の認知症,S1,G10,P97P,=,http://id.who.int/icd/entity/1397836700,=,8A01.10 / 6D85.1
+6,ハンチントン病の痴呆,S1,G10,P97P,=,http://id.who.int/icd/entity/1397836700,=,8A01.10 / 6D85.1
+6,ハンチントン病,L,G10,Q1FE,=,http://id.who.int/icd/entity/2132180242,=,8A01.10
+6,HUNTINGTON病,S1,G10,Q1FE,=,http://id.who.int/icd/entity/2132180242,=,8A01.10
+6,ハンチントン舞踏病,S1,G10,Q1FE,=,http://id.who.int/icd/entity/2132180242,=,8A01.10
+6,HUNTINGTON舞踏病,S1,G10,Q1FE,=,http://id.who.int/icd/entity/2132180242,=,8A01.10
+6,先天性非進行性運動失調症,L,G110,AS2K,=,http://id.who.int/icd/entity/923808550,=,8A03.0
+6,先天性小脳性運動失調症,L,G110,LHV2,=,http://id.who.int/icd/entity/923808550,=,8A03.0
+6,アプラタキシン欠損症,L,G111,CLGB,=,http://id.who.int/icd/entity/971017024,<,8A06.Y
+6,EAOH,S1,G111,CLGB,=,http://id.who.int/icd/entity/971017024,<,8A06.Y 
+6,眼球運動失行・低アルブミン血症を伴う早発型失調症,S1,G111,CLGB,=,http://id.who.int/icd/entity/971017024,<,8A06.Y 
+6,早発性小脳性運動失調症,S2,G111,CLGB,=,http://id.who.int/icd/entity/971017024 & http://id.who.int/icd/entity/378801232 ,<,8A06.Y & XT2Q
+6,フリードライヒ運動失調症,L,G111,HHQA,=,http://id.who.int/icd/entity/980686666,=,8A03.10 
+6,伴性劣性脊髄小脳失調症,S1,G111,HHQA,=,http://id.who.int/icd/entity/980686666,=,8A03.10 
+6,FRIEDREICH失調症,S1,G111,HHQA,=,http://id.who.int/icd/entity/980686666,=,8A03.10 
+6,フリードライヒ病,S1,G111,HHQA,=,http://id.who.int/icd/entity/980686666,=,8A03.10 
+6,家族性脊髄性運動失調症,S1,G111,HHQA,=,http://id.who.int/icd/entity/980686666,=,8A03.10 
+6,FRIEDREICH運動失調症,S1,G111,HHQA,=,http://id.who.int/icd/entity/980686666,=,8A03.10 
+6,FRIEDREICH病,S1,G111,HHQA,=,http://id.who.int/icd/entity/980686666,=,8A03.10 
+6,フリードライヒ失調症,S1,G111,HHQA,=,http://id.who.int/icd/entity/980686666,=,8A03.10 
+6,遺伝性脊髄性運動失調症,S1,G111,HHQA,=,http://id.who.int/icd/entity/980686666,=,8A03.10 
+6,マリネスコ・シェーグレン症候群,L,G111,HK65,=,http://id.who.int/icd/entity/1130919107,<,8C70.6
+6,MARINESCO-SJOGREN症候群,S1,G111,HK65,=,http://id.who.int/icd/entity/1130919107,<,8C70.6
+6,脊髄性運動失調,L,G111,L2VA,=,http://id.who.int/icd/entity/1705355202 & http://id.who.int/icd/entity/1150229943,=,8A03.Y & XA0V83
+6,脊髄性失調症,S1,G111,L2VA,=,http://id.who.int/icd/entity/1705355202 & http://id.who.int/icd/entity/1150229943,=,8A03.Y & XA0V83
+6,マシャド・ジョセフ病,L,G112,J15D,=,http://id.who.int/icd/entity/1991007405,<,8A03.16
+6,脊髄小脳失調症3型,S1,G112,J15D,=,http://id.who.int/icd/entity/1991007405,<,8A03.16
+6,SCA3,S1,G112,J15D,=,http://id.who.int/icd/entity/1991007405,<,8A03.16
+6,MACHADO-JOSEPH病,S1,G112,J15D,=,http://id.who.int/icd/entity/1991007405,<,8A03.16
+6,歯状核赤核淡蒼球ルイ体萎縮症,L,G112,J5D4,=,http://id.who.int/icd/entity/1198818955,=,8A01.12 
+6,歯状核赤核ルイ体萎縮症,S1,G112,J5D4,=,http://id.who.int/icd/entity/1198818955,=,8A01.12 
+6,DRPLA,S1,G112,J5D4,=,http://id.who.int/icd/entity/1198818955,=,8A01.12 
+6,皮質性小脳萎縮症,L,G112,NPUB,=,http://id.who.int/icd/entity/47298761,=,8A03.20
+6,晩発性小脳皮質萎縮症,S1,G112,NPUB,=,http://id.who.int/icd/entity/47298761,=,8A03.20
+6,晩発性小脳性運動失調症,S1,G112,NPUB,=,http://id.who.int/icd/entity/47298761,=,8A03.20
+6,晩発性皮質性小脳萎縮,S1,G112,NPUB,=,http://id.who.int/icd/entity/47298761,=,8A03.20
+6,脊髄小脳失調症３１型,L,G112,QQKR,=,http://id.who.int/icd/entity/250956064,<,8A03.16
+6,脊髄小脳失調症31型,S0,G112,QQKR,=,http://id.who.int/icd/entity/250956064,<,8A03.16
+6,SCA31,S1,G112,QQKR,=,http://id.who.int/icd/entity/250956064,<,8A03.16
+6,脊髄小脳失調症６型,L,G112,VQN3,=,http://id.who.int/icd/entity/1056119281,<,8A03.16
+6,脊髄小脳失調症6型,S0,G112,VQN3,=,http://id.who.int/icd/entity/1056119281,<,8A03.16
+6,SCA6,S1,G112,VQN3,=,http://id.who.int/icd/entity/1056119281,<,8A03.16
+6,毛細血管拡張性運動失調症,L,G113,TNM3,=,http://id.who.int/icd/entity/2129036552,<,4A01.31
+6,末梢血管拡張性運動失調症,S1,G113,TNM3,=,http://id.who.int/icd/entity/2129036552,<,4A01.31
+6,遺伝性毛細血管拡張性運動失調症,S1,G113,TNM3,=,http://id.who.int/icd/entity/2129036552,<,4A01.31
+6,ルイ・バー症候群,S1,G113,TNM3,=,http://id.who.int/icd/entity/2129036552,<,4A01.31
+6,毛細血管拡張性失調症,S1,G113,TNM3,=,http://id.who.int/icd/entity/2129036552,<,4A01.31
+6,LOUIS-BAR症候群,S1,G113,TNM3,=,http://id.who.int/icd/entity/2129036552,<,4A01.31
+6,家族性痙性対麻痺,L,G114,E5AA,=,http://id.who.int/icd/entity/810807375,=,8B44.0Z 
+6,家族性痙性麻痺,S1,G114,E5AA,=,http://id.who.int/icd/entity/810807375,=,8B44.0Z 
+6,遺伝性痙性運動失調症,S1,G114,E5AA,=,http://id.who.int/icd/entity/810807375,=,8B44.0Z 
+6,遺伝性痙性対麻痺,S1,G114,E5AA,=,http://id.who.int/icd/entity/810807375,=,8B44.0Z 
+6,家族性痙性脊髄麻痺,S1,G114,E5AA,=,http://id.who.int/icd/entity/810807375,=,8B44.0Z 
+6,発作性失調症,L,G118,T0C7,=,http://id.who.int/icd/entity/423095680,=,8A03.14
+6,反復発作性運動失調症,S1,G118,T0C7,=,http://id.who.int/icd/entity/423095680,=,8A03.14
+6,遺伝性小脳性運動失調症,L,G119,N8G4,=,http://id.who.int/icd/entity/600993818　,=,8A03.16
+6,家族性運動失調症,S1,G119,N8G4,=,http://id.who.int/icd/entity/600993818　,=,8A03.16
+6,家族性小脳性運動失調,S1,G119,N8G4,=,http://id.who.int/icd/entity/600993818　,=,8A03.16
+6,原発性小脳変性症,S1,G119,N8G4,=,http://id.who.int/icd/entity/600993818　,=,8A03.16
+6,遺伝性運動失調症,S2,G119,N8G4,=,http://id.who.int/icd/entity/600993818　,=,8A03.16
+6,小脳性運動失調症,L,G119,TU5E,=,http://id.who.int/icd/entity/600993818,=,8A03.16
+6,小脳性失調,S1,G119,TU5E,=,http://id.who.int/icd/entity/600993818,=,8A03.16
+6,小脳失調症,S1,G119,TU5E,=,http://id.who.int/icd/entity/600993818,=,8A03.16
+6,小脳性運動失調,S1,G119,TU5E,=,http://id.who.int/icd/entity/600993818,=,8A03.16
+6,小脳性失調(症),S1,G119,TU5E,=,http://id.who.int/icd/entity/600993818,=,8A03.16
+6,小脳性失調症,S1,G119,TU5E,=,http://id.who.int/icd/entity/600993818,=,8A03.16
+6,脊髄性筋萎縮症Ｉ型,L,G120,KLR1,=,http://id.who.int/icd/entity/915903258,=,8B61.0
+6,脊髄性筋萎縮症I型,S0,G120,KLR1,=,http://id.who.int/icd/entity/915903258,=,8B61.0
+6,第1型乳児型脊髄性筋萎縮症,S1,G120,KLR1,=,http://id.who.int/icd/entity/915903258,=,8B61.0
+6,WERDNIG-HOFFMANN症候群,S1,G120,KLR1,=,http://id.who.int/icd/entity/915903258,=,8B61.0
+6,ウェルドニッヒ・ホフマン病,S1,G120,KLR1,=,http://id.who.int/icd/entity/915903258,=,8B61.0
+6,乳児性脊髄性筋萎縮症,S1,G120,KLR1,=,http://id.who.int/icd/entity/915903258,=,8B61.0
+6,第1型脊髄性筋萎縮症,S1,G120,KLR1,=,http://id.who.int/icd/entity/915903258,=,8B61.0
+6,WERDNIG-HOFFMANN病,S1,G120,KLR1,=,http://id.who.int/icd/entity/915903258,=,8B61.0
+6,ウェルドニッヒ・ホフマン症候群,S1,G120,KLR1,=,http://id.who.int/icd/entity/915903258,=,8B61.0
+6,乳児型脊髄性筋萎縮症,S1,G120,KLR1,=,http://id.who.int/icd/entity/915903258,=,8B61.0
+6,肩甲腓骨型脊髄性筋萎縮症,L,G121,AP91,=,http://id.who.int/icd/entity/223435672,<,8B61.4
+6,家族性脊髄性筋萎縮症,L,G121,CJT2,=,http://id.who.int/icd/entity/71074342 & http://id.who.int/icd/entity/524818626,=,8B61.Y & XB1Y
+6,脊髄性筋萎縮症ＩＩＩ型,L,G121,CT7H,=,http://id.who.int/icd/entity/677572815,=,8B61.2
+6,脊髄性筋萎縮症III型,S0,G121,CT7H,=,http://id.who.int/icd/entity/677572815,=,8B61.2
+6,若年性進行性筋萎縮症,S1,G121,CT7H,=,http://id.who.int/icd/entity/677572815,=,8B61.2
+6,3型若年型脊髄性筋萎縮症,S1,G121,CT7H,=,http://id.who.int/icd/entity/677572815,=,8B61.2
+6,第3型脊髄性筋萎縮症,S1,G121,CT7H,=,http://id.who.int/icd/entity/677572815,=,8B61.2
+6,クーゲルベルグ・ヴェランダー病,S1,G121,CT7H,=,http://id.who.int/icd/entity/677572815,=,8B61.2
+6,クーゲルベルク・ヴェランダー病,S1,G121,CT7H,=,http://id.who.int/icd/entity/677572815,=,8B61.2
+6,KUGELBERG-WELANDER病,S1,G121,CT7H,=,http://id.who.int/icd/entity/677572815,=,8B61.2
+6,球脊髄性筋萎縮症,L,G121,DCPR,=,http://id.who.int/icd/entity/1604214898,<,8B61.4 
+6,ケネディ・オルタ・スン症候群,S1,G121,DCPR,=,http://id.who.int/icd/entity/1604214898,<,8B61.4 
+6,ケネディ・オルター・スン症候群,S1,G121,DCPR,=,http://id.who.int/icd/entity/1604214898,<,8B61.4 
+6,ケネディー・オルター・スン症候群,S1,G121,DCPR,=,http://id.who.int/icd/entity/1604214898,<,8B61.4 
+6,KENNEDY病,S1,G121,DCPR,=,http://id.who.int/icd/entity/1604214898,<,8B61.4 
+6,KENNEDY-ALTER-SUNG症候群,S1,G121,DCPR,=,http://id.who.int/icd/entity/1604214898,<,8B61.4 
+6,ケネディ病,S1,G121,DCPR,=,http://id.who.int/icd/entity/1604214898,<,8B61.4 
+6,若年性進行性球麻痺,L,G121,DKF9,=,http://id.who.int/icd/entity/1500390195,<,8B60.Y
+6,ファツィオ・ロンド病,S1,G121,DKF9,=,http://id.who.int/icd/entity/1500390195,<,8B60.Y
+6,乳幼児進行性球麻痺,S1,G121,DKF9,=,http://id.who.int/icd/entity/1500390195,<,8B60.Y
+6,FAZIO-LONDO病,S1,G121,DKF9,=,http://id.who.int/icd/entity/1500390195,<,8B60.Y
+6,脊髄性筋萎縮症ＩＩ型,L,G121,G9QP,=,http://id.who.int/icd/entity/867148636,=,8B61.1
+6,脊髄性筋萎縮症II型,S0,G121,G9QP,=,http://id.who.int/icd/entity/867148636,=,8B61.1
+6,小児性進行性筋萎縮症,S1,G121,G9QP,=,http://id.who.int/icd/entity/867148636,=,8B61.1
+6,2型小児型脊髄性筋萎縮症,S1,G121,G9QP,=,http://id.who.int/icd/entity/867148636,=,8B61.1
+6,第2型脊髄性筋萎縮症,S1,G121,G9QP,=,http://id.who.int/icd/entity/867148636,=,8B61.1
+6,脊髄性筋萎縮症ＩＶ型,L,G121,KEK3,=,http://id.who.int/icd/entity/443229384,=,8B61.3
+6,脊髄性筋萎縮症IV型,S0,G121,KEK3,=,http://id.who.int/icd/entity/443229384,=,8B61.3
+6,脊髄性筋萎縮症4型,S1,G121,KEK3,=,http://id.who.int/icd/entity/443229384,=,8B61.3
+6,成人型脊髄性筋萎縮症,S1,G121,KEK3,=,http://id.who.int/icd/entity/443229384,=,8B61.3
+6,遠位型脊髄性筋萎縮症,L,G121,LV6R,=,http://id.who.int/icd/entity/879584621,<,8B61.4
+6,家族性筋萎縮性側索硬化症,L,G122,A4FU,=,http://id.who.int/icd/entity/1982355687 & http://id.who.int/icd/entity/524818626,=,8B60.0 & XB1Y
+6,家族性ALS,S1,G122,A4FU,=,http://id.who.int/icd/entity/1982355687 & http://id.who.int/icd/entity/524818626,=,8B60.0 & XB1Y
+6,原発性側索硬化症,L,G122,B2D4,=,http://id.who.int/icd/entity/1686688462,=,8B60.4
+6,運動ニューロン疾患,L,G122,ELLM,=,http://id.who.int/icd/entity/661720689,=,8B60.Z
+6,運動ニューロン病,S1,G122,ELLM,=,http://id.who.int/icd/entity/661720689,=,8B60.Z
+6,運動ニューロン障害,S1,G122,ELLM,=,http://id.who.int/icd/entity/661720689,=,8B60.Z
+6,筋萎縮性側索硬化症,L,G122,FLAA,=,http://id.who.int/icd/entity/1982355687,=,8B60.0
+6,ALS,S1,G122,FLAA,=,http://id.who.int/icd/entity/1982355687,=,8B60.0
+6,若年性一側性上肢筋萎縮症,L,G122,G52A,<,http://id.who.int/icd/entity/1361112896,<,8B60.6
+6,平山病,S1,G122,G52A,=,http://id.who.int/icd/entity/1361112896,<,8B60.6
+6,若年性一側上肢筋萎縮症,S1,G122,G52A,<,http://id.who.int/icd/entity/1361112896,<,8B60.6
+6,進行性球麻痺,L,G122,HT34,=,http://id.who.int/icd/entity/1143049440,=,8B60.1 
+6,孤発性筋萎縮性側索硬化症,L,G122,MP9D,<,http://id.who.int/icd/entity/1982355687,<,8B60.0 
+6,孤発性ALS,S1,G122,MP9D,<,http://id.who.int/icd/entity/1982355687,<,8B60.0 
+6,脊髄性筋萎縮症,L,G122,SG44,=,http://id.who.int/icd/entity/71074342,=,8B61.Z
+6,進行性筋萎縮,S1,G122,SG44,=,http://id.who.int/icd/entity/1282359533,=,8B60.3
+6,脊髄性筋萎縮,S1,G122,SG44,=,http://id.who.int/icd/entity/71074342,=,8B61.Z
+6,SPMA,S1,G122,SG44,=,http://id.who.int/icd/entity/71074342,=,8B61.Z
+6,脊髄性筋萎縮(症),S1,G122,SG44,=,http://id.who.int/icd/entity/71074342,=,8B61.Z
+6,脊髄性進行性筋萎縮症,S1,G122,SG44,=,http://id.who.int/icd/entity/1282359533,=,8B60.3
+6,進行性脊髄性筋萎縮症,S1,G122,SG44,=,http://id.who.int/icd/entity/1282359533,=,8B60.3
+6,脊髄進行性筋萎縮症,S1,G122,SG44,=,http://id.who.int/icd/entity/1282359533,=,8B60.3
+6,進行性筋萎縮症,S2,G122,SG44,=,http://id.who.int/icd/entity/1282359533,=,8B60.3
+6,仮性球麻痺,L,G122,SJ68,=,http://id.who.int/icd/entity/2080137619,=,8B60.2 
+6,偽球麻痺,S1,G122,SJ68,=,http://id.who.int/icd/entity/2080137619,=,8B60.2 
+6,慢性仮性球麻痺,S2,G122,SJ68,=,http://id.who.int/icd/entity/2080137619 & http://id.who.int/icd/entity/490003542,=,8B60.2 & XT8W
+6,球麻痺,L,G122,T8P9,=,http://id.who.int/icd/entity/1143049440,=,8B60.1
+6,慢性球麻痺,S2,G122,T8P9,=,http://id.who.int/icd/entity/1143049440,=,8B60.1
+6,先天性核上性球麻痺,L,G122,UM34,=,http://id.who.int/icd/entity/1834138618,=,8D23
+6,ウースター・ドロート症候群,S1,G122,UM34,=,http://id.who.int/icd/entity/1834138618,=,8D23
+6,WORSTER-DROUGHT症候群,S1,G122,UM34,=,http://id.who.int/icd/entity/1834138618,=,8D23
+6,頚椎症性筋萎縮症,L,G128,C2P8,=,http://id.who.int/icd/entity/71074342 & http://id.who.int/icd/entity/53291568,=,8B61.Y & XA9ZW8
+6,頸椎症性筋萎縮症,S1,G128,C2P8,=,http://id.who.int/icd/entity/71074342 & http://id.who.int/icd/entity/53291568,=,8B61.Y & XA9ZW8
+6,外傷性球麻痺,L,G128,C3EC,<,http://id.who.int/icd/entity/1143049440,<,8B60.1
+6,ポストポリオ症候群,L,G14,U8KA,=,http://id.who.int/icd/entity/2018885243,=,8B62
+6,灰白髄炎後症候群,S1,G14,U8KA,=,http://id.who.int/icd/entity/2018885243,=,8B62
+6,ポリオ後症候群,S1,G14,U8KA,=,http://id.who.int/icd/entity/2018885243,=,8B62
+6,一側性パーキンソン症候群,L,G20,BNH2,=,http://id.who.int/icd/entity/885696512  ,=,8A00.0Y & XK70 
+6,一側性PARKINSON症候群,S1,G20,BNH2,=,http://id.who.int/icd/entity/885696512  ,=,8A00.0Y & XK70 
+6,半側PARKINSON症候群,S1,G20,BNH2,=,http://id.who.int/icd/entity/885696512  ,=,8A00.0Y & XK70 
+6,片側パーキンソン症候群,S1,G20,BNH2,=,http://id.who.int/icd/entity/885696512  ,=,8A00.0Y & XK70 
+6,半側パーキンソン症候群,S1,G20,BNH2,=,http://id.who.int/icd/entity/885696512  ,=,8A00.0Y & XK70 
+6,若年性パーキンソン病Ｙａｈｒ３,L,G20,BUST,<,http://id.who.int/icd/entity/296066191 & http://id.who.int/icd/entity/1663264387,<,8A00.0Z & XS0T
+6,若年性パーキンソン病YAHR3,S0,G20,BUST,<,http://id.who.int/icd/entity/296066191 & http://id.who.int/icd/entity/1663264387,<,8A00.0Z & XS0T
+6,若年性PARKINSON病YAHR3,S1,G20,BUST,<,http://id.who.int/icd/entity/296066191 & http://id.who.int/icd/entity/1663264387,<,8A00.0Z & XS0T
+6,家族性パーキンソン病Ｙａｈｒ３,L,G20,CK42,=,http://id.who.int/icd/entity/811427861 & http://id.who.int/icd/entity/1663264387  ,=,8A00.01 & XS0T
+6,家族性パーキンソン病YAHR3,S0,G20,CK42,=,http://id.who.int/icd/entity/811427861 & http://id.who.int/icd/entity/1663264387  ,=,8A00.01 & XS0T
+6,家族性PARKINSON病YAHR3,S1,G20,CK42,=,http://id.who.int/icd/entity/811427861 & http://id.who.int/icd/entity/1663264387  ,=,8A00.01 & XS0T
+6,若年性パーキンソン病,L,G20,EHN6,<,http://id.who.int/icd/entity/296066191,<,8A00.0Z
+6,若年性PARKINSON病,S1,G20,EHN6,<,http://id.who.int/icd/entity/296066191,<,8A00.0Z
+6,パーキンソン病Ｙａｈｒ３,L,G20,EQN8,=,http://id.who.int/icd/entity/811427861 & http://id.who.int/icd/entity/1663264387,=,8A00.0Z & XS0T
+6,パーキンソン病YAHR3,S0,G20,EQN8,=,http://id.who.int/icd/entity/811427861 & http://id.who.int/icd/entity/1663264387,=,8A00.0Z & XS0T
+6,PARKINSON病YAHR3,S1,G20,EQN8,=,http://id.who.int/icd/entity/811427861 & http://id.who.int/icd/entity/1663264387,=,8A00.0Z & XS0T
+6,認知症を伴うパーキンソン病,L,G20,G4FS,=,http://id.who.int/icd/entity/1494928041,=,6D85.0 
+6,パーキンソン病の痴呆,S1,G20,G4FS,=,http://id.who.int/icd/entity/1494928041,=,6D85.0 
+6,PARKINSON病の認知症,S1,G20,G4FS,=,http://id.who.int/icd/entity/1494928041,=,6D85.0 
+6,振戦麻痺の痴呆,S1,G20,G4FS,=,http://id.who.int/icd/entity/1494928041,=,6D85.0 
+6,パーキンソン病の認知症,S1,G20,G4FS,=,http://id.who.int/icd/entity/1494928041,=,6D85.0 
+6,振戦麻痺の認知症,S1,G20,G4FS,=,http://id.who.int/icd/entity/1494928041,=,6D85.0 
+6,PARKINSON病の痴呆,S1,G20,G4FS,=,http://id.who.int/icd/entity/1494928041,=,6D85.0 
+6,若年性パーキンソン病Ｙａｈｒ４,L,G20,G8R4,<,http://id.who.int/icd/entity/296066191 & http://id.who.int/icd/entity/1663264387 ,<,8A00.0Z & XS0T
+6,若年性パーキンソン病YAHR4,S0,G20,G8R4,<,http://id.who.int/icd/entity/296066191 & http://id.who.int/icd/entity/1663264387 ,<,8A00.0Z & XS0T
+6,若年性PARKINSON病YAHR4,S1,G20,G8R4,<,http://id.who.int/icd/entity/296066191 & http://id.who.int/icd/entity/1663264387 ,<,8A00.0Z & XS0T
+6,家族性パーキンソン病Ｙａｈｒ４,L,G20,L4E3,=,http://id.who.int/icd/entity/811427861 & http://id.who.int/icd/entity/1663264387,=,8A00.01 & XS0T 
+6,家族性パーキンソン病YAHR4,S0,G20,L4E3,=,http://id.who.int/icd/entity/811427861 & http://id.who.int/icd/entity/1663264387,=,8A00.01 & XS0T 
+6,家族性PARKINSON病YAHR4,S1,G20,L4E3,=,http://id.who.int/icd/entity/811427861 & http://id.who.int/icd/entity/1663264387,=,8A00.01 & XS0T 
+6,パーキンソン病Ｙａｈｒ４,L,G20,LA3J,=,http://id.who.int/icd/entity/296066191 & http://id.who.int/icd/entity/1663264387 ,=,8A00.0Z & XS0T
+6,パーキンソン病YAHR4,S0,G20,LA3J,=,http://id.who.int/icd/entity/296066191 & http://id.who.int/icd/entity/1663264387 ,=,8A00.0Z & XS0T
+6,PARKINSON病YAHR4,S1,G20,LA3J,=,http://id.who.int/icd/entity/296066191 & http://id.who.int/icd/entity/1663264387 ,=,8A00.0Z & XS0T
+6,パーキンソン病Ｙａｈｒ１,L,G20,NKCM,=,http://id.who.int/icd/entity/296066191 & http://id.who.int/icd/entity/562478860,=,8A00.0Z & X55W
+6,パーキンソン病YAHR1,S0,G20,NKCM,=,http://id.who.int/icd/entity/296066191 & http://id.who.int/icd/entity/562478860,=,8A00.0Z & X55W
+6,パーキンソン病,L,G20,P3JV,=,http://id.who.int/icd/entity/296066191,=,8A00.0Z 
+6,特発性パーキンソン症候群,S1,G20,P3JV,=,http://id.who.int/icd/entity/296066191,=,8A00.0Z 
+6,振戦麻痺,S1,G20,P3JV,=,http://id.who.int/icd/entity/296066191,=,8A00.0Z 
+6,パーキンソン氏病,S1,G20,P3JV,=,http://id.who.int/icd/entity/296066191,=,8A00.0Z 
+6,原発性パーキンソン症候群,S1,G20,P3JV,=,http://id.who.int/icd/entity/2024168133,=,8A00.Z
+6,特発性パーキンソニズム,S1,G20,P3JV,=,http://id.who.int/icd/entity/2024168133,=,8A00.Z
+6,原発性PARKINSON症候群,S1,G20,P3JV,=,http://id.who.int/icd/entity/2024168133,=,8A00.Z
+6,特発性PARKINSON症候群,S1,G20,P3JV,=,http://id.who.int/icd/entity/2024168133,=,8A00.Z
+6,PARKINSON病,S1,G20,P3JV,=,http://id.who.int/icd/entity/296066191,=,8A00.0Z 
+6,若年性パーキンソン病Ｙａｈｒ５,L,G20,QF0D,<,http://id.who.int/icd/entity/296066191  & http://id.who.int/icd/entity/1201187093,<,8A00.0Z & XS25 
+6,若年性パーキンソン病YAHR5,S0,G20,QF0D,<,http://id.who.int/icd/entity/296066191  & http://id.who.int/icd/entity/1201187093,<,8A00.0Z & XS25 
+6,若年性PARKINSON病YAHR5,S1,G20,QF0D,<,http://id.who.int/icd/entity/296066191  & http://id.who.int/icd/entity/1201187093,<,8A00.0Z & XS25 
+6,家族性パーキンソン病Ｙａｈｒ５,L,G20,QF3K,=,http://id.who.int/icd/entity/811427861 & http://id.who.int/icd/entity/1201187093,=,8A00.01 & XS25 
+6,家族性パーキンソン病YAHR5,S0,G20,QF3K,=,http://id.who.int/icd/entity/811427861 & http://id.who.int/icd/entity/1201187093,=,8A00.01 & XS25 
+6,家族性PARKINSON病YAHR5,S1,G20,QF3K,=,http://id.who.int/icd/entity/811427861 & http://id.who.int/icd/entity/1201187093,=,8A00.01 & XS25 
+6,家族性パーキンソン病Ｙａｈｒ２,L,G20,QS6J,=,http://id.who.int/icd/entity/811427861 & http://id.who.int/icd/entity/562478860,=,8A00.01 & XS5W
+6,家族性パーキンソン病YAHR2,S0,G20,QS6J,=,http://id.who.int/icd/entity/811427861 & http://id.who.int/icd/entity/562478860,=,8A00.01 & XS5W
+6,パーキンソン病Ｙａｈｒ５,L,G20,R338,=,http://id.who.int/icd/entity/296066191 & http://id.who.int/icd/entity/1201187093,=,8A00.0Z & XS25 
+6,パーキンソン病YAHR5,S0,G20,R338,=,http://id.who.int/icd/entity/296066191 & http://id.who.int/icd/entity/1201187093,=,8A00.0Z & XS25 
+6,PARKINSON病YAHR5,S1,G20,R338,=,http://id.who.int/icd/entity/296066191 & http://id.who.int/icd/entity/1201187093,=,8A00.0Z & XS25 
+6,家族性パーキンソン病Ｙａｈｒ１,L,G20,R9VB,=,http://id.who.int/icd/entity/811427861 & http://id.who.int/icd/entity/562478860,=,8A00.01 & X55W
+6,家族性パーキンソン病YAHR1,S0,G20,R9VB,=,http://id.who.int/icd/entity/811427861 & http://id.who.int/icd/entity/562478860,=,8A00.01 & X55W
+6,家族性パーキンソン病,L,G20,T97U,=,http://id.who.int/icd/entity/811427861,=,8A00.01
+6,若年性パーキンソン症候群,L,G20,UGDC,<,http://id.who.int/icd/entity/296066191,<,8A00.0Z
+6,若年性PARKINSON症候群,S1,G20,UGDC,<,http://id.who.int/icd/entity/296066191,<,8A00.0Z
+6,パーキンソン症候群,L,G20,V2SG,=,http://id.who.int/icd/entity/2024168133,=,8A00.Z
+6,パーキンソニズム,S1,G20,V2SG,=,http://id.who.int/icd/entity/2024168133,=,8A00.Z
+6,PARKINSON症候群,S1,G20,V2SG,=,http://id.who.int/icd/entity/2024168133,=,8A00.Z
+6,パーキンソン病Ｙａｈｒ２,L,G20,VT6A,=,http://id.who.int/icd/entity/296066191 & http://id.who.int/icd/entity/562478860,=,8A00.0Z & X55W
+6,パーキンソン病YAHR2,S0,G20,VT6A,=,http://id.who.int/icd/entity/296066191 & http://id.who.int/icd/entity/562478860,=,8A00.0Z & X55W
+6,悪性症候群,L,G210,FC0V,=,http://id.who.int/icd/entity/498240876,<,8A0Y
+6,向精神薬中毒性症候群,S1,G210,FC0V,=,http://id.who.int/icd/entity/498240876,<,8A0Y
+6,薬剤性パーキンソン症候群,L,G211,UQRA,=,http://id.who.int/icd/entity/1651874787,=,8A00.24
+6,薬物性PARKINSON症候群,S1,G211,UQRA,=,http://id.who.int/icd/entity/1651874787,=,8A00.24
+6,薬剤性PARKINSON症候群,S1,G211,UQRA,=,http://id.who.int/icd/entity/1651874787,=,8A00.24
+6,薬物性パーキンソニズム,S1,G211,UQRA,=,http://id.who.int/icd/entity/1651874787,=,8A00.24
+6,薬物性パーキンソン症候群,S1,G211,UQRA,=,http://id.who.int/icd/entity/1651874787,=,8A00.24
+6,脳炎後パーキンソン症候群,L,G213,C71S,=,http://id.who.int/icd/entity/1939015306,<,8A00.22
+6,脳炎後PARKINSON症候群,S1,G213,C71S,=,http://id.who.int/icd/entity/1939015306,<,8A00.22
+6,脳血管障害性パーキンソン症候群,L,G214,A92H,=,http://id.who.int/icd/entity/1852145464,=,8A00.23 
+6,脳血管障害性PARKINSON症候群,S1,G214,A92H,=,http://id.who.int/icd/entity/1852145464,=,8A00.23 
+6,動脈硬化性パーキンソン症候群,L,G214,MBRR,=,http://id.who.int/icd/entity/1852145464 / http://id.who.int/icd/entity/109367356,=,8A00.23 / BD40.Z
+6,動脈硬化性PARKINSON症候群,S1,G214,MBRR,=,http://id.who.int/icd/entity/1852145464 / http://id.who.int/icd/entity/109367356,=,8A00.23 / BD40.Z
+6,続発性パーキンソン症候群,L,G219,Q7NQ,=,http://id.who.int/icd/entity/502110033,=,8A00.2Z
+6,続発性PARKINSON症候群,S1,G219,Q7NQ,=,http://id.who.int/icd/entity/502110033,=,8A00.2Z
+6,パントテン酸キナーゼ関連神経変性症,L,G230,NKR7,=,http://id.who.int/icd/entity/183705274,<,5C64.10
+6,ハラーフォルデン・シュパッツ病,S1,G230,NKR7,=,http://id.who.int/icd/entity/183705274,<,5C64.10
+6,淡蒼球色素変性症,S1,G230,NKR7,=,http://id.who.int/icd/entity/183705274,<,5C64.10
+6,HALLERVORDEN-SPATZ病,S1,G230,NKR7,=,http://id.who.int/icd/entity/183705274,<,5C64.10
+6,原発性淡蒼球変性症,S2,G230,NKR7,=,http://id.who.int/icd/entity/183705274,<,5C64.10
+6,進行性核上性麻痺,L,G231,B08J,=,http://id.who.int/icd/entity/1493396558,=,8A00.10
+6,PSP,S1,G231,B08J,=,http://id.who.int/icd/entity/1493396558,=,8A00.10
+6,STEELE-RICHARDSON-OLSZEWSKI病,S1,G231,B08J,=,http://id.who.int/icd/entity/1493396558,=,8A00.10
+6,スチール・リチャードソン・オルツェウスキー病,S1,G231,B08J,=,http://id.who.int/icd/entity/1493396558,=,8A00.10
+6,純粋無動症,L,G231,PTJD,=,http://id.who.int/icd/entity/36931824,<,8A00.10 
+6,乳児両側線条体壊死,L,G232,DCE0,=,http://id.who.int/icd/entity/1947032348,<,LD90.Y
+6,IBSN,S1,G232,DCE0,=,http://id.who.int/icd/entity/1947032348,<,LD90.Y
+6,線条体黒質変性症,L,G232,E7AF,=,http://id.who.int/icd/entity/296753000,=,8D87.01
+6,線條体黒質変性症,S1,G232,E7AF,=,http://id.who.int/icd/entity/296753000,=,8D87.01
+6,嗜銀顆粒性認知症,L,G238,H78G,=,http://id.who.int/icd/entity/1743002548,<,6D85.Y
+6,特発性基底核石灰化症,L,G238,KAHT,=,http://id.who.int/icd/entity/1852939860,<,LD20.4 
+6,FAHR病,S1,G238,KAHT,=,http://id.who.int/icd/entity/1852939860,<,LD20.4 
+6,IBGC,S1,G238,KAHT,=,http://id.who.int/icd/entity/1852939860,<,LD20.4 
+6,特発性両側性大脳基底核・小脳歯状核石灰化症,S1,G238,KAHT,=,http://id.who.int/icd/entity/1081370436,<,LD20.4 
+6,ファール病,S1,G238,KAHT,=,http://id.who.int/icd/entity/1852939860,<,LD20.4 
+6,オリーブ橋小脳萎縮症,L,G238,L7E4,=,http://id.who.int/icd/entity/1467584080,<,8A00.1Y
+6,OPCA,S1,G238,L7E4,=,http://id.who.int/icd/entity/1467584080,<,8A00.1Y
+6,オリーブ橋小脳変性症,S1,G238,L7E4,=,http://id.who.int/icd/entity/1467584080,<,8A00.1Y
+6,オリーブ橋小脳萎縮(症),S1,G238,L7E4,=,http://id.who.int/icd/entity/1467584080,<,8A00.1Y
+6,オリーブ橋小脳萎縮,S1,G238,L7E4,=,http://id.who.int/icd/entity/1467584080,<,8A00.1Y
+6,神経フェリチン症,L,G238,LJDT,=,http://id.who.int/icd/entity/55060925,<,8A01.1Y
+6,家族性特発性基底核石灰化症,L,G238,NQ3Q,=,http://id.who.int/icd/entity/1852939860,<,LD20.4
+6,FIBGC,S1,G238,NQ3Q,=,http://id.who.int/icd/entity/1852939860,<,LD20.4
+6,大脳基底核石灰化,L,G238,RK0F,=,http://id.who.int/icd/entity/348567584,<,8A00.1Y
+6,大脳基底核石灰化症,S1,G238,RK0F,=,http://id.who.int/icd/entity/348567584,<,8A00.1Y
+6,ペリー症候群,L,G238,RSPK,=,http://id.who.int/icd/entity/1441227658,<,8A00.1Y 
+6,PERRY症候群,S1,G238,RSPK,=,http://id.who.int/icd/entity/1441227658,<,8A00.1Y 
+6,大脳皮質基底核変性症,L,G238,VN81,=,http://id.who.int/icd/entity/348567584,<,8A00.1Y 
+6,皮質基底核変性症,S1,G238,VN81,=,http://id.who.int/icd/entity/348567584,<,8A00.1Y 
+6,基底核変性症,L,G239,VSLR,=,http://id.who.int/icd/entity/348567584,<,8A00.1Y 
+6,薬物誘発性ジストニア,L,G240,VS66,=,http://id.who.int/icd/entity/678203506,=,8A02.10
+6,薬物誘発性ジストニー,S1,G240,VS66,=,http://id.who.int/icd/entity/678203506,=,8A02.10
+6,ドーパ反応性ジストニア,L,G241,A2U8,=,http://id.who.int/icd/entity/1534901505 ,<,8A02.11
+6,ドパ反応性ジストニー,S1,G241,A2U8,=,http://id.who.int/icd/entity/1534901505 ,<,8A02.11
+6,ドパ反応性ジストニア,S1,G241,A2U8,=,http://id.who.int/icd/entity/1534901505 ,<,8A02.11
+6,ドーパ反応性ジストニー,S1,G241,A2U8,=,http://id.who.int/icd/entity/1534901505 ,<,8A02.11
+6,ドーパー反応性ジストニー,S1,G241,A2U8,=,http://id.who.int/icd/entity/1534901505 ,<,8A02.11
+6,ドーパー反応性ジストニア,S1,G241,A2U8,=,http://id.who.int/icd/entity/1534901505 ,<,8A02.11
+6,変形性筋ジストニア,L,G241,CA3G,=,http://id.who.int/icd/entity/300062534,<,8A02.0Y
+6,変形性筋ジストニー,S1,G241,CA3G,=,http://id.who.int/icd/entity/300062534,<,8A02.0Y
+6,特発性捻転ジストニア,L,G241,HP75,=,http://id.who.int/icd/entity/300062534,<,8A02.0Y
+6,ZIEHEN-OPPENHEIM病,S1,G241,HP75,=,http://id.who.int/icd/entity/300062534,<,8A02.0Y
+6,チーエン・オッペンハイマー病,S1,G241,HP75,=,http://id.who.int/icd/entity/300062534,<,8A02.0Y
+6,捻転ジストニア,S1,G241,HP75,=,http://id.who.int/icd/entity/557338504,=,8A02.0Z
+6,特発性ジストニー,S1,G241,HP75,=,http://id.who.int/icd/entity/557338504,=,8A02.0Z
+6,特発性ジストニア,S1,G241,HP75,=,http://id.who.int/icd/entity/557338504,=,8A02.0Z
+6,特発性捻転ジストニー,S1,G241,HP75,=,http://id.who.int/icd/entity/557338504,=,8A02.0Z
+6,捻転ジストニー,S1,G241,HP75,=,http://id.who.int/icd/entity/557338504,=,8A02.0Z
+6,特発性家族性ジストニア,S2,G241,HP75,=,http://id.who.int/icd/entity/431810330 ,<,8A02.0Y
+6,特発性家族性ジストニー,S2,G241,HP75,=,http://id.who.int/icd/entity/431810330 ,<,8A02.0Y
+6,チロシン水酸化酵素欠損症,L,G241,L0UE,=,http://id.who.int/icd/entity/247698609,<,8A02.11 
+6,瀬川病,L,G241,PHTE,=,http://id.who.int/icd/entity/1534901505,<,8A02.11 
+6,遺伝性ジストニア,L,G241,U8BQ,=,http://id.who.int/icd/entity/431810330 ,<,8A02.0Y
+6,症候性捻転ジストニア,L,G242,A70T,=,http://id.who.int/icd/entity/557338504,=,8A02.0Z
+6,症候性捻転ジストニー,S1,G242,A70T,=,http://id.who.int/icd/entity/557338504,=,8A02.0Z
+6,特発性非家族性ジストニア,L,G242,MJ0M,<,http://id.who.int/icd/entity/557338504 ,<,8A02.0Z
+6,特発性非家族性ジストニー,S1,G242,MJ0M,<,http://id.who.int/icd/entity/557338504 ,<,8A02.0Z
+6,痙性斜頚,L,G243,B7JP,=,http://id.who.int/icd/entity/1435836279 ,<,8A02.0Y
+6,痙性斜頸,S1,G243,B7JP,=,http://id.who.int/icd/entity/1435836279 ,<,8A02.0Y
+6,頚部ジストニア,S1,G243,B7JP,=,http://id.who.int/icd/entity/1435836279 ,<,8A02.0Y
+6,頸部ジストニア,S1,G243,B7JP,=,http://id.who.int/icd/entity/1435836279 ,<,8A02.0Y
+6,良性発作性斜頚,L,G243,L4VM,<,http://id.who.int/icd/entity/1435836279 ,<,8A02.0Y
+6,良性発作性斜頸,S1,G243,L4VM,<,http://id.who.int/icd/entity/1435836279 ,<,8A02.0Y
+6,口唇ジスキネジア,L,G244,G2J6,=,http://id.who.int/icd/entity/749381409,<,8A02.0Y 
+6,口唇ジスキネジー,S1,G244,G2J6,=,http://id.who.int/icd/entity/749381409,<,8A02.0Y 
+6,口顔面ジストニア,L,G244,GMAB,=,http://id.who.int/icd/entity/749381409,<,8A02.0Y 
+6,口顔面ジストニー,S1,G244,GMAB,=,http://id.who.int/icd/entity/749381409 ,<,8A02.0Y 
+6,口舌ジスキネジア,L,G244,K5G0,=,http://id.who.int/icd/entity/749381409 ,<,8A02.0Y 
+6,口部ジスキネジア,L,G244,V9RJ,=,http://id.who.int/icd/entity/749381409 ,<,8A02.0Y 
+6,口ジスキネジア,S1,G244,V9RJ,=,http://id.who.int/icd/entity/749381409 ,<,8A02.0Y 
+6,オーラルジスキネジア,S1,G244,V9RJ,=,http://id.who.int/icd/entity/749381409 ,<,8A02.0Y 
+6,口ジスキネジー,S1,G244,V9RJ,=,http://id.who.int/icd/entity/749381409 ,<,8A02.0Y 
+6,口腔ジスキネジア,S1,G244,V9RJ,=,http://id.who.int/icd/entity/749381409 ,<,8A02.0Y 
+6,オーラルジスキネジー,S1,G244,V9RJ,=,http://id.who.int/icd/entity/749381409 ,<,8A02.0Y 
+6,眼瞼痙攣,L,G245,E6H5,=,http://id.who.int/icd/entity/1127235959,=,8A02.00 
+6,眼瞼痙攣症,S1,G245,E6H5,=,http://id.who.int/icd/entity/1127235959,=,8A02.00 
+6,眼瞼スパスムス,S1,G245,E6H5,=,http://id.who.int/icd/entity/1127235959,=,8A02.00 
+6,眼痙攣,S1,G245,E6H5,=,http://id.who.int/icd/entity/1127235959,=,8A02.00 
+6,眼瞼攣縮,S1,G245,E6H5,=,http://id.who.int/icd/entity/1127235959,=,8A02.00 
+6,メージュ症候群,L,G245,TH06,=,http://id.who.int/icd/entity/816132739,<,8A02.0Y
+6,メイジ症候群,S1,G245,TH06,=,http://id.who.int/icd/entity/816132739,<,8A02.0Y
+6,MEIGE症候群,S1,G245,TH06,=,http://id.who.int/icd/entity/816132739,<,8A02.0Y
+6,過緊張性発声障害,L,G248,B1BC,<,http://id.who.int/icd/entity/362191318 ,<,8A02.0Y
+6,内転型痙攣性発声障害,L,G248,CVCM,<,http://id.who.int/icd/entity/362191318 ,<,8A02.0Y
+6,全身性ジストニア,L,G248,LJ1F,=,http://id.who.int/icd/entity/2145753518 & http://id.who.int/icd/entity/1479602347 ,=,8A02.0Z & XK63
+6,咬筋ジストニア,L,G248,LNTP,<,http://id.who.int/icd/entity/362191318 ,<,8A02.0Y
+6,喉頭ジストニア,L,G248,RE62,=,http://id.who.int/icd/entity/362191318,<,8A02.0Y
+6,外転型痙攣性発声障害,L,G248,T1QU,<,http://id.who.int/icd/entity/362191318 ,<,8A02.0Y
+6,下顎ジストニア,L,G248,VE1P,=,http://id.who.int/icd/entity/749381409 ,<,8A02.0Y
+6,ジストニア,L,G249,BKCE,=,http://id.who.int/icd/entity/557338504,=,8A02.0Z
+6,筋ジストニア症,S1,G249,BKCE,=,http://id.who.int/icd/entity/557338504,=,8A02.0Z
+6,筋ジストニー症,S1,G249,BKCE,=,http://id.who.int/icd/entity/557338504,=,8A02.0Z
+6,ジストニー,S1,G249,BKCE,=,http://id.who.int/icd/entity/557338504,=,8A02.0Z
+6,ジスキネジア,L,G249,FM6Q,=,http://id.who.int/icd/entity/557338504,=,8A02.0Z
+6,ジスキネジー,S1,G249,FM6Q,=,http://id.who.int/icd/entity/557338504,=,8A02.0Z
+6,姿勢振戦,L,G250,M38V,=,http://id.who.int/icd/entity/1036027657,=,8A04.1
+6,体位性振戦,S1,G250,M38V,=,http://id.who.int/icd/entity/1036027657,=,8A04.1
+6,本態性振戦,L,G250,UAUK,=,http://id.who.int/icd/entity/1036027657,=,8A04.1
+6,本態性振戦(症),S1,G250,UAUK,=,http://id.who.int/icd/entity/1036027657,=,8A04.1
+6,本態性振戦症,S1,G250,UAUK,=,http://id.who.int/icd/entity/1036027657,=,8A04.1
+6,家族性振戦,S1,G250,UAUK,=,http://id.who.int/icd/entity/542027982,<,8A04.1
+6,特発性振戦,S1,G250,UAUK,=,http://id.who.int/icd/entity/1036027657 & http://id.who.int/icd/entity/894194405,=,8A04.1 & XB5F
+6,薬物誘発性振戦,L,G251,A6TH,=,http://id.who.int/icd/entity/141798982 OR http://id.who.int/icd/entity/40194311 ,=,8A04.31 OR 8A04.32
+6,本態性音声振戦症,L,G252,H8V2,=,http://id.who.int/icd/entity/1036027657 / http://id.who.int/icd/entity/981358586,=,8A04.1 / MA8Y 
+6,運動性振戦,L,G252,TDRJ,=,http://id.who.int/icd/entity/1036027657,=,8A04.1
+6,動作振戦,S1,G252,TDRJ,=,http://id.who.int/icd/entity/1036027657,=,8A04.1
+6,企図振戦,S2,G252,TDRJ,=,http://id.who.int/icd/entity/151911082,=,MB45.4 
+6,緊張性頭部振戦症,S2,G252,TDRJ,<,http://id.who.int/icd/entity/1036027657 & http://id.who.int/icd/entity/1357976561,<,8A04.1 & XA20Q1
+6,緊張性頭部振戦,S2,G252,TDRJ,<,http://id.who.int/icd/entity/1036027657 & http://id.who.int/icd/entity/1357976561,<,8A04.1 & XA20Q1
+6,緊張性振戦症,S2,G252,TDRJ,<,http://id.who.int/icd/entity/1036027657,<,8A04.1
+6,緊張性振戦,S2,G252,TDRJ,<,http://id.who.int/icd/entity/1036027657,<,8A04.1
+6,ミオクローヌス,L,G253,BJ5K,=,http://id.who.int/icd/entity/1231935480 ,=,8A06.Z 
+6,筋間代性痙攣,S1,G253,BJ5K,=,http://id.who.int/icd/entity/1231935480 ,=,8A06.Z 
+6,ミオクローヌス痙攣,S2,G253,BJ5K,=,http://id.who.int/icd/entity/1231935480 ,=,8A06.Z 
+6,睡眠時ミオクローヌス,L,G253,P519,<,http://id.who.int/icd/entity/1231935480 ,<,8A06.Z 
+6,夜間ミオクローヌス,S1,G253,P519,<,http://id.who.int/icd/entity/1231935480 ,<,8A06.Z 
+6,家族性本態性ミオクローヌス,L,G253,R6VG,=,http://id.who.int/icd/entity/179893645,=,8A06.0 
+6,薬物誘発性ミオクローヌス,L,G253,S8KB,=,http://id.who.int/icd/entity/1577416036 ,<,8A06.Y 
+6,多発性パラミオクローヌス,L,G253,SN8D,=,http://id.who.int/icd/entity/167697619,<,8A06.Y 
+6,薬物誘発性舞踏病,L,G254,F3EC,=,http://id.who.int/icd/entity/777125622,=,8A01.16 
+6,中毒性舞踏病,S2,G254,F3EC,=,http://id.who.int/icd/entity/777125622,=,8A01.16 
+6,舞踏病,L,G255,APED,=,http://id.who.int/icd/entity/1011947109 ,<,8A0Y
+6,ヒョレア,S1,G255,APED,=,http://id.who.int/icd/entity/1011947109 ,<,8A0Y
+6,ヒヨレア,S1,G255,APED,=,http://id.who.int/icd/entity/1011947109 ,<,8A0Y
+6,発作性ジストニア性舞踏アテトーシス,L,G255,E255,=,http://id.who.int/icd/entity/1404801288 ,<,8A02.2
+6,発作性ジストニー性舞踏アテトーシス,S1,G255,E255,=,http://id.who.int/icd/entity/1404801288 ,<,8A02.2
+6,小舞踏病,L,G255,FGK8,=,http://id.who.int/icd/entity/1503433128,<,1B42
+6,交代性舞踏病,L,G255,FSUV,<,http://id.who.int/icd/entity/1011947109 ,<,8A0Y
+6,バリズム,L,G255,JGSN,=,http://id.who.int/icd/entity/25395136,=,8A01.21 
+6,バリスムス,S1,G255,JGSN,=,http://id.who.int/icd/entity/25395136,=,8A01.21 
+6,ヘミバリスム,S2,G255,JGSN,=,http://id.who.int/icd/entity/1689587356,=,8A01.22
+6,片側バリスムス,S2,G255,JGSN,=,http://id.who.int/icd/entity/1689587356,=,8A01.22
+6,老人性舞踏病,L,G255,JUDM,<,http://id.who.int/icd/entity/1011947109 ,<,8A0Y 
+6,発作性運動誘発舞踏アテトーシス,L,G255,KT1N,=,http://id.who.int/icd/entity/1404801288,<,8A02.2 
+6,発作性運動誘発性舞踏アテトーシス,S1,G255,KT1N,=,http://id.who.int/icd/entity/1404801288,<,8A02.2 
+6,続発性舞踏病,L,G255,L2GB,=,http://id.who.int/icd/entity/527743894 ,=,8A01.1Z
+6,舞踏病様運動,L,G255,MTGK,=,http://id.who.int/icd/entity/981681252,=,8A01.Z
+6,下肢静止不能症候群,L,G258,CNAT,=,http://id.who.int/icd/entity/1254916765,=,7A80
+6,EKBOM症候群,S1,G258,CNAT,=,http://id.who.int/icd/entity/1254916765,=,7A80
+6,エクボム症候群,S1,G258,CNAT,=,http://id.who.int/icd/entity/1254916765,=,7A80
+6,不穏下肢症候群,S1,G258,CNAT,=,http://id.who.int/icd/entity/1254916765,=,7A80
+6,むずむず脚症候群,S1,G258,CNAT,=,http://id.who.int/icd/entity/1254916765,=,7A80
+6,レストレスレッグス症候群,S1,G258,CNAT,=,http://id.who.int/icd/entity/1254916765,=,7A80
+6,不安脚症候群,S1,G258,CNAT,=,http://id.who.int/icd/entity/1254916765,=,7A80
+6,神経核内封入体病,L,G258,JBLB,=,http://id.who.int/icd/entity/693937860,<,8A0Y
+6,NIID,S1,G258,JBLB,=,http://id.who.int/icd/entity/693937860,<,8A0Y
+6,スティフ・マン症候群,L,G258,NDP5,=,http://id.who.int/icd/entity/771780430,<,8E4A.0
+6,線条体障害,L,G258,TJMJ,=,http://id.who.int/icd/entity/384289569,=,8A0Z
+6,線條体障害,S1,G258,TJMJ,=,http://id.who.int/icd/entity/384289569,=,8A0Z
+6,驚愕病,L,G258,VH8L,=,http://id.who.int/icd/entity/334083632,=,8A07.2
+6,急性中毒性小脳失調症,L,G259,PJHE,=,http://id.who.int/icd/entity/235770576  & http://id.who.int/icd/entity/786106375 / http://id.who.int/icd/entity/564806557,<,8A03.3Y & XT5R  / 8E4Y & XA1CW2
+6,錐体外路系疾患,L,G259,PKK3,=,http://id.who.int/icd/entity/384289569,=,8A0Z 
+6,錐体外路性疾患,S1,G259,PKK3,=,http://id.who.int/icd/entity/384289569,=,8A0Z 
+6,錐体外路疾患,S1,G259,PKK3,=,http://id.who.int/icd/entity/384289569,=,8A0Z 
+6,錐体路障害,L,G259,QS7E,=,http://id.who.int/icd/entity/384289569,=,8A0Z
+6,中毒性小脳失調症,L,G259,RJRT,=,http://id.who.int/icd/entity/235770576  / http://id.who.int/icd/entity/564806557 ,<,8A03.3Y / 8E4Y & XA1CW2
+6,錐体外路症候群,L,G259,SJ11,=,http://id.who.int/icd/entity/384289569,=,8A0Z 
+6,アルツハイマー型初老期認知症,L,G300,M0EK,=,http://id.who.int/icd/entity/1611724421 / http://id.who.int/icd/entity/199015879,=,8A20 / 6D80.0  
+6,早発性ALZHEIMER病,S1,G300,M0EK,=,http://id.who.int/icd/entity/1611724421 / http://id.who.int/icd/entity/199015879,=,8A20 / 6D80.0  
+6,アルツハイマー型早発性認知症,S1,G300,M0EK,=,http://id.who.int/icd/entity/1611724421 / http://id.who.int/icd/entity/199015879,=,8A20 / 6D80.0  
+6,アルツハイマー型初老期痴呆,S1,G300,M0EK,=,http://id.who.int/icd/entity/1611724421 / http://id.who.int/icd/entity/199015879,=,8A20 / 6D80.0  
+6,早発性アルツハイマー病,S1,G300,M0EK,=,http://id.who.int/icd/entity/1611724421 / http://id.who.int/icd/entity/199015879,=,8A20 / 6D80.0  
+6,アルツハイマー型早発性痴呆,S1,G300,M0EK,=,http://id.who.int/icd/entity/1611724421 / http://id.who.int/icd/entity/199015879,=,8A20 / 6D80.0  
+6,2型アルツハイマー病,S1,G300,M0EK,=,http://id.who.int/icd/entity/1611724421 / http://id.who.int/icd/entity/199015879,=,8A20 / 6D80.0  
+6,アルツハイマー型老年認知症,L,G301,HGGK,=,http://id.who.int/icd/entity/1611724421 / http://id.who.int/icd/entity/1855418451,=,8A20 / 6D80.1  
+6,晩発性ALZHEIMER病,S1,G301,HGGK,=,http://id.who.int/icd/entity/1611724421 / http://id.who.int/icd/entity/1855418451,=,8A20 / 6D80.1  
+6,アルツハイマー型老年痴呆,S1,G301,HGGK,=,http://id.who.int/icd/entity/1611724421 / http://id.who.int/icd/entity/1855418451,=,8A20 / 6D80.1  
+6,晩発性アルツハイマー病,S1,G301,HGGK,=,http://id.who.int/icd/entity/1611724421 / http://id.who.int/icd/entity/1855418451,=,8A20 / 6D80.1  
+6,第1型アルツハイマー病,S1,G301,HGGK,=,http://id.who.int/icd/entity/1611724421 / http://id.who.int/icd/entity/1855418451,=,8A20 / 6D80.1  
+6,第1型ALZHEIMER病,S1,G301,HGGK,=,http://id.who.int/icd/entity/1611724421 / http://id.who.int/icd/entity/1855418451,=,8A20 / 6D80.1  
+6,混合型認知症,L,G308,AVDU,=,"http://id.who.int/icd/entity/1611724421 / (http://id.who.int/icd/entity/1543494610 OR http://id.who.int/icd/entity/1072662343)
+",=,8A20 / (6D80.2 OR 6D80.3)
+6,混合型アルツハイマー型認知症,S1,G308,AVDU,=,"http://id.who.int/icd/entity/1611724421 / (http://id.who.int/icd/entity/1543494610 OR http://id.who.int/icd/entity/1072662343)
+",=,8A20 / (6D80.2 OR 6D80.3)
+6,アルツハイマー型非定型認知症,L,G308,BFDV,=,http://id.who.int/icd/entity/1611724421 / http://id.who.int/icd/entity/795022044 ,=,8A20 / 6D80.Z 
+6,アルツハイマー型非定型痴呆,S1,G308,BFDV,=,http://id.who.int/icd/entity/1611724421 / http://id.who.int/icd/entity/795022044 ,=,8A20 / 6D80.Z 
+6,アルツハイマー病,L,G309,CD2Q,=,http://id.who.int/icd/entity/1611724421,=,8A20
+6,ALZHEIMER病,S1,G309,CD2Q,=,http://id.who.int/icd/entity/1611724421,=,8A20
+6,家族性アルツハイマー病,L,G309,KSU0,=,http://id.who.int/icd/entity/1611724421 & http://id.who.int/icd/entity/524818626 ,=,8A20 & XB1Y 
+6,アルツハイマー型認知症,L,G309,LMAR,=,http://id.who.int/icd/entity/1611724421 / http://id.who.int/icd/entity/795022044 ,=,8A20 / 6D80.Z 
+6,アルツハイマー型痴呆,S1,G309,LMAR,=,http://id.who.int/icd/entity/1611724421 / http://id.who.int/icd/entity/795022044 ,=,8A20 / 6D80.Z 
+6,ピック病,L,G310,JG3K,=,http://id.who.int/icd/entity/1119344369,<,6D83 
+6,PICK型認知症,S1,G310,JG3K,=,http://id.who.int/icd/entity/1119344369,<,6D83 
+6,ピック氏症候群,S1,G310,JG3K,=,http://id.who.int/icd/entity/1119344369,<,6D83 
+6,ピック型痴呆,S1,G310,JG3K,=,http://id.who.int/icd/entity/1119344369,<,6D83 
+6,PICK病,S1,G310,JG3K,=,http://id.who.int/icd/entity/1119344369,<,6D83 
+6,PICK型痴呆,S1,G310,JG3K,=,http://id.who.int/icd/entity/1119344369,<,6D83 
+6,ピック型認知症,S1,G310,JG3K,=,http://id.who.int/icd/entity/1119344369,<,6D83 
+6,PICK氏症候群,S1,G310,JG3K,=,http://id.who.int/icd/entity/1119344369,<,6D83 
+6,前頭側頭葉型認知症,L,G310,NNHM,=,http://id.who.int/icd/entity/831337417,=,6D83 
+6,前頭側頭葉型痴呆,S1,G310,NNHM,=,http://id.who.int/icd/entity/831337417,=,6D83 
+6,FTD,S1,G310,NNHM,=,http://id.who.int/icd/entity/831337417,=,6D83 
+6,前頭側頭葉変性症,L,G310,Q420,=,http://id.who.int/icd/entity/2099230583,=,8A23
+6,限局性脳萎縮症,L,G310,SJRN,=,http://id.who.int/icd/entity/388265288,<,8E4Y
+6,老人性脳変性,L,G311,R6D2,=,http://id.who.int/icd/entity/1919924434,<,MB21.0
+6,老人性脳萎縮,S2,G311,R6D2,=,http://id.who.int/icd/entity/1919924434,<,MB21.0
+6,アルコール性脳症,L,G312,B5UV,=,http://id.who.int/icd/entity/844335425,<,8D44.Y
+6,アルコール性小脳性運動失調症,L,G312,N2FJ,=,http://id.who.int/icd/entity/1532145862,=,8A03.30 
+6,アルコール性小脳変性症,S1,G312,N2FJ,=,http://id.who.int/icd/entity/1532145862,=,8A03.30 
+6,アルコール中毒性小脳変性,S1,G312,N2FJ,=,http://id.who.int/icd/entity/1532145862,=,8A03.30 
+6,アルコール性脳変性,L,G312,P6LC,=,http://id.who.int/icd/entity/1206185680,<,8D44.Y 
+6,乳児神経軸索ジストロフィー,L,G318,DLV0,=,http://id.who.int/icd/entity/730637493,<,5C64.10 
+6,乳児型神経軸索ジストロフィー,S1,G318,DLV0,=,http://id.who.int/icd/entity/730637493,<,5C64.10 
+6,卵巣機能障害を伴う進行性白質脳症,L,G318,G609,=,http://id.who.int/icd/entity/1823072890,<,8A44.3
+6,ＨＤＬＳ,L,G318,J0NP,=,http://id.who.int/icd/entity/2040572438,<,8A44.3
+6,HDLS,S0,G318,J0NP,=,http://id.who.int/icd/entity/2040572438,<,8A44.3
+6,神経軸索スフェロイド形成を伴う遺伝性びまん性白質脳症,S1,G318,J0NP,=,http://id.who.int/icd/entity/2040572438,<,8A44.3
+6,腫大軸索を伴う遺伝性白質脳症,S1,G318,J0NP,=,http://id.who.int/icd/entity/2040572438,<,8A44.3
+6,リー症候群,L,G318,PB3R,=,http://id.who.int/icd/entity/672871576,=,5C53.24
+6,亜急性壊死性エンセファロパシー,S1,G318,PB3R,=,http://id.who.int/icd/entity/672871576,=,5C53.24
+6,亜急性壊死性脳脊髄症,S1,G318,PB3R,=,http://id.who.int/icd/entity/672871576,=,5C53.24
+6,LEIGH病,S1,G318,PB3R,=,http://id.who.int/icd/entity/672871576,=,5C53.24
+6,リー脳症,S1,G318,PB3R,=,http://id.who.int/icd/entity/672871576,=,5C53.24
+6,LEIGH症候群,S1,G318,PB3R,=,http://id.who.int/icd/entity/672871576,=,5C53.24
+6,リー病,S1,G318,PB3R,=,http://id.who.int/icd/entity/672871576,=,5C53.24
+6,亜急性壊死性脳症,S1,G318,PB3R,=,http://id.who.int/icd/entity/672871576,=,5C53.24
+6,アルパース病,L,G318,QAJ5,=,http://id.who.int/icd/entity/664465901,<,5C53.20
+6,ALPERS病,S1,G318,QAJ5,=,http://id.who.int/icd/entity/664465901,<,5C53.20
+6,アルパース症候群,S1,G318,QAJ5,=,http://id.who.int/icd/entity/664465901,<,5C53.20
+6,レビー小体型認知症,L,G318,V10S,=,http://id.who.int/icd/entity/2091156678 / http://id.who.int/icd/entity/1777436789,=,8A22 / 6D82
+6,レヴィ小体型認知症,S1,G318,V10S,=,http://id.who.int/icd/entity/2091156678 / http://id.who.int/icd/entity/1777436789,=,8A22 / 6D82
+6,びまん性レビー小体病,S1,G318,V10S,=,http://id.who.int/icd/entity/2091156678 / http://id.who.int/icd/entity/1777436789,=,8A22 / 6D82
+6,びまん性LEWY小体病,S1,G318,V10S,=,http://id.who.int/icd/entity/2091156678 / http://id.who.int/icd/entity/1777436789,=,8A22 / 6D82
+6,びまん性レヴィ小体病,S1,G318,V10S,=,http://id.who.int/icd/entity/2091156678 / http://id.who.int/icd/entity/1777436789,=,8A22 / 6D82
+6,びまん性レビ小体病,S1,G318,V10S,=,http://id.who.int/icd/entity/2091156678 / http://id.who.int/icd/entity/1777436789,=,8A22 / 6D82
+6,汎発性レビ小体病,S1,G318,V10S,=,http://id.who.int/icd/entity/2091156678 / http://id.who.int/icd/entity/1777436789,=,8A22 / 6D82
+6,LEWY小体型認知症,S1,G318,V10S,=,http://id.who.int/icd/entity/2091156678 / http://id.who.int/icd/entity/1777436789,=,8A22 / 6D82
+6,汎発性レビー小体病,S1,G318,V10S,=,http://id.who.int/icd/entity/2091156678 / http://id.who.int/icd/entity/1777436789,=,8A22 / 6D82
+6,汎発性レヴィ小体病,S1,G318,V10S,=,http://id.who.int/icd/entity/2091156678 / http://id.who.int/icd/entity/1777436789,=,8A22 / 6D82
+6,汎発性LEWY小体病,S1,G318,V10S,=,http://id.who.int/icd/entity/2091156678 / http://id.who.int/icd/entity/1777436789,=,8A22 / 6D82
+6,脊髄小脳変性症,L,G319,CM11,=,http://id.who.int/icd/entity/600993818,=,8A03.16 
+6,脊髄小脳性運動失調,S1,G319,CM11,=,http://id.who.int/icd/entity/600993818,=,8A03.16 
+6,脊髄小脳変性(症),S1,G319,CM11,=,http://id.who.int/icd/entity/600993818,=,8A03.16 
+6,SCD,S1,G319,CM11,=,http://id.who.int/icd/entity/600993818,=,8A03.16 
+6,脊髄小脳変性,S1,G319,CM11,=,http://id.who.int/icd/entity/600993818,=,8A03.16 
+6,小脳脊髄変性症,S2,G319,CM11,=,http://id.who.int/icd/entity/600993818,=,8A03.16 
+6,小脳変性症,L,G319,DSH6,=,http://id.who.int/icd/entity/564806557,<,8E4Y & XA1CW2
+6,小脳変性,S1,G319,DSH6,=,http://id.who.int/icd/entity/564806557,<,8E4Y & XA1CW2
+6,小脳変性(症),S1,G319,DSH6,=,http://id.who.int/icd/entity/564806557,<,8E4Y & XA1CW2
+6,進行性白質脳症,L,G319,FT6U,<,http://id.who.int/icd/entity/1503481707,<,8E4Y 
+6,小脳萎縮,L,G319,MEDR,=,http://id.who.int/icd/entity/996380633 & http://id.who.int/icd/entity/976604742,<,8E4Y & XA1CW2
+6,小脳萎縮症,S1,G319,MEDR,=,http://id.who.int/icd/entity/996380633 & http://id.who.int/icd/entity/976604742,<,8E4Y & XA1CW2
+6,大脳萎縮症,L,G319,R6NR,=,http://id.who.int/icd/entity/996380633,<,8E4Y & XA1M33 
+6,大脳皮質萎縮,S1,G319,R6NR,=,http://id.who.int/icd/entity/996380633,<,8E4Y & XA1M33 
+6,脳萎縮,S2,G319,R6NR,=,http://id.who.int/icd/entity/996380633,<,8E4Y 
+6,脳萎縮症,S2,G319,R6NR,=,http://id.who.int/icd/entity/996380633,<,8E4Y 
+6,脳変性,S2,G319,R6NR,=,http://id.who.int/icd/entity/1597086636,<,8E4Y 
+6,脳変性疾患,S2,G319,R6NR,=,http://id.who.int/icd/entity/1597086636,<,8E4Y 
+6,大脳変性症,S2,G319,R6NR,=,http://id.who.int/icd/entity/1597086636,<,8E4Y 
+6,亜急性小脳変性症,L,G319,V9BN,=,http://id.who.int/icd/entity/564806557 & http://id.who.int/icd/entity/2058324694,=,8E4Y & XA1CW2 & XT1L
+6,小脳性萎縮,S1,G319,V9BN,=,http://id.who.int/icd/entity/996380633  & http://id.who.int/icd/entity/976604742,<,8E4Y & XA1CW2
+6,小脳脳幹部変性疾患,S2,G319,V9BN,<,http://id.who.int/icd/entity/564806557,<,8E4Y & XA1CW2 
+6,脊髄多発性硬化症,L,G35,BV7U,=,http://id.who.int/icd/entity/1298865187,=,8A40.Z
+6,脊髄多発硬化症,S1,G35,BV7U,=,http://id.who.int/icd/entity/1298865187,=,8A40.Z
+6,脳幹多発性硬化症,L,G35,D3E6,=,http://id.who.int/icd/entity/1298865187,=,8A40.Z
+6,無症候性多発性硬化症,L,G35,KCMJ,=,http://id.who.int/icd/entity/1298865187 & http://id.who.int/icd/entity/1512990933,=,8A40.Z & XT3B
+6,無症候性多発硬化症,S1,G35,KCMJ,=,http://id.who.int/icd/entity/1298865187 & http://id.who.int/icd/entity/1512990933,=,8A40.Z & XT3B
+6,多発性硬化症,L,G35,Q1P9,=,http://id.who.int/icd/entity/1298865187,=,8A40.Z
+6,多発硬化症,S1,G35,Q1P9,=,http://id.who.int/icd/entity/1298865187,=,8A40.Z 
+6,多発性硬化症の認知症,S2,G35,Q1P9,=,http://id.who.int/icd/entity/1298865187 & http://id.who.int/icd/entity/388810416,=,8A40.Z / 6D85.4
+6,多発性硬化症の痴呆,S2,G35,Q1P9,=,http://id.who.int/icd/entity/1298865187 & http://id.who.int/icd/entity/388810416,=,8A40.Z / 6D85.4
+6,急性多発性硬化症,L,G35,RR7F,=,http://id.who.int/icd/entity/1298865187 & http://id.who.int/icd/entity/786106375,=,8A40.Z & XT5R
+6,抗アクアポリン４抗体陽性視神経炎,L,G360,HVR3,=,http://id.who.int/icd/entity/1119109040,=,8A43.4 
+6,抗アクアポリン4抗体陽性視神経炎,S0,G360,HVR3,=,http://id.who.int/icd/entity/1119109040,=,8A43.4 
+6,視神経脊髄炎スペクトラム,L,G360,V9L8,=,http://id.who.int/icd/entity/290333867,<,8E4A.0 
+6,NMOSD,S1,G360,V9L8,=,http://id.who.int/icd/entity/290333867,<,8E4A.0 
+6,視神経脊髄炎スペクトラム障害,S1,G360,V9L8,=,http://id.who.int/icd/entity/290333867,<,8E4A.0 
+6,視神経脊髄炎,L,G360,VLS4,=,http://id.who.int/icd/entity/744293382,=,8A43.Z
+6,多発性硬化症性球後視神経炎,S1,G360,VLS4,=,http://id.who.int/icd/entity/1298865187 / http://id.who.int/icd/entity/1236741138,=,8A40.Z / 9C40.1Y 
+6,視神経脊髄型多発性硬化症,S1,G360,VLS4,=,http://id.who.int/icd/entity/1298865187 / http://id.who.int/icd/entity/1236741138,=,8A40.Z / 9C40.1Y 
+6,デビック病,S1,G360,VLS4,=,http://id.who.int/icd/entity/744293382,=,8A43.Z
+6,DEVIC病,S1,G360,VLS4,=,http://id.who.int/icd/entity/744293382,=,8A43.Z
+6,急性出血性白質脳炎,L,G361,C4KC,=,http://id.who.int/icd/entity/1226230164,=,8A42.0
+6,亜急性出血性白質脳炎,L,G361,SQEK,=,http://id.who.int/icd/entity/1226230164,=,8A42.0
+6,多発性神経脊髄炎,L,G369,GQ49,<,http://id.who.int/icd/entity/744293382,<,8A43.Y 
+6,シルダー病,L,G370,CJ8S,=,http://id.who.int/icd/entity/816172167,<,8A40.Y 
+6,SCHILDER病,S1,G370,CJ8S,=,http://id.who.int/icd/entity/816172167,<,8A40.Y 
+6,軸索周囲脳炎,L,G370,QSC1,=,http://id.who.int/icd/entity/816172167,<,8A40.Y 
+6,びまん性硬化症,L,G370,U1VA,=,http://id.who.int/icd/entity/816172167,<,8A40.Y 
+6,広汎性硬化症,S1,G370,U1VA,=,http://id.who.int/icd/entity/816172167,<,8A40.Y 
+6,脳梁離断,L,G371,BE3H,=,http://id.who.int/icd/entity/1441661203,=,8A46
+6,マルキアファーヴァ・ビニャミ症候群,L,G371,BL1K,=,http://id.who.int/icd/entity/1694687314,<,8A46
+6,MARCHIAFAVA-BIGNAMI病,S1,G371,BL1K,=,http://id.who.int/icd/entity/1694687314,<,8A46
+6,マルキャファーヴァ・ビニャミ症候群,S1,G371,BL1K,=,http://id.who.int/icd/entity/1694687314,<,8A46
+6,マルキアファーヴァ・ビギヤミ症候群,S1,G371,BL1K,=,http://id.who.int/icd/entity/1694687314,<,8A46
+6,MARCHIAFAVA BIGNAMI症候群,S1,G371,BL1K,=,http://id.who.int/icd/entity/1694687314,<,8A46
+6,MARCHIAFAVA-BIGNAMI症候群,S1,G371,BL1K,=,http://id.who.int/icd/entity/1694687314,<,8A46
+6,マルキアファーヴァ・ビニャミ病,S1,G371,BL1K,=,http://id.who.int/icd/entity/1694687314,<,8A46
+6,MARCHIAFAVA BIGNAMI病,S1,G371,BL1K,=,http://id.who.int/icd/entity/1694687314,<,8A46
+6,脳梁離断症候群,L,G371,NS3H,=,http://id.who.int/icd/entity/1441661203,=,8A46
+6,脳梁離断症候,S1,G371,NS3H,=,http://id.who.int/icd/entity/1441661203,=,8A46
+6,脱髄性脳梁エンセファロパシー,L,G371,R1HG,=,http://id.who.int/icd/entity/1441661203,=,8A46
+6,脳梁の中心性脱髄,S2,G371,R1HG,=,http://id.who.int/icd/entity/1441661203,=,8A46
+6,離断症候群,L,G371,R435,=,http://id.who.int/icd/entity/1441661203,=,8A46
+6,橋中心髄鞘崩壊症,L,G372,U9PD,=,http://id.who.int/icd/entity/558060012,=,8A45.31
+6,橋中央ミエリン溶解,S1,G372,U9PD,=,http://id.who.int/icd/entity/558060012,=,8A45.31
+6,横断性脊髄炎,L,G373,KHB9,=,http://id.who.int/icd/entity/1328350091,=,8A41.0 
+6,横断性脊髄症,S1,G373,KHB9,=,http://id.who.int/icd/entity/1328350091,=,8A41.0 
+6,急性横断性脊髄炎,L,G373,TQAH,=,http://id.who.int/icd/entity/1141415034,<,8A41.0 
+6,急性横断性脊髄症,S1,G373,TQAH,=,http://id.who.int/icd/entity/1141415034,<,8A41.0
+6,亜急性壊死性脊髄炎,L,G374,CL0T,=,http://id.who.int/icd/entity/937824238,=,8A45.21
+6,バロー病,L,G375,PFED,=,http://id.who.int/icd/entity/1387119224,<,8A40.Y 
+6,バロー同心円硬化症,S1,G375,PFED,=,http://id.who.int/icd/entity/1387119224,<,8A40.Y 
+6,バロー同心円状硬化症,S1,G375,PFED,=,http://id.who.int/icd/entity/1387119224,<,8A40.Y 
+6,バロ疾患,S1,G375,PFED,=,http://id.who.int/icd/entity/1387119224,<,8A40.Y 
+6,バロー同心性硬化症,S1,G375,PFED,=,http://id.who.int/icd/entity/1387119224,<,8A40.Y 
+6,BALO病,S1,G375,PFED,=,http://id.who.int/icd/entity/1387119224,<,8A40.Y 
+6,バロ同心性硬化症,S1,G375,PFED,=,http://id.who.int/icd/entity/1387119224,<,8A40.Y 
+6,同心性硬化症,S1,G375,PFED,=,http://id.who.int/icd/entity/1387119224,<,8A40.Y 
+6,BALO疾患,S1,G375,PFED,=,http://id.who.int/icd/entity/1387119224,<,8A40.Y 
+6,BALO同心円硬化症,S1,G375,PFED,=,http://id.who.int/icd/entity/1387119224,<,8A40.Y 
+6,BALO同心性硬化症,S1,G375,PFED,=,http://id.who.int/icd/entity/1387119224,<,8A40.Y 
+6,BALO同心円状硬化症,S1,G375,PFED,=,http://id.who.int/icd/entity/1387119224,<,8A40.Y 
+6,アラン・ハーンドン・ダドリー症候群,L,G378,F69K,=,http://id.who.int/icd/entity/56813604,<,5A00.0Y
+6,AHDS,S1,G378,F69K,=,http://id.who.int/icd/entity/56813604,<,5A00.0Y
+6,ALLAN-HERNDON-DUDLEY症候群,S1,G378,F69K,=,http://id.who.int/icd/entity/56813604,<,5A00.0Y
+6,失調と歯牙低形成を伴う髄鞘形成不全症,L,G378,HQT3,=,http://id.who.int/icd/entity/1151136209,<,8A44.Z 
+6,先天性白内障を伴う髄鞘形成不全症,L,G378,JQEK,<,http://id.who.int/icd/entity/840878762,<,8A44.3
+6,ＨＣＡＨＣ,L,G378,L4UU,<,"http://id.who.int/icd/entity/1407140179
+",<,8A44.3
+6,HCAHC,S0,G378,L4UU,<,"http://id.who.int/icd/entity/1407140179
+",<,8A44.3
+6,小脳萎縮と脳梁低形成を伴うび漫性大脳白質形成不全症,S1,G378,L4UU,<,"http://id.who.int/icd/entity/1407140179
+",<,8A44.3
+6,ペリツェウス・メルツバッハ様病１,L,G378,LJJ9,=,http://id.who.int/icd/entity/1101042369,=,LD90.2
+6,ペリツェウス・メルツバッハ様病1,S0,G378,LJJ9,=,http://id.who.int/icd/entity/1101042369,=,LD90.2
+6,PELIZAEUS-MERZBACHER様病1,S1,G378,LJJ9,=,http://id.who.int/icd/entity/1101042369,=,LD90.2
+6,Ｈｓｐ６０　シャペロン病,L,G378,R2T3,<,"http://id.who.int/icd/entity/1407140179
+",<,8A44.3
+6,HSP60 シャペロン病,S0,G378,R2T3,<,"http://id.who.int/icd/entity/1407140179
+",<,8A44.3
+6,基底核および小脳萎縮を伴う髄鞘形成不全症,L,G378,RNSF,=,http://id.who.int/icd/entity/267638596,<,8A44.3
+6,HABC,S1,G378,RNSF,=,http://id.who.int/icd/entity/267638596,<,8A44.3
+6,ＰＣＷＨ,L,G378,SSHH,<,"http://id.who.int/icd/entity/1407140179
+",<,8A44.3
+6,PCWH,S0,G378,SSHH,<,"http://id.who.int/icd/entity/1407140179
+",<,8A44.3
+6,先天性大脳白質形成不全症,L,G378,UL46,<,http://id.who.int/icd/entity/14071401799 ,<,8A44.3
+6,脳硬化症,L,G379,ELLE,=,http://id.who.int/icd/entity/372602207,<,8E4Y
+6,脱髄疾患,L,G379,FC4D,=,http://id.who.int/icd/entity/724748131,<,8A4Z 
+6,局所性痙攣,L,G400,DTL4,=,http://id.who.int/icd/entity/804063651,=,8A68.3
+6,体知覚性発作,L,G401,C0VG,<,http://id.who.int/icd/entity/804063651,<,8A68.3
+6,焦点性てんかん,L,G401,F6UE,=,http://id.who.int/icd/entity/1880404123 OR http://id.who.int/icd/entity/804063651,=,8A68.0 OR 8A68.3
+6,焦点発作,S1,G401,F6UE,=,http://id.who.int/icd/entity/1880404123 OR http://id.who.int/icd/entity/804063651,=,8A68.0 OR 8A68.3
+6,焦点性運動性発作,S1,G401,F6UE,=,http://id.who.int/icd/entity/1880404123 OR http://id.who.int/icd/entity/804063651,=,8A68.0 OR 8A68.3
+6,焦点運動発作,S1,G401,F6UE,=,http://id.who.int/icd/entity/1880404123 OR http://id.who.int/icd/entity/804063651,=,8A68.0 OR 8A68.3
+6,焦点性発作,S1,G401,F6UE,=,http://id.who.int/icd/entity/1880404123 OR http://id.who.int/icd/entity/804063651,=,8A68.0 OR 8A68.3
+6,局所性てんかん,L,G401,FK1U,=,http://id.who.int/icd/entity/1880404123 OR http://id.who.int/icd/entity/804063651,=,8A68.0 OR 8A68.3
+6,てんかん単純部分発作,L,G401,J0VU,=,http://id.who.int/icd/entity/804063651,=,8A68.3
+6,単純部分発作,S1,G401,J0VU,=,http://id.who.int/icd/entity/804063651,=,8A68.3
+6,自律神経てんかん,L,G401,L3E1,<,http://id.who.int/icd/entity/804063651,<,8A68.3
+6,自律神経反射てんかん,S1,G401,L3E1,<,http://id.who.int/icd/entity/804063651,<,8A68.3
+6,自律神経性てんかん,S1,G401,L3E1,<,http://id.who.int/icd/entity/804063651,<,8A68.3
+6,遅発性てんかん,L,G401,MC6D,<,http://id.who.int/icd/entity/2073711696,<,8A60.Y
+6,遊走性焦点発作を伴う乳児てんかん,L,G401,NEQT,=,http://id.who.int/icd/entity/1727727812,=,8A61.12
+6,焦点性知覚性発作,L,G401,P7LR,=,http://id.who.int/icd/entity/1880404123 OR http://id.who.int/icd/entity/804063651,=,8A68.0 OR 8A68.3
+6,ジャクソンてんかん,L,G401,R8N5,<,http://id.who.int/icd/entity/804063651,<,8A68.3
+6,ジャクソン氏てんかん,S1,G401,R8N5,<,http://id.who.int/icd/entity/804063651,<,8A68.3
+6,JACKSONIAN氏てんかん,S1,G401,R8N5,<,http://id.who.int/icd/entity/804063651,<,8A68.3
+6,ジャクソン発作,S1,G401,R8N5,<,http://id.who.int/icd/entity/804063651,<,8A68.3
+6,JACKSONIAN痙攣,S1,G401,R8N5,<,http://id.who.int/icd/entity/804063651,<,8A68.3
+6,ジャクソン痙攣,S1,G401,R8N5,<,http://id.who.int/icd/entity/804063651,<,8A68.3
+6,JACKSONIANてんかん,S1,G401,R8N5,<,http://id.who.int/icd/entity/804063651,<,8A68.3
+6,JACKSONIAN発作,S1,G401,R8N5,<,http://id.who.int/icd/entity/804063651,<,8A68.3
+6,聴覚性発作,L,G401,VJHB,<,http://id.who.int/icd/entity/804063651,<,8A68.3
+6,声音発作,S2,G401,VJHB,<,http://id.who.int/icd/entity/804063651,<,8A68.3
+6,海馬硬化を伴う内側側頭葉てんかん,L,G402,CEJH,=,http://id.who.int/icd/entity/1279568297,=,8A60.7
+6,海馬硬化症を伴う内側側頭葉てんかん,S1,G402,CEJH,=,http://id.who.int/icd/entity/1279568297,=,8A60.7
+6,てんかん性自動症,L,G402,DLHN,=,http://id.who.int/icd/entity/1880404123 / http://id.who.int/icd/entity/502784164,=,8A68.0 / MB45.1
+6,表状自動症,S2,G402,DLHN,=,http://id.who.int/icd/entity/1880404123 / http://id.who.int/icd/entity/502784164,=,8A68.0 / MB45.1
+6,てんかん複雑部分発作,L,G402,GMA0,=,http://id.who.int/icd/entity/1880404123,=,8A68.0
+6,複雑部分発作,S1,G402,GMA0,=,http://id.who.int/icd/entity/1880404123,=,8A68.0
+6,部分てんかん,L,G402,RFKR,=,http://id.who.int/icd/entity/1880404123 / http://id.who.int/icd/entity/804063651,=,8A68.0 OR 8A68.3
+6,側頭葉てんかん,L,G402,T23A,=,(http://id.who.int/icd/entity/1880404123 / http://id.who.int/icd/entity/804063651 ) & http://id.who.int/icd/entity/1220842694,=,(8A68.0 OR 8A68.3) & XA97T4 
+6,身ぶり自動症,S2,G402,T23A,=,http://id.who.int/icd/entity/1880404123 / http://id.who.int/icd/entity/502784164,=,8A68.0 / MB45.1
+6,前頭葉てんかん,L,G402,UC2Q,=,(http://id.who.int/icd/entity/1880404123 / http://id.who.int/icd/entity/804063651 ) & http://id.who.int/icd/entity/55403270,=,(8A68.0 OR 8A68.3) & XA2NT0
+6,精神運動発作,L,G402,UGCB,=,http://id.who.int/icd/entity/1880404123  / http://id.who.int/icd/entity/502784164,=,8A68.0 / MB45.1
+6,精神痙攣発作,S2,G402,UGCB,=,http://id.who.int/icd/entity/1880404123  / http://id.who.int/icd/entity/502784164,=,8A68.0 / MB45.1
+6,精神運動発作性てんかん,S2,G402,UGCB,=,http://id.who.int/icd/entity/1880404123  / http://id.who.int/icd/entity/502784164,=,8A68.0 / MB45.1
+6,精神知覚性発作,S2,G402,UGCB,<,http://id.who.int/icd/entity/1880404123,<,8A68.0
+6,精神けいれん発作,S2,G402,UGCB,<,http://id.who.int/icd/entity/1880404123,<,8A68.0
+6,情動てんかん,S2,G402,UGCB,<,http://id.who.int/icd/entity/1880404123,<,8A68.0
+6,情動性てんかん,S2,G402,UGCB,<,http://id.who.int/icd/entity/1880404123,<,8A68.0
+6,良性乳児ミオクローヌスてんかん,L,G403,D24V,=,http://id.who.int/icd/entity/1365780922,=,8A61.1Y
+6,良性乳児ミオクロニーてんかん,S1,G403,D24V,=,http://id.who.int/icd/entity/1365780922,=,8A61.1Y
+6,定型欠神発作,L,G403,D70M,=,http://id.who.int/icd/entity/1865892780,=,8A68.2
+6,定型歇神発作,S1,G403,D70M,=,http://id.who.int/icd/entity/1865892780,=,8A68.2
+6,ラフォラ病,L,G403,EMGA,=,http://id.who.int/icd/entity/558455490,<,8A61.41
+6,ラフォラ疾患,S1,G403,EMGA,=,http://id.who.int/icd/entity/558455490,<,8A61.41
+6,進行性ミオクローヌスてんかん,L,G403,FUKF,=,http://id.who.int/icd/entity/173613583,=,8A61.41
+6,進行性ミオクロニーてんかん,S1,G403,FUKF,=,http://id.who.int/icd/entity/173613583,=,8A61.41
+6,アブサンス,L,G403,GC6K,=,http://id.who.int/icd/entity/1878784470 OR http://id.who.int/icd/entity/1865892780,=,8A68.1 OR 8A68.2
+6,アブサンス状態,S1,G403,GC6K,=,http://id.who.int/icd/entity/1878784470 OR http://id.who.int/icd/entity/1865892780,=,8A68.1 OR 8A68.2
+6,ミオクローヌスてんかん,L,G403,HL5T,=,http://id.who.int/icd/entity/2048248706,<,8A06.Y
+6,ミオクロニーてんかん,S1,G403,HL5T,=,http://id.who.int/icd/entity/2048248706,<,8A06.Y
+6,ミオクロニー発作,S2,G403,HL5T,=,http://id.who.int/icd/entity/1295248180,<,8A68.5 
+6,ミオクローヌス発作,S2,G403,HL5T,=,http://id.who.int/icd/entity/1295248180,<,8A68.5 
+6,間代性非特異性てんかん発作,S2,G403,HL5T,=,http://id.who.int/icd/entity/194300196,<,8A68.Y
+6,ミオクローヌス様発作,S2,G403,HL5T,<,http://id.who.int/icd/entity/539646260,<,8A68.Y 
+6,ミオクローヌス性非特異性てんかん発作,S2,G403,HL5T,<,http://id.who.int/icd/entity/539646260,<,8A68.Y 
+6,アトニー性非特異性てんかん発作,L,G403,JMNF,<,http://id.who.int/icd/entity/311599160,=,8A68.7
+6,小児期アブサンスてんかん,L,G403,L738,=,http://id.who.int/icd/entity/726403046,<,8A61.21
+6,良性成人型家族性ミオクローヌスてんかん,L,G403,P2L4,=,http://id.who.int/icd/entity/1036649329,=,8A61.32
+6,BAFME,S1,G403,P2L4,=,http://id.who.int/icd/entity/1036649329,=,8A61.32
+6,若年性ミオクローヌスてんかん,L,G403,PPMK,=,http://id.who.int/icd/entity/1014397110,=,8A61.30
+6,若年性ミオクロニーてんかん,S1,G403,PPMK,=,http://id.who.int/icd/entity/1014397110,=,8A61.30
+6,ウンフェルリヒト・ルントボルグ病,L,G403,QG6N,=,http://id.who.int/icd/entity/150954581,<,8A61.41
+6,ウンフェルリヒト・ルンドボルグ病,S1,G403,QG6N,=,http://id.who.int/icd/entity/150954581,<,8A61.41
+6,ウンフェルリヒト・ルントボルク病,S1,G403,QG6N,=,http://id.who.int/icd/entity/150954581,<,8A61.41
+6,UNVERRICHT-LUNDBORG病,S1,G403,QG6N,=,http://id.who.int/icd/entity/150954581,<,8A61.41
+6,ウンベルリヒトてんかん,S1,G403,QG6N,=,http://id.who.int/icd/entity/150954581,<,8A61.41
+6,若年性アブサンスてんかん,L,G403,SDGA,=,http://id.who.int/icd/entity/519416529,=,8A61.31
+6,強直間代発作,L,G403,SRN8,=,http://id.who.int/icd/entity/1091709256,=,8A68.4
+6,強直性間代性痙攣,S1,G403,SRN8,=,http://id.who.int/icd/entity/1091709256,=,8A68.4
+6,強直性非特異性てんかん発作,S2,G403,SRN8,=,http://id.who.int/icd/entity/515072580,=,8A68.6
+6,良性新生児痙攣,L,G403,UP9U,=,http://id.who.int/icd/entity/1131336245,<,8A6Y
+6,ミオクロニー欠神てんかん,L,G404,AGFJ,=,http://id.who.int/icd/entity/274380122,=,8A61.23
+6,点頭てんかん,L,G404,D4R7,=,http://id.who.int/icd/entity/1023597213,=,8A62.0
+6,ウエスト症候群,L,G404,D4R7,=,http://id.who.int/icd/entity/1023597213,=,8A62.0
+6,乳児点頭痙攣,S1,G404,D4R7,=,http://id.who.int/icd/entity/1023597213,=,8A62.0
+6,点頭痙縮,S1,G404,D4R7,=,http://id.who.int/icd/entity/1023597213,=,8A62.0
+6,点頭痙攣,S1,G404,D4R7,=,http://id.who.int/icd/entity/1023597213,=,8A62.0
+6,ヒプサルスミア,S1,G404,D4R7,=,http://id.who.int/icd/entity/1023597213,=,8A62.0
+6,ウエスト症状群,S1,G404,D4R7,=,http://id.who.int/icd/entity/1023597213,=,8A62.0
+6,WEST症候群,S1,G404,D4R7,=,http://id.who.int/icd/entity/1023597213,=,8A62.0
+6,BNSけいれん,S1,G404,D4R7,=,http://id.who.int/icd/entity/1023597213,=,8A62.0
+6,ウェスト症候群,S1,G404,D4R7,=,http://id.who.int/icd/entity/1023597213,=,8A62.0
+6,ヒプスアリスミア,S1,G404,D4R7,=,http://id.who.int/icd/entity/1023597213,=,8A62.0
+6,点頭発作,S1,G404,D4R7,=,http://id.who.int/icd/entity/1023597213,=,8A62.0
+6,大田原症候群,L,G404,DU3M,=,http://id.who.int/icd/entity/1575860860,<,8A62.Y
+6,サプレッションバーストを伴う早期乳児てんかん性脳症,S1,G404,DU3M,=,http://id.who.int/icd/entity/1575860860,<,8A62.Y
+6,レノックス・ガストー症候群,L,G404,HBMF,=,http://id.who.int/icd/entity/651135242,=,8A62.1
+6,レノックス症候群,S1,G404,HBMF,=,http://id.who.int/icd/entity/651135242,=,8A62.1
+6,LENNOX症候群,S1,G404,HBMF,=,http://id.who.int/icd/entity/651135242,=,8A62.1
+6,レンノックス・ガストー症候群,S1,G404,HBMF,=,http://id.who.int/icd/entity/651135242,=,8A62.1
+6,LENNOX GASTAUT症候群,S1,G404,HBMF,=,http://id.who.int/icd/entity/651135242,=,8A62.1
+6,ミオクロニー脱力発作を伴うてんかん,L,G404,QKHQ,=,http://id.who.int/icd/entity/951920505,=,8A61.22
+6,ミオクロニー失立発作てんかん,S1,G404,QKHQ,=,http://id.who.int/icd/entity/951920505,=,8A61.22
+6,DOOSE症候群,S1,G404,QKHQ,=,http://id.who.int/icd/entity/951920505,=,8A61.22
+6,ミオクロニー脱力発作てんかん,S1,G404,QKHQ,=,http://id.who.int/icd/entity/951920505,=,8A61.22
+6,ドーゼ症候群,S1,G404,QKHQ,=,http://id.who.int/icd/entity/951920505,=,8A61.22
+6,乳児重症ミオクロニーてんかん,L,G404,RQ1M,=,http://id.who.int/icd/entity/1255654700,=,8A61.11
+6,ドラベ症候群,L,G404,RQ1M,=,http://id.who.int/icd/entity/1255654700,=,8A61.11
+6,DRAVET症候群,S1,G404,RQ1M,=,http://id.who.int/icd/entity/1255654700,=,8A61.11
+6,乳児重症ミオクローヌスてんかん,S1,G404,RQ1M,=,http://id.who.int/icd/entity/1255654700,=,8A61.11
+6,早期ミオクロニー脳症,L,G404,T8ND,=,http://id.who.int/icd/entity/1877241469,<,8A61.0Y
+6,ＰＣＤＨ１９関連症候群,L,G404,UTD0,=,http://id.who.int/icd/entity/1606891057,<,8A61.1Y
+6,PCDH19関連症候群,S0,G404,UTD0,=,http://id.who.int/icd/entity/1606891057,<,8A61.1Y
+6,睡眠喪失てんかん,L,G405,A9AA,<,http://id.who.int/icd/entity/2073711696,<,8A60.Z
+6,持続性部分てんかん,L,G405,F6V6,=,http://id.who.int/icd/entity/669338526,<,8A66.Y
+6,継続性部分てんかん,S1,G405,F6V6,=,http://id.who.int/icd/entity/669338526,<,8A66.Y
+6,コジェフニコフてんかん,S1,G405,F6V6,=,http://id.who.int/icd/entity/669338526,<,8A66.Y
+6,ストレスてんかん,L,G405,FQBF,<,http://id.who.int/icd/entity/2073711696 / http://id.who.int/icd/entity/539646260,<,8A60.Z / 8A68.Z 
+6,薬物てんかん,L,G405,H3SV,=,http://id.who.int/icd/entity/266489621,<,8A63.Y
+6,難治頻回部分発作重積型急性脳炎,L,G405,PR35,<,http://id.who.int/icd/entity/1316435973,<,8A63.Y
+6,AERRPS,S1,G405,PR35,<,http://id.who.int/icd/entity/1316435973,<,8A63.Y
+6,アルコールてんかん,L,G405,QKU3,<,http://id.who.int/icd/entity/2073711696 / http://id.who.int/icd/entity/539646260,<,8A60.Z / 8A68.Z 
+6,片側痙攣片麻痺てんかん症候群,L,G405,S08R,=,http://id.who.int/icd/entity/677418627,<,8A62.Y
+6,HHE症候群,S1,G405,S08R,=,http://id.who.int/icd/entity/677418627,<,8A62.Y
+6,てんかん大発作,L,G406,CSU0,=,http://id.who.int/icd/entity/1091709256,=,8A68.4
+6,大発作型てんかん,S1,G406,CSU0,=,http://id.who.int/icd/entity/1091709256,=,8A68.4
+6,大発作,S1,G406,CSU0,=,http://id.who.int/icd/entity/1091709256,=,8A68.4
+6,てんかん小発作,L,G407,V2D3,=,http://id.who.int/icd/entity/36262213,=,8A66.1Z
+6,小発作,S1,G407,V2D3,=,http://id.who.int/icd/entity/1878784470,=,8A68.2
+6,光原性てんかん,L,G408,H3HF,=,http://id.who.int/icd/entity/946957931,<,8A61.40
+6,視覚性発作,S2,G408,H3HF,<,http://id.who.int/icd/entity/804063652,<,8A68.3
+6,難治性てんかん,L,G408,KRHH,<,http://id.who.int/icd/entity/1397288146,<,8A6Z
+6,症候性てんかん,L,G408,M7LT,=,http://id.who.int/icd/entity/2073711696,=,8A60.Z
+6,二次性てんかん,S1,G408,M7LT,=,http://id.who.int/icd/entity/2073711696,=,8A60.Z
+6,家族性痙攣,L,G408,R6SC,=,http://id.who.int/icd/entity/1397288146 & http://id.who.int/icd/entity/524818626,=,8A6Z & XB1Y
+6,腹部てんかん,L,G408,S9UE,<,http://id.who.int/icd/entity/804063651,<,8A68.3
+6,腹性てんかん,S1,G408,S9UE,<,http://id.who.int/icd/entity/804063651,<,8A68.3
+6,視床視床下部性てんかん,S1,G408,S9UE,<,http://id.who.int/icd/entity/1397288146,<,8A6Y
+6,仮面てんかん,S1,G408,S9UE,<,http://id.who.int/icd/entity/1397288146,<,8A6Y
+6,内臓性てんかん,S2,G408,S9UE,<,http://id.who.int/icd/entity/804063651,<,8A68.3
+6,徐波睡眠期持続性棘徐波を示すてんかん性脳症,L,G408,SMRU,=,http://id.who.int/icd/entity/1030776216,<,8A62.Y
+6,徐波睡眠期持続性棘徐波てんかん,S1,G408,SMRU,=,http://id.who.int/icd/entity/1030776216,<,8A62.Y
+6,モーア症候群,L,G408,TDAR,=,http://id.who.int/icd/entity/1397288146 / http://id.who.int/icd/entity/1952103404,<,8A6Y / LD25.00 
+6,術後てんかん,L,G408,VAB0,=,"http://id.who.int/icd/entity/2073711696 & http://id.who.int/icd/entity/182265087 / http://id.who.int/icd/entity/539646260
+",=,8A60.Y & XY7V / 8A68.Z
+6,反応性てんかん,L,G408,VC10,<,http://id.who.int/icd/entity/276807111,<,8A61.40
+6,聴覚反射てんかん,L,G408,VVS3,=,http://id.who.int/icd/entity/1621154548,<,8A61.40
+6,脳卒中後てんかん,L,G409,A3Q6,=,"http://id.who.int/icd/entity/145521273
+",<,8A60.1
+6,後天性てんかん,L,G409,DSLL,<,http://id.who.int/icd/entity/1397288146,<,8A6Z
+6,てんかん発作による頭痛,L,G409,Q6MH,<,http://id.who.int/icd/entity/1397288146 / http://id.who.int/icd/entity/1405405864,<,8A6Z / MB4D
+6,てんかん性頭痛,S1,G409,Q6MH,<,http://id.who.int/icd/entity/1397288146 / http://id.who.int/icd/entity/1405405864,<,8A6Z / MB4D
+6,てんかん,L,G409,V382,=,http://id.who.int/icd/entity/1397288146,=,8A6Z
+6,エピレプシー,S1,G409,V382,=,http://id.who.int/icd/entity/1397288146,=,8A6Z
+6,てんかん発作,S1,G409,V382,=,http://id.who.int/icd/entity/1397288146,=,8A6Z
+6,てんかんの認知症,S2,G409,V382,=,http://id.who.int/icd/entity/1397288146 / http://id.who.int/icd/entity/1640425158,<,8A6Z / 6D85.Y
+6,てんかんの痴呆,S2,G409,V382,=,http://id.who.int/icd/entity/1397288146 / http://id.who.int/icd/entity/1640425158,<,8A6Z / 6D85.Y
+6,大発作持続状態,L,G410,A9JU,=,http://id.who.int/icd/entity/1734515921,<,8A66.0
+6,小発作持続状態,L,G411,QPMS,=,http://id.who.int/icd/entity/854964357,=,8A66.10
+6,小発作重積症,S1,G411,QPMS,=,http://id.who.int/icd/entity/854964357,=,8A66.10
+6,欠神発作重積状態,L,G411,U1FF,=,http://id.who.int/icd/entity/854964357,=,8A66.10
+6,歇神発作重積状態,S1,G411,U1FF,=,http://id.who.int/icd/entity/854964357,=,8A66.10
+6,部分発作重延状態,L,G412,TFNF,<,http://id.who.int/icd/entity/276196064,<,8A66.1Y
+6,精神運動発作重積症,L,G412,TG6V,<,http://id.who.int/icd/entity/276196064,<,8A66.1Y
+6,てんかん重積状態,L,G419,GA9T,=,http://id.who.int/icd/entity/906174792,=,8A66.Z
+6,てんかん発作重積症,S1,G419,GA9T,=,http://id.who.int/icd/entity/906174792,=,8A66.Z
+6,てんかん発作重積,S1,G419,GA9T,=,http://id.who.int/icd/entity/906174792,=,8A66.Z
+6,てんかん重積症,S1,G419,GA9T,=,http://id.who.int/icd/entity/906174792,=,8A66.Z
+6,普通型片頭痛,L,G430,JRGE,=,http://id.who.int/icd/entity/2048783472,=,8A80.0
+6,前兆のない片頭痛,L,G430,JRGE,=,http://id.who.int/icd/entity/2048783472,=,8A80.0
+6,前兆を伴わない片頭痛,S1,G430,JRGE,=,http://id.who.int/icd/entity/2048783472,=,8A80.0
+6,孤発性片麻痺性片頭痛,L,G431,BPN7,=,http://id.who.int/icd/entity/1303340532,<,8A80.10
+6,典型的前兆のみで頭痛を伴わない片頭痛,L,G431,CP7B,=,http://id.who.int/icd/entity/1208001260,<,8A80.1Y 
+6,脳幹性前兆を伴う片頭痛,L,G431,H7U6,=,http://id.who.int/icd/entity/2022157084,<,8A80.1Y 
+6,脳底動脈性片頭痛,S1,G431,H7U6,=,http://id.who.int/icd/entity/2022157084,<,8A80.1Y 
+6,典型片頭痛,L,G431,H928,=,http://id.who.int/icd/entity/525744634,=,8A80.1Z 
+6,前兆のある片頭痛,L,G431,H928,=,http://id.who.int/icd/entity/525744634,=,8A80.1Z 
+6,典型的片頭痛,S1,G431,H928,=,http://id.who.int/icd/entity/525744634,=,8A80.1Z 
+6,古典的片頭痛,S1,G431,H928,=,http://id.who.int/icd/entity/525744634,=,8A80.1Z 
+6,古典型片頭痛,S1,G431,H928,=,http://id.who.int/icd/entity/525744634,=,8A80.1Z 
+6,前兆を伴う片頭痛,S1,G431,H928,=,http://id.who.int/icd/entity/525744634,=,8A80.1Z 
+6,遷延性前兆で脳梗塞を伴わない片頭痛,L,G431,PPG0,<,http://id.who.int/icd/entity/1816247330,<,8A80.3Y
+6,典型的前兆に頭痛を伴う片頭痛,L,G431,ST75,=,http://id.who.int/icd/entity/1346577940,<,8A80.1Y 
+6,典型的前兆を伴う片頭痛,L,G431,T785,=,http://id.who.int/icd/entity/1346577940,<,8A80.1Y 
+6,片麻痺性片頭痛,L,G431,UK4P,=,http://id.who.int/icd/entity/1957063016,=,8A80.10 
+6,家族性片麻痺性片頭痛,L,G431,V4BV,=,http://id.who.int/icd/entity/1827007904,<,8A80.10 
+6,家族性片麻痺型片頭痛,S1,G431,V4BV,=,http://id.who.int/icd/entity/1827007904,<,8A80.10 
+6,持続性片頭痛,L,G432,N1VN,=,http://id.who.int/icd/entity/1811638533,=,8A80.30
+6,片頭痛発作重積,L,G432,N1VN,=,http://id.who.int/icd/entity/1811638533,=,8A80.30
+6,片頭痛持続状態,S1,G432,N1VN,=,http://id.who.int/icd/entity/1811638533,=,8A80.30
+6,片頭痛性前兆に誘発される痙攣発作,L,G433,RVTB,=,http://id.who.int/icd/entity/525744634 / http://id.who.int/icd/entity/1397288146 ,=,8A80.1Z / 8A6Z 
+6,眼性片頭痛,L,G433,UVVN,=,http://id.who.int/icd/entity/808957197,<,8A80.1Y 
+6,片頭痛に関連する周期性症候群,L,G438,FN8B,=,"http://id.who.int/icd/entity/1434288855
+",=,8A80.4
+6,眼筋麻痺性片頭痛,L,G438,LTUH,=,http://id.who.int/icd/entity/1956278970 / http://id.who.int/icd/entity/1848588735,<,8A80.3 / 9C82.Y
+6,再発性有痛性眼筋麻痺性ニューロパチー,S1,G438,LTUH,<,http://id.who.int/icd/entity/1956278970 & http://id.who.int/icd/entity/1721353160 / http://id.who.int/icd/entity/1848588735,<,8A80.3 & XT44 / 9C82.Y
+6,再発性有痛性眼筋麻痺性ニューロパシー,S1,G438,LTUH,<,http://id.who.int/icd/entity/1956278970 & http://id.who.int/icd/entity/1721353160 / http://id.who.int/icd/entity/1848588735,<,8A80.3 & XT44 / 9C82.Y
+6,眼筋麻痺性頭痛,S2,G438,LTUH,=,http://id.who.int/icd/entity/1956278970  / http://id.who.int/icd/entity/1848588735,<,8A80.3 / 9C82.Y
+6,網膜片頭痛,L,G438,R0G2,=,http://id.who.int/icd/entity/808957197,<,8A80.1Y 
+6,網膜性片頭痛,S1,G438,R0G2,=,http://id.who.int/icd/entity/808957197,<,8A80.1Y 
+6,片頭痛,L,G439,DJ1F,=,http://id.who.int/icd/entity/669367341,=,8A80.Z 
+6,発作性片頭痛,S1,G439,DJ1F,=,http://id.who.int/icd/entity/669367341,=,8A80.Z 
+6,片頭痛発作,S1,G439,DJ1F,=,http://id.who.int/icd/entity/669367341,=,8A80.Z 
+6,偏頭痛発作,S1,G439,DJ1F,=,http://id.who.int/icd/entity/669367341,=,8A80.Z 
+6,偏頭痛,S1,G439,DJ1F,=,http://id.who.int/icd/entity/669367341,=,8A80.Z 
+6,血管性片頭痛,S2,G439,DJ1F,=,http://id.who.int/icd/entity/669367341,=,8A80.Z 
+6,慢性片頭痛,L,G439,EPTC,=,http://id.who.int/icd/entity/1336990680,=,8A80.2 
+6,習慣性片頭痛,S1,G439,EPTC,=,http://id.who.int/icd/entity/1336990680,=,8A80.2 
+6,反復性発作性片側頭痛,L,G440,E4CR,=,http://id.who.int/icd/entity/196801611,<,8A82 
+6,群発頭痛,L,G440,EP0F,=,http://id.who.int/icd/entity/760621151,<,8A82
+6,群発性頭痛,S1,G440,EP0F,=,http://id.who.int/icd/entity/760621151,<,8A82
+6,発作性片側頭痛,L,G440,ET5S,=,http://id.who.int/icd/entity/959737563,<,8A82
+6,反復性群発頭痛,L,G440,HPSH,=,http://id.who.int/icd/entity/561506851,<,8A82
+6,短時間持続性片側神経痛様頭痛発作,L,G440,M1U9,=,http://id.who.int/icd/entity/364704393,<,8A81.0
+6,慢性群発頭痛,L,G440,PBBM,=,http://id.who.int/icd/entity/890612903,<,8A82
+6,慢性発作性片側頭痛,L,G440,RLVK,=,http://id.who.int/icd/entity/127612471,<,8A82
+6,慢性発作性片頭痛,S1,G440,RLVK,=,http://id.who.int/icd/entity/127612471,<,8A82
+6,三叉神経・自律神経性頭痛,L,G440,U6P8,=,http://id.who.int/icd/entity/607078588,=,8A82
+6,血管性頭痛,L,G441,P3BH,=,http://id.who.int/icd/entity/296971178,<,8A84.Y 
+6,非片頭痛性血管性頭痛,S1,G441,P3BH,=,http://id.who.int/icd/entity/669367341,=,8A80.Z 
+6,非偏頭痛性血管性頭痛,S1,G441,P3BH,=,http://id.who.int/icd/entity/669367341,=,8A80.Z 
+6,緊張型頭痛,L,G442,AVSB,=,http://id.who.int/icd/entity/1410019257,=,8A81.Z 
+6,筋収縮性頭痛,L,G442,AVSB,=,http://id.who.int/icd/entity/1410019257,=,8A81.Z 
+6,緊張性頭痛,S1,G442,AVSB,=,http://id.who.int/icd/entity/1410019257,=,8A81.Z 
+6,筋緊張型頭痛,S1,G442,AVSB,=,http://id.who.int/icd/entity/1410019257,=,8A81.Z 
+6,筋緊張性頭痛,S1,G442,AVSB,=,http://id.who.int/icd/entity/1410019257,=,8A81.Z 
+6,筋緊張性頭痛症,S1,G442,AVSB,=,http://id.who.int/icd/entity/1410019257,=,8A81.Z 
+6,筋性頭痛,S1,G442,AVSB,=,http://id.who.int/icd/entity/1410019257,=,8A81.Z 
+6,慢性緊張型頭痛,L,G442,BHJ2,=,http://id.who.int/icd/entity/107534985,=,8A81.2
+6,慢性緊張性頭痛,S1,G442,BHJ2,=,http://id.who.int/icd/entity/107534985,=,8A81.2
+6,反復性緊張型頭痛,L,G442,MFPR,=,http://id.who.int/icd/entity/1410019257 & http://id.who.int/icd/entity/1721353160,=,8A81.Z & XT44
+6,挿間性緊張性頭痛,S1,G442,MFPR,=,http://id.who.int/icd/entity/1410019257 & http://id.who.int/icd/entity/1721353160,=,8A81.Z & XT44
+6,慢性外傷後頭痛,L,G443,B8MD,=,http://id.who.int/icd/entity/588039752,=,8A84.1
+6,外傷性頭痛,L,G443,TSD9,=,http://id.who.int/icd/entity/902419921,<,8A84.Y
+6,頭頸部外傷による頭痛,S1,G443,TSD9,=,http://id.who.int/icd/entity/902419921,<,8A84.Y
+6,頭頚部外傷による頭痛,S1,G443,TSD9,=,http://id.who.int/icd/entity/902419921,<,8A84.Y
+6,外傷後頭痛,S1,G443,TSD9,=,http://id.who.int/icd/entity/902419921,<,8A84.Y
+6,薬物乱用頭痛,L,G444,LDKD,=,http://id.who.int/icd/entity/1723984719,<,8A84.Y
+6,薬物誘発性頭痛,S1,G444,LDKD,=,http://id.who.int/icd/entity/1723984719,<,8A84.Y
+6,持続性片側頭痛,L,G448,CH4H,=,http://id.who.int/icd/entity/1093161847,<,8A82
+6,性行為に伴う一次性頭痛,L,G448,CQUF,=,http://id.who.int/icd/entity/705929471,<,8A83
+6,鼻・副鼻腔疾患による頭痛,L,G448,CU3T,=,http://id.who.int/icd/entity/296971178 / http://id.who.int/icd/entity/1836987572,=,8A84.Y / CA0A.Z 
+6,副鼻腔炎による頭痛,S1,G448,CU3T,=,http://id.who.int/icd/entity/296971178 / http://id.who.int/icd/entity/1836987572,=,8A84.Y / CA0A.Z 
+6,鼻・副鼻腔炎による頭痛,S1,G448,CU3T,=,http://id.who.int/icd/entity/296971178 / http://id.who.int/icd/entity/1836987572,=,8A84.Y / CA0A.Z 
+6,スルーダー神経痛,L,G448,DCTE,=,http://id.who.int/icd/entity/296971178 & http://id.who.int/icd/entity/954976611,=,8A84.Y & XA0ER1
+6,翼口蓋神経節神経痛,S1,G448,DCTE,=,http://id.who.int/icd/entity/296971178 & http://id.who.int/icd/entity/954976611,=,8A84.Y & XA0ER1
+6,新規発症持続性連日性頭痛,L,G448,EERL,=,http://id.who.int/icd/entity/316302596,<,8A83
+6,混合性頭痛,L,G448,EJN6,=,http://id.who.int/icd/entity/669367341 / http://id.who.int/icd/entity/1410019257,=,8A80.Z / 8A81.Z
+6,寒冷刺激による頭痛,L,G448,GV1F,=,http://id.who.int/icd/entity/1386492540,<,8A83
+6,一次性運動時頭痛,L,G448,HUEC,=,http://id.who.int/icd/entity/598251514,<,8A83
+6,一次性労作性頭痛,S1,G448,HUEC,=,http://id.who.int/icd/entity/598251514,<,8A83
+6,眼性頭痛,L,G448,JRJK,=,http://id.who.int/icd/entity/296971178 / http://id.who.int/icd/entity/895680150,=,8A84.Y / 9D50
+6,睡眠時頭痛,L,G448,K2AN,=,http://id.who.int/icd/entity/468065426,<,8A83
+6,トロサ・ハント症候群,L,G448,KEM5,=,http://id.who.int/icd/entity/969826782,<,8A85 
+6,TOLOSA HUNT症候群,S1,G448,KEM5,=,http://id.who.int/icd/entity/969826782,<,8A85 
+6,貨幣状頭痛,L,G448,MG3Q,=,http://id.who.int/icd/entity/177244195,<,8A83
+6,一次性雷鳴頭痛,L,G448,RLE8,=,http://id.who.int/icd/entity/398974702,<,8A83
+6,一次性咳嗽性頭痛,L,G448,UAGF,=,http://id.who.int/icd/entity/844112903,<,8A83
+6,一次性穿刺様頭痛,L,G448,VVHG,=,http://id.who.int/icd/entity/44405490,<,8A83
+6,脳底動脈循環不全,L,G450,A46L,=,http://id.who.int/icd/entity/440367679,<,8B10.Y
+6,椎骨動脈血行不全,L,G450,BD8U,=,http://id.who.int/icd/entity/1541569386,<,8B10.Y
+6,椎骨脳底動脈循環不全,L,G450,N7L7,=,http://id.who.int/icd/entity/1570524591,<,8B10.Y
+6,椎骨脳底動脈循環不全症,S1,G450,N7L7,=,http://id.who.int/icd/entity/1570524591,<,8B10.Y
+6,椎骨脳底動脈灌流不全症,S1,G450,N7L7,=,http://id.who.int/icd/entity/1570524591,<,8B10.Y
+6,椎骨脳底動脈症候群,S1,G450,N7L7,=,http://id.who.int/icd/entity/1570524591,<,8B10.Y
+6,椎骨動脈症候群,S2,G450,N7L7,=,http://id.who.int/icd/entity/1541569386,<,8B10.Y
+6,内頚動脈不全症,L,G451,JNB5,=,http://id.who.int/icd/entity/953647163,<,8B10.Y
+6,内頸動脈不全症,S1,G451,JNB5,=,http://id.who.int/icd/entity/953647163,<,8B10.Y
+6,半球性頚動脈症候群,S2,G451,JNB5,=,http://id.who.int/icd/entity/953647163,<,8B10.Y
+6,半球性頸動脈症候群,S2,G451,JNB5,=,http://id.who.int/icd/entity/953647163,<,8B10.Y
+6,一過性黒内障,L,G453,VUA2,=,http://id.who.int/icd/entity/691084626,=,8B10.0
+6,一過性視力消失,S1,G453,VUA2,=,http://id.who.int/icd/entity/691084626,=,8B10.0
+6,一過性視覚障害,S1,G453,VUA2,=,http://id.who.int/icd/entity/691084626,=,8B10.0
+6,一過性視力障害,S1,G453,VUA2,=,http://id.who.int/icd/entity/691084626,=,8B10.0
+6,一過性全健忘症,L,G454,F6B1,=,http://id.who.int/icd/entity/1524600518,=,MB21.12 
+6,一過性全健忘,S1,G454,F6B1,=,http://id.who.int/icd/entity/1524600518,=,MB21.12 
+6,一過性全健忘(症),S1,G454,F6B1,=,http://id.who.int/icd/entity/1524600518,=,MB21.12 
+6,鎖骨下動脈盗血症候群,L,G458,HSRK,=,http://id.who.int/icd/entity/2123391417,=,8B22.A 
+6,サブクラビアン・スチール症候群,S1,G458,HSRK,=,http://id.who.int/icd/entity/2123391417,=,8B22.A 
+6,鎖骨下動脈盗血流症候群,S1,G458,HSRK,=,http://id.who.int/icd/entity/2123391417,=,8B22.A 
+6,切迫脳卒中,L,G458,UR1H,=,http://id.who.int/icd/entity/826335789,=,8B10.Z
+6,一過性脳虚血発作,L,G459,BRDK,=,http://id.who.int/icd/entity/826335789,=,8B10.Z 
+6,一過性虚血性脳症,S1,G459,BRDK,=,http://id.who.int/icd/entity/826335789,=,8B10.Z 
+6,TIA,S1,G459,BRDK,=,http://id.who.int/icd/entity/826335789,=,8B10.Z 
+6,一過性脳虚血障害,S1,G459,BRDK,=,http://id.who.int/icd/entity/826335789,=,8B10.Z 
+6,一過性虚血性脳循環障害,S1,G459,BRDK,=,http://id.who.int/icd/entity/826335789,=,8B10.Z 
+6,一過性脳虚血,S1,G459,BRDK,=,http://id.who.int/icd/entity/826335789,=,8B10.Z 
+6,一過性脳循環不全,S1,G459,BRDK,=,http://id.who.int/icd/entity/826335789,=,8B10.Z 
+6,可逆性虚血性神経障害,L,G459,H0VM,<,http://id.who.int/icd/entity/1622505554,<,8B10.Y 
+6,可逆性脳虚血発作,S1,G459,H0VM,<,http://id.who.int/icd/entity/1622505554,<,8B10.Y 
+6,RIND,S1,G459,H0VM,<,http://id.who.int/icd/entity/1622505554,<,8B10.Y 
+6,回復性虚血性神経脱落症候群,S2,G459,H0VM,<,http://id.who.int/icd/entity/1622505554,<,8B10.Y 
+6,脳動脈攣縮,L,G459,KG51,=,http://id.who.int/icd/entity/1975306533,=,8B22.2 
+6,脳血管痙攣,S1,G459,KG51,=,http://id.who.int/icd/entity/1975306533,=,8B22.2 
+6,脳血管攣縮,L,G459,QL96,=,http://id.who.int/icd/entity/1975306533,=,8B22.2 
+6,不眠症,L,G470,BTS4,=,http://id.who.int/icd/entity/1038292737,=,7A0Z
+6,不眠,S1,G470,BTS4,=,http://id.who.int/icd/entity/1038292737,=,7A0Z
+6,不眠(症),S1,G470,BTS4,=,http://id.who.int/icd/entity/1038292737,=,7A0Z
+6,睡眠減退,S2,G470,BTS4,=,http://id.who.int/icd/entity/1038292737,=,7A0Z
+6,特発性過眠症,L,G471,B9A2,=,http://id.who.int/icd/entity/631826564 ,=,7A21
+6,過眠,L,G471,ED4C,=,http://id.who.int/icd/entity/631826564 ,=,7A21
+6,睡眠過剰症,S1,G471,ED4C,=,http://id.who.int/icd/entity/631826564 ,=,7A21
+6,睡眠リズム障害,L,G472,B32D,=,http://id.who.int/icd/entity/1359329403,=,7A6Z
+6,睡眠リズム倒錯,S1,G472,B32D,=,http://id.who.int/icd/entity/1359329403,=,7A6Z
+6,睡眠・覚醒スケジュール障害,S1,G472,B32D,=,http://id.who.int/icd/entity/1359329403,=,7A6Z
+6,睡眠相後退症候群,L,G472,TCDC,=,http://id.who.int/icd/entity/1359329403,=,7A6Z
+6,睡眠位相遅延症候群,S1,G472,TCDC,=,http://id.who.int/icd/entity/1359329403,=,7A6Z
+6,遅発性睡眠相症候群,S1,G472,TCDC,=,http://id.who.int/icd/entity/1359329403,=,7A6Z
+6,不規則睡眠,L,G472,TG3M,=,http://id.who.int/icd/entity/1359329403,=,7A6Z
+6,原発性肺胞低換気症候群,L,G473,BRCP,<,http://id.who.int/icd/entity/1514276050,<,7A42.0
+6,ONDINE症候群,S1,G473,BRCP,=,http://id.who.int/icd/entity/1750742010,=,7A42.1
+6,オンディーヌ症候群,S1,G473,BRCP,=,http://id.who.int/icd/entity/1750742010,=,7A42.1
+6,先天性中枢性低換気症候群,L,G473,D162,=,http://id.who.int/icd/entity/1750742010,=,7A42.1
+6,先天性中枢性肺胞低換気症候群,S1,G473,D162,=,http://id.who.int/icd/entity/1750742010,=,7A42.1
+6,睡眠時無呼吸症候群,L,G473,NLFL,=,http://id.who.int/icd/entity/1919233290,=,7A41
+6,睡眠時無呼吸,S1,G473,NLFL,=,http://id.who.int/icd/entity/1919233290,=,7A41
+6,SAS,S1,G473,NLFL,=,http://id.who.int/icd/entity/1919233290,=,7A41
+6,睡眠時呼吸器障害,S2,G473,NLFL,=,http://id.who.int/icd/entity/1919233290,=,7A41
+6,閉塞性睡眠時無呼吸,L,G473,T2N6,=,http://id.who.int/icd/entity/1919233290,=,7A41
+6,中枢性睡眠時無呼吸,L,G473,TNDR,=,http://id.who.int/icd/entity/1193320862,=,7A40.Z 
+6,ナルコレプシー,L,G474,KP1N,=,http://id.who.int/icd/entity/1201727099,=,7A20.Z
+6,ジェリノー症候群,S1,G474,KP1N,=,http://id.who.int/icd/entity/1851015159,=,7A20.0
+6,睡眠発作,S1,G474,KP1N,=,http://id.who.int/icd/entity/1201727099,=,7A20.Z 
+6,GELINEAU症候群,S1,G474,KP1N,=,http://id.who.int/icd/entity/1851015159,=,7A20.0
+6,脱力発作,L,G474,MAQF,=,http://id.who.int/icd/entity/1851015159,=,7A20.0
+6,四肢脱力発作,S2,G474,MAQF,=,http://id.who.int/icd/entity/1851015159,=,7A20.0
+6,カタプレキシー,L,G474,VK6G,=,http://id.who.int/icd/entity/1851015159,=,7A20.0
+6,周期嗜眠症,L,G478,JGJB,=,http://id.who.int/icd/entity/1180849398,=,7A22
+6,レム睡眠行動障害,L,G478,JH5B,=,http://id.who.int/icd/entity/329728491,=,7B01.0 
+6,レム睡眠行動異常症,S1,G478,JH5B,=,http://id.who.int/icd/entity/329728491,=,7B01.0 
+6,クライネ・レヴィン症候群,L,G478,RB82,=,http://id.who.int/icd/entity/1180849398         ,=,7A22
+6,KLEINE LEVIN症候群,S1,G478,RB82,=,http://id.who.int/icd/entity/1180849398,=,7A22
+6,睡眠障害,L,G479,PFCB,=,http://id.who.int/icd/entity/274880002,=,7B2Z
+6,睡眠異常,S1,G479,PFCB,=,http://id.who.int/icd/entity/1037107906 or http://id.who.int/icd/entity/274880002,=,MB43 or 7B2Z
+6,大後頭三叉神経症候群,L,G500,A1CC,=,http://id.who.int/icd/entity/1803581281  & http://id.who.int/icd/entity/537497610,=,8B82.0 & XA6BB0
+6,三叉神経痛第２・３枝領域,L,G500,B0DM,=,http://id.who.int/icd/entity/1803581281 OR http://id.who.int/icd/entity/1734330325 OR http://id.who.int/icd/entity/1225723477 ,=,8B82.0 & (XA8KJ5 & XA1F17) 
+6,三叉神経痛第2・3枝領域,S0,G500,B0DM,=,http://id.who.int/icd/entity/1803581281 OR http://id.who.int/icd/entity/1734330325 OR http://id.who.int/icd/entity/1225723477 ,=,8B82.0 & (XA8KJ5 & XA1F17) 
+6,三叉神経痛第１・２枝領域,L,G500,BJD1,=,http://id.who.int/icd/entity/1803581281 OR http://id.who.int/icd/entity/2075472868 OR http://id.who.int/icd/entity/1734330325,=,8B82.0 & ( XA95Y8  & XA8KJ5) 
+6,三叉神経痛第1・2枝領域,S0,G500,BJD1,=,http://id.who.int/icd/entity/1803581281 OR http://id.who.int/icd/entity/2075472868 OR http://id.who.int/icd/entity/1734330325,=,8B82.0 & ( XA95Y8  & XA8KJ5) 
+6,三叉神経痛第１枝領域,L,G500,CGT2,=,http://id.who.int/icd/entity/1803581281 & http://id.who.int/icd/entity/2075472868,=,8B82.0 & XA95Y8
+6,三叉神経痛第1枝領域,S0,G500,CGT2,=,http://id.who.int/icd/entity/1803581281 & http://id.who.int/icd/entity/2075472868,=,8B82.0 & XA95Y8
+6,眼神経痛,S1,G500,CGT2,=,http://id.who.int/icd/entity/1803581281,=,8B82.0 
+6,眼窩神経痛,S2,G500,CGT2,=,http://id.who.int/icd/entity/1803581281,=,8B82.0
+6,症候性三叉神経痛,L,G500,DUGB,=,http://id.who.int/icd/entity/1312954860,<,8B82.0
+6,有痛性三叉神経ニューロパシー,S1,G500,DUGB,=,http://id.who.int/icd/entity/1803581281,=,8B82.0
+6,有痛性三叉神経ニューロパチー,S1,G500,DUGB,=,http://id.who.int/icd/entity/1803581281,=,8B82.0
+6,続発性三叉神経痛,S1,G500,DUGB,=,http://id.who.int/icd/entity/1312954860,<,8B82.0
+6,二次性三叉神経痛,S1,G500,DUGB,=,http://id.who.int/icd/entity/1312954860,<,8B82.0
+6,仮性三叉神経痛,S1,G500,DUGB,=,http://id.who.int/icd/entity/1312954860,<,8B82.0
+6,上下眼窩神経痛,L,G500,DV0Q,=,http://id.who.int/icd/entity/1803581281,=,8B82.0
+6,三叉神経痛第１・２・３枝領域,L,G500,EH04,=,http://id.who.int/icd/entity/180358128 & (http://id.who.int/icd/entity/2075472868 &  http://id.who.int/icd/entity/1734330325 &  http://id.who.int/icd/entity/1225723477),=,8B82.0 & (XA95Y8 & XA8KJ5 & XA1F17)
+6,三叉神経痛第1・2・3枝領域,S0,G500,EH04,=,http://id.who.int/icd/entity/180358128 & (http://id.who.int/icd/entity/2075472868 &  http://id.who.int/icd/entity/1734330325 &  http://id.who.int/icd/entity/1225723477),=,8B82.0 & (XA95Y8 & XA8KJ5 & XA1F17)
+6,レイダー傍三叉神経症候群,L,G500,K3KK,=,http://id.who.int/icd/entity/44669299,<,9C81.Y
+6,レイダー症候群,S1,G500,K3KK,=,http://id.who.int/icd/entity/44669299,<,9C81.Y
+6,傍三叉神経性眼交感神経症候群,S1,G500,K3KK,=,http://id.who.int/icd/entity/44669299,<,9C81.Y
+6,傍三叉神経交感神経症候群,S1,G500,K3KK,=,http://id.who.int/icd/entity/44669299,<,9C81.Y
+6,レーダー傍三叉神経痛,S1,G500,K3KK,=,http://id.who.int/icd/entity/44669299,<,9C81.Y
+6,RAEDER傍三叉神経症候群,S1,G500,K3KK,=,http://id.who.int/icd/entity/44669299,<,9C81.Y
+6,RAEDER症候群,S1,G500,K3KK,=,http://id.who.int/icd/entity/44669299,<,9C81.Y
+6,三叉神経痛第３枝領域,L,G500,NRVF,=,http://id.who.int/icd/entity/1803581281 & http://id.who.int/icd/entity/1225723477 ,=,8B82.0 & XA1F17
+6,三叉神経痛第3枝領域,S0,G500,NRVF,=,http://id.who.int/icd/entity/1803581281 & http://id.who.int/icd/entity/1225723477 ,=,8B82.0 & XA1F17
+6,下顎神経痛,S1,G500,NRVF,=,http://id.who.int/icd/entity/1803581281 & http://id.who.int/icd/entity/1225723477 ,=,8B82.0 & XA1F17
+6,三叉神経痙攣,L,G500,NU4R,<,http://id.who.int/icd/entity/76391627,<,8B82.Z
+6,咀嚼筋痙攣,S1,G500,NU4R,<,http://id.who.int/icd/entity/76391627,<,8B82.Z
+6,三叉神経痛,L,G500,NVG2,=,http://id.who.int/icd/entity/1803581281 ,=,8B82.0
+6,顔面神経痛,S1,G500,NVG2,=,http://id.who.int/icd/entity/1803581281 ,=,8B82.0
+6,発作性顔面痛症候群,S1,G500,NVG2,=,http://id.who.int/icd/entity/1803581281 ,=,8B82.0
+6,顔面三叉神経痛,S1,G500,NVG2,=,http://id.who.int/icd/entity/1803581281 ,=,8B82.0
+6,有痛性チック,S1,G500,NVG2,=,http://id.who.int/icd/entity/1803581281 ,=,8B82.0
+6,三叉神経性頭痛,S2,G500,NVG2,=,http://id.who.int/icd/entity/607078588,=,8A82
+6,眼窩上神経痛,L,G500,PV8P,=,http://id.who.int/icd/entity/2067202674,<,8A85
+6,上眼窩部神経痛,S2,G500,PV8P,=,http://id.who.int/icd/entity/2067202674,<,8A85
+6,特発性三叉神経痛,L,G500,R99L,=,http://id.who.int/icd/entity/1878070600 ,=,8B82.0 & XB5F
+6,三叉神経痛第２枝領域,L,G500,S68L,=,http://id.who.int/icd/entity/1803581281 & http://id.who.int/icd/entity/1734330325,=,8B82.0 & XA8KJ5
+6,三叉神経痛第2枝領域,S0,G500,S68L,=,http://id.who.int/icd/entity/1803581281 & http://id.who.int/icd/entity/1734330325,=,8B82.0 & XA8KJ5
+6,非定型顔面痛,L,G501,H8U8,=,http://id.who.int/icd/entity/248232693,<,8A85 
+6,持続性特発性顔面痛,S1,G501,H8U8,=,http://id.who.int/icd/entity/1799118131,<,8A85
+6,フライ症候群,L,G508,Q3BM,=,http://id.who.int/icd/entity/1379673909,<,8B82.Z
+6,FREY症候群,S1,G508,Q3BM,=,http://id.who.int/icd/entity/1379673909,<,8B82.Z
+6,三叉神経過敏症,L,G509,B8N1,<,http://id.who.int/icd/entity/76391627,<,8B82.Z
+6,三叉神経障害,L,G509,CQQ4,=,http://id.who.int/icd/entity/76391627,=,8B82.Z
+6,下歯槽神経麻痺,L,G509,JS7L,=,http://id.who.int/icd/entity/76391627 & http://id.who.int/icd/entity/1171304010,=,8B82.Z & XA3VT0
+6,三叉神経ニューロパチー,L,G509,LVN6,=,http://id.who.int/icd/entity/76391627,=,8B82.Z
+6,三叉神経ニューロパシー,S1,G509,LVN6,=,http://id.who.int/icd/entity/76391627,=,8B82.Z
+6,三叉神経麻痺,L,G509,P22N,=,http://id.who.int/icd/entity/76391627,=,8B82.Z
+6,オトガイ神経麻痺,L,G509,P3NC,=,http://id.who.int/icd/entity/76391627 & http://id.who.int/icd/entity/2086429518,=,8B82.Z & XA6ZD8
+6,頤神経麻痺,S1,G509,P3NC,=,http://id.who.int/icd/entity/76391627 & http://id.who.int/icd/entity/2086429518,=,8B82.Z & XA6ZD8
+6,おとがい神経麻痺,S1,G509,P3NC,=,http://id.who.int/icd/entity/76391627 & http://id.who.int/icd/entity/2086429518,=,8B82.Z & XA6ZD8
+6,舌神経麻痺,L,G509,R150,=,http://id.who.int/icd/entity/76391627 & http://id.who.int/icd/entity/104448957,=,8B82.Z & XA5CT7
+6,末梢性顔面神経麻痺,L,G510,CVVT,=,http://id.who.int/icd/entity/2004402146 ,=,8B88.0 
+6,末梢顔面神経麻痺,S2,G510,CVVT,=,http://id.who.int/icd/entity/2004402146 ,=,8B88.0 
+6,顔面神経麻痺,L,G510,DH13,=,http://id.who.int/icd/entity/2004402146 ,=,8B88.0 
+6,顔面麻痺,S1,G510,DH13,=,http://id.who.int/icd/entity/2004402146 ,=,8B88.0 
+6,両側顔面神経麻痺,S2,G510,DH13,=,http://id.who.int/icd/entity/2004402146 ,=,8B88.0 
+6,陳旧性顔面神経麻痺,L,G510,FFES,=, http://id.who.int/icd/entity/2004402146  & http://id.who.int/icd/entity/472249438,=,8B88.0 & XT9C
+6,特発性末梢性顔面神経麻痺,L,G510,GMCR,=,http://id.who.int/icd/entity/2004402146 ,=,8B88.0 
+6,BELL麻痺,S1,G510,GMCR,=,http://id.who.int/icd/entity/2004402146 ,=,8B88.0 
+6,ベル麻痺,S1,G510,GMCR,=,http://id.who.int/icd/entity/2004402146 ,=,8B88.0 
+6,急性末梢性顔面神経麻痺,S2,G510,GMCR,=,http://id.who.int/icd/entity/1361621661,=,8B88.0 & XT5R
+6,BELL症候,S2,G510,GMCR,=,http://id.who.int/icd/entity/2004402146 ,=,8B88.0 
+6,特発性顔面神経麻痺,S2,G510,GMCR,=,http://id.who.int/icd/entity/1361621661,=,8B88.0 
+6,BELL不全麻痺,S2,G510,GMCR,=,http://id.who.int/icd/entity/2004402146 ,=,8B88.0 
+6,ベル不全麻痺,S2,G510,GMCR,=,http://id.who.int/icd/entity/2004402146 ,=,8B88.0 
+6,突発性顔面神経麻痺,S2,G510,GMCR,=,http://id.who.int/icd/entity/2004402146 &  http://id.who.int/icd/entity/1385443355,=,8B88.0 & XT3Z 
+6,ベル症候,S2,G510,GMCR,=,http://id.who.int/icd/entity/2004402146 ,=,8B88.0 
+6,中枢性顔面神経麻痺,L,G510,TB0T,<,http://id.who.int/icd/entity/2004402146 ,<,8B88.0 
+6,顔面神経不全麻痺,L,G510,UPM7,=,http://id.who.int/icd/entity/1640393055,=,8B88.Z
+6,顔面神経不全,S1,G510,UPM7,=,http://id.who.int/icd/entity/1640393055,=,8B88.Z
+6,膝状神経節炎,L,G511,E2RE,=,http://id.who.int/icd/entity/305361524 ,<,8B88.Y 
+6,メルカーソン・ローゼンタール症候群,L,G512,D681,=,http://id.who.int/icd/entity/1721639563,<,8B88.Y
+6,MELKERSSON-ROSENTHAL症候群,S1,G512,D681,=,http://id.who.int/icd/entity/1721639563,<,8B88.Y
+6,MELKERSSON症候群,S1,G512,D681,=,http://id.who.int/icd/entity/1721639563,<,8B88.Y
+6,メルカーソン症候群,S1,G512,D681,=,http://id.who.int/icd/entity/1721639563,<,8B88.Y
+6,メルカーソン・ローゼータール症候群,S1,G512,D681,=,http://id.who.int/icd/entity/1721639563,<,8B88.Y
+6,顔面痙攣症,L,G513,F6E8,=,http://id.who.int/icd/entity/64352031,<,8B88.2
+6,顔面神経痙攣,S1,G513,F6E8,=,http://id.who.int/icd/entity/64352031,<,8B88.2
+6,顔面筋痙攣,S1,G513,F6E8,=,http://id.who.int/icd/entity/64352031,<,8B88.2
+6,顔面痙攣(症),S1,G513,F6E8,=,http://id.who.int/icd/entity/64352031,<,8B88.2
+6,片側顔面痙攣,S2,G513,F6E8,=,http://id.who.int/icd/entity/64352031,<,8B88.2
+6,顔面半側痙攣症,S2,G513,F6E8,=,http://id.who.int/icd/entity/64352031,<,8B88.2
+6,顔面神経痙縮,S2,G513,F6E8,=,http://id.who.int/icd/entity/64352031,<,8B88.2
+6,顔面痙攣,L,G513,F803,=,http://id.who.int/icd/entity/64352031,<,8B88.2
+6,顔面けいれん,S1,G513,F803,=,http://id.who.int/icd/entity/64352031,<,8B88.2
+6,顔面ミオキミア,L,G514,QKT3,=,http://id.who.int/icd/entity/1882946699,=,8B88.1 
+6,眼瞼ミオキミア,L,G514,RFQP,=,http://id.who.int/icd/entity/1824866828 ,=,9A05.0
+6,後耳介神経炎,L,G518,EA21,=,http://id.who.int/icd/entity/1637248481 & http://id.who.int/icd/entity/1626693707,=,8B88.3 & XA7F87
+6,顔面神経障害,L,G519,U6HR,=,http://id.who.int/icd/entity/1640393055,=,8B88.Z
+6,嗅神経麻痺,L,G520,HHF9,=,http://id.who.int/icd/entity/1996431326 ,=,8B80
+6,嗅神経障害,L,G520,U85B,=,http://id.who.int/icd/entity/1996431326 ,=,8B80
+6,嗅覚神経障害,S1,G520,U85B,=,http://id.who.int/icd/entity/1996431326 ,=,8B80
+6,第1脳神経障害,S1,G520,U85B,=,http://id.who.int/icd/entity/1996431326 ,=,8B80
+6,舌咽神経痛,L,G521,LN3M,=,http://id.who.int/icd/entity/539748746,<,8B87 
+6,舌咽頭神経痛,S1,G521,LN3M,=,http://id.who.int/icd/entity/539748746,<,8B87 
+6,舌咽神経障害,L,G521,UDDS,=,http://id.who.int/icd/entity/330617420 ,=,8B87 
+6,第9脳神経障害,S1,G521,UDDS,=,http://id.who.int/icd/entity/330617420 ,=,8B87 
+6,舌咽神経麻痺,L,G521,VLCQ,=,http://id.who.int/icd/entity/330617420 ,=,8B87 
+6,反回神経麻痺,L,G522,GH1R,=,http://id.who.int/icd/entity/1705350882,<,CA0H.0
+6,回帰神経麻痺,S1,G522,GH1R,=,http://id.who.int/icd/entity/1705350882,<,CA0H.0
+6,両側性反回神経麻痺,L,G522,K5GD,=,http://id.who.int/icd/entity/1705350882 &  http://id.who.int/icd/entity/627678743,<,CA0H.0 & XK9J
+6,迷走神経麻痺,L,G522,N5JK,<,http://id.who.int/icd/entity/1729725109,<,8B86
+6,迷走神経障害,L,G522,QKQ1,=,http://id.who.int/icd/entity/1729725109,=,8B86
+6,第10脳神経障害,S1,G522,QKQ1,=,http://id.who.int/icd/entity/1729725109,=,8B86
+6,上喉頭神経痛,L,G522,RM4S,=,http://id.who.int/icd/entity/64654964,<,8B86
+6,迷走神経緊張症,L,G522,S9F6,<,http://id.who.int/icd/entity/1729725109,<,8B86
+6,迷走神経過敏症,S1,G522,S9F6,<,http://id.who.int/icd/entity/1729725109,<,8B86
+6,迷走神経緊張状態,S1,G522,S9F6,<,http://id.who.int/icd/entity/1729725109,<,8B86
+6,迷走神経痛,L,G522,TAD3,<,http://id.who.int/icd/entity/1729725109,<,8B86
+6,一側性反回神経麻痺,L,G522,THEG,=,http://id.who.int/icd/entity/1705350882 & http://id.who.int/icd/entity/1038788978,=,CA0H.0  & XK70
+6,舌下神経麻痺,L,G523,B7KF,=,http://id.who.int/icd/entity/38948641,=,8B84
+6,舌下神経性萎縮,S1,G523,B7KF,=,http://id.who.int/icd/entity/38948641,=,8B84
+6,舌下神経障害,L,G523,BC6S,=,http://id.who.int/icd/entity/38948641,=,8B84
+6,第12脳神経障害,S1,G523,BC6S,=,http://id.who.int/icd/entity/38948641,=,8B84
+6,舌下神経炎,L,G523,N4NQ,=,http://id.who.int/icd/entity/38948641,=,8B84
+6,小脳橋角症候群,L,G527,BCBP,<,http://id.who.int/icd/entity/85036106,<,8B85
+6,多発脳神経炎,L,G527,F9AA,=,http://id.who.int/icd/entity/85036106,=,8B85
+6,多発性脳神経炎,S1,G527,F9AA,=,http://id.who.int/icd/entity/85036106,=,8B85
+6,多発性脳神経障害,L,G527,J6PJ,=,http://id.who.int/icd/entity/85036106,=,8B85
+6,多発性の脳神経障害,S1,G527,J6PJ,=,http://id.who.int/icd/entity/85036106,=,8B85
+6,ヴィラレ症候群,L,G527,K1G3,=,http://id.who.int/icd/entity/1758806928,<,8B85
+6,VILLARET症候群,S1,G527,K1G3,=,http://id.who.int/icd/entity/1758806928,<,8B85
+6,ビラレー症候群,S1,G527,K1G3,=,http://id.who.int/icd/entity/1758806928,<,8B85
+6,タピア症候群,L,G527,L25Q,=,http://id.who.int/icd/entity/916923553,<,8B85
+6,TAPIA症候群,S1,G527,L25Q,=,http://id.who.int/icd/entity/916923553,<,8B85
+6,頚静脈孔症候群,L,G527,S0K5,=,http://id.who.int/icd/entity/695436789,<,8B85
+6,ヴェルネ症候群,S1,G527,S0K5,=,"http://id.who.int/icd/entity/1737044882
+",<,8B85
+6,頸静脈孔症候群,S1,G527,S0K5,=,http://id.who.int/icd/entity/695436789,<,8B85
+6,VERNET症候群,S1,G527,S0K5,=,"http://id.who.int/icd/entity/1737044882
+",<,8B85
+6,コレ・シカール症候群,L,G527,T436,=,http://id.who.int/icd/entity/1985227848,<,8B85
+6,SICARAD-COLLET症候群,S1,G527,T436,=,http://id.who.int/icd/entity/1985227848,<,8B85
+6,COLLET-SICARAD症候群,S1,G527,T436,=,http://id.who.int/icd/entity/1985227848,<,8B85
+6,シカール症候群,S1,G527,T436,=,http://id.who.int/icd/entity/1985227848,<,8B85
+6,コレー・シカール症候群,S1,G527,T436,=,http://id.who.int/icd/entity/1985227848,<,8B85
+6,COLLET SICARAD症候群,S1,G527,T436,=,http://id.who.int/icd/entity/1985227848,<,8B85
+6,コレー症候群,S1,G527,T436,=,http://id.who.int/icd/entity/1985227848,<,8B85
+6,SICARAD COLLET症候群,S1,G527,T436,=,http://id.who.int/icd/entity/1985227848,<,8B85
+6,多発性脳神経麻痺,L,G527,V8GF,=,http://id.who.int/icd/entity/1675834480,<,8C0Y 
+6,副神経障害,L,G528,BG1L,=,"http://id.who.int/icd/entity/377921406
+",=,8B83 
+6,小後頭神経炎,L,G528,FU7Q,=,http://id.who.int/icd/entity/359348642 & http://id.who.int/icd/entity/695723098 ,=,8B8Z & XA3ND8
+6,副神経麻痺,L,G528,H3A9,<,http://id.who.int/icd/entity/377921406,<,8B83 
+6,僧帽筋麻痺,L,G528,SLHB,<,http://id.who.int/icd/entity/377921406 & http://id.who.int/icd/entity/659014768,<,8B83 & XA86Q8
+6,大後頭神経炎,L,G528,UJFK,=,http://id.who.int/icd/entity/359348642 & http://id.who.int/icd/entity/537497610 ,=,8B8Z & XA6BB0
+6,頭部神経炎,L,G529,U7Q1,=,http://id.who.int/icd/entity/359348642 & http://id.who.int/icd/entity/1357976561,=,8B8Z & XA20Q1
+6,脳神経麻痺,L,G529,VC64,=,http://id.who.int/icd/entity/359348642,=,8B8Z
+6,胸郭出口症候群,L,G540,BH9A,=,http://id.who.int/icd/entity/909280105,<,8B91.Y
+6,胸郭口症候群,S1,G540,BH9A,=,http://id.who.int/icd/entity/909280105,<,8B91.Y
+6,胸部出口症候群,S1,G540,BH9A,=,http://id.who.int/icd/entity/909280105,<,8B91.Y
+6,出口症候群,S1,G540,BH9A,=,http://id.who.int/icd/entity/909280105,<,8B91.Y
+6,腋窩神経麻痺,L,G540,DK92,=,http://id.who.int/icd/entity/1981093217,<,8B91.Y
+6,前斜角筋症候群,L,G540,DNQ3,=,http://id.who.int/icd/entity/129611612,<,8B91.Y
+6,斜角筋症候群,S1,G540,DNQ3,=,http://id.who.int/icd/entity/129611612,<,8B91.Y
+6,ナフジガー症候群,S1,G540,DNQ3,=,http://id.who.int/icd/entity/129611612,<,8B91.Y
+6,NAFFZIGER症候群,S1,G540,DNQ3,=,http://id.who.int/icd/entity/129611612,<,8B91.Y
+6,上腕神経叢完全麻痺,L,G540,HD5F,<,http://id.who.int/icd/entity/1367254559 & http://id.who.int/icd/entity/1957947885,<,8B91.Z &  XK2J 
+6,上腕神経叢麻痺,L,G540,KKBJ,<,http://id.who.int/icd/entity/1367254559,<,8B91.Y
+6,腕神経叢症候群,S1,G540,KKBJ,=,http://id.who.int/icd/entity/1367254559,=,8B91.Z
+6,腕症候群,S1,G540,KKBJ,=,http://id.who.int/icd/entity/1367254559,=,8B91.Z
+6,上腕症候群,S1,G540,KKBJ,=,http://id.who.int/icd/entity/1367254559,=,8B91.Z
+6,腕神経叢麻痺,S1,G540,KKBJ,=,http://id.who.int/icd/entity/1367254559,=,8B91.Z
+6,上腕神経叢下位型麻痺,L,G540,KS6Q,<,http://id.who.int/icd/entity/1367254559,<,8B91.Y
+6,上腕神経叢上位型麻痺,L,G540,M2N8,<,http://id.who.int/icd/entity/1367254559,<,8B91.Y
+6,上腕神経叢圧迫症,L,G540,NU5U,=,http://id.who.int/icd/entity/1367254559 & http://id.who.int/icd/entity/312192089 ,=,8B91.Z & XA6809
+6,上腕神経叢症候群,L,G540,THSD,=,http://id.who.int/icd/entity/1367254559 & http://id.who.int/icd/entity/312192089 ,=,8B91.Z & XA6809
+6,過外転症候群,L,G540,UECK,=,http://id.who.int/icd/entity/909280105,<,8B91.Y
+6,ライト症候群,S1,G540,UECK,=,http://id.who.int/icd/entity/909280105,<,8B91.Y
+6,WRIGHT症候群,S1,G540,UECK,=,http://id.who.int/icd/entity/909280105,<,8B91.Y
+6,腰仙神経叢障害,L,G541,EGP3,=,http://id.who.int/icd/entity/875916171,=,8B92.Z
+6,腰疝神経叢障害,S1,G541,EGP3,=,http://id.who.int/icd/entity/875916171,=,8B92.Z
+6,腰疝骨神経叢圧迫症,S2,G541,EGP3,=,http://id.who.int/icd/entity/875916171,=,8B92.Z
+6,腰仙骨神経叢圧迫症,S2,G541,EGP3,=,http://id.who.int/icd/entity/875916171,=,8B92.Z
+6,頚髄神経根障害,L,G542,SB11,=,http://id.who.int/icd/entity/1923918627,=,8B9Y & XA3UZ3　
+6,頸髄神経根障害,S1,G542,SB11,=,http://id.who.int/icd/entity/1923918627,=,8B9Y & XA3UZ3　
+6,頸部神経根圧迫,S2,G542,SB11,=,http://id.who.int/icd/entity/1923918627,=,8B9Y & XA3UZ3　
+6,頚部神経根圧迫,S2,G542,SB11,=,http://id.who.int/icd/entity/1923918627,=,8B9Y & XA3UZ3　
+6,胸髄神経根障害,L,G543,CDUD,=,http://id.who.int/icd/entity/593414996,=,8B9Y & XA5SU4 
+6,胸部神経根障害,S1,G543,CDUD,=,http://id.who.int/icd/entity/593414996,=,8B9Y & XA5SU4 
+6,馬尾神経障害,L,G544,A9EV,=,http://id.who.int/icd/entity/875916171 & http://id.who.int/icd/entity/677972541,=,8B9Y & XA84W1
+6,腰仙髄神経根障害,L,G544,S065,=,http://id.who.int/icd/entity/1400623279,=,8B9Y & XA4T95 
+6,腰疝髄神経根障害,S1,G544,S065,=,http://id.who.int/icd/entity/1400623279,=,8B9Y & XA4T95 
+6,神経痛性筋萎縮症,L,G545,GCM4,=,http://id.who.int/icd/entity/302246011,=,8B91.0 
+6,神経炎性筋萎縮,S1,G545,GCM4,=,http://id.who.int/icd/entity/302246011,=,8B91.0 
+6,パーソネージ・アンドレ・ターナー症候群,S1,G545,GCM4,=,http://id.who.int/icd/entity/302246011,=,8B91.0 
+6,筋萎縮性神経痛,S1,G545,GCM4,=,http://id.who.int/icd/entity/302246011,=,8B91.0 
+6,上腕神経叢ニューロパチー,S2,G545,GCM4,=,http://id.who.int/icd/entity/1367254559 & http://id.who.int/icd/entity/986233688,=,8B91.Z & XA6809
+6,上腕神経叢ニューロパシー,S2,G545,GCM4,=,http://id.who.int/icd/entity/1367254559 & http://id.who.int/icd/entity/986233688,=,8B91.Z & XA6809
+6,ニューロパシー性筋萎縮,S2,G545,GCM4,=,http://id.who.int/icd/entity/1367254559 / http://id.who.int/icd/entity/1431136739,=,8B91.Z / 8C7Y
+6,神経病性筋萎縮,S2,G545,GCM4,=,http://id.who.int/icd/entity/1367254559 / http://id.who.int/icd/entity/1431136739,=,8B91.Z / 8C7Y
+6,ニューロパチー性筋萎縮,S2,G545,GCM4,=,http://id.who.int/icd/entity/1367254559 / http://id.who.int/icd/entity/1431136739,=,8B91.Z / 8C7Y
+6,上腕神経叢炎,S2,G545,GCM4,=,http://id.who.int/icd/entity/1367254559 & http://id.who.int/icd/entity/312192089 ,=,8B91.Z & XA6809
+6,肩甲帯神経炎,L,G545,N0QH,=,http://id.who.int/icd/entity/302246011,=,8B91.0 
+6,上腕神経根炎,L,G545,S3M5,=,http://id.who.int/icd/entity/617667355,<,8B93.Y
+6,腕神経痛,S1,G545,S3M5,=,http://id.who.int/icd/entity/617667355,<,8B93.Y
+6,上腕神経炎,S2,G545,S3M5,=,http://id.who.int/icd/entity/617667355,<,8B93.Y
+6,断端神経痛,L,G546,DCM4,=,http://id.who.int/icd/entity/1994899048,<,8E43.00 
+6,幻肢痛,L,G546,EGC1,=,http://id.who.int/icd/entity/1994899048,<,8E43.00 
+6,幻肢,L,G547,CU4T,=,http://id.who.int/icd/entity/1994899048,=,8E43.00 
+6,幻肢症候群,S1,G547,CU4T,=,http://id.who.int/icd/entity/1994899048,=,8E43.00 
+6,求心路遮断痛,L,G548,HSQA,=,http://id.who.int/icd/entity/1415867395,<,MG30.04 
+6,求心路遮断性疼痛,S1,G548,HSQA,=,http://id.who.int/icd/entity/1415867395,<,MG30.04 
+6,手根管症候群,L,G560,CNMH,=,http://id.who.int/icd/entity/1275186848,=,8C10.0 
+6,カーパータンネル症候群,S1,G560,CNMH,=,http://id.who.int/icd/entity/1275186848,=,8C10.0 
+6,カーパー・タンネル症候群,S1,G560,CNMH,=,http://id.who.int/icd/entity/1275186848,=,8C10.0 
+6,手掌管症候群,S1,G560,CNMH,=,http://id.who.int/icd/entity/1275186848,=,8C10.0 
+6,手根管狭窄,S1,G560,CNMH,=,http://id.who.int/icd/entity/1275186848,=,8C10.0 
+6,正中神経圧迫症,S1,G560,CNMH,=,http://id.who.int/icd/entity/1275186848,=,8C10.0 
+6,手根管圧迫症候群,S1,G560,CNMH,=,http://id.who.int/icd/entity/1275186848,=,8C10.0 
+6,回内筋症候群,L,G561,AERG,=,http://id.who.int/icd/entity/1780853513,<,8C10.Y 
+6,円回内筋症候群,S1,G561,AERG,=,http://id.who.int/icd/entity/1780853513,<,8C10.Y 
+6,正中神経神経痛,L,G561,DNE8,=,http://id.who.int/icd/entity/692716342,=,8C10.Y & XA0GB0
+6,前骨間神経麻痺,L,G561,H372,=,http://id.who.int/icd/entity/692716342,=,8C10.Y & XA6RQ4 
+6,正中神経麻痺,L,G561,QFK2,=,http://id.who.int/icd/entity/692716342,=,8C10.Y & XA0GB0
+6,正中神経不全麻痺,L,G561,S9J1,=,http://id.who.int/icd/entity/692716342,=,8C10.Y & XA0GB0
+6,遅発性尺骨神経麻痺,L,G562,A0AH,=,http://id.who.int/icd/entity/1575441355,=,8C10.1 
+6,肘部管症候群,L,G562,ANGS,=,http://id.who.int/icd/entity/1686811780,<,8C10.1 
+6,肘管症候群,S1,G562,ANGS,=,http://id.who.int/icd/entity/1686811780,<,8C10.1 
+6,肘尺骨神経溝症候群,S1,G562,ANGS,=,http://id.who.int/icd/entity/1686811780,<,8C10.1 
+6,尺骨神経溝症候群,S1,G562,ANGS,=,http://id.who.int/icd/entity/1686811780,<,8C10.1 
+6,肘トンネル症候群,S1,G562,ANGS,=,http://id.who.int/icd/entity/1686811780,<,8C10.1 
+6,ギヨン管症候群,L,G562,D15U,=,http://id.who.int/icd/entity/1686811780,<,8C10.1 
+6,ギオン管症候群,S1,G562,D15U,=,http://id.who.int/icd/entity/1686811780,<,8C10.1 
+6,尺骨管症候群,S1,G562,D15U,=,http://id.who.int/icd/entity/1686811780,<,8C10.1 
+6,尺骨神経管症候群,S1,G562,D15U,=,http://id.who.int/icd/entity/1686811780,<,8C10.1 
+6,尺骨神経麻痺,L,G562,G7VL,=,http://id.who.int/icd/entity/1146377056,<,8C10.1 
+6,尺骨神経の病変,S2,G562,G7VL,=,http://id.who.int/icd/entity/1146377056,=,8C10.1 
+6,尺骨神経障害,S2,G562,G7VL,=,http://id.who.int/icd/entity/1146377056,=,8C10.1 
+6,尺骨神経痛,L,G562,GVNN,=,http://id.who.int/icd/entity/1146377056 / http://id.who.int/icd/entity/425464783,=,8C10.1 / MG30.51 
+6,肘部絞扼性神経障害,L,G562,LG9P,=,http://id.who.int/icd/entity/775321209,<,8C10.1 
+6,肘部絞扼性ニューロパチー,S1,G562,LG9P,=,http://id.who.int/icd/entity/775321209,<,8C10.1 
+6,肘部絞扼性ニューロパシー,S1,G562,LG9P,=,http://id.who.int/icd/entity/775321209,<,8C10.1 
+6,肘部絞扼神経障害,S1,G562,LG9P,=,http://id.who.int/icd/entity/775321209,<,8C10.1 
+6,肘部絞扼ニューロパチー,S1,G562,LG9P,=,http://id.who.int/icd/entity/775321209,<,8C10.1 
+6,肘部絞扼ニューロパシー,S1,G562,LG9P,=,http://id.who.int/icd/entity/775321209,<,8C10.1 
+6,尺骨神経不全麻痺,L,G562,PTVF,=,http://id.who.int/icd/entity/1146377056,<,8C10.1 
+6,尺骨神経炎,L,G562,QNJQ,=,http://id.who.int/icd/entity/1575441355,=,8C10.1 
+6,垂れ手,L,G563,FFVR,=,http://id.who.int/icd/entity/1589580685 / http://id.who.int/icd/entity/752284016,<,8C10.2 / FA31.3
+6,下垂手,S1,G563,FFVR,=,http://id.who.int/icd/entity/1589580685 / http://id.who.int/icd/entity/752284016,<,8C10.2 / FA31.3
+6,垂手,S1,G563,FFVR,=,http://id.who.int/icd/entity/1589580685 / http://id.who.int/icd/entity/752284016,<,8C10.2 / FA31.3
+6,前腕部絞扼性神経障害,L,G563,GDRC,=,http://id.who.int/icd/entity/1764504307,<,8C10.2
+6,前腕部絞扼ニューロパチー,S1,G563,GDRC,=,http://id.who.int/icd/entity/1764504307,<,8C10.2
+6,前腕部絞扼性ニューロパシー,S1,G563,GDRC,=,http://id.who.int/icd/entity/1764504307,<,8C10.2
+6,前腕部絞扼ニューロパシー,S1,G563,GDRC,=,http://id.who.int/icd/entity/1764504307,<,8C10.2
+6,前腕部絞扼性ニューロパチー,S1,G563,GDRC,=,http://id.who.int/icd/entity/1764504307,<,8C10.2
+6,前腕部絞扼神経障害,S1,G563,GDRC,=,http://id.who.int/icd/entity/1764504307,<,8C10.2
+6,橈骨神経麻痺,L,G563,J3BN,=,http://id.who.int/icd/entity/1555484542,<,8C10.2
+6,橈骨神経管症候群,S2,G563,J3BN,<,http://id.who.int/icd/entity/1555484542,<,8C10.2
+6,橈骨神経の病変,S2,G563,J3BN,=,http://id.who.int/icd/entity/950836831,=,8C10.2
+6,橈骨神経障害,S2,G563,J3BN,=,http://id.who.int/icd/entity/950836831,=,8C10.2
+6,橈骨神経炎,L,G563,KUKE,=,http://id.who.int/icd/entity/950836831,=,8C10.2
+6,橈骨神経不全麻痺,L,G563,Q3NK,=,http://id.who.int/icd/entity/1555484542,<,8C10.2
+6,後骨間神経麻痺,L,G563,THAR,=,http://id.who.int/icd/entity/1589580685,<,8C10.2
+6,橈骨神経深枝麻痺,S1,G563,THAR,=,http://id.who.int/icd/entity/1555484542 & http://id.who.int/icd/entity/300271419 ,<,8C10.2 & XA5179 
+6,カウザルギー,L,G564,VA3Q,=,http://id.who.int/icd/entity/1415867395,<,MG30.04 
+6,灼熱痛,S1,G564,VA3Q,=,http://id.who.int/icd/entity/1415867395,<,MG30.04 
+6,上腕神経麻痺,L,G568,KCJE,=,http://id.who.int/icd/entity/304675531,<,8C10.Y
+6,手関節部絞扼性神経障害,L,G569,C0C3,=,http://id.who.int/icd/entity/1275186848,=,8C10.0 
+6,手関節部絞扼ニューロパチー,S1,G569,C0C3,=,http://id.who.int/icd/entity/1275186848,=,8C10.0 
+6,手関節部絞扼性ニューロパシー,S1,G569,C0C3,=,http://id.who.int/icd/entity/1275186848,=,8C10.0 
+6,手関節部絞扼神経障害,S1,G569,C0C3,=,http://id.who.int/icd/entity/1275186848,=,8C10.0 
+6,手関節部絞扼ニューロパシー,S1,G569,C0C3,=,http://id.who.int/icd/entity/1275186848,=,8C10.0 
+6,手関節部絞扼性ニューロパチー,S1,G569,C0C3,=,http://id.who.int/icd/entity/1275186848,=,8C10.0 
+6,坐骨神経麻痺,L,G570,BJBK,=,http://id.who.int/icd/entity/1358497313,=,8C11.0Z
+6,坐骨神経障害,S2,G570,BJBK,=,http://id.who.int/icd/entity/1358497313,=,8C11.0Z
+6,坐骨神経の病変,S2,G570,BJBK,=,http://id.who.int/icd/entity/1358497313,=,8C11.0Z
+6,根性坐骨神経麻痺,S2,G570,BJBK,<,http://id.who.int/icd/entity/1358497313,<,8C11.0Z
+6,坐骨神経絞扼症,L,G570,N8N1,<,http://id.who.int/icd/entity/1358497313,<,8C11.0Y
+6,坐骨神経炎,L,G570,Q33T,=,http://id.who.int/icd/entity/1358497313,=,8C11.0Z
+6,梨状筋症候群,L,G570,S6NV,=,http://id.who.int/icd/entity/1379565645,=,8C11.00
+6,根性坐骨神経症,L,G570,SD5M,=,http://id.who.int/icd/entity/1358497313,=,8C11.0Z
+6,坐骨単神経炎,L,G570,SLNJ,=,http://id.who.int/icd/entity/1358497313,=,8C11.0Z
+6,知覚異常性大腿神経痛,L,G571,Q0HC,=,http://id.who.int/icd/entity/900910005,=,8C11.1
+6,外側大腿皮神経単発性神経炎,S1,G571,Q0HC,=,http://id.who.int/icd/entity/900910005,=,8C11.1
+6,大腿皮神経絞扼症,S1,G571,Q0HC,=,http://id.who.int/icd/entity/900910005,=,8C11.1
+6,異常感覚性大腿痛,S1,G571,Q0HC,=,http://id.who.int/icd/entity/900910005,=,8C11.1
+6,ベルンハルト・ロート症候群,S1,G571,Q0HC,=,http://id.who.int/icd/entity/900910005,=,8C11.1
+6,ロート大腿痛,S1,G571,Q0HC,=,http://id.who.int/icd/entity/900910005,=,8C11.1
+6,ベルンハルト疾患,S1,G571,Q0HC,=,http://id.who.int/icd/entity/900910005,=,8C11.1
+6,大腿外側皮神経炎,S1,G571,Q0HC,=,http://id.who.int/icd/entity/900910005,=,8C11.1
+6,ベルンハルト感覚異常,S1,G571,Q0HC,=,http://id.who.int/icd/entity/900910005,=,8C11.1
+6,ロート・ベルナード病,S1,G571,Q0HC,=,http://id.who.int/icd/entity/900910005,=,8C11.1
+6,ロート・ベルナード症候群,S1,G571,Q0HC,=,http://id.who.int/icd/entity/900910005,=,8C11.1
+6,ベルンハルト・ロート病,S1,G571,Q0HC,=,http://id.who.int/icd/entity/900910005,=,8C11.1
+6,大腿神経炎,L,G572,FMLA,=,http://id.who.int/icd/entity/1092590410,=,8C11.2
+6,大腿単神経炎,S2,G572,FMLA,=,http://id.who.int/icd/entity/1092590410,=,8C11.2
+6,大腿神経麻痺,L,G572,LVQD,=,http://id.who.int/icd/entity/1092590410,=,8C11.2
+6,大腿神経障害,S2,G572,LVQD,=,http://id.who.int/icd/entity/1092590410,=,8C11.2
+6,大腿神経の病変,S2,G572,LVQD,=,http://id.who.int/icd/entity/1092590410,=,8C11.2
+6,腓骨神経不全麻痺,L,G573,ALM2,=,http://id.who.int/icd/entity/1465329988,=,8C11.3 & XA7HH4 
+6,外側膝窩神経障害,L,G573,D5DD,=,http://id.who.int/icd/entity/609507040,=,8C11.3
+6,腓骨神経麻痺,L,G573,E7Q1,=,http://id.who.int/icd/entity/1465329988,=,8C11.3 & XA7HH4 
+6,外側膝窩神経の病変,S1,G573,E7Q1,=,http://id.who.int/icd/entity/609507040,=,8C11.3
+6,内側膝窩神経障害,L,G574,VEAQ,=,http://id.who.int/icd/entity/1471857996,=,8C11.4
+6,内側膝窩神経の病変,S1,G574,VEAQ,=,http://id.who.int/icd/entity/1471857996,=,8C11.4
+6,足根管症候群,L,G575,UNAH,=,http://id.who.int/icd/entity/854657246,=,8C11.5 
+6,後脛骨神経圧迫症,S1,G575,UNAH,=,http://id.who.int/icd/entity/854657246,=,8C11.5 
+6,足部神経管症候群,S1,G575,UNAH,=,http://id.who.int/icd/entity/854657246,=,8C11.5 
+6,モートン病,L,G576,HSTF,=,http://id.who.int/icd/entity/58858191,<,8C11.6 
+6,モートン中足骨痛,S1,G576,HSTF,=,http://id.who.int/icd/entity/58858191,<,8C11.6 
+6,モートン中足骨症,S1,G576,HSTF,=,http://id.who.int/icd/entity/58858191,<,8C11.6 
+6,足モートン神経腫,S1,G576,HSTF,=,http://id.who.int/icd/entity/58858191,<,8C11.6 
+6,足底神経の病変,S2,G576,HSTF,=,http://id.who.int/icd/entity/1180456993,=,8C11.6 
+6,第3趾神経腫,S2,G576,HSTF,=,http://id.who.int/icd/entity/58858191,<,8C11.6 
+6,足底神経障害,S2,G576,HSTF,=,http://id.who.int/icd/entity/1180456993,=,8C11.6 
+6,下肢趾間神経腫,L,G578,JRTA,=,http://id.who.int/icd/entity/58858191,<,8C11.6 
+6,大腿部絞扼性神経障害,L,G579,GPCG,=,http://id.who.int/icd/entity/347628959,=,8C11.2 & XA9EW1
+6,大腿部絞扼ニューロパチー,S1,G579,GPCG,=,http://id.who.int/icd/entity/347628959,=,8C11.2 & XA9EW1
+6,大腿部絞扼ニューロパシー,S1,G579,GPCG,=,http://id.who.int/icd/entity/347628959,=,8C11.2 & XA9EW1
+6,大腿部絞扼性ニューロパシー,S1,G579,GPCG,=,http://id.who.int/icd/entity/347628959,=,8C11.2 & XA9EW1
+6,大腿部絞扼性ニューロパチー,S1,G579,GPCG,=,http://id.who.int/icd/entity/347628959,=,8C11.2 & XA9EW1
+6,大腿部絞扼神経障害,S1,G579,GPCG,=,http://id.who.int/icd/entity/347628959,=,8C11.2 & XA9EW1
+6,足部絞扼性神経障害,L,G579,MV4F,=,http://id.who.int/icd/entity/854657246,=,8C11.5 
+6,足部絞扼性ニューロパチー,S1,G579,MV4F,=,http://id.who.int/icd/entity/854657246,=,8C11.5 
+6,足部絞扼神経障害,S1,G579,MV4F,=,http://id.who.int/icd/entity/854657246,=,8C11.5 
+6,足部絞扼ニューロパシー,S1,G579,MV4F,=,http://id.who.int/icd/entity/854657246,=,8C11.5 
+6,足部絞扼ニューロパチー,S1,G579,MV4F,=,http://id.who.int/icd/entity/854657246,=,8C11.5 
+6,足部絞扼性ニューロパシー,S1,G579,MV4F,=,http://id.who.int/icd/entity/854657246,=,8C11.5 
+6,肋間神経麻痺,L,G580,JCTT,=,http://id.who.int/icd/entity/511563165,=,8C12.0
+6,肋間神経痛,L,G580,JR11,=,http://id.who.int/icd/entity/511563165 / http://id.who.int/icd/entity/425464783,=,8C12.0 / MG30.51
+6,肋間神経障害,S1,G580,JR11,=,http://id.who.int/icd/entity/511563165,=,8C12.0
+6,肋間ニューロパチー,S1,G580,JR11,=,http://id.who.int/icd/entity/511563165,=,8C12.0
+6,肋間ニューロパシー,S1,G580,JR11,=,http://id.who.int/icd/entity/511563165,=,8C12.0
+6,肋間神経炎,S2,G580,JR11,=,http://id.who.int/icd/entity/511563165,=,8C12.0
+6,多発性単神経炎,L,G587,HNSA,=,http://id.who.int/icd/entity/1838368265,=,8C12.1
+6,多発単神経炎,S1,G587,HNSA,=,http://id.who.int/icd/entity/1838368265,=,8C12.1
+6,多発性単ニューロパチー,L,G587,MLSB,=,http://id.who.int/icd/entity/1838368265,=,8C12.1
+6,多発性単ニューロパシー,S1,G587,MLSB,=,http://id.who.int/icd/entity/1838368265,=,8C12.1
+6,肩部絞扼性神経障害,L,G588,CS66,<,http://id.who.int/icd/entity/1793371217,<,8C12.2
+6,肩部絞扼性ニューロパシー,S1,G588,CS66,<,http://id.who.int/icd/entity/1793371217,<,8C12.2
+6,肩部絞扼ニューロパチー,S1,G588,CS66,<,http://id.who.int/icd/entity/1793371217,<,8C12.2
+6,肩部絞扼性ニューロパチー,S1,G588,CS66,<,http://id.who.int/icd/entity/1793371217,<,8C12.2
+6,肩部絞扼ニューロパシー,S1,G588,CS66,<,http://id.who.int/icd/entity/1793371217,<,8C12.2
+6,肩部絞扼神経障害,S1,G588,CS66,<,http://id.who.int/icd/entity/1793371217,<,8C12.2
+6,肩甲上神経麻痺,L,G588,N7B7,<,http://id.who.int/icd/entity/1793371217,<,8C12.2
+6,横隔神経麻痺,L,G588,Q6MT,=,http://id.who.int/icd/entity/1655332958,=,8C12.Y & XA9ZM0
+6,横隔膜神経麻痺,S1,G588,Q6MT,=,http://id.who.int/icd/entity/1655332958,=,8C12.Y & XA9ZM0
+6,絞扼性ニューロパチー,L,G589,D4F7,=,http://id.who.int/icd/entity/1914474454,=,8C1Z
+6,圧迫性ニューロパシー,S1,G589,D4F7,=,http://id.who.int/icd/entity/1914474454,=,8C1Z
+6,絞扼性ニューロパシー,S1,G589,D4F7,=,http://id.who.int/icd/entity/1914474454,=,8C1Z
+6,圧迫性ニューロパチー,S1,G589,D4F7,=,http://id.who.int/icd/entity/1914474454,=,8C1Z
+6,坐骨神経痛性神経圧迫症,L,G589,RGS2,=,http://id.who.int/icd/entity/1914474454 & http://id.who.int/icd/entity/1360607098,<,8C1Z & XA9KK8
+6,マリー失調症,L,G600,D6Q4,=,http://id.who.int/icd/entity/1091217288,=,8C21.Z 
+6,MARIE失調症,S1,G600,D6Q4,=,http://id.who.int/icd/entity/1091217288,=,8C21.Z 
+6,マリー運動失調症,S1,G600,D6Q4,=,http://id.who.int/icd/entity/1091217288,=,8C21.Z 
+6,ルーシー・レヴィー症候群,L,G600,HH0E,=,http://id.who.int/icd/entity/1790389383,<,8C20.Y
+6,ROUSSY-LEVY症候群,S1,G600,HH0E,=,http://id.who.int/icd/entity/1790389383,<,8C20.Y
+6,乳児肥大性ニューロパチー,L,G600,M7GQ,≒,http://id.who.int/icd/entity/418660830,<,8C20.Y
+6,乳児肥大性ニューロパシー,S1,G600,M7GQ,=,http://id.who.int/icd/entity/418660830,<,8C20.Y
+6,シャルコー・マリー・トゥース病,L,G600,RR7D,=,http://id.who.int/icd/entity/1091217288,=,8C21.Z 
+6,シャルコー・マリー・トゥース麻痺,S1,G600,RR7D,=,http://id.who.int/icd/entity/1091217288,=,8C21.Z 
+6,腓骨筋萎縮,S1,G600,RR7D,=,http://id.who.int/icd/entity/1091217288,=,8C21.Z 
+6,マリー・シャルコー・トゥース神経性筋萎縮症,S1,G600,RR7D,=,http://id.who.int/icd/entity/1091217288,=,8C21.Z 
+6,シャルコー・マリー・トース病,S1,G600,RR7D,=,http://id.who.int/icd/entity/1091217288,=,8C21.Z 
+6,神経性進行性筋萎縮症,S1,G600,RR7D,=,http://id.who.int/icd/entity/1091217288,=,8C21.Z 
+6,MARIE CHARCOT TOOTH神経性筋萎縮症,S1,G600,RR7D,=,http://id.who.int/icd/entity/1091217288,=,8C21.Z 
+6,CHARCOT MARIE TOOTH麻痺,S1,G600,RR7D,=,http://id.who.int/icd/entity/1091217288,=,8C21.Z 
+6,CHARCOT MARIE TOOTH病,S1,G600,RR7D,=,http://id.who.int/icd/entity/1091217288,=,8C21.Z 
+6,遺伝性運動感覚性ニューロパチー,L,G600,UKJV,=,http://id.who.int/icd/entity/1538134578,=,8C20.Z
+6,HMSN,S1,G600,UKJV,=,http://id.who.int/icd/entity/1538134578,=,8C20.Z
+6,遺伝性運動感覚ニューロパチー,S1,G600,UKJV,=,http://id.who.int/icd/entity/1538134578,=,8C20.Z
+6,遺伝性運動感覚ニューロパシー,S1,G600,UKJV,=,http://id.who.int/icd/entity/1538134578,=,8C20.Z
+6,遺伝性運動感覚性ニューロパシー,S1,G600,UKJV,=,http://id.who.int/icd/entity/1538134578,=,8C20.Z
+6,デジェリン・ソッタニューロパチー,L,G600,V44Q,=,http://id.who.int/icd/entity/418660830,<,8C20.Y
+6,DEJERINE-SOTTASニューロパチー,S1,G600,V44Q,=,http://id.who.int/icd/entity/418660830,<,8C20.Y
+6,DEJERINE-SOTTAS病,S1,G600,V44Q,=,http://id.who.int/icd/entity/418660830,<,8C20.Y
+6,デジェリン・ソッタニューロパシー,S1,G600,V44Q,=,http://id.who.int/icd/entity/418660830,<,8C20.Y
+6,デジェリン・ソッタ病,S1,G600,V44Q,=,http://id.who.int/icd/entity/418660830,<,8C20.Y
+6,DEJERINE-SOTTASニューロパシー,S1,G600,V44Q,=,http://id.who.int/icd/entity/418660830,<,8C20.Y
+6,レフサム病,L,G601,M7FK,=,http://id.who.int/icd/entity/1055252392,<,5C57.1 
+6,REFSUM病,S1,G601,M7FK,=,http://id.who.int/icd/entity/1055252392,<,5C57.1 
+6,レフサム症候群,S1,G601,M7FK,=,http://id.who.int/icd/entity/1055252392,<,5C57.1 
+6,REFSUM症候群,S1,G601,M7FK,=,http://id.who.int/icd/entity/1055252392,<,5C57.1 
+6,特発性進行性ニューロパチー,L,G603,D3TS,=,http://id.who.int/icd/entity/788742861,=,8C00 
+6,特発性進行性ニューロパシー,S1,G603,D3TS,=,http://id.who.int/icd/entity/788742861,=,8C00 
+6,特発性進行性多発ニューロパチー,L,G603,Q6H4,=,http://id.who.int/icd/entity/788742861,=,8C00 
+6,特発性進行性多発ニューロパシー,S1,G603,Q6H4,=,http://id.who.int/icd/entity/788742861,=,8C00 
+6,遺伝性感覚性ニューロパチー,L,G608,A8JG,=,http://id.who.int/icd/entity/1091217288,=,8C21.Z
+6,遺伝性感覚性ニューロパシー,S1,G608,A8JG,=,http://id.who.int/icd/entity/1091217288,=,8C21.Z
+6,モルバン病,L,G608,A8RH,=,http://id.who.int/icd/entity/646523932 & http://id.who.int/icd/entity/1201187093 ,=,8C71.4 & XS25
+6,優性遺伝性感覚性ニューロパチー,L,G608,B5Q4,<,http://id.who.int/icd/entity/1091217288,<,8C21.Z
+6,優性遺伝性感覚性ニューロパシー,S1,G608,B5Q4,<,http://id.who.int/icd/entity/1091217288,<,8C21.Z
+6,遺伝性圧脆弱性ニューロパチー,L,G608,BM6A,=,http://id.who.int/icd/entity/2126843932,<,8C20.Y
+6,トマキュラニューロパシー,S1,G608,BM6A,=,http://id.who.int/icd/entity/2126843932,<,8C20.Y
+6,ソーセージ様ニューロパシー,S1,G608,BM6A,=,http://id.who.int/icd/entity/2126843932,<,8C20.Y
+6,遺伝性圧脆弱性ニューロパシー,S1,G608,BM6A,=,http://id.who.int/icd/entity/2126843932,<,8C20.Y
+6,ソーセージ様ニューロパチー,S1,G608,BM6A,=,http://id.who.int/icd/entity/2126843932,<,8C20.Y
+6,トマキュラニューロパチー,S1,G608,BM6A,=,http://id.who.int/icd/entity/2126843932,<,8C20.Y
+6,ネラトン症候群,L,G608,KE3D,<,http://id.who.int/icd/entity/1091217288,<,8C21.Y
+6,遺伝性感覚性自律神経性ニューロパチー,L,G608,KLT2,=,http://id.who.int/icd/entity/1091217288,=,8C21.Z
+6,遺伝性感覚性自律神経性ニューロパシー,S1,G608,KLT2,=,http://id.who.int/icd/entity/1091217288,=,8C21.Z
+6,HSAN,S1,G608,KLT2,=,http://id.who.int/icd/entity/1091217288,=,8C21.Z
+6,先天性無痛無汗症,L,G608,L5UQ,=,http://id.who.int/icd/entity/1831234152,=,8C21.2
+6,無痛無汗症,S1,G608,L5UQ,=,http://id.who.int/icd/entity/1831234152,=,8C21.2
+6,遺伝性感覚・自律神経性ニューロパチーIV型,S1,G608,L5UQ,=,http://id.who.int/icd/entity/1831234152,=,8C21.2
+6,先天性無汗無痛症,S1,G608,L5UQ,=,http://id.who.int/icd/entity/1831234152,=,8C21.2
+6,劣性遺伝性感覚性ニューロパチー,L,G608,M1EF,<,http://id.who.int/icd/entity/1091217288,<,8C21.Z
+6,劣性遺伝性感覚性ニューロパシー,S1,G608,M1EF,<,http://id.who.int/icd/entity/1091217288,<,8C21.Z
+6,間質性神経炎,L,G609,ADBP,=,http://id.who.int/icd/entity/534008644,<,8C20.Y 
+6,慢性家族性多発性神経炎,L,G609,H0QB,<,http://id.who.int/icd/entity/1820169460,<,8C2Y
+6,遺伝性ニューロパチー,L,G609,L3P5,=,http://id.who.int/icd/entity/1820169460,=,8C2Z
+6,遺伝性ニューロパシー,S1,G609,L3P5,=,http://id.who.int/icd/entity/1820169460,=,8C2Z
+6,全身末梢神経症,L,G609,MV8R,<,http://id.who.int/icd/entity/1468523039 & http://id.who.int/icd/entity/1479602347,<, 8C2Y & XK63
+6,特発性ニューロパチー,L,G609,UCRN,=,http://id.who.int/icd/entity/1820169460 &  http://id.who.int/icd/entity/894194405,=,8C2Z & XB5F
+6,特発性ニューロパシー,S1,G609,UCRN,=, http://id.who.int/icd/entity/1820169460 &  http://id.who.int/icd/entity/894194405,=,8C2Z & XB5F
+6,ギラン・バレー症候群,L,G610,G63T,=,http://id.who.int/icd/entity/1196874419,=,8C01.0 
+6,ランドリー・ギラン・バレー症候群,S1,G610,G63T,=,http://id.who.int/icd/entity/1196874419,=,8C01.0 
+6,感染性多発神経根炎,S1,G610,G63T,=,http://id.who.int/icd/entity/1196874419,=,8C01.0 
+6,急性多発性神経炎,S1,G610,G63T,=,http://id.who.int/icd/entity/1196874419,=,8C01.0 
+6,ギラン・バレー病,S1,G610,G63T,=,http://id.who.int/icd/entity/1196874419,=,8C01.0 
+6,ランドリー麻痺,S1,G610,G63T,=,http://id.who.int/icd/entity/1196874419,=,8C01.0 
+6,GUILLAIN BARRE症候群,S1,G610,G63T,=,http://id.who.int/icd/entity/1196874419,=,8C01.0 
+6,急性感染性多発神経炎,S1,G610,G63T,=,http://id.who.int/icd/entity/1196874419,=,8C01.0 
+6,ミラーフィッシャー症候群,L,G610,J8HC,=,http://id.who.int/icd/entity/134795253,<,8C01.0 
+6,FISHER症候群,S1,G610,J8HC,=,http://id.who.int/icd/entity/134795253,<,8C01.0 
+6,フィッシャー症候群,S1,G610,J8HC,=,http://id.who.int/icd/entity/134795253,<,8C01.0 
+6,MILLER FISHER症候群,S1,G610,J8HC,=,http://id.who.int/icd/entity/134795253,<,8C01.0 
+6,ビッカースタッフ脳幹脳炎,L,G610,JH6L,=,http://id.who.int/icd/entity/163316971,<,8C01.0 
+6,BICKERSTAFF脳幹脳炎,S1,G610,JH6L,=,http://id.who.int/icd/entity/163316971,<,8C01.0 
+6,多巣性運動ニューロパチー,L,G618,NBKL,=,http://id.who.int/icd/entity/980657399,<,8C01.3
+6,多巣性運動ニューロパシー,S1,G618,NBKL,=,http://id.who.int/icd/entity/980657399,<,8C01.3
+6,慢性炎症性脱髄性多発神経炎,L,G618,R3MT,=,http://id.who.int/icd/entity/224318510,=,8C01.3
+6,慢性炎症性脱髄性多発ニューロパチー,S1,G618,R3MT,=,http://id.who.int/icd/entity/224318510,=,8C01.3
+6,慢性炎症性脱髄性多発根神経炎,S1,G618,R3MT,=,http://id.who.int/icd/entity/224318510,=,8C01.3
+6,CIDP,S1,G618,R3MT,=,http://id.who.int/icd/entity/224318510,=,8C01.3
+6,慢性炎症性脱髄性多発根ニューロパチー,S1,G618,R3MT,=,http://id.who.int/icd/entity/224318510,=,8C01.3
+6,スモン,L,G620,TE6V,=,"http://id.who.int/icd/entity/1188133517 & http://id.who.int/icd/entity/761131879 
+/ http://id.who.int/icd/entity/303599530
+",=,8D43.20 & XM1V59 / PH48
+6,スモン病,S1,G620,TE6V,=,"http://id.who.int/icd/entity/1188133517 & http://id.who.int/icd/entity/761131879 
+/ http://id.who.int/icd/entity/303599530
+",=,8D43.20 & XM1V59 / PH48
+6,スモン(病),S1,G620,TE6V,=,"http://id.who.int/icd/entity/1188133517 & http://id.who.int/icd/entity/761131879 
+/ http://id.who.int/icd/entity/303599530
+",=,8D43.20 & XM1V59 / PH48
+6,薬物誘発性多発ニューロパチー,L,G620,TNFK,=,http://id.who.int/icd/entity/1188133517,=,8D43.20
+6,薬物誘発性多発ニューロパシー,S1,G620,TNFK,=,http://id.who.int/icd/entity/1188133517,=,8D43.20
+6,薬物性末梢神経障害,S2,G620,TNFK,=,http://id.who.int/icd/entity/1188133517,=,8D43.20
+6,アルコール性多発ニューロパチー,L,G621,RT97,=,http://id.who.int/icd/entity/1188133517,=,8D44.0
+6,アルコール性ニューロパシー,S1,G621,RT97,=,http://id.who.int/icd/entity/1188133517,=,8D44.0
+6,アルコール性多発ニューロパシー,S1,G621,RT97,=,http://id.who.int/icd/entity/1188133517,=,8D44.0
+6,アルコール性神経炎,S1,G621,RT97,=,http://id.who.int/icd/entity/1188133517,=,8D44.0
+6,アルコール性多発神経炎,S1,G621,RT97,=,http://id.who.int/icd/entity/1188133517,=,8D44.0
+6,アルコール性末梢神経障害,S1,G621,RT97,=,http://id.who.int/icd/entity/1188133517,=,8D44.0
+6,アルコール性ニューロパチー,S1,G621,RT97,=,http://id.who.int/icd/entity/1188133517,=,8D44.0
+6,エタノール中毒性神経炎,S2,G621,RT97,=,http://id.who.int/icd/entity/1188133517,=,8D44.0
+6,中毒性ニューロパチー,L,G622,GFH1,=,http://id.who.int/icd/entity/1851919630,=,8D43.2Z
+6,中毒性ニューロパシー,S1,G622,GFH1,=,http://id.who.int/icd/entity/1851919630,=,8D43.2Z
+6,放射線神経炎,L,G628,MF2K,=,http://id.who.int/icd/entity/1067183755,=,8D43.21 
+6,放射線ニューロパチー,S1,G628,MF2K,=,http://id.who.int/icd/entity/1067183755,=,8D43.21 
+6,放射線ニューロパシー,S1,G628,MF2K,=,http://id.who.int/icd/entity/1067183755,=,8D43.21 
+6,放射線神経障害,S1,G628,MF2K,=,http://id.who.int/icd/entity/1067183755,=,8D43.21 
+6,多発性神経炎,L,G629,B26E,=,http://id.who.int/icd/entity/58868923,=,8C0Z 
+6,多発性神経障害,L,G629,KTD1,=,http://id.who.int/icd/entity/58868923,=,8C0Z 
+6,反復性多発性神経炎,L,G629,LVD6,=,http://id.who.int/icd/entity/58868923 &  http://id.who.int/icd/entity/1721353160,=,8C0Z & XT44
+6,多発ニューロパチー,L,G629,MHQ1,=,http://id.who.int/icd/entity/58868923,=,8C0Z 
+6,多発性ニューロパチー,S1,G629,MHQ1,=,http://id.who.int/icd/entity/58868923,=,8C0Z 
+6,ポリニューロパシー,S1,G629,MHQ1,=,http://id.who.int/icd/entity/58868923,=,8C0Z 
+6,多発ニューロパシー,S1,G629,MHQ1,=,http://id.who.int/icd/entity/58868923,=,8C0Z 
+6,ポリニューロパチー,S1,G629,MHQ1,=,http://id.who.int/icd/entity/58868923,=,8C0Z 
+6,多発神経炎,S1,G629,MHQ1,=,http://id.who.int/icd/entity/58868923,=,8C0Z 
+6,末梢神経炎,L,G629,QUDA,=,http://id.who.int/icd/entity/58868923,=,8C0Z 
+6,慢性多発性根神経炎,S2,G629,QUDA,=,http://id.who.int/icd/entity/2083889999 & http://id.who.int/icd/entity/490003542,<,8C0Z & XT8W 
+6,末梢神経障害,L,G629,VB2H,=,http://id.who.int/icd/entity/58868923,=,8C0Z 
+6,末梢神経系障害,S1,G629,VB2H,=,http://id.who.int/icd/entity/58868923,=,8C0Z 
+6,末梢性神経障害,S1,G629,VB2H,=,http://id.who.int/icd/entity/58868923,=,8C0Z 
+6,末梢神経障害性疼痛,L,G64,RVNV,=,http://id.who.int/icd/entity/58868923 / http://id.who.int/icd/entity/425464783 ,=,8C0Z / MG30.51
+6,末梢性神経障害性疼痛,L,G64,RVNV,=,http://id.who.int/icd/entity/58868923 / http://id.who.int/icd/entity/425464783 ,=,8C0Z / MG30.51
+6,眼筋型重症筋無力症,L,G700,D48R,=,http://id.who.int/icd/entity/1270100227 / http://id.who.int/icd/entity/973190159,=,8C60.Y / 9C82.Z
+6,眼筋性重症筋無力症,S1,G700,D48R,=,http://id.who.int/icd/entity/1270100227 / http://id.who.int/icd/entity/973190159,=,8C60.Y / 9C82.Z
+6,眼筋型筋無力症,S1,G700,D48R,=,http://id.who.int/icd/entity/1270100227 / http://id.who.int/icd/entity/973190159,=,8C60.Y / 9C82.Z
+6,胸腺腫合併重症筋無力症,L,G700,HEC1,=,http://id.who.int/icd/entity/704273188,<,8C60.Y 
+6,若年型重症筋無力症,L,G700,K9BA,<,http://id.who.int/icd/entity/1270100227,<,8C60.Y 
+6,胸腺摘出後重症筋無力症,L,G700,R7RR,=,http://id.who.int/icd/entity/704273188 & http://id.who.int/icd/entity/182265087,<,8C60.Y 
+6,胸腺摘出術後重症筋無力症,S1,G700,R7RR,=,http://id.who.int/icd/entity/704273188 & http://id.who.int/icd/entity/182265087,<,8C60.Y 
+6,全身型重症筋無力症,L,G700,SNJC,=,http://id.who.int/icd/entity/1270100227 & http://id.who.int/icd/entity/1479602347 ,=,8C60.Z & XK63
+6,全身性重症筋無力症,S1,G700,SNJC,=,http://id.who.int/icd/entity/1270100227 & http://id.who.int/icd/entity/1479602347 ,=,8C60.Z & XK63
+6,重症筋無力症,L,G700,SQ10,=,http://id.who.int/icd/entity/1270100227,=,8C60.Z
+6,ゴールドフラム・エルブ症候群,S1,G700,SQ10,=,http://id.who.int/icd/entity/1270100227,=,8C60.Z
+6,エルブ・ゴルドフラム病,S1,G700,SQ10,=,http://id.who.int/icd/entity/1270100227,=,8C60.Z
+6,エルブ・ゴルドフラム症候群,S1,G700,SQ10,=,http://id.who.int/icd/entity/1270100227,=,8C60.Z
+6,GOLDFLAM-ERB症候群,S1,G700,SQ10,=,http://id.who.int/icd/entity/1270100227,=,8C60.Z
+6,ERB-GOLDFLAM症候群,S1,G700,SQ10,=,http://id.who.int/icd/entity/1270100227,=,8C60.Z
+6,エルブ・ゴールドフラム病,S1,G700,SQ10,=,http://id.who.int/icd/entity/1270100227,=,8C60.Z
+6,ERB-GOLDFLAM病,S1,G700,SQ10,=,http://id.who.int/icd/entity/1270100227,=,8C60.Z
+6,エルブ・ゴールドフラム症候群,S1,G700,SQ10,=,http://id.who.int/icd/entity/1270100227,=,8C60.Z
+6,GOLDFLAM-ERB病,S1,G700,SQ10,=,http://id.who.int/icd/entity/1270100227,=,8C60.Z
+6,ゴールドフラム・エルブ病,S1,G700,SQ10,=,http://id.who.int/icd/entity/1270100227,=,8C60.Z
+6,中毒性神経筋障害,L,G701,DVSD,<,http://id.who.int/icd/entity/544766529,<,8C6Y
+6,アルコール性神経筋障害,L,G701,KCC1,<,http://id.who.int/icd/entity/544766529,<,8C6Y
+6,先天性筋無力症候群,L,G702,LH9M,=,http://id.who.int/icd/entity/1515367530,=,8C61
+6,先天性筋無緊張症,S1,G702,LH9M,=,http://id.who.int/icd/entity/1515367530,=,8C61
+6,先天性筋無力症,S1,G702,LH9M,=,http://id.who.int/icd/entity/1515367530,=,8C61
+6,多発性神経筋炎,L,G709,J01D,<,"http://id.who.int/icd/entity/544766529
+",<,8C6Y
+6,筋無力症,L,G709,QQR1,=,http://id.who.int/icd/entity/410340467,<,8C60.Y
+6,神経性筋痙攣,S2,G709,QQR1,=,http://id.who.int/icd/entity/544766529 / http://id.who.int/icd/entity/2144425357　,=,8C6Y / MB47.3
+6,筋無力症様症候群,S2,G709,QQR1,=,http://id.who.int/icd/entity/410340467,<,8C60.Y
+6,神経筋障害,S2,G709,QQR1,=,http://id.who.int/icd/entity/544766529,<,8C6Y
+6,全身性筋無力症,S2,G709,QQR1,=,http://id.who.int/icd/entity/410340467 & http://id.who.int/icd/entity/1479602347,=,8C6Y & XK63
+6,筋神経系疾患,S2,G709,QQR1,=,http://id.who.int/icd/entity/544766529,<,8C6Y
+6,縁取り空胞を伴う遠位型ミオパチー,L,G710,B05U,=,http://id.who.int/icd/entity/1306425531,<,8C75 
+6,縁取り空胞を伴う遠位型ミオパシー,S1,G710,B05U,=,http://id.who.int/icd/entity/1306425531,<,8C75 
+6,ベッカー型筋ジストロフィー,L,G710,C6RE,=,http://id.who.int/icd/entity/690532643,=,8C70.0
+6,BMD,S1,G710,C6RE,=,http://id.who.int/icd/entity/690532643,=,8C70.0
+6,肢帯型筋ジストロフィー,L,G710,CDM5,=,http://id.who.int/icd/entity/887807212,=,8C70.4Z
+6,肢帯筋ジストロフィー,S1,G710,CDM5,=,http://id.who.int/icd/entity/887807212,=,8C70.4Z
+6,LGMD,S1,G710,CDM5,=,http://id.who.int/icd/entity/887807212,=,8C70.4Z
+6,三好型筋ジストロフィー,L,G710,CRG4,=,http://id.who.int/icd/entity/1844018161,<,8C75
+6,三好型ミオパチー,L,G710,CRG4,=,http://id.who.int/icd/entity/1844018161,<,8C75
+6,三好型ミオパシー,S1,G710,CRG4,=,http://id.who.int/icd/entity/1844018161,<,8C75
+6,ウルリッヒ病,L,G710,D4CN,=,http://id.who.int/icd/entity/1011547453,=,8C70.6
+6,ウルリッヒ型先天性筋ジストロフィー,S1,G710,D4CN,=,http://id.who.int/icd/entity/1011547453,=,8C70.6
+6,ULLRICH型先天性筋ジストロフィー,S1,G710,D4CN,=,http://id.who.int/icd/entity/1011547453,=,8C70.6
+6,ULLRICH病,S1,G710,D4CN,=,http://id.who.int/icd/entity/1011547453,=,8C70.6
+6,メロシン欠損型先天性筋ジストロフィー,L,G710,DBG1,=,http://id.who.int/icd/entity/1693850954,<,8C70.6
+6,遠位型ミオパチー,L,G710,EB0E,=,http://id.who.int/icd/entity/596283352,=,8C75
+6,遠位型ミオパシー,S1,G710,EB0E,=,http://id.who.int/icd/entity/596283352,=,8C75
+6,小児型筋ジストロフィー,L,G710,F1FC,=,http://id.who.int/icd/entity/1479561744,=,8C70.1
+6,デュシェンヌ型筋ジストロフィー,L,G710,G586,=,http://id.who.int/icd/entity/1479561744,=,8C70.1
+6,DUCHENNE型筋ジストロフィー,S1,G710,G586,=,http://id.who.int/icd/entity/1479561744,=,8C70.1
+6,DMD,S1,G710,G586,=,http://id.who.int/icd/entity/1479561744,=,8C70.1
+6,筋ジストロフィー,L,G710,JRTT,=,http://id.who.int/icd/entity/1464662404,=,8C70.Z
+6,進行性筋ジストロフィー,L,G710,JRTT,=,http://id.who.int/icd/entity/1464662404,=,8C70.Z
+6,進行性筋ジストロフィー症,S1,G710,JRTT,=,http://id.who.int/icd/entity/1464662404,=,8C70.Z
+6,遺伝性筋ジストロフィー,S1,G710,JRTT,=,http://id.who.int/icd/entity/396687076,=,8C70.6 
+6,遺伝性進行性筋ジストロフィー,S1,G710,JRTT,=,http://id.who.int/icd/entity/396687076,=,8C70.6 
+6,PMD,S1,G710,JRTT,=,http://id.who.int/icd/entity/396687076,=,8C70.6 
+6,進行性筋ジストロフィー(症),S1,G710,JRTT,=,http://id.who.int/icd/entity/396687076,=,8C70.6 
+6,福山型先天性筋ジストロフィー,L,G710,K0PN,=,http://id.who.int/icd/entity/1547688117,<,8C70.6 
+6,福山型先天性筋ジストロフィー症,S1,G710,K0PN,=,http://id.who.int/icd/entity/1547688117,<,8C70.6 
+6,エメリー・ドレイフス型筋ジストロフィー,L,G710,LCRQ,=,http://id.who.int/icd/entity/749295636,=,8C70.2 
+6,EMERY-DREIFUSS型筋ジストロフィー,S1,G710,LCRQ,=,http://id.who.int/icd/entity/749295636,=,8C70.2 
+6,EDMD,S1,G710,LCRQ,=,http://id.who.int/icd/entity/749295636,=,8C70.2 
+6,エメリー・ドレフス型筋ジストロフィー,S1,G710,LCRQ,=,http://id.who.int/icd/entity/749295636,=,8C70.2 
+6,ディスファーリノパシー,L,G710,N0M0,=,http://id.who.int/icd/entity/1844018161,<,8C75
+6,ディスフェルリノパチー,S1,G710,N0M0,=,http://id.who.int/icd/entity/1844018161,<,8C75
+6,ジスフェルリノパチー,S1,G710,N0M0,=,http://id.who.int/icd/entity/1844018161,<,8C75
+6,ベスレムミオパチー,L,G710,PR5H,=,http://id.who.int/icd/entity/72734329,<,8C70.6 
+6,ベスレムミオパシー,S1,G710,PR5H,=,http://id.who.int/icd/entity/72734329,<,8C70.6 
+6,BETHLEMミオパチー,S1,G710,PR5H,=,http://id.who.int/icd/entity/72734329,<,8C70.6 
+6,眼咽頭筋型筋ジストロフィー,L,G710,Q1K3,=,http://id.who.int/icd/entity/1354386293,<,9C82.1
+6,眼筋型筋ジストロフィー,S1,G710,Q1K3,=,http://id.who.int/icd/entity/1354386293,<,9C82.1
+6,眼筋咽頭型筋ジストロフィー,S1,G710,Q1K3,=,http://id.who.int/icd/entity/1354386293,<,9C82.1
+6,眼型筋ジストロフィー,S1,G710,Q1K3,=,http://id.who.int/icd/entity/847954239,<,9C82.1
+6,OPMD,S1,G710,Q1K3,=,http://id.who.int/icd/entity/1354386293,<,9C82.1
+6,エルブ病,L,G710,R41D,=,http://id.who.int/icd/entity/1270100227,=,8C60.Z
+6,顔面肩甲上腕型筋ジストロフィー,L,G710,RQ1A,=,http://id.who.int/icd/entity/621965073,=,8C70.3
+6,FSHD,S1,G710,RQ1A,=,http://id.who.int/icd/entity/621965073,=,8C70.3
+6,眼咽頭遠位型ミオパチー,L,G710,TS79,=,http://id.who.int/icd/entity/1493269618,<,9C82.1
+6,眼咽頭遠位型ミオパシー,S1,G710,TS79,=,http://id.who.int/icd/entity/1493269618,<,9C82.1
+6,偽肥大性筋ジストロフィー,L,G710,UC55,=,http://id.who.int/icd/entity/1464662404,=,8C70.Z 
+6,偽性肥大性筋異栄養症,S1,G710,UC55,=,http://id.who.int/icd/entity/1464662404,=,8C70.Z 
+6,仮性肥大性筋ジストロフィー,S1,G710,UC55,=,http://id.who.int/icd/entity/1464662404,=,8C70.Z 
+6,仮性肥大性筋萎縮症,S1,G710,UC55,=,http://id.who.int/icd/entity/1464662404,=,8C70.Z 
+6,成人偽肥大性筋ジストロフィー,L,G710,UEGS,=,http://id.who.int/icd/entity/1464662404 & http://id.who.int/icd/entity/963352150 ,=,8C70.Z & XT6S 
+6,成人偽肥大性筋異栄養症,S1,G710,UEGS,=,http://id.who.int/icd/entity/1464662404 & http://id.who.int/icd/entity/963352150 ,=,8C70.Z & XT6S 
+6,女性ジストロフィン異常症,L,G710,UK4N,<,http://id.who.int/icd/entity/1464662404 & http://id.who.int/icd/entity/990378205,<,8C70.Y & XX2V25 
+6,遠位型筋ジストロフィー,L,G710,VCUQ,=,http://id.who.int/icd/entity/596283352,=,8C75 
+6,筋緊張性白内障,L,G711,EPB5,=,http://id.who.int/icd/entity/1723425593,=,9B10.2Y / 8C71.0
+6,症候性筋強直症,L,G711,F3SS,=,http://id.who.int/icd/entity/839332886,=,8C71.Z
+6,筋緊張性障害,L,G711,G32N,=,http://id.who.int/icd/entity/839332886,=,8C71.Z
+6,筋強直性障害,S1,G711,G32N,=,http://id.who.int/icd/entity/839332886,=,8C71.Z
+6,非ジストロフィー性ミオトニー症候群,L,G711,GUGU,=,http://id.who.int/icd/entity/370025964,<,8C71.2 
+6,アイザックス症候群,L,G711,GVMG,=,http://id.who.int/icd/entity/646523932,=,8C71.4 
+6,ISAACS症候群,S1,G711,GVMG,=,http://id.who.int/icd/entity/646523932,=,8C71.4 
+6,神経性筋緊張病,S1,G711,GVMG,=,http://id.who.int/icd/entity/646523932,=,8C71.4 
+6,アイザック症候群,S1,G711,GVMG,=,http://id.who.int/icd/entity/646523932,=,8C71.4 
+6,神経ミオトニー,S1,G711,GVMG,=,http://id.who.int/icd/entity/646523932,=,8C71.4 
+6,ニューロミオトニア,S1,G711,GVMG,=,http://id.who.int/icd/entity/646523932,=,8C71.4 
+6,神経ミオトニア,S1,G711,GVMG,=,http://id.who.int/icd/entity/646523932,=,8C71.4 
+6,パラミオトニア,L,G711,J3R6,=,http://id.who.int/icd/entity/1740060527,=,8C74.0 
+6,シュワルツ・ヤンペル症候群,L,G711,K9EE,=,http://id.who.int/icd/entity/1725668060,=,8C71.1
+6,軟骨ジストロフィー性筋強直症,S1,G711,K9EE,=,http://id.who.int/icd/entity/1725668060,=,8C71.1
+6,SCHWARTZ-JAMPEL症候群,S1,G711,K9EE,=,http://id.who.int/icd/entity/1725668060,=,8C71.1
+6,シュワルツ・ヤンペル症候群1型,S1,G711,K9EE,=,http://id.who.int/icd/entity/1725668060,=,8C71.1
+6,偽性ミオトニア,L,G711,LUEF,=,http://id.who.int/icd/entity/715714152,=,8C71.5
+6,ベッカー病,L,G711,MK63,=,http://id.who.int/icd/entity/690532643,=,8C70.0
+6,筋強直性ジストロフィー,L,G711,NHRQ,=,http://id.who.int/icd/entity/192087511,=,8C71.0
+6,緊張性筋異栄養症,S1,G711,NHRQ,=,http://id.who.int/icd/entity/192087511,=,8C71.0
+6,緊張性筋ジストロフィー,S1,G711,NHRQ,=,http://id.who.int/icd/entity/192087511,=,8C71.0
+6,筋緊張性ジストロフィー,S1,G711,NHRQ,=,http://id.who.int/icd/entity/192087511,=,8C71.0
+6,筋緊張性ジストロフィー(症),S1,G711,NHRQ,=,http://id.who.int/icd/entity/192087511,=,8C71.0
+6,強直性ジストロフィー,S1,G711,NHRQ,=,http://id.who.int/icd/entity/192087511,=,8C71.0
+6,シュタイネルト病,S1,G711,NHRQ,=,http://id.who.int/icd/entity/557405480,<,8C71.0
+6,DM,S1,G711,NHRQ,=,http://id.who.int/icd/entity/192087511,=,8C71.0
+6,筋緊張性ジストロフィー症,S1,G711,NHRQ,=,http://id.who.int/icd/entity/192087511,=,8C71.0
+6,オイレンブルグ病,L,G711,QEUC,=,http://id.who.int/icd/entity/192087511,=,8C74.0 
+6,トムゼン病,L,G711,QHH3,=,http://id.who.int/icd/entity/370025964,<,8C71.2 
+6,THOMSEN病,S1,G711,QHH3,=,http://id.who.int/icd/entity/370025964,<,8C71.2 
+6,トムソン病,S1,G711,QHH3,=,http://id.who.int/icd/entity/370025964,<,8C71.2 
+6,トムセン病,S1,G711,QHH3,=,http://id.who.int/icd/entity/370025964,<,8C71.2 
+6,先天性ミオトニア,L,G711,T5Q4,=,http://id.who.int/icd/entity/1916703439,=,8C71.2 
+6,先天性異常筋緊張症,S1,G711,T5Q4,=,http://id.who.int/icd/entity/1916703439,=,8C71.2 
+6,先天性筋強直症,S1,G711,T5Q4,=,http://id.who.int/icd/entity/1916703439,=,8C71.2 
+6,先天性異常筋強直症,S1,G711,T5Q4,=,http://id.who.int/icd/entity/1916703439,=,8C71.2 
+6,先天性筋緊張症,S1,G711,T5Q4,=,http://id.who.int/icd/entity/1916703439,=,8C71.2 
+6,先天性パラミオトニア,L,G711,TH7G,=,http://id.who.int/icd/entity/1740060527,=,8C74.0 
+6,薬物誘発性筋強直症,L,G711,US8P,=,http://id.who.int/icd/entity/40657776,=,8C71.3
+6,筋強直症候群,L,G711,V4EL,=,http://id.who.int/icd/entity/839332886,=,8C71.Z
+6,筋緊張症候群,S1,G711,V4EL,=,http://id.who.int/icd/entity/839332886,=,8C71.Z
+6,筋緊張性斜頸,S2,G711,V4EL,=,http://id.who.int/icd/entity/839332886 / http://id.who.int/icd/entity/872242568,=,8C71.Z / FA71 
+6,筋緊張性斜頚,S2,G711,V4EL,=,http://id.who.int/icd/entity/839332886 / http://id.who.int/icd/entity/872242568,=,8C71.Z / FA71 
+6,ネマリンミオパチー,L,G712,C1SR,=,http://id.who.int/icd/entity/1996502540,=,8C72.00
+6,ネマリンミオパシー,S1,G712,C1SR,=,http://id.who.int/icd/entity/1996502540,=,8C72.00
+6,先天性筋線維不均等症,L,G712,D8B7,=,http://id.who.int/icd/entity/311083557,<,8C72.1
+6,CFTD,S1,G712,D8B7,=,http://id.who.int/icd/entity/311083557,<,8C72.1
+6,先天性筋線維タイプ不均等症,S1,G712,D8B7,=,http://id.who.int/icd/entity/311083557,<,8C72.1
+6,先天性筋ジストロフィー,L,G712,D9NA,=,http://id.who.int/icd/entity/396687076,=,8C70.6
+6,先天性筋ジストロフィー症,S1,G712,D9NA,=,http://id.who.int/icd/entity/396687076,=,8C70.6
+6,先天性遺伝性筋ジストロフィー,S1,G712,D9NA,=,http://id.who.int/icd/entity/396687076,=,8C70.6
+6,先天性筋ジストロフィー(症),S1,G712,D9NA,=,http://id.who.int/icd/entity/396687076,=,8C70.6
+6,CMD,S1,G712,D9NA,=,http://id.who.int/icd/entity/396687076,=,8C70.6
+6,先天性進行性筋ジストロフィー,S1,G712,D9NA,=,http://id.who.int/icd/entity/396687076,=,8C70.6
+6,マルチコア病,L,G712,FM7E,=,http://id.who.int/icd/entity/880281117,<,8C72.0Y 
+6,ミニコア病,L,G712,GS09,=,http://id.who.int/icd/entity/880281117,<,8C72.0Y 
+6,微小コア疾患,S1,G712,GS09,=,http://id.who.int/icd/entity/880281117,<,8C72.0Y 
+6,先天性ミオパチー,L,G712,H5JT,=,http://id.who.int/icd/entity/1185572073,=,8C72.Z
+6,多発コア疾患,S1,G712,H5JT,=,http://id.who.int/icd/entity/880281117,<,8C72.0Y
+6,先天性ミオパシー,S1,G712,H5JT,=,http://id.who.int/icd/entity/1185572073,=,8C72.Z
+6,ウォーカー・ワールブルグ症候群,L,G712,NBJN,=,http://id.who.int/icd/entity/1344150217,<,8C70.6
+6,WWS,S1,G712,NBJN,=,http://id.who.int/icd/entity/1344150217,<,8C70.6
+6,WALKER-WARBURG症候群,S1,G712,NBJN,=,http://id.who.int/icd/entity/1344150217,<,8C70.6
+6,セントラルコア病,L,G712,NBQK,=,http://id.who.int/icd/entity/2065822840,=,8C72.02 
+6,中心コア疾患,S1,G712,NBQK,=,http://id.who.int/icd/entity/2065822840,=,8C72.02 
+6,中心核性ミオパシー,S1,G712,NBQK,=,http://id.who.int/icd/entity/2065822840,=,8C72.02 
+6,中心核病,S1,G712,NBQK,=,http://id.who.int/icd/entity/2065822840,=,8C72.02 
+6,中心核性ミオパチー,S1,G712,NBQK,=,http://id.who.int/icd/entity/2065822840,=,8C72.02 
+6,ミオチューブラーミオパチー,L,G712,Q3VR,=,http://id.who.int/icd/entity/1993913190,<,8C72.01 
+6,ミオチュブラーミオパチー,S1,G712,Q3VR,=,http://id.who.int/icd/entity/1993913190,<,8C72.01 
+6,ミオチュブラーミオパシー,S1,G712,Q3VR,=,http://id.who.int/icd/entity/1993913190,<,8C72.01 
+6,ミオチューブラーミオパシー,S1,G712,Q3VR,=,http://id.who.int/icd/entity/1993913190,<,8C72.01 
+6,ミトコンドリア脳筋症,L,G713,AR3E,≒,http://id.who.int/icd/entity/1925770864,<,8A60.A 
+6,ミトコンドリアミオパチー,L,G713,KNVD,=,http://id.who.int/icd/entity/601991549,=,8C73.Z
+6,ミトコンドリアミオパシー,S1,G713,KNVD,=,http://id.who.int/icd/entity/601991549,=,8C73.Z
+6,ミトコンドリア筋症,S1,G713,KNVD,=,http://id.who.int/icd/entity/601991549,=,8C73.Z
+6,ミトコンドリア性ミオパチー,S1,G713,KNVD,=,http://id.who.int/icd/entity/601991549,=,8C73.Z
+6,ミトコンドリア性ミオパシー,S1,G713,KNVD,=,http://id.who.int/icd/entity/601991549,=,8C73.Z
+6,過剰自己貪食を伴うＸ連鎖性ミオパチー,L,G718,BKQP,=,http://id.who.int/icd/entity/347037859,<,4A41.21
+6,過剰自己貪食を伴うX連鎖性ミオパチー,S0,G718,BKQP,=,http://id.who.int/icd/entity/347037859,<,4A41.21
+6,過剰自己貪食を伴うX連鎖性ミオパシー,S1,G718,BKQP,=,http://id.who.int/icd/entity/347037859,<,4A41.21
+6,自己貪食空胞性ミオパチー,L,G718,P57H,=,http://id.who.int/icd/entity/347037859,<,4A41.21
+6,自己貪食空胞性ミオパシー,S1,G718,P57H,=,http://id.who.int/icd/entity/347037859,<,4A41.21
+6,遺伝性神経筋障害,L,G719,CRH8,=,http://id.who.int/icd/entity/1185572073,=,8C72.Z
+6,遺伝性ミオパチー,S2,G719,CRH8,=,http://id.who.int/icd/entity/1185572073,=,8C72.Z
+6,原発性筋障害,S2,G719,CRH8,=,http://id.who.int/icd/entity/833816211,=,8C7Z
+6,遺伝性ミオパシー,S2,G719,CRH8,=,http://id.who.int/icd/entity/1185572073,=,8C72.Z
+6,薬物誘発性ミオパチー,L,G720,F7CR,=,http://id.who.int/icd/entity/1456167356,=,8C80 
+6,薬物誘発性ミオパシー,S1,G720,F7CR,=,http://id.who.int/icd/entity/1456167356,=,8C80 
+6,ステロイドミオパチー,L,G720,LUP0,=,http://id.who.int/icd/entity/1456167356 &  http://id.who.int/icd/entity/765024126,=,8C80 & XM8JY6
+6,ステロイドミオパシー,S1,G720,LUP0,=,http://id.who.int/icd/entity/1456167356 &  http://id.who.int/icd/entity/765024126,=,8C80 & XM8JY6
+6,アルコール性ミオパチー,L,G721,A3U1,=,http://id.who.int/icd/entity/864064554,=,8D44.1 
+6,アルコール性ミオパシー,S1,G721,A3U1,=,http://id.who.int/icd/entity/864064554,=,8D44.1 
+6,中毒性ミオパチー,L,G722,NMK4,=,http://id.who.int/icd/entity/2140847857,=,8D43.3 
+6,中毒性ミオパシー,S1,G722,NMK4,=,http://id.who.int/icd/entity/2140847857,=,8D43.3 
+6,正カリウム血性周期性四肢麻痺,L,G723,C7HM,=,http://id.who.int/icd/entity/1628032239,<,8C74.11 
+6,低カリウム血性周期性四肢麻痺,L,G723,GP4J,=,http://id.who.int/icd/entity/1494773635,=,8C74.10 
+6,低カリウム血症型周期性四肢麻痺,S1,G723,GP4J,=,http://id.who.int/icd/entity/1494773635,=,8C74.10 
+6,低カリウム性周期性四肢麻痺,S1,G723,GP4J,=,http://id.who.int/icd/entity/1494773635,=,8C74.10 
+6,低カリウム性四肢麻痺症,S1,G723,GP4J,=,http://id.who.int/icd/entity/1494773635,=,8C74.10 
+6,低カリウム血症性四肢麻痺,S1,G723,GP4J,=,http://id.who.int/icd/entity/1494773635,=,8C74.10 
+6,低カリウム筋症,S1,G723,GP4J,=,http://id.who.int/icd/entity/1494773635,=,8C74.10 
+6,低カリウム血症性周期性四肢麻痺,S1,G723,GP4J,=,http://id.who.int/icd/entity/1494773635,=,8C74.10 
+6,低カリウム血性四肢麻痺,S1,G723,GP4J,=,http://id.who.int/icd/entity/1494773635,=,8C74.10 
+6,家族性周期性四肢麻痺,L,G723,J8G0,=,http://id.who.int/icd/entity/577112387,=,8C74.1Z 
+6,CAVARE疾患,S1,G723,J8G0,=,http://id.who.int/icd/entity/577112387,=,8C74.1Z 
+6,遺伝性周期性四肢麻痺,S1,G723,J8G0,=,http://id.who.int/icd/entity/577112387,=,8C74.1Z 
+6,カヴァレ疾患,S1,G723,J8G0,=,http://id.who.int/icd/entity/577112387,=,8C74.1Z 
+6,家族性周期性麻痺,S1,G723,J8G0,=,http://id.who.int/icd/entity/577112387,=,8C74.1Z 
+6,高カリウム性家族性周期性麻痺,L,G723,K6PD,=,http://id.who.int/icd/entity/1308452752 ,=,8C74.11
+6,低カリウム性家族性周期性麻痺,L,G723,LCLM,=,http://id.who.int/icd/entity/1494773635 ,=,8C74.10 
+6,周期性四肢麻痺,L,G723,RV1N,=,http://id.who.int/icd/entity/577112387,=,8C74.1Z 
+6,筋強直性四肢麻痺,S2,G723,RV1N,=,http://id.who.int/icd/entity/577112387,=,8C74.1Z 
+6,正常カリウム性家族性周期性麻痺,L,G723,T2NC,=,http://id.who.int/icd/entity/1628032239 ,=,8C74.11
+6,高カリウム血性周期性四肢麻痺,L,G723,U3C2,=,http://id.who.int/icd/entity/1308452752,=,8C74.11 
+6,高カリウム血性麻痺,S1,G723,U3C2,=,http://id.who.int/icd/entity/1308452752,=,8C74.11 
+6,高カリウム血症性四肢麻痺,S1,G723,U3C2,=,http://id.who.int/icd/entity/1308452752,=,8C74.11 
+6,高カリウム性周期性四肢麻痺,S1,G723,U3C2,=,http://id.who.int/icd/entity/1308452752,=,8C74.11 
+6,正常カリウム血症性四肢麻痺,L,G723,V7M9,=,http://id.who.int/icd/entity/1628032239,=,8C74.11 
+6,症候性炎症性ミオパチー,L,G724,KFFP,<,http://id.who.int/icd/entity/464294586,<,4A41.Z
+6,症候性炎症性ミオパシー,S1,G724,KFFP,<,http://id.who.int/icd/entity/464294586,<,4A41.Z
+6,封入体筋炎,L,G724,LNK8,=,http://id.who.int/icd/entity/983668658,=,4A41.2Z 
+6,炎症性ミオパチー,L,G724,T9VP,=,http://id.who.int/icd/entity/464294586,=,4A41.Z
+6,炎症性ミオパシー,S1,G724,T9VP,=,http://id.who.int/icd/entity/464294586,=,4A41.Z
+6,免疫介在性壊死性ミオパチー,L,G724,U8ME,=,http://id.who.int/icd/entity/1655474050,<,8E4A.3 
+6,IMNM,S1,G724,U8ME,=,http://id.who.int/icd/entity/1655474050,<,8E4A.3 
+6,免疫介在性壊死性ミオパシー,S1,G724,U8ME,=,http://id.who.int/icd/entity/1655474050,<,8E4A.3 
+6,母指球筋麻痺,L,G728,DJHG,<,http://id.who.int/icd/entity/464294586 & http://id.who.int/icd/entity/1801193064,<,4A41.Z & XA2JN4
+6,全身こむらがえり病,L,G728,FA5Q,<,http://id.who.int/icd/entity/833816211,<,8C7Y
+6,里吉病,S1,G728,FA5Q,<,http://id.who.int/icd/entity/833816211,<,8C7Y
+6,全身こむら返り病,S1,G728,FA5Q,<,http://id.who.int/icd/entity/833816211,<,8C7Y
+6,里吉症候群,S1,G728,FA5Q,<,http://id.who.int/icd/entity/833816211,<,8C7Y
+6,上下肢筋不全麻痺,L,G728,H0K4,=,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/1810600222  / http://id.who.int/icd/entity/1870184184,<,MB5Z & XA6AS2 / 8C7Y   
+6,横筋麻痺,L,G728,L567,=,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/25425793 / http://id.who.int/icd/entity/1870184184,=,MB52 & XA9FR3 / 8C7Y
+6,背側骨間筋麻痺,L,G728,PC7E,=,http://id.who.int/icd/entity/1882771459 & (http://id.who.int/icd/entity/1412779183 OR http://id.who.int/icd/entity/1536568696)  / http://id.who.int/icd/entity/1870184184,<,MB5Z & (XA2QW3 OR XA15P6 ) / 8C7Y 
+6,ミオパチー,L,G729,RUEG,=,http://id.who.int/icd/entity/1870184184,<,8C7Y
+6,ミオパシー,S1,G729,RUEG,=,http://id.who.int/icd/entity/1870184184,<,8C7Y
+6,痙性脊髄麻痺,L,G800,HDAF,=,http://id.who.int/icd/entity/1426032265,=,8D20.Z 
+6,脳性痙性小児麻痺,S1,G800,HDAF,=,"http://id.who.int/icd/entity/1426032265 & http://id.who.int/icd/entity/1588782340 
+",=, 8D20.Z & XT2C
+6,脊髄性痙性麻痺,S1,G800,HDAF,=,http://id.who.int/icd/entity/1426032265,=,8D20.Z 
+6,痙性脳性麻痺,S1,G800,HDAF,=,http://id.who.int/icd/entity/1426032265,=,8D20.Z 
+6,先天性痙性麻痺,L,G800,UEMM,=,http://id.who.int/icd/entity/313022646,=,8D20.Y & XB8M 
+6,脳性対麻痺,L,G801,D8Q8,=,http://id.who.int/icd/entity/1655375736,=,8D20.1Z
+6,脳性両麻痺,L,G801,S0PQ,=,http://id.who.int/icd/entity/1655375736,=,8D20.1Z
+6,先天性両側麻痺,S2,G801,S0PQ,=,http://id.who.int/icd/entity/563606390,=,8D20.11
+6,脳性小児両側麻痺,S2,G801,S0PQ,=,http://id.who.int/icd/entity/563606390 & http://id.who.int/icd/entity/1588782340,=,8D20.11 & XT2C
+6,小児片麻痺,L,G802,HC8P,=,http://id.who.int/icd/entity/1429906313,=,8D20.0　
+6,先天性片麻痺,L,G802,MJV6,=,http://id.who.int/icd/entity/1429906313,=,8D20.0　
+6,乳児片麻痺,L,G802,MLGD,=,http://id.who.int/icd/entity/1429906313,=,8D20.0　
+6,アテトーシス型脳性麻痺,L,G803,GU79,=,http://id.who.int/icd/entity/812740125,=,8D21 
+6,アテトーゼ型脳麻痺,S1,G803,GU79,=,http://id.who.int/icd/entity/812740125,=,8D21 
+6,アテトーシス型脳麻痺,S1,G803,GU79,=,http://id.who.int/icd/entity/812740125,=,8D21 
+6,脳性小児麻痺アテトイド型,S1,G803,GU79,=,http://id.who.int/icd/entity/812740125 &  http://id.who.int/icd/entity/1588782340,=,8D21 & XT2C
+6,先天性アテトーシス,L,G803,MURG,=,http://id.who.int/icd/entity/85979836,<,8D21 
+6,先天性舞踏病,L,G803,P34E,=,http://id.who.int/icd/entity/85979836,<,8D21 
+6,ジスキネジア性脳性麻痺,L,G803,QT83,=,http://id.who.int/icd/entity/1347421427,<,8D21 
+6,重複性アテトーシス,L,G803,SBEU,=,http://id.who.int/icd/entity/812740125,=,8D21 
+6,両側性アテトーシス,L,G803,TA2B,=,http://id.who.int/icd/entity/1961957473,<,8D21 
+6,運動失調性脳性麻痺,L,G804,F4JL,=,http://id.who.int/icd/entity/1134558601,=,8D22
+6,先天性対麻痺,L,G808,EQ2Q,=,http://id.who.int/icd/entity/563606390,=,8D20.11
+6,混合型脳性麻痺症候群,L,G808,KJAT,=,http://id.who.int/icd/entity/1215784069,<,8D2Y
+6,先天性四肢麻痺,L,G808,NETN,=,http://id.who.int/icd/entity/1155284708  ,=,8D20.10 
+6,弛緩型脳性麻痺,L,G808,U9A8,=,http://id.who.int/icd/entity/1134558601,=,8D22
+6,脳性麻痺,L,G809,N19V,=,http://id.who.int/icd/entity/76906748,=,8D2Z 
+6,脳性小児麻痺,S1,G809,N19V,=,http://id.who.int/icd/entity/76906748,=,8D2Z 
+6,脳性小児麻痺後遺症,S2,G809,N19V,=,http://id.who.int/icd/entity/76906748 / http://id.who.int/icd/entity/1478817801 ,<,8D2Z  / PL2Y 
+6,リットル病,L,G809,SV8S,=,http://id.who.int/icd/entity/563606390,=,8D20.11
+6,LITTLE病,S1,G809,SV8S,=,http://id.who.int/icd/entity/563606390,=,8D20.11
+6,弛緩性片麻痺,L,G810,U5ME,=,http://id.who.int/icd/entity/1478817379,=,MB53.1
+6,痙性片麻痺,L,G811,EJGL,=,http://id.who.int/icd/entity/1030700023,=,MB53.2
+6,交代性片麻痺,L,G819,AEMT,=,http://id.who.int/icd/entity/774373615,=,MB53.0 
+6,交代性半側麻痺,S1,G819,AEMT,=,http://id.who.int/icd/entity/774373615,=,MB53.0 
+6,交叉性片麻痺,S1,G819,AEMT,=,http://id.who.int/icd/entity/774373615,=,MB53.0 
+6,同側性片麻痺,L,G819,DRUN,=,http://id.who.int/icd/entity/1641958762 & http://id.who.int/icd/entity/239911955,=,MB53.Z & XK3Z
+6,脳梗塞後の片麻痺,L,G819,KUUT,=,http://id.who.int/icd/entity/1641958762 / http://id.who.int/icd/entity/557175275 ,=,MB53.Z / 8B25.4
+6,脳梗塞後の半身不随,S1,G819,KUUT,=,http://id.who.int/icd/entity/1641958762 / http://id.who.int/icd/entity/557175275 ,=,MB53.Z / 8B25.4
+6,純粋運動性片麻痺,L,G819,L98C,=,http://id.who.int/icd/entity/1641958762  / http://id.who.int/icd/entity/1220685756 ,=,MB53.Z / 8B26.5Z
+6,脊椎半側麻痺,S2,G819,L98C,=,http://id.who.int/icd/entity/1641958762 & http://id.who.int/icd/entity/405704375,=,MB53.Z & XA5J55
+6,不全片麻痺,L,G819,LM84,=,http://id.who.int/icd/entity/1641958762 & http://id.who.int/icd/entity/167867186 ,=,MB53.Z & XK06 
+6,片側不全麻痺,S1,G819,LM84,=,http://id.who.int/icd/entity/1641958762 & http://id.who.int/icd/entity/167867186 ,=,MB53.Z & XK06 
+6,半身不全麻痺,S1,G819,LM84,=,http://id.who.int/icd/entity/1641958762 & http://id.who.int/icd/entity/167867186 ,=,MB53.Z & XK06 
+6,半側不全麻痺,S1,G819,LM84,=,http://id.who.int/icd/entity/1641958762 & http://id.who.int/icd/entity/167867186 ,=,MB53.Z & XK06 
+6,脊髄不全片麻痺,S2,G819,LM84,=,http://id.who.int/icd/entity/1641958762 & http://id.who.int/icd/entity/405704375 & http://id.who.int/icd/entity/167867186  ,=,MB53.Z & XA5J55 & XK06 
+6,一過性片麻痺,L,G819,NA7T,=,http://id.who.int/icd/entity/1055648143,<,MB5Y
+6,下交叉性片麻痺,L,G819,NHUM,=,http://id.who.int/icd/entity/774373615,<,MB53.0
+6,小児交互性片麻痺,L,G819,PT2G,=,http://id.who.int/icd/entity/301329822,<,MB53.0
+6,小児交代性片麻痺,S1,G819,PT2G,=,http://id.who.int/icd/entity/301329822,<,MB53.0
+6,片麻痺,L,G819,U8RD,=,http://id.who.int/icd/entity/1641958762,=,MB53.Z 
+6,半側麻痺,S1,G819,U8RD,=,http://id.who.int/icd/entity/1641958762,=,MB53.Z 
+6,半身麻痺,S1,G819,U8RD,=,http://id.who.int/icd/entity/1641958762,=,MB53.Z 
+6,半身不随,S1,G819,U8RD,=,http://id.who.int/icd/entity/1641958762,=,MB53.Z 
+6,片側麻痺,S1,G819,U8RD,=,http://id.who.int/icd/entity/1641958762,=,MB53.Z 
+6,脳卒中後片麻痺,L,G819,V1DQ,=,http://id.who.int/icd/entity/1641958762 / http://id.who.int/icd/entity/557175275,=,MB53.Z / 8B25.4
+6,脳血栓後の片麻痺,S1,G819,V1DQ,=,http://id.who.int/icd/entity/1641958762 / http://id.who.int/icd/entity/557175275,=,MB53.Z / 8B25.4
+6,脳卒中片麻痺後遺症,S1,G819,V1DQ,=,http://id.who.int/icd/entity/1641958762 / http://id.who.int/icd/entity/557175275,=,MB53.Z / 8B25.4
+6,弛緩性対麻痺,L,G820,AH07,=,http://id.who.int/icd/entity/1503876701,<,MB56 
+6,痙性対麻痺,L,G821,KL91,=,http://id.who.int/icd/entity/1021877193,<,MB56 
+6,痙性下肢麻痺,S1,G821,KL91,=,http://id.who.int/icd/entity/1021877193,<,MB56 
+6,下肢痙性麻痺,S1,G821,KL91,=,http://id.who.int/icd/entity/1021877193,<,MB56 
+6,下肢痙直性麻痺,S1,G821,KL91,=,http://id.who.int/icd/entity/1021877193,<,MB56 
+6,下半身痙性麻痺,S1,G821,KL91,=,http://id.who.int/icd/entity/1021877193,<,MB56 
+6,屈曲性対麻痺,L,G821,SU32,<,"http://id.who.int/icd/entity/1021877193
+",<,MB56 
+6,不全対麻痺,L,G822,F3BR,=,http://id.who.int/icd/entity/1212533558 & http://id.who.int/icd/entity/167867186,=,MB56 & XK06
+6,下半身不全麻痺,S2,G822,F3BR,=,http://id.who.int/icd/entity/1212533558 & http://id.who.int/icd/entity/167867186,=,MB56 & XK06
+6,対麻痺,L,G822,LTQV,=,http://id.who.int/icd/entity/1212533558,=,MB56 
+6,下肢対麻痺,S1,G822,LTQV,=,http://id.who.int/icd/entity/1212533558,=,MB56 
+6,下半身麻痺,S1,G822,LTQV,=,http://id.who.int/icd/entity/1212533558,=,MB56 
+6,脊髄性対麻痺,S1,G822,LTQV,=,http://id.who.int/icd/entity/1212533558 / http://id.who.int/icd/entity/2021326314,=,MB56 / 8B4Z
+6,脊髄対麻痺,S1,G822,LTQV,=,http://id.who.int/icd/entity/1212533558 / http://id.who.int/icd/entity/2021326314,=,MB56 / 8B4Z
+6,下半身完全麻痺,S1,G822,LTQV,=,http://id.who.int/icd/entity/1212533558  & http://id.who.int/icd/entity/1957947885 ,=,MB56 &  XK2J 
+6,下肢全麻痺,S1,G822,LTQV,=,http://id.who.int/icd/entity/1212533558  & http://id.who.int/icd/entity/1957947885 ,=,MB56 &  XK2J 
+6,下半身不随,S2,G822,LTQV,=,http://id.who.int/icd/entity/1212533558  & http://id.who.int/icd/entity/1957947885 ,=,MB56 &  XK2J 
+6,弛緩性四肢麻痺,L,G823,FAG2,=,http://id.who.int/icd/entity/755893924,=,MB50.0
+6,痙性四肢麻痺,L,G824,SLN4,=,http://id.who.int/icd/entity/1591776568,=,MB50.1
+6,四肢痙性麻痺,S1,G824,SLN4,=,http://id.who.int/icd/entity/1591776568,=,MB50.1
+6,痙性脊髄症,S2,G824,SLN4,=,http://id.who.int/icd/entity/1591776568 / http://id.who.int/icd/entity/740682437 ,=, MB50.1 / 8B42
+6,脊髄中心症候群,L,G825,A8L6,=,http://id.who.int/icd/entity/1591776568 / http://id.who.int/icd/entity/740682437,=,MB50.1 / 8B42    
+6,四肢麻痺,L,G825,DPSG,=,http://id.who.int/icd/entity/583310882,=,MB50.Z
+6,四肢不全麻痺,L,G825,PV35,=,http://id.who.int/icd/entity/583310882 & http://id.who.int/icd/entity/167867186,=,MB50.Z & XK06 
+6,不全四肢麻痺,S1,G825,PV35,=,http://id.who.int/icd/entity/583310882 & http://id.who.int/icd/entity/167867186,=,MB50.Z & XK06 
+6,上肢両側麻痺,L,G830,QEE8,=,http://id.who.int/icd/entity/1163632348,=,MB51.Z
+6,下肢単麻痺,L,G831,CR6V,=,http://id.who.int/icd/entity/537940810,=,MB55.Z
+6,片足麻痺,S1,G831,CR6V,=,http://id.who.int/icd/entity/537940810,=,MB55.Z
+6,下肢麻痺,L,G831,LB1Q,=,http://id.who.int/icd/entity/537940810,=,MB55.Z
+6,下肢不全麻痺,L,G831,MFRH,=,http://id.who.int/icd/entity/537940810 & http://id.who.int/icd/entity/167867186,=,MB55.Z & XK06 
+6,下肢弛緩性麻痺,L,G831,RE32,=,http://id.who.int/icd/entity/122391296,=,MB55.0 
+6,上肢単麻痺,L,G832,BQ8L,=,http://id.who.int/icd/entity/1421673399,=,MB54.Z
+6,上肢不全麻痺,L,G832,HE3E,=,http://id.who.int/icd/entity/1421673399 & http://id.who.int/icd/entity/167867186,=,MB54.Z & XK06 
+6,上肢麻痺,L,G832,MV6T,=,http://id.who.int/icd/entity/1421673399,=,MB54.Z
+6,単麻痺,L,G833,TDPV,=,http://id.who.int/icd/entity/1055648143,<,MB5Y
+6,馬尾症候群,L,G834,MRQQ,=,http://id.who.int/icd/entity/1490265028,=,8B40
+6,尾側神経群混合麻痺,S2,G834,MRQQ,=,http://id.who.int/icd/entity/1490265028,=,8B40
+6,神経性膀胱機能障害,L,G834,Q0VU,=,http://id.who.int/icd/entity/1490265028 / http://id.who.int/icd/entity/590198069,=,8B40 / GC01.4 
+6,頚髄不全麻痺,L,G838,BPUD,=,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/559293431,=,MB5Z & XA1SP1
+6,頸髄不全症,S1,G838,BPUD,=,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/559293431,=,MB5Z & XA1SP1
+6,頚髄不全症,S1,G838,BPUD,=,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/559293431,=,MB5Z & XA1SP1
+6,頸髄不全麻痺,S1,G838,BPUD,=,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/559293431,=,MB5Z & XA1SP1
+6,延髄麻痺,L,G838,D6FD,=,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/1283174126,=,MB5Z & XA17J6
+6,脊髄横断不全麻痺,L,G838,E9GC,<,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/1150229943,<,MB5Z & XA0V83 
+6,脊髄半切症候群,S2,G838,E9GC,<,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/1150229943,<,MB5Z & XA0V83 
+6,脊髄横断障害,L,G838,KMFH,<,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/1150229943,<,MB5Z & XA0V83 
+6,脊髄横断症候群,S1,G838,KMFH,<,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/1150229943,<,MB5Z & XA0V83 
+6,脊髄横断症状,S1,G838,KMFH,<,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/1150229943,<,MB5Z & XA0V83 
+6,胸椎横断麻痺,L,G838,LHFB,<,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/335892208,<,MB5Z & XA6E88
+6,ジャクソン症候群,L,G838,MT7Q,=,http://id.who.int/icd/entity/375904591,<,8B85
+6,JACKSONIAN症候群,S1,G838,MT7Q,=,http://id.who.int/icd/entity/375904591,<,8B85
+6,胸髄麻痺,L,G838,N4TN,=,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/335892208,=,MB5Z & XA6E88 
+6,頚髄麻痺,L,G838,NUDQ,=,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/559293431,=,MB5Z & XA1SP1
+6,頸髄麻痺,S1,G838,NUDQ,=,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/559293431,=,MB5Z & XA1SP1
+6,ブラウン・セカール症候群,L,G838,P9J3,<,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/1150229943,<,MB5Z & XA0V83 
+6,ブラウン・セカール麻痺,S1,G838,P9J3,<,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/1150229943,<,MB5Z & XA0V83 
+6,BROWN SEQUARD病,S1,G838,P9J3,<,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/1150229943,<,MB5Z & XA0V83 
+6,BROWN SEQUARD麻痺,S1,G838,P9J3,<,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/1150229943,<,MB5Z & XA0V83 
+6,ブラウン・セカール病,S1,G838,P9J3,<,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/1150229943,<,MB5Z & XA0V83 
+6,BROWN SEQUARD症候群,S1,G838,P9J3,<,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/1150229943,<,MB5Z & XA0V83 
+6,脊髄不全麻痺,L,G838,PBJ1,=,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/1150229943,=,MB5Z & XA0V83 
+6,トッド麻痺,L,G838,RGTE,<,http://id.who.int/icd/entity/1882771459 / http://id.who.int/icd/entity/1397288146,<, MB5Y / 8A6Z
+6,TODD麻痺,S1,G838,RGTE,<,http://id.who.int/icd/entity/1882771459 / http://id.who.int/icd/entity/1397288146,<, MB5Y / 8A6Z
+6,てんかん後一過性麻痺,S1,G838,RGTE,<,http://id.who.int/icd/entity/1882771459 / http://id.who.int/icd/entity/1397288146,<, MB5Y / 8A6Z
+6,脊髄麻痺,L,G838,RRE7,=,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/1150229943,=,MB5Z & XA0V83 
+6,脊髄性麻痺,S1,G838,RRE7,=,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/1150229943,=,MB5Z & XA0V83 
+6,脊髄性片麻痺,L,G838,STKA,=,http://id.who.int/icd/entity/1030700023,=,MB53.2
+6,頚髄横断障害,L,G838,VLUC,<,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/559293431,<,MB5Z & XA1SP1 
+6,頸髄横断障害,S1,G838,VLUC,<,http://id.who.int/icd/entity/1882771459 & http://id.who.int/icd/entity/559293431,<,MB5Z & XA1SP1 
+6,弛緩性麻痺,L,G839,EJHQ,=,http://id.who.int/icd/entity/1478817379,=,MB53.1 
+6,完全麻痺,L,G839,FR46,=,http://id.who.int/icd/entity/1882771459,=,MB5Z
+6,運動麻痺,L,G839,P8PA,=,http://id.who.int/icd/entity/1882771459,=,MB5Z
+6,痙性麻痺,L,G839,TBTL,=,http://id.who.int/icd/entity/1094005248,<,MB5Y 
+6,痙攣麻痺,S1,G839,TBTL,=,http://id.who.int/icd/entity/1094005248,<,MB5Y 
+6,不全麻痺,L,G839,TCS8,=,http://id.who.int/icd/entity/1882771459,=,MB5Z
+6,特発性末梢自律神経ニューロパチー,L,G900,KG8A,=,http://id.who.int/icd/entity/1422269907,<,8D88.Y
+6,特発性末梢自律神経ニューロパシー,S1,G900,KG8A,=,http://id.who.int/icd/entity/1422269907,<,8D88.Y
+6,頚動脈洞症候群,L,G900,T8QT,=,http://id.who.int/icd/entity/807757446,<,8D88.Y
+6,ワイス・ベーカー症候群,S1,G900,T8QT,=,http://id.who.int/icd/entity/807757446,<,8D88.Y
+6,頸動脈洞失神,S1,G900,T8QT,=,http://id.who.int/icd/entity/807757446,<,8D88.Y
+6,頚動脈洞失神,S1,G900,T8QT,=,http://id.who.int/icd/entity/807757446,<,8D88.Y
+6,頸動脈洞症候群,S1,G900,T8QT,=,http://id.who.int/icd/entity/807757446,<,8D88.Y
+6,家族性自律神経異常症,L,G901,J259,=,http://id.who.int/icd/entity/831377479,=,8C21.1 
+6,ライリー・デイ症候群,S1,G901,J259,=,http://id.who.int/icd/entity/831377479,=,8C21.1 
+6,ホルネル症候群,L,G902,FGJQ,=,http://id.who.int/icd/entity/178756462,=,8D8A.1 
+6,HORNER症候群,S1,G902,FGJQ,=,http://id.who.int/icd/entity/178756462,=,8D8A.1 
+6,ベルナール症候群,S1,G902,FGJQ,=,http://id.who.int/icd/entity/1159758008,<,8D8A.1 
+6,ホルナー症候群,S1,G902,FGJQ,=,http://id.who.int/icd/entity/178756462,=,8D8A.1 
+6,ベルナール・ホルナー症候群,S1,G902,FGJQ,=,http://id.who.int/icd/entity/1159758008,<,8D8A.1 
+6,クロードベルナール・ホルナー症候群,S1,G902,FGJQ,=,http://id.who.int/icd/entity/1159758008,<,8D8A.1 
+6,多系統萎縮症,L,G903,JSVC,=,http://id.who.int/icd/entity/1890931931,=,8D87.0Z
+6,多系統変性症,S1,G903,JSVC,=,http://id.who.int/icd/entity/1890931931,=,8D87.0Z
+6,シャイ・ドレーガー症候群,L,G903,UGHR,=,http://id.who.int/icd/entity/859030797,<,8D87.0Y 
+6,神経原性起立性低血圧症,S1,G903,UGHR,=,http://id.who.int/icd/entity/859030797,<,8D87.0Y 
+6,SDS,S1,G903,UGHR,=,http://id.who.int/icd/entity/859030797,<,8D87.0Y 
+6,SHY DRAGER症候群,S1,G903,UGHR,=,http://id.who.int/icd/entity/859030797,<,8D87.0Y 
+6,シャイドレーガー症候群,S1,G903,UGHR,=,http://id.who.int/icd/entity/859030797,<,8D87.0Y 
+6,自律神経過敏症,L,G904,HB0F,=,http://id.who.int/icd/entity/1401282234,=,8D8C
+6,自律神経過敏状態,S1,G904,HB0F,=,http://id.who.int/icd/entity/1401282234,=,8D8C
+6,自律神経反射性疼痛,L,G904,MTNL,=,http://id.who.int/icd/entity/1401282234 / http://id.who.int/icd/entity/1339785363,=,8D8C / 8E43.0
+6,末梢自律神経過敏,L,G904,VKTV,=,http://id.who.int/icd/entity/1114441076,<,8D8Y
+6,交感神経緊張亢進,L,G908,AT2H,=,http://id.who.int/icd/entity/1114441076,<,8D8Y
+6,神経調節性失神,L,G908,C492,=,http://id.who.int/icd/entity/952365682,=,8D89.0 
+6,神経調節性失神症候群,S1,G908,C492,=,http://id.who.int/icd/entity/952365682,=,8D89.0 
+6,汎自律神経失調症,L,G908,GD2M,=,http://id.who.int/icd/entity/40300536,<,8E4A.1 
+6,自律神経炎,L,G908,H1L5,=,http://id.who.int/icd/entity/1521910549,=,8D88.Z
+6,血管緊張低下性失神,L,G908,PT0P,=,http://id.who.int/icd/entity/952365682 / http://id.who.int/icd/entity/1418136013 ,=,8D89.0 / MG45.Z
+6,副交感神経緊張症,L,G908,QRRV,=,http://id.who.int/icd/entity/1397803237 / http://id.who.int/icd/entity/1418136013,=,8D8Z  / MG45.Z
+6,副交感神経緊張,S1,G908,QRRV,=,http://id.who.int/icd/entity/1397803237,=,8D88.Z & XA7EA2
+6,自律神経症,L,G909,A3FT,=,http://id.who.int/icd/entity/1521910549,=,8D88.Z
+6,自律神経症候群,S2,G909,A3FT,=,http://id.who.int/icd/entity/1521910549,=,8D88.Z
+6,本態性自律神経症,L,G909,AQST,=,http://id.who.int/icd/entity/1521910549,=,8D88.Z
+6,自律神経障害,L,G909,BCUD,=,http://id.who.int/icd/entity/1521910549,=,8D88.Z
+6,植物神経障害,S1,G909,BCUD,=,http://id.who.int/icd/entity/1397803237,=,8D8Z
+6,自律神経系障害,S1,G909,BCUD,=,http://id.who.int/icd/entity/1397803237,=,8D8Z
+6,自律神経機能障害,S1,G909,BCUD,=,http://id.who.int/icd/entity/1521910549,=,8D88.Z
+6,自律神経異常,S2,G909,BCUD,=,http://id.who.int/icd/entity/1521910549,=,8D88.Z
+6,副交感神経障害,S2,G909,BCUD,=,http://id.who.int/icd/entity/1397803237,=,8D8Z
+6,血管運動神経障害,L,G909,CKN6,=,http://id.who.int/icd/entity/1397803237,=,8D8Z
+6,血管運動神経症候群,S2,G909,CKN6,=,http://id.who.int/icd/entity/1397803237,=,8D8Z
+6,末梢自律神経ニューロパチー,L,G909,FNG2,=,http://id.who.int/icd/entity/1521910549,=,8D88.Z
+6,末梢自律神経ニューロパシー,S1,G909,FNG2,=,http://id.who.int/icd/entity/1521910549,=,8D88.Z
+6,自律神経失調症,L,G909,QCG9,=,http://id.who.int/icd/entity/118329883,<,8D8Y
+6,自律調節障害,S1,G909,QCG9,=,http://id.who.int/icd/entity/118329883,<,8D8Y
+6,自律神経調節不全,S1,G909,QCG9,=,http://id.who.int/icd/entity/118329883,<,8D8Y
+6,自律調節失調症,S1,G909,QCG9,=,http://id.who.int/icd/entity/118329883,<,8D8Y
+6,自律神経不安定症,S1,G909,QCG9,=,http://id.who.int/icd/entity/118329883,<,8D8Y
+6,自律性神経失調症,S1,G909,QCG9,=,http://id.who.int/icd/entity/118329883,<,8D8Y
+6,自律神経調節障害,S1,G909,QCG9,=,http://id.who.int/icd/entity/118329883,<,8D8Y
+6,神経失調症,S2,G909,QCG9,=,http://id.who.int/icd/entity/118329883,<,8D8Y
+6,自律神経性ニューロパチー,L,G909,RFMB,=,http://id.who.int/icd/entity/1521910549,=,8D88.Z
+6,自律神経性ニューロパシー,S1,G909,RFMB,=,http://id.who.int/icd/entity/1521910549,=,8D88.Z
+6,交通性水頭症,L,G910,JRE4,=,http://id.who.int/icd/entity/186577228,=,8D64.0Z
+6,非閉塞性水頭症,S1,G910,JRE4,=,http://id.who.int/icd/entity/186577228,=,8D64.0Z
+6,代償性水頭症,L,G911,HK9B,=,http://id.who.int/icd/entity/210183601,<,8D64.1Y
+6,停止性水頭症,S1,G911,HK9B,=,http://id.who.int/icd/entity/210183601,<,8D64.1Y
+6,非交通性水頭症,L,G911,Q2Q8,=,http://id.who.int/icd/entity/210183601,=,8D64.1Z
+6,閉塞性水頭症,S1,G911,Q2Q8,=,http://id.who.int/icd/entity/210183601,=,8D64.1Z
+6,中脳水道閉塞,S2,G911,Q2Q8,=,http://id.who.int/icd/entity/762648776,=,KB05.0 
+6,正常圧水頭症,L,G912,SS8U,=,http://id.who.int/icd/entity/1507346489,=,8D64.04 
+6,正常脳圧性水頭症,S1,G912,SS8U,=,http://id.who.int/icd/entity/1507346489,=,8D64.04 
+6,正常髄液圧水頭症,S1,G912,SS8U,=,http://id.who.int/icd/entity/1507346489,=,8D64.04 
+6,正常脳圧水頭症,S1,G912,SS8U,=,http://id.who.int/icd/entity/1507346489,=,8D64.04 
+6,外傷後水頭症,L,G913,URBH,=,http://id.who.int/icd/entity/140858085,=,8D64.03
+6,外傷性水頭症,S1,G913,URBH,=,http://id.who.int/icd/entity/140858085,=,8D64.03
+6,耳性水頭症,L,G918,AQ51,=,http://id.who.int/icd/entity/1478118723,<,8D60.Y
+6,慢性硬膜下水腫,L,G919,CFV4,=,http://id.who.int/icd/entity/574533444 & http://id.who.int/icd/entity/420343916 & http://id.who.int/icd/entity/490003542,=,8D64.Z & XA1XM6 & XT8W
+6,脳水腫,L,G919,FFV5,=,http://id.who.int/icd/entity/574533444,=,8D64.Z
+6,水頭症,L,G919,HPU1,=,http://id.who.int/icd/entity/574533444,=,8D64.Z
+6,硬膜下水腫,L,G919,QRGP,=,http://id.who.int/icd/entity/574533444 & http://id.who.int/icd/entity/420343916  ,=,8D64.Z & XA1XM6
+6,中毒性脳症,L,G92,LV9E,=,http://id.who.int/icd/entity/932482258,=,8D43.0Z
+6,中毒性脳炎,S1,G92,LV9E,=,http://id.who.int/icd/entity/932482258,=,8D43.0Z
+6,シルビウス裂くも膜のう胞,L,G930,AAHM,<,http://id.who.int/icd/entity/943887241,<,8D67 
+6,シルビウス裂くも膜嚢腫,S1,G930,AAHM,<,http://id.who.int/icd/entity/943887241,<,8D67 
+6,シルビウス裂くも膜嚢胞,S1,G930,AAHM,<,http://id.who.int/icd/entity/943887241,<,8D67 
+6,シルビウス裂くも膜のう腫,S1,G930,AAHM,<,http://id.who.int/icd/entity/943887241,<,8D67 
+6,第４脳室類表皮のう胞,L,G930,AMH0,=,http://id.who.int/icd/entity/943887241 & http://id.who.int/icd/entity/704596284 & http://id.who.int/icd/entity/1265120007,=,8D67 & XA1804 & XH9F67
+6,第4脳室類表皮のう胞,S0,G930,AMH0,=,http://id.who.int/icd/entity/943887241 & http://id.who.int/icd/entity/704596284 & http://id.who.int/icd/entity/1265120007,=,8D67 & XA1804 & XH9F67
+6,第4脳室類表皮のう腫,S1,G930,AMH0,=,http://id.who.int/icd/entity/943887241 & http://id.who.int/icd/entity/704596284 & http://id.who.int/icd/entity/1265120007,=,8D67 & XA1804 & XH9F67
+6,第4脳室類表皮嚢胞,S1,G930,AMH0,=,http://id.who.int/icd/entity/943887241 & http://id.who.int/icd/entity/704596284 & http://id.who.int/icd/entity/1265120007,=,8D67 & XA1804 & XH9F67
+6,第4脳室類表皮腫,S1,G930,AMH0,=,http://id.who.int/icd/entity/943887241 & http://id.who.int/icd/entity/704596284 & http://id.who.int/icd/entity/1265120007,=,8D67 & XA1804 & XH9F67
+6,第4脳室類上皮腫,S1,G930,AMH0,=,http://id.who.int/icd/entity/943887241 & http://id.who.int/icd/entity/704596284 & http://id.who.int/icd/entity/1265120007,=,8D67 & XA1804 & XH9F67
+6,第4脳室類表皮嚢腫,S1,G930,AMH0,=,http://id.who.int/icd/entity/943887241 & http://id.who.int/icd/entity/704596284 & http://id.who.int/icd/entity/1265120007,=,8D67 & XA1804 & XH9F67
+6,くも膜のう胞,L,G930,BVHE,=,http://id.who.int/icd/entity/943887241,=,8D67
+6,頭蓋くも膜のう胞,S1,G930,BVHE,=,http://id.who.int/icd/entity/943887241,=,8D67
+6,くも膜嚢胞,S1,G930,BVHE,=,http://id.who.int/icd/entity/943887241,=,8D67
+6,頭蓋くも膜嚢胞,S1,G930,BVHE,=,http://id.who.int/icd/entity/943887241,=,8D67
+6,脳のう胞,S2,G930,BVHE,=,http://id.who.int/icd/entity/943887241,=,8D67
+6,脳嚢胞,S2,G930,BVHE,=,http://id.who.int/icd/entity/943887241,=,8D67
+6,脳軟膜嚢胞,S2,G930,BVHE,=,http://id.who.int/icd/entity/943887241,=,8D67
+6,脳軟膜のう胞,S2,G930,BVHE,=,http://id.who.int/icd/entity/943887241,=,8D67
+6,ベルガ腔のう胞,L,G930,CF7B,<,http://id.who.int/icd/entity/943887241,<,8D67
+6,ベルガ腔嚢胞,S1,G930,CF7B,<,http://id.who.int/icd/entity/943887241,<,8D67
+6,透明中隔のう胞,L,G930,D4KP,<,http://id.who.int/icd/entity/943887241,<,8D67
+6,透明中隔嚢胞,S1,G930,D4KP,<,http://id.who.int/icd/entity/943887241,<,8D67
+6,小脳橋角部類表皮のう胞,L,G930,DH8E,<,http://id.who.int/icd/entity/943887241 &  http://id.who.int/icd/entity/1301168238 & http://id.who.int/icd/entity/1265120007,<,8D67 & XA1CW2 & XH9F67
+6,小脳橋角部類表皮のう腫,S1,G930,DH8E,<,http://id.who.int/icd/entity/943887241 &  http://id.who.int/icd/entity/1301168238 & http://id.who.int/icd/entity/1265120007,<,8D67 & XA1CW2 & XH9F67
+6,小脳橋角部類上皮腫,S1,G930,DH8E,<,http://id.who.int/icd/entity/943887241 &  http://id.who.int/icd/entity/1301168238 & http://id.who.int/icd/entity/1265120007,<,8D67 & XA1CW2 & XH9F67
+6,小脳橋角部類表皮嚢腫,S1,G930,DH8E,<,http://id.who.int/icd/entity/943887241 &  http://id.who.int/icd/entity/1301168238 & http://id.who.int/icd/entity/1265120007,<,8D67 & XA1CW2 & XH9F67
+6,小脳橋角部類表皮腫,S1,G930,DH8E,<,http://id.who.int/icd/entity/943887241 &  http://id.who.int/icd/entity/1301168238 & http://id.who.int/icd/entity/1265120007,<,8D67 & XA1CW2 & XH9F67
+6,小脳橋角部類表皮嚢胞,S1,G930,DH8E,<,http://id.who.int/icd/entity/943887241 &  http://id.who.int/icd/entity/1301168238 & http://id.who.int/icd/entity/1265120007,<,8D67 & XA1CW2 & XH9F67
+6,傍鞍部類表皮のう胞,L,G930,JFDB,=,http://id.who.int/icd/entity/943887241 & http://id.who.int/icd/entity/24387554 & http://id.who.int/icd/entity/1265120007 ,=,8D67 & XA9N34 & XH9F67
+6,傍鞍部類表皮腫,S1,G930,JFDB,=,http://id.who.int/icd/entity/943887241 & http://id.who.int/icd/entity/24387554 & http://id.who.int/icd/entity/1265120007 ,=,8D67 & XA9N34 & XH9F67
+6,傍鞍部類表皮嚢腫,S1,G930,JFDB,=,http://id.who.int/icd/entity/943887241 & http://id.who.int/icd/entity/24387554 & http://id.who.int/icd/entity/1265120007 ,=,8D67 & XA9N34 & XH9F67
+6,傍鞍部類上皮腫,S1,G930,JFDB,=,http://id.who.int/icd/entity/943887241 & http://id.who.int/icd/entity/24387554 & http://id.who.int/icd/entity/1265120007 ,=,8D67 & XA9N34 & XH9F67
+6,傍鞍部類表皮のう腫,S1,G930,JFDB,=,http://id.who.int/icd/entity/943887241 & http://id.who.int/icd/entity/24387554 & http://id.who.int/icd/entity/1265120007 ,=,8D67 & XA9N34 & XH9F67
+6,傍鞍部類表皮嚢胞,S1,G930,JFDB,=,http://id.who.int/icd/entity/943887241 & http://id.who.int/icd/entity/24387554 & http://id.who.int/icd/entity/1265120007 ,=,8D67 & XA9N34 & XH9F67
+6,頭蓋内のう胞,L,G930,KD4J,=,http://id.who.int/icd/entity/943887241,=,8D67
+6,頭蓋内嚢胞,S1,G930,KD4J,=,http://id.who.int/icd/entity/943887241,=,8D67
+6,頭蓋内嚢腫,S1,G930,KD4J,=,http://id.who.int/icd/entity/943887241,=,8D67
+6,頭蓋内のう腫,S1,G930,KD4J,=,http://id.who.int/icd/entity/943887241,=,8D67
+6,トルコ鞍のう胞,L,G930,KGG9,=,http://id.who.int/icd/entity/943887241 & http://id.who.int/icd/entity/24387554,=,8D67 & XA9N34
+6,トルコ鞍嚢胞,S1,G930,KGG9,=,http://id.who.int/icd/entity/943887241 & http://id.who.int/icd/entity/24387554,=,8D67 & XA9N34
+6,脳室間腔のう胞,L,G930,N4EB,<,http://id.who.int/icd/entity/943887241 ,<,8D67 
+6,脳室間腔嚢胞,S1,G930,N4EB,<,http://id.who.int/icd/entity/943887241 ,<,8D67 
+6,後天性脳孔症性のう胞,L,G930,SNGG,=,http://id.who.int/icd/entity/636136288,<,8E40.Y
+6,後天性脳孔症性嚢胞,S1,G930,SNGG,=,http://id.who.int/icd/entity/636136288,<,8E40.Y
+6,第３脳室コロイドのう胞,L,G930,TU0P,=,http://id.who.int/icd/entity/1673323792,<,LA05.7 
+6,第3脳室コロイドのう胞,S0,G930,TU0P,=,http://id.who.int/icd/entity/1673323792,<,LA05.7 
+6,第3脳室コロイド嚢胞,S1,G930,TU0P,=,http://id.who.int/icd/entity/1673323792,<,LA05.7 
+6,中頭蓋窩類表皮のう胞,L,G930,V1S3,=,http://id.who.int/icd/entity/943887241 &  http://id.who.int/icd/entity/497414582 & http://id.who.int/icd/entity/1265120007,=,8D67 & XA8Y22 & XH9F67
+6,中頭蓋窩類表皮嚢腫,S1,G930,V1S3,=,http://id.who.int/icd/entity/943887241 &  http://id.who.int/icd/entity/497414582 & http://id.who.int/icd/entity/1265120007,=,8D67 & XA8Y22 & XH9F67
+6,中頭蓋窩類表皮のう腫,S1,G930,V1S3,=,http://id.who.int/icd/entity/943887241 &  http://id.who.int/icd/entity/497414582 & http://id.who.int/icd/entity/1265120007,=,8D67 & XA8Y22 & XH9F67
+6,中頭蓋窩類表皮嚢胞,S1,G930,V1S3,=,http://id.who.int/icd/entity/943887241 &  http://id.who.int/icd/entity/497414582 & http://id.who.int/icd/entity/1265120007,=,8D67 & XA8Y22 & XH9F67
+6,中頭蓋窩類表皮腫,S1,G930,V1S3,=,http://id.who.int/icd/entity/943887241 &  http://id.who.int/icd/entity/497414582 & http://id.who.int/icd/entity/1265120007,=,8D67 & XA8Y22 & XH9F67
+6,中頭蓋窩類上皮腫,S1,G930,V1S3,=,http://id.who.int/icd/entity/943887241 &  http://id.who.int/icd/entity/497414582 & http://id.who.int/icd/entity/1265120007,=,8D67 & XA8Y22 & XH9F67
+6,低酸素性脳症,L,G931,CUTL,=,http://id.who.int/icd/entity/805990521,=,8B24.Z
+6,脳低酸素症,S1,G931,CUTL,=,http://id.who.int/icd/entity/805990521,=,8B24.Z
+6,脳無酸素症,S2,G931,CUTL,=,http://id.who.int/icd/entity/1199499236,=,8E65
+6,無酸素性脳症,S2,G931,CUTL,=,http://id.who.int/icd/entity/1199499236,=,8E65
+6,無酸素性脳損傷,S2,G931,CUTL,=,http://id.who.int/icd/entity/1199499236,=,8E65
+6,無酸素性脳障害,S2,G931,CUTL,=,http://id.who.int/icd/entity/1199499236,=,8E65
+6,本態性頭蓋内圧亢進症,L,G932,A6QU,=,http://id.who.int/icd/entity/815670637,<,8D60.Y 
+6,良性頭蓋内圧亢進症,L,G932,FRBC,=,http://id.who.int/icd/entity/815670637,<,8D60.Y
+6,偽性脳腫瘍,S1,G932,FRBC,=,http://id.who.int/icd/entity/815670637,<,8D60.Y
+6,良性脳圧亢進(症),S1,G932,FRBC,=,http://id.who.int/icd/entity/815670637,<,8D60.Y
+6,特発性頭蓋内圧亢進症,S1,G932,FRBC,=,http://id.who.int/icd/entity/815670637,<,8D60.Y
+6,良性頭蓋内圧亢進,S1,G932,FRBC,=,http://id.who.int/icd/entity/815670637,<,8D60.Y
+6,良性頭蓋内圧亢進(症),S1,G932,FRBC,=,http://id.who.int/icd/entity/815670637,<,8D60.Y
+6,良性脳圧亢進,S1,G932,FRBC,=,http://id.who.int/icd/entity/815670637,<,8D60.Y
+6,良性脳圧亢進症,S1,G932,FRBC,=,http://id.who.int/icd/entity/815670637,<,8D60.Y
+6,頭蓋内圧亢進症,L,G932,LEHA,=,http://id.who.int/icd/entity/815670637,<,8D60.Y
+6,頭蓋内圧亢進,S1,G932,LEHA,=,http://id.who.int/icd/entity/815670637,<,8D60.Y
+6,脳圧亢進症状,S1,G932,LEHA,=,http://id.who.int/icd/entity/815670637,<,8D60.Y
+6,頭蓋内圧亢進(症),S1,G932,LEHA,=,http://id.who.int/icd/entity/815670637,<,8D60.Y
+6,脳圧亢進症,S1,G932,LEHA,=,http://id.who.int/icd/entity/815670637,<,8D60.Y
+6,脳圧亢進,S1,G932,LEHA,=,http://id.who.int/icd/entity/815670637,<,8D60.Y
+6,脳圧亢進(症),S1,G932,LEHA,=,http://id.who.int/icd/entity/815670637,<,8D60.Y
+6,ウイルス感染後疲労症候群,L,G933,J100,=,http://id.who.int/icd/entity/569175314,=,8E49
+6,慢性疲労症候群,L,G933,LQDG,=,http://id.who.int/icd/entity/569175314,=,8E49
+6,疲憊性神経衰弱状態,S2,G933,LQDG,=,http://id.who.int/icd/entity/569175314,=,8E49
+6,疲労性症候群,S2,G933,LQDG,=,http://id.who.int/icd/entity/569175314,=,8E49
+6,疲労症候群,S2,G933,LQDG,=,http://id.who.int/icd/entity/569175314,=,8E49
+6,良性筋痛性脳脊髄炎,L,G933,VKU1,=,http://id.who.int/icd/entity/569175314,=,8E49
+6,痙攣重積型二相性急性脳症,L,G934,CDDN,<,http://id.who.int/icd/entity/1316435973,<,8A63.Y 
+6,代謝性脳症,L,G934,E2EC,=,http://id.who.int/icd/entity/1927024232,<,8E47
+6,白質脳症,L,G934,J9PN,=,http://id.who.int/icd/entity/1503481707,<,8E7Y 
+6,白質消失病,L,G934,MFRK,=,http://id.who.int/icd/entity/1574637700,<,8A44.3 
+6,急性壊死性脳症,L,G934,P4VT,<,http://id.who.int/icd/entity/1375895174 & http://id.who.int/icd/entity/786106375,<,8E47 & XT5R 
+6,自己免疫介在性脳炎・脳症,L,G934,RFPS,=,http://id.who.int/icd/entity/241281019 OR http://id.who.int/icd/entity/1445382314,<,8E4A.0
+6,痙攣重積型急性脳症,L,G934,T04V,=,http://id.who.int/icd/entity/1375895174 & http://id.who.int/icd/entity/786106375 / http://id.who.int/icd/entity/1376414432,=,8E47 & XT5R / 8A63.Z
+6,急性脳症,L,G934,T96J,=,http://id.who.int/icd/entity/1375895174 & http://id.who.int/icd/entity/786106375,=,8E47 & XT5R
+6,脳症,L,G934,VBSH,=,http://id.who.int/icd/entity/1375895174,=,8E47
+6,エンセファロパシー,S1,G934,VBSH,=,http://id.who.int/icd/entity/1375895174,=,8E47
+6,脳障害,S2,G934,VBSH,=,http://id.who.int/icd/entity/1375895174,=,8E47
+6,テント切痕ヘルニア,L,G935,DN3R,=,http://id.who.int/icd/entity/927576852 or http://id.who.int/icd/entity/615367623 ,<,KB07 OR 8D60.0 
+6,テント円錐圧迫,S2,G935,DN3R,=,http://id.who.int/icd/entity/927576852 or http://id.who.int/icd/entity/615367623 ,<,KB07 OR 8D60.0 
+6,延髄圧迫症候群,L,G935,F90S,=,( http://id.who.int/icd/entity/927576852 or http://id.who.int/icd/entity/615367623 ) & http://id.who.int/icd/entity/1283174126  ,=,(KB07 OR 8D60.0) & XA17J6 
+6,大後頭孔ヘルニア,L,G935,H2RQ,<,http://id.who.int/icd/entity/927576852 or http://id.who.int/icd/entity/906840560 ,<,KB07 OR 8D60.0 
+6,小脳ヘルニア,S1,G935,H2RQ,=,http://id.who.int/icd/entity/927576852 or ( http://id.who.int/icd/entity/906840560 & http://id.who.int/icd/entity/976604742),=,KB07 or (8D60.0 & XA1CW2) 
+6,小脳扁桃ヘルニア,S1,G935,H2RQ,=,http://id.who.int/icd/entity/1058156375 & http://id.who.int/icd/entity/756918918 ,=,8D60.0 & XA7E38 
+6,大後頭孔症候群,S2,G935,H2RQ,<,http://id.who.int/icd/entity/927576852 or http://id.who.int/icd/entity/906840560 ,<,KB07 OR 8D60.0 
+6,中心性経テントヘルニア,L,G935,N6V9,=, http://id.who.int/icd/entity/103682466,<,8D60.0
+6,脳圧迫,L,G935,QAG1,=,http://id.who.int/icd/entity/927576852 or http://id.who.int/icd/entity/103682466 ,=,KB07 or 8D60.0
+6,脳ヘルニア,L,G935,S1RU,=,http://id.who.int/icd/entity/927576852 or http://id.who.int/icd/entity/103682466 ,=,KB07 or 8D60.0
+6,脳脱,S1,G935,S1RU,=,http://id.who.int/icd/entity/927576852 or http://id.who.int/icd/entity/103682466 ,=,KB07 or 8D60.0
+6,鉤ヘルニア,L,G935,TT80,=,http://id.who.int/icd/entity/927576852 or http://id.who.int/icd/entity/615367623 ,<,KB07 or 8D60.0
+6,鈎ヘルニア,S1,G935,TT80,=,http://id.who.int/icd/entity/927576852 or http://id.who.int/icd/entity/615367623 ,<,KB07 or 8D60.0
+6,脳浮腫,L,G936,BPA7,=,http://id.who.int/icd/entity/1139074029,=,8D60.1
+6,頭蓋脳浮腫,S1,G936,BPA7,=,http://id.who.int/icd/entity/1139074029,=,8D60.1
+6,脳腫脹,S1,G936,BPA7,=,http://id.who.int/icd/entity/1139074029,=,8D60.1
+6,頭蓋内浮腫,S1,G936,BPA7,=,http://id.who.int/icd/entity/1139074029,=,8D60.1
+6,硬膜水腫,S2,G936,BPA7,=,http://id.who.int/icd/entity/1139074029,=,8D60.1
+6,ライ症候群,L,G937,RUEQ,=,http://id.who.int/icd/entity/649014905,=,8E46
+6,REYE症候群,S1,G937,RUEQ,=,http://id.who.int/icd/entity/649014905,=,8E46
+6,ライエ症候群,S1,G937,RUEQ,=,http://id.who.int/icd/entity/649014905,=,8E46
+6,視床症候群,L,G938,BBAN,=,http://id.who.int/icd/entity/1590018465,<,8E4Y
+6,デジェリン・ルーシー症候群,S1,G938,BBAN,=,http://id.who.int/icd/entity/1590018465,<,8E4Y
+6,デジェリン症候群,S1,G938,BBAN,=,http://id.who.int/icd/entity/1590018465,<,8E4Y
+6,デジュリン症候群,S1,G938,BBAN,=,http://id.who.int/icd/entity/1590018465,<,8E4Y
+6,脳死状態,L,G938,C2HS,=,http://id.who.int/icd/entity/1228918777,=,MH10
+6,脳死,S1,G938,C2HS,=,http://id.who.int/icd/entity/1228918777,=,MH10
+6,視床下部症候群,L,G938,D9A7,=,http://id.who.int/icd/entity/1499946109,<,5A61.Y 
+6,視床交叉部症候群,S2,G938,D9A7,=,http://id.who.int/icd/entity/1499946109,<,5A61.Y 
+6,視床交差部症候群,S2,G938,D9A7,=,http://id.who.int/icd/entity/1499946109,<,5A61.Y 
+6,気脳症,L,G938,FQ9D,=,http://id.who.int/icd/entity/488744655,<,8E4Y
+6,頭蓋内気腫,S1,G938,FQ9D,=,http://id.who.int/icd/entity/488744655,<,8E4Y
+6,気脳,S1,G938,FQ9D,=,http://id.who.int/icd/entity/488744655,<,8E4Y
+6,気頭症,S1,G938,FQ9D,=,http://id.who.int/icd/entity/488744655,<,8E4Y
+6,頭蓋内気瘤,S1,G938,FQ9D,=,http://id.who.int/icd/entity/488744655,<,8E4Y
+6,気脳(症),S1,G938,FQ9D,=,http://id.who.int/icd/entity/488744655,<,8E4Y
+6,大脳石灰沈着症,L,G938,HKJQ,=,http://id.who.int/icd/entity/151219786 ,<,8E4Y
+6,頭蓋内石灰化症,S1,G938,HKJQ,=,http://id.who.int/icd/entity/151219786 ,<,8E4Y
+6,脳石,S2,G938,HKJQ,=,http://id.who.int/icd/entity/151219786 ,<,8E4Y
+6,緊張性気頭症,L,G938,JCEE,=,http://id.who.int/icd/entity/488744655,<,8E4Y
+6,緊張性気脳症,S1,G938,JCEE,=,http://id.who.int/icd/entity/488744655,<,8E4Y
+6,グリオーシス,L,G938,LC5T,=,http://id.who.int/icd/entity/2057856845,<,8E4Y
+6,神経膠症,S1,G938,LC5T,=,http://id.who.int/icd/entity/2057856845,<,8E4Y
+6,脳室拡大,L,G938,Q90D,<,http://id.who.int/icd/entity/151219786 & http://id.who.int/icd/entity/1651949308 ,<,8E4Y & XA26E8 
+6,放射線脳症,L,G938,S03B,=,http://id.who.int/icd/entity/1375895174 & http://id.who.int/icd/entity/59113228,=,8E47 & XE60C
+6,放射線性脳症,S1,G938,S03B,=,http://id.who.int/icd/entity/1375895174 & http://id.who.int/icd/entity/59113228,=,8E47 & XE60C
+6,放射線照射後脳症,S1,G938,S03B,=,http://id.who.int/icd/entity/1375895174 & http://id.who.int/icd/entity/59113228,=,8E47 & XE60C
+6,良性くも膜下腔脳石,L,G938,VRM5,<,"http://id.who.int/icd/entity/1361836748 & http://id.who.int/icd/entity/420343916 or
+ http://id.who.int/icd/entity/151219786 & http://id.who.int/icd/entity/420343916",<,"(LD20.4  OR 8E4Y) & XA1XM6
+"
+6,非外傷性低脳圧症,L,G939,BDJ4,=,http://id.who.int/icd/entity/363695674,=,8D61Z
+6,脳幹機能障害,L,G939,JD2E,=,http://id.who.int/icd/entity/269890856 & http://id.who.int/icd/entity/282738158,<,8E4Y & XA8AT9
+6,脳幹障害,S1,G939,JD2E,=,http://id.who.int/icd/entity/269890856 & http://id.who.int/icd/entity/282738158,<,8E4Y & XA8AT9
+6,脳幹小脳障害,S2,G939,JD2E,=,"
+http://id.who.int/icd/entity/269890856 & http://id.who.int/icd/entity/282738158 & http://id.who.int/icd/entity/976604742",<,8E4Y & XA8AT9 & XA1CW2
+6,外傷性低脳圧症,L,G939,NBRM,<,http://id.who.int/icd/entity/363695674,<,8D61.Z 
+6,小脳疾患,L,G939,NQ78,=,http://id.who.int/icd/entity/151219786 & http://id.who.int/icd/entity/976604742,<,8E4Y & XA1CW2
+6,小脳機能障害,L,G939,R9VE,=,http://id.who.int/icd/entity/269890856 & http://id.who.int/icd/entity/976604742,<,8E4Y & XA1CW2
+6,小脳虫部症候群,S2,G939,R9VE,=,http://id.who.int/icd/entity/1488858760 & http://id.who.int/icd/entity/1762997304,=,LD20.0Z &   XA8E64
+6,小脳半球部症候群,S2,G939,R9VE,=,http://id.who.int/icd/entity/1488858760 & http://id.who.int/icd/entity/868211282,=,LD20.0Z &  XA4SL2
+6,小脳前葉症候群,S2,G939,R9VE,<,http://id.who.int/icd/entity/1488858760 ,<,LD20.0Z 
+6,脳疾患,L,G939,T56C,=,http://id.who.int/icd/entity/151219786,<,8E4Y
+6,脊髄空洞症,L,G950,FPQ7,=,http://id.who.int/icd/entity/1218010255,=,8D66.0
+6,脊椎空洞症,S1,G950,FPQ7,=,http://id.who.int/icd/entity/1218010255,=,8D66.0
+6,先天性脊椎空洞症,S1,G950,FPQ7,=,"
+http://id.who.int/icd/entity/465198086",=,LA07.3 
+6,脊髄延髄空洞症,S2,G950,FPQ7,=,http://id.who.int/icd/entity/500607680,=,8D66.2
+6,延髄空洞症,L,G950,MQ8H,=,http://id.who.int/icd/entity/500607680,=,8D66.2
+6,脊髄硬膜下出血,L,G951,A41S,<,http://id.who.int/icd/entity/889563712 & http://id.who.int/icd/entity/759198484 / http://id.who.int/icd/entity/940081636,<,8B43.Z & XA4LQ4 / MG27 
+6,脊髄動脈症候群,L,G951,APDS,=,http://id.who.int/icd/entity/889563712,=,8B43.Z
+6,後脊髄動脈症候群,L,G951,B0U7,<,http://id.who.int/icd/entity/889563712,<,8B43.Z
+6,後脊髄動脈血栓症,S2,G951,B0U7,<,http://id.who.int/icd/entity/889563712,<,8B43.Y
+6,後脊髄動脈血栓,S2,G951,B0U7,<,http://id.who.int/icd/entity/889563712,<,8B43.Y
+6,後脊髄動脈血栓(症),S2,G951,B0U7,<,http://id.who.int/icd/entity/889563712,<,8B43.Y
+6,脊柱管内出血,L,G951,BVKN,=,http://id.who.int/icd/entity/889563712 & http://id.who.int/icd/entity/759198484 / http://id.who.int/icd/entity/940081636,=,8B43.Y & XA4LQ4 / MG27 
+6,脊椎内出血,S1,G951,BVKN,=,http://id.who.int/icd/entity/889563712 & http://id.who.int/icd/entity/759198484 / http://id.who.int/icd/entity/940081636,=,8B43.Y & XA4LQ4 / MG27 
+6,脊髄性間欠性跛行,L,G951,EUF4,<,http://id.who.int/icd/entity/889563712,<,8B43.Y
+6,脊髄性間歇性跛行,S1,G951,EUF4,<,http://id.who.int/icd/entity/889563712,<,8B43.Y
+6,神経原性跛行,S2,G951,EUF4,<,http://id.who.int/icd/entity/889563712,<,8B43.Y
+6,脊髄硬膜外出血,L,G951,F2CS,=,"http://id.who.int/icd/entity/889563712 & http://id.who.int/icd/entity/51427988 / http://id.who.int/icd/entity/940081636
+",=,8B43.Y &XA8SS8  / MG27 
+6,亜急性壊死性ミエロパチー,L,G951,G1LD,=,http://id.who.int/icd/entity/937824238,=,8A45.21
+6,亜急性壊死性脊髄症,S1,G951,G1LD,=,http://id.who.int/icd/entity/937824238,=,8A45.21
+6,亜急性壊死性ミエロパシー,S1,G951,G1LD,=,http://id.who.int/icd/entity/937824238,=,8A45.21
+6,特発性頚椎硬膜外血腫,L,G951,GGA7,=,http://id.who.int/icd/entity/889563712 & http://id.who.int/icd/entity/53291568 & http://id.who.int/icd/entity/51427988 & http://id.who.int/icd/entity/894194405 / http://id.who.int/icd/entity/940081636,=, 8B43.Y & XA9ZW8 & XA8SS8 & XB5F / MG27 
+6,特発性頚部硬膜外血腫,S1,G951,GGA7,=,http://id.who.int/icd/entity/889563712 & http://id.who.int/icd/entity/53291568 & http://id.who.int/icd/entity/51427988 & http://id.who.int/icd/entity/894194405 / http://id.who.int/icd/entity/940081636,=, 8B43.Y & XA9ZW8 & XA8SS8 & XB5F / MG27 
+6,特発性頸椎硬膜外血腫,S1,G951,GGA7,=,http://id.who.int/icd/entity/889563712 & http://id.who.int/icd/entity/53291568 & http://id.who.int/icd/entity/51427988 & http://id.who.int/icd/entity/894194405 / http://id.who.int/icd/entity/940081636,=, 8B43.Y & XA9ZW8 & XA8SS8 & XB5F / MG27 
+6,特発性頸部硬膜外血腫,S1,G951,GGA7,=,http://id.who.int/icd/entity/889563712 & http://id.who.int/icd/entity/53291568 & http://id.who.int/icd/entity/51427988 & http://id.who.int/icd/entity/894194405 / http://id.who.int/icd/entity/940081636,=, 8B43.Y & XA9ZW8 & XA8SS8 & XB5F / MG27 
+6,特発性頸髄硬膜外血腫,S1,G951,GGA7,=,http://id.who.int/icd/entity/889563712 & http://id.who.int/icd/entity/53291568 & http://id.who.int/icd/entity/51427988 & http://id.who.int/icd/entity/894194405 / http://id.who.int/icd/entity/940081636,=, 8B43.Y & XA9ZW8 & XA8SS8 & XB5F / MG27 
+6,特発性頚髄硬膜外血腫,S1,G951,GGA7,=,http://id.who.int/icd/entity/889563712 & http://id.who.int/icd/entity/53291568 & http://id.who.int/icd/entity/51427988 & http://id.who.int/icd/entity/894194405 / http://id.who.int/icd/entity/940081636,=, 8B43.Y & XA9ZW8 & XA8SS8 & XB5F / MG27 
+6,脊髄梗塞,L,G951,LU3Q,=,http://id.who.int/icd/entity/889563712,=,8B43.Z
+6,脊髄動脈血栓,S2,G951,LU3Q,=,"
+http://id.who.int/icd/entity/441598289",=,8B43.0 
+6,脊髄動脈血栓症,S2,G951,LU3Q,=,"
+http://id.who.int/icd/entity/441598289",=,8B43.0 
+6,脊髄血栓,S2,G951,LU3Q,=,http://id.who.int/icd/entity/889563712,=,8B43.Z
+6,脊髄浮腫,L,G951,M6ER,=,http://id.who.int/icd/entity/2021326314 / http://id.who.int/icd/entity/826220775 ,=,8B4Z / MG29.Z
+6,前脊髄動脈症候群,L,G951,N03L,=,http://id.who.int/icd/entity/441741361,<,8B42
+6,前脊髄動脈血栓症,S1,G951,N03L,=,http://id.who.int/icd/entity/441741361,<,8B42
+6,前脊髄動脈血栓,S1,G951,N03L,=,http://id.who.int/icd/entity/441741361,<,8B42
+6,前脊髄動脈血栓(症),S1,G951,N03L,=,http://id.who.int/icd/entity/441741361,<,8B42
+6,馬尾性間欠性跛行,L,G951,PF10,<,http://id.who.int/icd/entity/889563712 & http://id.who.int/icd/entity/677972541,<,8B43.Y & XA84W1 
+6,馬尾性間歇性跛行,S1,G951,PF10,<,http://id.who.int/icd/entity/889563712 & http://id.who.int/icd/entity/677972541,<,8B43.Y & XA84W1 
+6,ミノール病,L,G951,QGK8,<,http://id.who.int/icd/entity/889563712,<,8B43.Z
+6,血管性脊髄症,L,G951,QL97,=,http://id.who.int/icd/entity/889563712,=,8B43.Z
+6,脊髄血管障害,S2,G951,QL97,=,http://id.who.int/icd/entity/889563712,=,8B43.Z
+6,血管性ミエロパシー,S2,G951,QL97,=,http://id.who.int/icd/entity/889563712,=,8B43.Z
+6,血管性ミエロパチー,S2,G951,QL97,=,http://id.who.int/icd/entity/889563712,=,8B43.Z
+6,一過性脊髄虚血,L,G951,R36J,<,http://id.who.int/icd/entity/889563712,<,8B43.Y
+6,脊髄出血,L,G951,S1NE,=,http://id.who.int/icd/entity/889563712 & http://id.who.int/icd/entity/759198484  / http://id.who.int/icd/entity/940081636,=,8B43.Z & XA4LQ4 / MG27 
+6,脊髄内出血,S1,G951,S1NE,=,http://id.who.int/icd/entity/889563712 & http://id.who.int/icd/entity/759198484  / http://id.who.int/icd/entity/940081636,=,8B43.Z & XA4LQ4 / MG27 
+6,フォア・アラジュアニン症候群,L,G951,VK9M,=,http://id.who.int/icd/entity/1198665514,<,LA90.3Y 
+6,フォア・アラジュアニン病,S1,G951,VK9M,=,http://id.who.int/icd/entity/1198665514,<,LA90.3Y 
+6,腰髄圧迫症,L,G952,EP2Q,=,http://id.who.int/icd/entity/219469285 & http://id.who.int/icd/entity/1403484535,=,8B42 & XA8PP5 
+6,脊髄圧迫症,L,G952,TT47,=,http://id.who.int/icd/entity/219469285,<,8B42
+6,脊髄圧迫(症),S1,G952,TT47,=,http://id.who.int/icd/entity/219469285,<,8B42
+6,脊髄圧迫,S1,G952,TT47,=,http://id.who.int/icd/entity/219469285,<,8B42
+6,脊椎圧迫症,S2,G952,TT47,=,http://id.who.int/icd/entity/219469285,<,8B42
+6,放射線脊髄症,L,G958,BNC1,=,http://id.who.int/icd/entity/688537570,=,8B42  & XE60C 
+6,放射線性脊髄炎,S1,G958,BNC1,=,http://id.who.int/icd/entity/688537570,=,8B42  & XE60C 
+6,放射線誘発性ミエロパチー,S1,G958,BNC1,=,http://id.who.int/icd/entity/688537570,=,8B42  & XE60C 
+6,放射線性脊髄症,S1,G958,BNC1,=,http://id.who.int/icd/entity/688537570,=,8B42  & XE60C 
+6,放射線脊髄炎,S1,G958,BNC1,=,http://id.who.int/icd/entity/688537570,=,8B42  & XE60C 
+6,放射線誘発性ミエロパシー,S1,G958,BNC1,=,http://id.who.int/icd/entity/688537570,=,8B42  & XE60C 
+6,脊髄円錐症候群,L,G958,F8CM,=,http://id.who.int/icd/entity/1490265028,=,8B42 & XA84W1
+6,円錐脊髄症候群,S1,G958,F8CM,=,http://id.who.int/icd/entity/1490265028,=,8B42 & XA84W1
+6,脊髄萎縮,L,G958,KRJJ,<,http://id.who.int/icd/entity/344973791,<,8B44.Y
+6,薬物誘発性ミエロパチー,L,G958,PQSJ,=,http://id.who.int/icd/entity/538270043,<,8B42 
+6,薬物誘発性ミエロパシー,S1,G958,PQSJ,=,http://id.who.int/icd/entity/538270043,<,8B42 
+6,脊髄軟化症,L,G958,QEL4,<,http://id.who.int/icd/entity/740682437,<,8B42 
+6,中毒性脊髄症,L,G958,QGG6,=,http://id.who.int/icd/entity/1742289417,<,8B42 
+6,脊髄性膀胱機能障害,L,G958,R35L,=,http://id.who.int/icd/entity/740682437 & http://id.who.int/icd/entity/590198069,=,8B42 / GC01.4
+6,脊髄係留症候群,L,G958,TV0U,=,http://id.who.int/icd/entity/66705662,=,LA07.0 
+6,繋留脊髄症候群,S1,G958,TV0U,=,http://id.who.int/icd/entity/66705662,=,LA07.0 
+6,係留脊髄症候群,S1,G958,TV0U,=,http://id.who.int/icd/entity/66705662,=,LA07.0 
+6,フロアン症候群,L,G958,U176,<,http://id.who.int/icd/entity/740682437,<,8B42 
+6,胸髄症,L,G959,CPQN,=,http://id.who.int/icd/entity/740682437 & http://id.who.int/icd/entity/914245431,=,8B42 & XA6Z51
+6,胸部脊髄症,S1,G959,CPQN,=,http://id.who.int/icd/entity/740682437 & http://id.who.int/icd/entity/914245431,=,8B42 & XA6Z51
+6,脊髄疾患,L,G959,D4H6,=,http://id.who.int/icd/entity/2021326314 OR http://id.who.int/icd/entity/2131180445,=,8B4Z OR ND51.2
+6,腰部脊髄症,L,G959,EK12,=,http://id.who.int/icd/entity/740682437 & http://id.who.int/icd/entity/914245431,=,8B42 & XA6Z51
+6,脊髄中心管周囲症候群,L,G959,FK34,<,http://id.who.int/icd/entity/740682437,<,8B42 
+6,脊髄痛,L,G959,G212,=,http://id.who.int/icd/entity/869493945,<,MG30.50
+6,頚髄症,L,G959,GR21,=,http://id.who.int/icd/entity/740682437 & http://id.who.int/icd/entity/559293431,=,8B42 & XA1SP1
+6,頚部脊髄症,S1,G959,GR21,=,http://id.who.int/icd/entity/740682437 & http://id.who.int/icd/entity/559293431,=,8B42 & XA1SP1
+6,頸部脊髄症,S1,G959,GR21,=,http://id.who.int/icd/entity/740682437 & http://id.who.int/icd/entity/559293431,=,8B42 & XA1SP1
+6,頸髄症,S1,G959,GR21,=,http://id.who.int/icd/entity/740682437 & http://id.who.int/icd/entity/559293431,=,8B42 & XA1SP1
+6,頸髄障害,S2,G959,GR21,=,http://id.who.int/icd/entity/740682437 & http://id.who.int/icd/entity/559293431,=,8B42 & XA1SP1
+6,頚髄障害,S2,G959,GR21,=,http://id.who.int/icd/entity/740682437 & http://id.who.int/icd/entity/559293431,=,8B42 & XA1SP1
+6,脊髄症,L,G959,H6E2,=,http://id.who.int/icd/entity/740682437,=,8B42 
+6,ミエロパチー,S1,G959,H6E2,=,http://id.who.int/icd/entity/740682437,=,8B42 
+6,ミエロパシー,S1,G959,H6E2,=,http://id.who.int/icd/entity/740682437,=,8B42 
+6,脊髄過敏症,L,G959,RPB5,<,http://id.who.int/icd/entity/1339785363,<,8E43.0Y
+6,髄液耳漏,L,G960,AJ98,=,http://id.who.int/icd/entity/396857647,=,8D63
+6,髄液性耳漏,S1,G960,AJ98,=,http://id.who.int/icd/entity/396857647,=,8D63
+6,髄液耳瘻,S1,G960,AJ98,=,http://id.who.int/icd/entity/396857647,=,8D63
+6,脳脊髄液耳漏,S1,G960,AJ98,=,http://id.who.int/icd/entity/396857647,=,8D63
+6,脳脊髄液漏,L,G960,K0MR,=,http://id.who.int/icd/entity/501432887,=,8D65 
+6,髄液漏,S2,G960,K0MR,=,http://id.who.int/icd/entity/501432887,=,8D65 
+6,髄液鼻漏,L,G960,MDV9,=,http://id.who.int/icd/entity/1951379921,=,8D62
+6,鼻髄液瘻,S1,G960,MDV9,=,http://id.who.int/icd/entity/1951379921,=,8D62
+6,髄液鼻瘻,S1,G960,MDV9,=,http://id.who.int/icd/entity/1951379921,=,8D62
+6,脳脊髄液鼻漏,S1,G960,MDV9,=,http://id.who.int/icd/entity/1951379921,=,8D62
+6,髄液性鼻漏,S1,G960,MDV9,=,http://id.who.int/icd/entity/1951379921,=,8D62
+6,脊髄くも膜のう胞,L,G961,FE52,=,http://id.who.int/icd/entity/631153919 & http://id.who.int/icd/entity/342177102,<,8E40.Y & XA0382 
+6,脊髄くも膜嚢胞,S1,G961,FE52,=,http://id.who.int/icd/entity/631153919 & http://id.who.int/icd/entity/342177102,<,8E40.Y & XA0382 
+6,脊髄くも膜嚢腫,S1,G961,FE52,=,http://id.who.int/icd/entity/631153919 & http://id.who.int/icd/entity/342177102,<,8E40.Y & XA0382 
+6,脊髄くも膜のう腫,S1,G961,FE52,=,http://id.who.int/icd/entity/631153919 & http://id.who.int/icd/entity/342177102,<,8E40.Y & XA0382 
+6,髄膜浸潤,L,G961,FQQJ,=,http://id.who.int/icd/entity/262966673,=,8E40.0 
+6,脊髄くも膜癒着症,L,G961,NT4R,=,http://id.who.int/icd/entity/553062542 & http://id.who.int/icd/entity/342177102,<,8E40.Y & XA0382
+6,くも膜癒着症,S2,G961,NT4R,=,http://id.who.int/icd/entity/553062542 & http://id.who.int/icd/entity/342177102,<,8E40.Y & XA0382
+6,脳性髄膜癒着,L,G961,P1CS,=,http://id.who.int/icd/entity/55306254,<,8E40.Y 
+6,偽性髄膜瘤,L,G961,RBUF,<,http://id.who.int/icd/entity/866070675,<,8D6Y
+6,仮性髄膜瘤,S1,G961,RBUF,<,http://id.who.int/icd/entity/866070675,<,8D6Y
+6,脊髄性髄膜癒着,L,G961,RV2C,=,http://id.who.int/icd/entity/553062542 & http://id.who.int/icd/entity/342177102,<,8E40.Y & XA0382
+6,髄膜障害,L,G961,S3UQ,=,http://id.who.int/icd/entity/631153919 OR http://id.who.int/icd/entity/121670633,=,8E40.Z OR 1D01.Z
+6,視交叉くも膜炎,L,G961,S9A1,=,http://id.who.int/icd/entity/1278032412,=,8E40.3 & XA5TX3
+6,髄膜癒着,L,G961,ULV3,=,http://id.who.int/icd/entity/553062542,<,8E40.Y
+6,脳くも膜癒着症,L,G961,V2T4,=,http://id.who.int/icd/entity/553062542 & http://id.who.int/icd/entity/536810562 ,<,8E40.Y & XA6WL2
+6,脳表ヘモジデリン沈着症,L,G968,ALTJ,=,http://id.who.int/icd/entity/931843870,=,8E42
+6,脳表ヘモジデローシス,S1,G968,ALTJ,=,http://id.who.int/icd/entity/931843870,=,8E42
+6,脳表ヘモシデリン沈着症,S1,G968,ALTJ,=,http://id.who.int/icd/entity/931843870,=,8E42
+6,中枢性脳卒中後疼痛,L,G968,FG0F,=,http://id.who.int/icd/entity/1221409481,<, MG30.50 
+6,脊髄くも膜下出血,L,G968,H60G,=,http://id.who.int/icd/entity/631153919 &  http://id.who.int/icd/entity/759198484 / http://id.who.int/icd/entity/940081636,=,8E40.Z & XA4LQ4 /  MG27
+6,栄養神経症,L,G968,JJ44,=,http://id.who.int/icd/entity/2053072995,=,8D40.1 
+6,脳脊髄液漏出症,L,G968,PJFR,=,http://id.who.int/icd/entity/866070675,<,8D6Y
+6,神経発育遅延,L,G968,Q70T,<,http://id.who.int/icd/entity/1296093776,<,8E7Z
+6,神経発達遅滞,S1,G968,Q70T,<,http://id.who.int/icd/entity/1296093776,<,8E7Z
+6,失外套症候群,L,G969,JKJ6,=,http://id.who.int/icd/entity/920441900,=,8E20
+6,失外套症状態,S1,G969,JKJ6,=,http://id.who.int/icd/entity/920441900,=,8E20
+6,脳髄膜症,L,G969,Q7GL,<,http://id.who.int/icd/entity/1296093776,<,8E7Z
+6,中枢性神経障害性疼痛,L,G969,VQTS,=,http://id.who.int/icd/entity/1737414957,<,8A85
+6,中枢神経障害性疼痛,L,G969,VQTS,=,http://id.who.int/icd/entity/1737414957,<,8A85
+6,脊椎穿刺からの脳脊髄液漏,L,G970,N74J,=,http://id.who.int/icd/entity/1699025491,<,8D65
+6,腰椎穿刺後頭痛,L,G971,JABG,=,http://id.who.int/icd/entity/442261402　,<,8A84.Y 
+6,低髄液圧症,L,G971,PKDB,=,http://id.who.int/icd/entity/363695674,=,8D61.Z 
+6,低髄圧症候群,S1,G971,PKDB,=,http://id.who.int/icd/entity/363695674  ,=,8D61.Z 
+6,低髄圧性頭痛,S1,G971,PKDB,=,"http://id.who.int/icd/entity/1198770529 
+",=,8A84.Y / 8D61.Z
+6,低髄液圧症候群,S1,G971,PKDB,=,http://id.who.int/icd/entity/363695674  ,=,8D61.Z 
+6,代償性発汗,L,G978,B91T,<,http://id.who.int/icd/entity/1416949107 & http://id.who.int/icd/entity/182265087,<,EE00.Z & XY7V
+6,胸部交感神経遮断術後発汗異常,S1,G978,B91T,<,http://id.who.int/icd/entity/1416949107 & http://id.who.int/icd/entity/182265087,<,EE00.Z & XY7V
+6,術後性反回神経麻痺,L,G978,BPED,=,http://id.who.int/icd/entity/1705350882 & ( http://id.who.int/icd/entity/1563621155 or http://id.who.int/icd/entity/1682594403) & http://id.who.int/icd/entity/182265087 ,=,CA0H.0 & (XA1BR5 OR XA3524) & XY7V
+6,過灌流症候群,L,G978,SHCR,<,http://id.who.int/icd/entity/462903049,<,BE14 
+6,低頭蓋内圧症候群,L,G978,U0FF,=,http://id.who.int/icd/entity/363695674,=,8D61.Z 
+6,頭蓋内圧低下(症),S1,G978,U0FF,=,http://id.who.int/icd/entity/363695674,=,8D61.Z 
+6,頭蓋内圧低下,S1,G978,U0FF,=,http://id.who.int/icd/entity/363695674,=,8D61.Z 
+6,頭蓋内圧低下症,S1,G978,U0FF,=,http://id.who.int/icd/entity/363695674,=,8D61.Z
+6,脳脊髄圧低下,S2,G978,U0FF,=,http://id.who.int/icd/entity/363695674,=,8D61.Z
+6,(脳脊)髄圧低下,S2,G978,U0FF,=,http://id.who.int/icd/entity/363695674,=,8D61.Z
+6,髄圧低下,S2,G978,U0FF,=,http://id.who.int/icd/entity/363695674,=,8D61.Z
+6,神経系疾患,L,G98,C47T,=,http://id.who.int/icd/entity/1296093776,=,8E7Z　
+6,シャルコー関節,L,G98,FN9S,=,http://id.who.int/icd/entity/1492550461,=,FA38.1Z
+6,CHARCOT関節,S1,G98,FN9S,=,http://id.who.int/icd/entity/1492550461,=,FA38.1Z
+6,CHARCOT関節炎,S1,G98,FN9S,=,http://id.who.int/icd/entity/1492550461,=,FA38.1Z
+6,神経障害性関節障害,S1,G98,FN9S,=,http://id.who.int/icd/entity/1492550461,=,FA38.1Z
+6,神経障害性関節症,S1,G98,FN9S,=,http://id.who.int/icd/entity/1492550461,=,FA38.1Z
+6,神経原性関節症,S1,G98,FN9S,=,http://id.who.int/icd/entity/1492550461,=,FA38.1Z
+6,シャルコー関節炎,S1,G98,FN9S,=,http://id.who.int/icd/entity/1492550461,=,FA38.1Z
+6,神経障害性脊椎障害,L,G98,G60S,=,http://id.who.int/icd/entity/1251543714,<,FB0Y
+6,ニューロパチー性関節炎,L,G909,MAS2,=,http://id.who.int/icd/entity/1492550461,=,FA38.1Z
+6,ニューロパシー性関節炎,S1,G98,MAS2,=,http://id.who.int/icd/entity/1492550461,=,FA38.1Z
+6,神経障害性疼痛,L,G98,MTA2,=,http://id.who.int/icd/entity/1339785363,=,8E43.0Z

@@ -1,0 +1,639 @@
+ICD10 章,標準病名,代表・同義,ICD10コード,交換コード,関係,ICD11 Foundation URI,関係,MMS
+16,高血圧性障害のある母体より出生した児,L,P000,GLAT,=,http://id.who.int/icd/entity/691510326,=,KA00.0 
+16,Ｂ型肝炎ウイルス感染母体より出生した児,L,P002,AP7Q,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/592762674,=,KA00.3 & XN0GA
+16,B型肝炎ウイルス感染母体より出生した児,S0,P002,AP7Q,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/592762674,=,KA00.3 & XN0GA
+16,HBV感染母体より出生した児,S1,P002,AP7Q,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/592762674,=,KA00.3 & XN0GA
+16,HBV感染妊婦より出生した児,S1,P002,AP7Q,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/592762674,=,KA00.3 & XN0GA
+16,B型肝炎ウイルス感染妊婦より出生した児,S1,P002,AP7Q,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/592762674,=,KA00.3 & XN0GA
+16,ヒトパルボウイルスＢ１９感染母体より出生した児,L,P002,B74A,<,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/1454950754 ,<,KA00. 3 & XN7X8
+16,ヒトパルボウイルスB19感染母体より出生した児,S0,P002,B74A,<,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/1454950754 ,<,KA00. 3 & XN7X8
+16,ヒトパルボウイルスB19感染妊婦より出生した児,S1,P002,B74A,<,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/1454950754 ,<,KA00. 3 & XN7X8
+16,成人Ｔ細胞白血病ウイルス感染母体より出生した児,L,P002,BSSE,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/430573082,=,KA00.3 & XH6TE2
+16,成人T細胞白血病ウイルス感染母体より出生した児,S0,P002,BSSE,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/430573082,=,KA00.3 & XH6TE2
+16,ATLウイルス感染妊婦より出生した児,S1,P002,BSSE,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/430573082,=,KA00.3 & XH6TE2
+16,HTLV-1感染母体より出生した児,S1,P002,BSSE,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/430573082,=,KA00.3 & XH6TE2
+16,HTLV-1感染妊婦より出生した児,S1,P002,BSSE,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/430573082,=,KA00.3 & XH6TE2
+16,成人T細胞白血病ウイルス感染妊婦より出生した児,S1,P002,BSSE,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/430573082,=,KA00.3 & XH6TE2
+16,HTLV感染母体より出生した児,S1,P002,BSSE,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/430573082,=,KA00.3 & XH6TE2
+16,ATLウイルス感染母体より出生した児,S1,P002,BSSE,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/430573082,=,KA00.3 & XH6TE2
+16,HTLV感染妊婦より出生した児,S1,P002,BSSE,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/430573082,=,KA00.3 & XH6TE2
+16,真菌感染母体より出生した児,L,P002,C2UC,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/1184377859 ,=,KA00.3 & XN8AY
+16,真菌感染妊婦より出生した児,S1,P002,C2UC,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/1184377859 ,=,KA00.3 & XN8AY
+16,水痘・帯状疱疹ウイルス感染母体より出生した児,L,P002,CJTQ,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/213097968,=,KA00.3 & XN0TA
+16,水痘・帯状疱疹ウイルス母体より出生した児,S1,P002,CJTQ,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/213097968,=,KA00.3 & XN0TA
+16,水痘・帯状疱疹ウイルス妊婦より出生した児,S1,P002,CJTQ,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/213097968,=,KA00.3 & XN0TA
+16,サイトメガロウイルス感染母体より出生した児,L,P002,DQF2,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/1786174656,=,KA00.3 & XN3SQ 
+16,サイトメガロウイルス感染妊婦より出生した児,S1,P002,DQF2,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/1786174656,=,KA00.3 & XN3SQ 
+16,ヒトパピローマウイルス感染母体より出生した児,L,P002,E51Q,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/871564532,=,KA00.3 & XN8JY 
+16,HPV感染母体より出生した児,S1,P002,E51Q,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/871564532,=,KA00.3 & XN8JY 
+16,ヒトパピローマウイルス感染妊婦より出生した児,S1,P002,E51Q,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/871564532,=,KA00.3 & XN8JY 
+16,HPV感染妊婦より出生した児,S1,P002,E51Q,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/871564532,=,KA00.3 & XN8JY 
+16,梅毒感染母体より出生した児,L,P002,F4GD,=,http://id.who.int/icd/entity/33279384,=,KA00.3 & XN711 
+16,梅毒感染妊婦より出生した児,S1,P002,F4GD,=,http://id.who.int/icd/entity/33279384,=,KA00.3 & XN711 
+16,カンジダ感染母体より出生した児,L,P002,H2AT,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/422672176 ,=,KA00.3 & XN3CL 
+16,カンジダ感染妊婦より出生した児,S1,P002,H2AT,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/422672176 ,=,KA00.3 & XN3CL 
+16,ＨＩＶ感染母体より出生した児,L,P002,HJ93,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/779750023,=,KA00.3 & XN487
+16,HIV感染母体より出生した児,S0,P002,HJ93,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/779750023,=,KA00.3 & XN487
+16,HIV感染妊婦より出生した児,S1,P002,HJ93,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/779750023,=,KA00.3 & XN487
+16,ヒト免疫不全ウイルス感染妊婦より出生した児,S1,P002,HJ93,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/779750023,=,KA00.3 & XN487
+16,エイズウイルス感染母体より出生した児,S1,P002,HJ93,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/779750023,=,KA00.3 & XN487
+16,ヒト免疫不全ウイルス感染母体より出生した児,S1,P002,HJ93,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/779750023,=,KA00.3 & XN487
+16,エイズウイルス感染妊婦より出生した児,S1,P002,HJ93,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/779750023,=,KA00.3 & XN487
+16,単純ヘルペスウイルス感染母体より出生した児,L,P002,JBET,=,http://id.who.int/icd/entity/953221469 & (http://id.who.int/icd/entity/1399966925 OR http://id.who.int/icd/entity/1228337687),=,KA00.3 & (XN41T OR XN5V1)
+16,単純ヘルペスウイルス感染妊婦より出生した児,S1,P002,JBET,=,http://id.who.int/icd/entity/953221469 & (http://id.who.int/icd/entity/1399966925 OR http://id.who.int/icd/entity/1228337687),=,KA00.3 & (XN41T OR XN5V1)
+16,風疹ウイルス感染母体より出生した児,L,P002,KQFT,=,http://id.who.int/icd/entity/1410567079,=,KA00.3 & XN2WE 
+16,風疹ウイルス感染妊婦より出生した児,S1,P002,KQFT,=,http://id.who.int/icd/entity/1410567079,=,KA00.3 & XN2WE 
+16,Ｂ群溶連菌感染母体より出生した児,L,P002,LHJF,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/942223947,=,KA00.3 & XN2M1
+16,B群溶連菌感染母体より出生した児,S0,P002,LHJF,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/942223947,=,KA00.3 & XN2M1
+16,B群溶血性連鎖球菌感染母体より出生した児,S1,P002,LHJF,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/942223947,=,KA00.3 & XN2M1
+16,GBS感染母体より出生した児,S1,P002,LHJF,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/942223947,=,KA00.3 & XN2M1
+16,B群溶血性連鎖球菌感染妊婦より出生した児,S1,P002,LHJF,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/942223947,=,KA00.3 & XN2M1
+16,B群溶連菌感染妊婦より出生した児,S1,P002,LHJF,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/942223947,=,KA00.3 & XN2M1
+16,GBS感染妊婦より出生した児,S1,P002,LHJF,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/942223947,=,KA00.3 & XN2M1
+16,大腸菌感染母体より出生した児,L,P002,PTS6,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/1292092042,=,KA00.3 &  XN6P4 
+16,大腸菌感染妊婦より出生した児,S1,P002,PTS6,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/1292092042,=,KA00.3 &  XN6P4 
+16,コクサッキーウイルス感染母体より出生した児,L,P002,QPUF,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/110725874,=,KA00.3 & XN3MC
+16,コクサッキーウイルス感染妊婦より出生した児,S1,P002,QPUF,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/110725874,=,KA00.3 & XN3MC
+16,トキソプラズマ感染母体より出生した児,L,P002,RJS9,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/134844522,=,KA00.3 & XN7HC
+16,トキソプラズマ感染妊婦より出生した児,S1,P002,RJS9,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/134844522,=,KA00.3 & XN7HC
+16,クラミジア感染母体より出生した児,L,P002,SS0U,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/1526491884 ,=,KA00.3 & XN4Q4 
+16,クラミジアトラコマテイス感染妊婦より出生した児,S1,P002,SS0U,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/1526491884,=,KA00.3 & XN4Q4 
+16,クラミジア・トラコマテイス感染妊婦より出生した児,S1,P002,SS0U,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/1526491884,=,KA00.3 & XN4Q4 
+16,クラミジア感染妊婦より出生した児,S1,P002,SS0U,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/1526491884 ,=,KA00.3 & XN4Q4 
+16,トラコーマクラミジア感染妊婦より出生した児,S1,P002,SS0U,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/1526491884,=,KA00.3 & XN4Q4 
+16,クラミジアトラコマテイス感染母体より出生した児,S1,P002,SS0U,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/1526491884,=,KA00.3 & XN4Q4 
+16,トラコーマクラミジア感染母体より出生した児,S1,P002,SS0U,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/1526491884,=,KA00.3 & XN4Q4 
+16,クラミジア・トラコマテイス感染母体より出生した児,S1,P002,SS0U,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/1526491884,=,KA00.3 & XN4Q4 
+16,Ｃ型肝炎ウイルス感染母体より出生した児,L,P002,VHLP,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/1932463745,=,KA00.3 & XN1EZ
+16,C型肝炎ウイルス感染母体より出生した児,S0,P002,VHLP,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/1932463745,=,KA00.3 & XN1EZ
+16,HCV感染妊婦より出生した児,S1,P002,VHLP,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/1932463745,=,KA00.3 & XN1EZ
+16,C型肝炎ウイルス感染妊婦より出生した児,S1,P002,VHLP,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/1932463745,=,KA00.3 & XN1EZ
+16,HCV感染母体より出生した児,S1,P002,VHLP,=,http://id.who.int/icd/entity/953221469 & http://id.who.int/icd/entity/1932463745,=,KA00.3 & XN1EZ
+16,新生児ループス,L,P008,AU9L,=,http://id.who.int/icd/entity/213855225,=,KA07.0 
+16,皮膚筋炎母体より出生した児,L,P008,BKJJ,=,http://id.who.int/icd/entity/128908879 / http://id.who.int/icd/entity/739030149,=,KA00.Y / 4A41.0Z
+16,皮膚筋炎母体児,S1,P008,BKJJ,=,http://id.who.int/icd/entity/128908879 / http://id.who.int/icd/entity/739030149,=,KA00.Y / 4A41.0Z
+16,バセドウ病母体児,L,P008,K32G,=,http://id.who.int/icd/entity/128908879 / http://id.who.int/icd/entity/713028385,<,KA00.Y / 5A02.0
+16,ダリエー病母体より出生した児,L,P008,LSKF,=,http://id.who.int/icd/entity/128908879 / http://id.who.int/icd/entity/643994486,<,KA00.Y / EC20.2
+16,DARIER病母体より出生した児,S1,P008,LSKF,=,http://id.who.int/icd/entity/128908879 / http://id.who.int/icd/entity/643994486,<,KA00.Y / EC20.2
+16,DARIER病妊婦より出生した児,S1,P008,LSKF,=,http://id.who.int/icd/entity/128908879 / http://id.who.int/icd/entity/643994486,<,KA00.Y / EC20.2
+16,ダリエー病妊婦より出生した児,S1,P008,LSKF,=,http://id.who.int/icd/entity/128908879 / http://id.who.int/icd/entity/643994486,<,KA00.Y / EC20.2
+16,ＳＬＥ母体児,L,P008,QN4T,=,http://id.who.int/icd/entity/531589442,=,KA00.Y / 4A40.0
+16,SLE母体児,S0,P008,QN4T,=,http://id.who.int/icd/entity/531589442,=,KA00.Y / 4A40.0
+16,橋本病母体より出生した児,L,P008,TVFV,=,http://id.who.int/icd/entity/128908879 / http://id.who.int/icd/entity/972507934,=,KA00.Y / 5A03.20
+16,橋本病母体児,S1,P008,TVFV,=,http://id.who.int/icd/entity/128908879 / http://id.who.int/icd/entity/972507934,=,KA00.Y / 5A03.20
+16,関節リウマチ母体より出生した児,L,P008,U97K,=,http://id.who.int/icd/entity/128908879 / http://id.who.int/icd/entity/576319925,=,KA00.Y / FA20.Z
+16,関節リウマチ母体児,S1,P008,U97K,=,http://id.who.int/icd/entity/128908879 / http://id.who.int/icd/entity/576319925,=,KA00.Y / FA20.Z
+16,前期破水による新生児の障害,L,P011,GTTV,=,http://id.who.int/icd/entity/1350867235,=,KA01.1
+16,前期破水による胎児の障害,L,P011,TFDM,=,http://id.who.int/icd/entity/1350867235,=,KA01.1
+16,胎児腹膜妊娠,L,P014,JLAV,≒,http://id.who.int/icd/entity/848074718,≒,KA01.4
+16,胎児腹腔妊娠,S1,P014,JLAV,≒,http://id.who.int/icd/entity/848074718,≒,KA01.4
+16,三胎妊娠胎児,L,P015,AEQB,=,http://id.who.int/icd/entity/21187519,<,KA01.5
+16,双胎児,L,P015,DKS1,=,http://id.who.int/icd/entity/73279151,<,KA01.5
+16,双胎妊娠新生児,L,P015,FTAJ,=,http://id.who.int/icd/entity/73279151,<,KA01.5
+16,双生児,L,P015,MJES,=,http://id.who.int/icd/entity/73279151,<,KA01.5
+16,五胎妊娠新生児,L,P015,MPLE,=,http://id.who.int/icd/entity/611053293,<,KA01.5
+16,四胎妊娠胎児,L,P015,NBK5,=,http://id.who.int/icd/entity/1896700494,<,KA01.5
+16,四胎妊娠新生児,L,P015,NGHV,=,http://id.who.int/icd/entity/1896700494,<,KA01.5
+16,三胎妊娠新生児,L,P015,Q1Q1,=,http://id.who.int/icd/entity/21187519,<,KA01.5
+16,五胎妊娠胎児,L,P015,U3JK,=,http://id.who.int/icd/entity/611053293,<,KA01.5
+16,双胎妊娠胎児,L,P015,VM15,=,http://id.who.int/icd/entity/73279151,<,KA01.5
+16,自然流産胎児,L,P018,HKUL,=,http://id.who.int/icd/entity/1912165326,=,KA01.Y / JA00.09 
+16,胎盤早期剥離新生児,L,P021,HDQ7,=,http://id.who.int/icd/entity/862996958,=,KA02.Y / JA8C.Z
+16,分娩前出血新生児,L,P021,HRRV,=,http://id.who.int/icd/entity/212381468,=,KA01.8 / JA41.Z
+16,分娩前出血胎児,L,P021,ND8K,=,http://id.who.int/icd/entity/212381468,=,KA01.8 / JA41.Z
+16,胎盤早期剥離胎児,L,P021,P1J2,=,http://id.who.int/icd/entity/862996958,=,KA02.Y / JA8C.Z
+16,胎盤機能低下新生児,L,P022,FNFA,=,http://id.who.int/icd/entity/1955327835,=,KA02.3 
+16,胎盤梗塞新生児,L,P022,J066,=,"http://id.who.int/icd/entity/2044238008
+",=,KA02.2
+16,胎児胎盤機能低下,L,P022,J214,=,http://id.who.int/icd/entity/1955327835,=,KA02.3 
+16,胎児胎盤機能不全,S1,P022,J214,=,http://id.who.int/icd/entity/1955327835,=,KA02.3 
+16,胎児胎盤機能障害,S1,P022,J214,=,http://id.who.int/icd/entity/1955327835,=,KA02.3 
+16,胎盤梗塞胎児,L,P022,U169,=,http://id.who.int/icd/entity/2044238008,=,KA02.2
+16,胎盤輸血症候群による新生児の障害,L,P023,CC5B,=,http://id.who.int/icd/entity/1088791670,=,KA02.4
+16,胎盤輸血症候群により影響を受けた新生児,S1,P023,CC5B,=,http://id.who.int/icd/entity/1088791670,=,KA02.4
+16,胎盤輸血症候群による胎児の障害,L,P023,FSB0,=,http://id.who.int/icd/entity/1088791670,=,KA02.4
+16,胎盤輸血症候群により影響を受けた胎児,S1,P023,FSB0,=,http://id.who.int/icd/entity/1088791670,=,KA02.4
+16,臍帯脱出による新生児の障害,L,P024,UU50,=,http://id.who.int/icd/entity/856373218,=,KA03.0
+16,胎児臍帯上肢巻絡,L,P025,A61B,=,http://id.who.int/icd/entity/1447099000 & http://id.who.int/icd/entity/986233688,=,KA03.1 & XA4BA8
+16,新生児臍帯上肢巻絡,L,P025,BK0T,=,http://id.who.int/icd/entity/1447099000 & http://id.who.int/icd/entity/986233688,=,KA03.1 & XA4BA8
+16,胎児臍帯頚部巻絡,L,P025,FBC0,=,http://id.who.int/icd/entity/1581245628,=,KA03.1 & XA7AA6
+16,胎児臍帯頸部巻絡,S1,P025,FBC0,=,http://id.who.int/icd/entity/1581245628,=,KA03.1 & XA7AA6
+16,臍帯圧迫による新生児の障害,L,P025,G6U5,=,http://id.who.int/icd/entity/1447099000,=,KA03.1
+16,新生児臍帯結節,L,P025,HHE6,=,http://id.who.int/icd/entity/202773234,<,LB03.Y
+16,胎児臍帯結節,L,P025,HU49,=,http://id.who.int/icd/entity/202773234,<,LB03.Y
+16,胎児臍帯過捻転,L,P025,L3NN,=,http://id.who.int/icd/entity/696206834,<,KA03.1
+16,新生児臍帯巻絡,L,P025,M3V0,=,http://id.who.int/icd/entity/953785622,<,KA03.1
+16,臍帯巻絡による新生児の障害,S1,P025,M3V0,=,http://id.who.int/icd/entity/953785622,<,KA03.1
+16,新生児臍帯過捻転,L,P025,N50C,=,http://id.who.int/icd/entity/696206834,<,KA03.1
+16,新生児臍帯下肢巻絡,L,P025,P74D,=,http://id.who.int/icd/entity/1447099000 & http://id.who.int/icd/entity/2093217246,=,KA03.1 & XA45A6
+16,新生児臍帯頚部巻絡,L,P025,R5PG,=,http://id.who.int/icd/entity/1581245628,=,KA03.1 & XA7AA6
+16,新生児臍帯頸部巻絡,S1,P025,R5PG,=,http://id.who.int/icd/entity/1581245628,=,KA03.1 & XA7AA6
+16,胎児臍帯巻絡,L,P025,THBR,=,http://id.who.int/icd/entity/953785622,<,KA03.1
+16,胎児臍帯下肢巻絡,L,P025,VUSH,=,http://id.who.int/icd/entity/1447099000 & http://id.who.int/icd/entity/2093217246,=,KA03.1 & XA45A6
+16,前置血管胎児,L,P026,A8KB,=,http://id.who.int/icd/entity/86666084,=,KA03.3
+16,臍帯脱落不全,L,P026,E9ML,=,http://id.who.int/icd/entity/1832196203 / http://id.who.int/icd/entity/1842405627,=,KA03.Y / KC20.0 
+16,前置血管新生児,L,P026,FGDV,=,http://id.who.int/icd/entity/86666084,=,KA03.3
+16,胎児臍帯過短,L,P026,GBRT,=,http://id.who.int/icd/entity/965517552,=,KA03.20
+16,新生児臍帯過短,L,P026,GCT0,=,http://id.who.int/icd/entity/965517552,=,KA03.20
+16,臍帯卵膜付着による新生児の障害,L,P026,RP69,<,http://id.who.int/icd/entity/541657990 & http://id.who.int/icd/entity/156594054,<,KA03.Y &  XA66R5
+16,臍帯脱落遅延,L,P026,TS9N,=,http://id.who.int/icd/entity/1832196203 / http://id.who.int/icd/entity/1842405627,=,KA03.Y / KC20.0 
+16,横位新生児,L,P031,CJ3U,=,http://id.who.int/icd/entity/1173938380,<,KA01.7 
+16,胎向異常新生児,L,P031,EA8Q,=,http://id.who.int/icd/entity/1176618787,=,KA01.7 
+16,異常胎位による新生児の障害,S2,P031,EA8Q,=,http://id.who.int/icd/entity/1176618787,=,KA01.7 
+16,胎向異常胎児,L,P031,END4,=,http://id.who.int/icd/entity/1176618787,=,KA01.7 
+16,横位胎児,L,P031,JJP1,=,http://id.who.int/icd/entity/1173938380,<,KA01.7 
+16,胎位異常胎児,L,P031,NTQQ,=,http://id.who.int/icd/entity/1176618787,=,KA01.7 
+16,胎位異常新生児,L,P031,V4MH,=,http://id.who.int/icd/entity/1176618787,=,KA01.7 
+16,鉗子分娩による新生児の障害,L,P032,FEGU,=,http://id.who.int/icd/entity/961978723,=,KA05.2
+16,吸引分娩による新生児の障害,L,P033,E7TB,=,http://id.who.int/icd/entity/1545432311,=,KA05.3
+16,帝切児症候群,L,P034,P3HE,=,http://id.who.int/icd/entity/804519779,=,KA05.4
+16,帝王切開分娩による新生児の障害,S1,P034,P3HE,=,http://id.who.int/icd/entity/804519779,=,KA05.4
+16,急速分娩による新生児の障害,L,P035,CD3C,=,http://id.who.int/icd/entity/1253585655,=,KA05.5
+16,過強陣痛胎児,L,P036,BSF0,=,http://id.who.int/icd/entity/2005707434,<,KA05.6
+16,異常子宮収縮による新生児の障害,L,P036,EG33,=,http://id.who.int/icd/entity/1041588744,=,KA05.6
+16,微弱陣痛新生児,L,P036,L6RD,=,http://id.who.int/icd/entity/220043755,<,KA05.6
+16,過強陣痛新生児,L,P036,QVVG,=,http://id.who.int/icd/entity/2005707434,<,KA05.6
+16,微弱陣痛胎児,L,P036,T6A6,=,http://id.who.int/icd/entity/220043755,<,KA05.6
+16,向精神薬服用母体より出生した児,L,P041,N9JM,=,http://id.who.int/icd/entity/1988264158 / http://id.who.int/icd/entity/491275412,<,KA06.Y / PL00
+16,向精神薬服用妊婦より出生した児,S1,P041,N9JM,=,http://id.who.int/icd/entity/1988264158 / http://id.who.int/icd/entity/491275412,<,KA06.Y / PL00
+16,抗痙攣薬服用母体より出生した児,L,P041,RA75,=,http://id.who.int/icd/entity/1988264158 / http://id.who.int/icd/entity/60101609,<,KA06.Y / PL00
+16,抗痙攣薬服用妊婦より出生した児,S1,P041,RA75,=,http://id.who.int/icd/entity/1988264158 / http://id.who.int/icd/entity/60101609,<,KA06.Y / PL00
+16,妊娠期間に比較して低体重,L,P050,QF7K,=,http://id.who.int/icd/entity/2041060050,=,KA21.2Z
+16,LFD,S2,P050,QF7K,=,http://id.who.int/icd/entity/2041060050,=,KA21.2Z
+16,妊娠期間に比較して低体重・低身長,L,P051,VUVD,=,http://id.who.int/icd/entity/1786398813,=,KA20.0Z
+16,SFD,S1,P051,VUVD,=,http://id.who.int/icd/entity/1786398813,=,KA20.0Z
+16,子宮内発育遅延,L,P059,G1TE,=,http://id.who.int/icd/entity/470315095,=,KA20.1Z
+16,胎児発育不全・児,S1,P059,G1TE,=,http://id.who.int/icd/entity/470315095,=,KA20.1Z
+16,子宮内胎児発育遅延,S1,P059,G1TE,=,http://id.who.int/icd/entity/470315095,=,KA20.1Z
+16,IUGR,S1,P059,G1TE,=,http://id.who.int/icd/entity/470315095,=,KA20.1Z
+16,超低出産体重児,L,P070,JQEM,=,http://id.who.int/icd/entity/307162488,=,KA21.1Z
+16,超低出生体重児,L,P070,S2A7,=,http://id.who.int/icd/entity/307162488,=,KA21.0Z
+16,極低出産体重児,L,P071a,MDES,=,http://id.who.int/icd/entity/307162488,=,KA21.1Z
+16,極低出生体重児,L,P071a,P2TU,=,http://id.who.int/icd/entity/307162488,=,KA21.1Z
+16,出生体重1000グラム-1499グラムの児,S1,P071a,P2TU,=,http://id.who.int/icd/entity/1803031185 OR http://id.who.int/icd/entity/1714120052,=,KA21.10  OR  KA21.11 
+16,低出産体重児,L,P071b,GNRF,=,http://id.who.int/icd/entity/2041060050,=,KA21.2Z
+16,低出生体重児,L,P071b,KCMG,=,http://id.who.int/icd/entity/2041060050,=,KA21.2Z
+16,出生体重1500グラム-2499グラムの児,S1,P071b,KCMG,=,http://id.who.int/icd/entity/1809412104 OR  http://id.who.int/icd/entity/1367524480,=,KA21.20 OR KA21.21
+16,妊娠２８週未満で出生した児,L,P072,PT0V,=,http://id.who.int/icd/entity/1370382901,=,KA21.36
+16,妊娠28週未満で出生した児,S0,P072,PT0V,=,http://id.who.int/icd/entity/1370382901,=,KA21.36
+16,超早産児,S1,P072,PT0V,=,http://id.who.int/icd/entity/61370397,=,KA21.3Z
+16,早産児,L,P073,M1F6,=,http://id.who.int/icd/entity/1726201225,=,KA21.4Z
+16,妊娠２８週以降の早産児,L,P073,TK26,=,http://id.who.int/icd/entity/1726201225,=,KA21.4Z
+16,妊娠28週以降の早産児,S0,P073,TK26,=,http://id.who.int/icd/entity/1726201225,=,KA21.4Z
+16,妊娠28週以上で37週未満で出生した児,S1,P073,TK26,=,http://id.who.int/icd/entity/1726201225,=,KA21.4Z
+16,超巨大児,L,P080,E0DB,=,http://id.who.int/icd/entity/1556758218,=,KA22.0
+16,高身長児,L,P081,CT9M,=,http://id.who.int/icd/entity/1556758218,=,KA22.0
+16,胎児発育過度,L,P081,DJQR,=,http://id.who.int/icd/entity/1556758218,=,KA22.0
+16,巨大児,L,P081,NRV2,=,http://id.who.int/icd/entity/1556758218,=,KA22.0
+16,過体重児,L,P081,SPUF,=,http://id.who.int/icd/entity/784073668,=,KA22.1
+16,過期産児,L,P082,V28L,=,http://id.who.int/icd/entity/1294771105,=,KA22.2 
+16,過熟児,S1,P082,V28L,=,http://id.who.int/icd/entity/1294771105,=,KA22.2 
+16,分娩時新生児硬膜下出血,L,P100,C8MJ,=,http://id.who.int/icd/entity/959299335,=,KA40.00
+16,分娩時新生児脳出血,L,P101,NR5C,=,http://id.who.int/icd/entity/1550217875,=,KA40.01
+16,分娩時新生児脳室内出血,L,P102,PDB0,=,http://id.who.int/icd/entity/684401262,=,KA40.03
+16,分娩時新生児くも膜下出血,L,P103,D8QT,=,http://id.who.int/icd/entity/1300295672,=,KA40.04
+16,分娩時新生児テント裂傷,L,P104,JJ33,=,http://id.who.int/icd/entity/1047428204,=,KA40.05
+16,分娩時新生児頭蓋内出血,L,P109,C9T0,=,http://id.who.int/icd/entity/1349236312,=,KA40.0Z
+16,分娩時新生児頭蓋内裂傷,L,P109,VBV6,=,http://id.who.int/icd/entity/1349236312,=,KA40.0Z
+16,分娩時無酸素脳症,L,P112,JN0L,=,http://id.who.int/icd/entity/1816163855 / http://id.who.int/icd/entity/1199499236,=,KA40.Y / 8B24.0 
+16,新生児脳損傷,L,P112,KJBG,=,http://id.who.int/icd/entity/1816163855,<,KA40.Y
+16,新生児顔面神経損傷,L,P113,QJ68,=,http://id.who.int/icd/entity/1366828921,=,KA44.00
+16,顔面神経の分娩損傷,S1,P113,QJ68,=,http://id.who.int/icd/entity/1366828921,=,KA44.00
+16,新生児頭血腫,L,P120,KKQ7,=,http://id.who.int/icd/entity/609408952,=,KA42.1
+16,頭血腫,S1,P120,KKQ7,=,http://id.who.int/icd/entity/609408952,=,KA42.1
+16,新生児帽状腱膜下出血,L,P122,P0N8,=,http://id.who.int/icd/entity/901008083,=,KA42.4
+16,分娩時新生児帽状腱膜下出血,S1,P122,P0N8,=,http://id.who.int/icd/entity/901008083,=,KA42.4
+16,頭皮クリップ損傷,L,P124,SRL7,=,http://id.who.int/icd/entity/1001536908,<,KA42.3
+16,頭皮の分娩損傷,L,P129,U3HP,=,http://id.who.int/icd/entity/1099770685,=,KA42.Z
+16,新生児頭蓋骨骨折,L,P130,K432,=,http://id.who.int/icd/entity/950673209,=,KA45.0Z
+16,大腿骨の分娩損傷,L,P132,K990,=,http://id.who.int/icd/entity/958841520,=,KA45.6 & XA6BA0
+16,腓骨の分娩損傷,L,P133,GVSD,=,http://id.who.int/icd/entity/2021655755 & http://id.who.int/icd/entity/85354215,=,KA45.6 & XA3KT5
+16,上腕骨の分娩損傷,L,P133,LEK8,=,http://id.who.int/icd/entity/2029765625,=,KA45.6 & XA2XL4
+16,脛骨の分娩損傷,L,P133,MMJ9,=,http://id.who.int/icd/entity/2021655755 & http://id.who.int/icd/entity/520825881,=,KA45.6 & XA44U1
+16,橈骨の分娩損傷,L,P133,QLJ6,=,http://id.who.int/icd/entity/768602756 & http://id.who.int/icd/entity/255752241,=,KA45.6 & XA3WG1
+16,尺骨の分娩損傷,L,P133,ULU6,=,http://id.who.int/icd/entity/768602756 & http://id.who.int/icd/entity/1895435407,=,KA45.6 & XA5007
+16,新生児鎖骨骨折,L,P134,JKU8,=,http://id.who.int/icd/entity/1072290900,=,KA45.5 
+16,分娩損傷による骨格,L,P139,SL1R,=,http://id.who.int/icd/entity/617014953,=,KA45.Z 
+16,エルブ麻痺,L,P140,VFM4,=,http://id.who.int/icd/entity/64188025,=,KA44.10
+16,クルンプケ麻痺,L,P141,C4JS,=,http://id.who.int/icd/entity/1721279469,=,KA44.11
+16,KLUMPKE麻痺,S1,P141,C4JS,=,http://id.who.int/icd/entity/1721279469,=,KA44.11
+16,分娩麻痺,L,P149,BVBH,=,http://id.who.int/icd/entity/1462269245,=,KA44.Z
+16,新生児末梢神経損傷,L,P149,D4QQ,=,http://id.who.int/icd/entity/1462269245,=,KA44.Z
+16,末梢神経系の出産損傷,S2,P149,D4QQ,=,http://id.who.int/icd/entity/1462269245,=,KA44.Z
+16,上肢分娩麻痺,L,P149,VT1V,=,http://id.who.int/icd/entity/1462269245 & http://id.who.int/icd/entity/986233688,=,KA44.Z & XA4BA8
+16,肝の分娩損傷,L,P150,U264,=,http://id.who.int/icd/entity/522954490,=,KA46.0
+16,脾の分娩損傷,L,P151,SU49,=,http://id.who.int/icd/entity/2053139308,=,KA46.1
+16,新生児筋性斜頚,L,P152,PA5M,<,http://id.who.int/icd/entity/248331155,<,KA43.0
+16,新生児筋性斜頸,S1,P152,PA5M,<,http://id.who.int/icd/entity/248331155,<,KA43.0
+16,眼の分娩損傷,L,P153,JP09,=,http://id.who.int/icd/entity/1804006919,=,KA41
+16,顔面の分娩損傷,L,P154,DV38,=,http://id.who.int/icd/entity/409494931,=,KA43.3
+16,外性器の分娩損傷,L,P155,FAK6,=,http://id.who.int/icd/entity/2099488775,=,KA43.1
+16,分娩時児損傷,L,P159,FJS1,=,http://id.who.int/icd/entity/624443803,=,KA4Z
+16,分娩時児外傷,S1,P159,FJS1,=,http://id.who.int/icd/entity/624443803,=,KA4Z
+16,出産時児損傷,L,P159,MGUK,=,http://id.who.int/icd/entity/624443803,=,KA4Z
+16,出産時児外傷,S1,P159,MGUK,=,http://id.who.int/icd/entity/624443803,=,KA4Z
+16,重症新生児仮死,L,P210,CBJS,=,http://id.who.int/icd/entity/1968732603,=,KB21.0
+16,第２度仮死,L,P210,U063,=,http://id.who.int/icd/entity/1968732603,=,KB21.0
+16,第2度仮死,S0,P210,U063,=,http://id.who.int/icd/entity/1968732603,=,KB21.0
+16,軽度新生児仮死,L,P211,LCDM,=,http://id.who.int/icd/entity/1875062819,=,KB21.1
+16,第１度仮死,L,P211,P4RE,=,http://id.who.int/icd/entity/1875062819,=,KB21.1
+16,第1度仮死,S0,P211,P4RE,=,http://id.who.int/icd/entity/1875062819,=,KB21.1
+16,新生児仮死,L,P219,JUTD,=,http://id.who.int/icd/entity/848321559,=,KB21.Z 
+16,出生児仮死,S1,P219,JUTD,=,http://id.who.int/icd/entity/848321559,=,KB21.Z 
+16,新生児特発性呼吸窮迫症候群,L,P220,SU03,=,http://id.who.int/icd/entity/343716587,=,KB23.0Z
+16,呼吸切迫症候群,S1,P220,SU03,=,http://id.who.int/icd/entity/343716587,=,KB23.0Z
+16,新生児呼吸切迫症候群,S1,P220,SU03,=,http://id.who.int/icd/entity/343716587,=,KB23.0Z
+16,特発性呼吸窮迫症候群,S1,P220,SU03,=,http://id.who.int/icd/entity/343716587,=,KB23.0Z
+16,肺硝子膜症,S1,P220,SU03,=,http://id.who.int/icd/entity/1406980855,=,KB23.0Y
+16,呼吸窮迫症候群,S1,P220,SU03,=,http://id.who.int/icd/entity/343716587,=,KB23.0Z
+16,IRDS,S1,P220,SU03,=,http://id.who.int/icd/entity/343716587,=,KB23.0Z
+16,RDS,S1,P220,SU03,=,http://id.who.int/icd/entity/343716587,=,KB23.0Z
+16,新生児一過性頻呼吸,L,P221,FR3D,=,http://id.who.int/icd/entity/1899462527,=,KB23.1
+16,新生児一過性多呼吸,L,P221,GRNS,=,http://id.who.int/icd/entity/1899462527,=,KB23.1
+16,新生児呼吸障害,L,P228,D4J9,=,http://id.who.int/icd/entity/1178406122,=,KB23.Z
+16,ウイルス性先天性肺炎,L,P230,GHNF,=,http://id.who.int/icd/entity/594985340 & http://id.who.int/icd/entity/1208497819,=,KB24 & XN3BH
+16,先天性クラミジア肺炎,L,P231,Q030,=,http://id.who.int/icd/entity/1842329598,=,KB24 & XN27H 
+16,ぶどう球菌性先天性肺炎,L,P232,S629,=,http://id.who.int/icd/entity/425912065,=,KB24 & XN9ZG
+16,ブドウ球菌性先天性肺炎,S1,P232,S629,=,http://id.who.int/icd/entity/425912065,=,KB24 & XN9ZG
+16,Ｂ群連鎖球菌性先天性肺炎,L,P233,TJ20,=,http://id.who.int/icd/entity/2083072661,=,KB24 & XN2M1
+16,B群連鎖球菌性先天性肺炎,S0,P233,TJ20,=,http://id.who.int/icd/entity/2083072661,=,KB24 & XN2M1
+16,B群れんさ球菌性先天性肺炎,S1,P233,TJ20,=,http://id.who.int/icd/entity/2083072661,=,KB24 & XN2M1
+16,大腸菌性先天性肺炎,L,P234,KF78,=,http://id.who.int/icd/entity/264747265,=,KB24 & XN6P4
+16,緑膿菌性先天性肺炎,L,P235,A2SA,=,http://id.who.int/icd/entity/1787589781,=,KB24 & XN5L6
+16,肺炎桿菌性先天性肺炎,L,P236,BD28,=,http://id.who.int/icd/entity/594985340 & http://id.who.int/icd/entity/967742069,=,KB24 & XN741
+16,マイコプラズマ性先天性肺炎,L,P236,E0K2,=,http://id.who.int/icd/entity/594985340 & http://id.who.int/icd/entity/2129504458,=,KB24 & XN1W2
+16,マイコプラスマ性先天性肺炎,S1,P236,E0K2,=,http://id.who.int/icd/entity/594985340 & http://id.who.int/icd/entity/2129504458,=,KB24 & XN1W2
+16,インフルエンザ菌性先天性肺炎,L,P236,QH46,=,http://id.who.int/icd/entity/594985340 & http://id.who.int/icd/entity/675811104,=,KB24 & XN1P6 
+16,先天性肺炎,L,P239,C04K,=,http://id.who.int/icd/entity/594985340,=,KB24
+16,胎便吸引症候群,L,P240,QNDJ,=,http://id.who.int/icd/entity/872221482,=,KB26.0
+16,大量吸引症候群,S1,P240,QNDJ,=,http://id.who.int/icd/entity/1352159976,=,KB26.Z 
+16,羊水大量吸引症候群,L,P241,M3A1,=,http://id.who.int/icd/entity/1352159976,=,KB26.Z 
+16,羊水吸引症候群,S1,P241,M3A1,=,http://id.who.int/icd/entity/1352159976,=,KB26.Z 
+16,羊水過度吸引症候群,S1,P241,M3A1,=,http://id.who.int/icd/entity/1352159976,=,KB26.Z 
+16,新生児吸引症候群,L,P249,HQ50,=,http://id.who.int/icd/entity/1352159976,=,KB26.Z
+16,吸引症候群,S1,P249,HQ50,=,http://id.who.int/icd/entity/1352159976,=,KB26.Z
+16,新生児の血液吸引,S2,P249,HQ50,=,http://id.who.int/icd/entity/572233281,=,KB26.2
+16,新生児吸引性肺炎,S2,P249,HQ50,=,http://id.who.int/icd/entity/1449932922,<,KB26.Y
+16,周産期間質性肺気腫,L,P250,JTT7,=,http://id.who.int/icd/entity/788906923,=,KB27.0
+16,周産期に発生した間質性気腫,S2,P250,JTT7,=,http://id.who.int/icd/entity/788906923,=,KB27.0
+16,先天性肺気腫,L,P250,PCFA,=,http://id.who.int/icd/entity/788906923,=,KB27.0 
+16,先天性大葉性肺気腫,L,P250,U4LA,=,http://id.who.int/icd/entity/788906923,=,KB27.0
+16,新生児気胸,L,P251,T4DQ,=,http://id.who.int/icd/entity/1246629439,=,KB27.1
+16,周産期に発生した気胸,S1,P251,T4DQ,=,http://id.who.int/icd/entity/1246629439,=,KB27.1
+16,周産期に発生した気縦隔,L,P252,TKCL,=,http://id.who.int/icd/entity/1055088320,=,KB27.2
+16,周産期に発生した気管気管支出血,L,P260,FD78,=,http://id.who.int/icd/entity/780297109,=,KB28.0
+16,周産期に発生した大量肺出血,L,P261,BJKH,=,http://id.who.int/icd/entity/1271508481,<,KB28.Y
+16,新生児肺出血,L,P269,T3DF,=,http://id.who.int/icd/entity/1098829699,=,KB28.Z
+16,周産期肺出血,S1,P269,T3DF,=,http://id.who.int/icd/entity/1098829699,=,KB28.Z
+16,ウイルソン・ミキティ症候群,L,P270,DEDK,=,http://id.who.int/icd/entity/846899990,<,KB29.Y
+16,WILSON-MIKITY症候群,S1,P270,DEDK,=,http://id.who.int/icd/entity/846899990,<,KB29.Y
+16,気管支肺異形成症,L,P271,GM6S,=,http://id.who.int/icd/entity/1462855296,=,KB29.0
+16,肺気管支異形成症,S1,P271,GM6S,=,http://id.who.int/icd/entity/1462855296,=,KB29.0
+16,先天性肺線維症,L,P278,B9QB,=,http://id.who.int/icd/entity/1144277686,<,KB29.Y 
+16,人工呼吸器肺新生児,L,P278,P441,=,http://id.who.int/icd/entity/1062668037,<,KB29.Y
+16,新生児慢性肺疾患,L,P279,JSBM,=,http://id.who.int/icd/entity/607453719,<,KB29.Z
+16,周産期慢性呼吸器疾患,L,P279,PFT4,=,http://id.who.int/icd/entity/607453719,<,KB29.Z
+16,未熟肺,L,P280,NUPA,=,http://id.who.int/icd/entity/2097051816,=,KB2B
+16,新生児無気肺,L,P280,RGA9,=,http://id.who.int/icd/entity/2097051816,=,KB2B
+16,先天性無気肺,S1,P280,RGA9,=,http://id.who.int/icd/entity/2097051816,=,KB2B
+16,肺拡張不全,S1,P280,RGA9,=,http://id.who.int/icd/entity/2097051816,=,KB2B
+16,新生児原発性無気肺,S1,P280,RGA9,=,http://id.who.int/icd/entity/2097051816,=,KB2B
+16,原発性無気肺,S1,P280,RGA9,=,http://id.who.int/icd/entity/2097051816,=,KB2B
+16,新生児チアノーゼ発作,L,P282,MCB0,=,http://id.who.int/icd/entity/1830348227,=,KB2C
+16,新生児無酸素発作,S2,P282,MCB0,=,http://id.who.int/icd/entity/1830348227,=,KB2C
+16,新生児原発性睡眠時無呼吸,L,P283,NUDP,=,http://id.who.int/icd/entity/139667543,=,7A40.1
+16,新生児睡眠時無呼吸,S1,P283,NUDP,=,http://id.who.int/icd/entity/139667543,=,7A40.1
+16,新生児無呼吸発作,L,P284,QELU,=,http://id.who.int/icd/entity/139667543,=,7A40.1
+16,未熟児無呼吸発作,L,P284,QK60,=,http://id.who.int/icd/entity/894774581,=,7A40.2
+16,新生児呼吸不全,L,P285,FGB5,=,http://id.who.int/icd/entity/519468631,=,KB2D
+16,新生児肺換気異常,S2,P285,FGB5,=,http://id.who.int/icd/entity/519468631,=,KB2D
+16,新生児肺機能異常,S2,P285,FGB5,=,http://id.who.int/icd/entity/519468631,=,KB2D
+16,先天性喘鳴,L,P288,B761,=,http://id.who.int/icd/entity/871392116,<,KB2Y
+16,先天性喉頭喘鳴,S2,P288,B761,=,http://id.who.int/icd/entity/871392116,<,KB2Y
+16,新生児鼻翼呼吸,L,P288,HSMK,<,http://id.who.int/icd/entity/1178406122,<,KB23.Y
+16,新生児特発呼吸障害,L,P289,KPRU,=,http://id.who.int/icd/entity/1178406122 & http://id.who.int/icd/entity/894194405,=,KB23.Z & XB5F
+16,新生児心不全,L,P290,DGBT,=,http://id.who.int/icd/entity/1611051049,=,KB40.Z
+16,新生児心調律障害,L,P291,Q30B,=,http://id.who.int/icd/entity/88964541,=,KB41
+16,新生児不整脈,S1,P291,Q30B,=,http://id.who.int/icd/entity/88964541,=,KB41
+16,新生児高血圧症,L,P292,BGQ4,=,http://id.who.int/icd/entity/1910517058,=,KB45
+16,新生児遷延性肺高血圧症,L,P293,T7FB,=,http://id.who.int/icd/entity/346808536,=,KB42
+16,新生児持続性肺高血圧症,S1,P293,T7FB,=,http://id.who.int/icd/entity/346808536,=,KB42
+16,PFC,S1,P293,T7FB,=,http://id.who.int/icd/entity/346808536,=,KB42
+16,PPHN,S1,P293,T7FB,=,http://id.who.int/icd/entity/346808536,=,KB42
+16,胎児循環残存症,S1,P293,T7FB,=,http://id.who.int/icd/entity/346808536,=,KB42
+16,胎児循環遺残,S1,P293,T7FB,=,http://id.who.int/icd/entity/346808536,=,KB42
+16,新生児一過性心筋虚血,L,P294,PNBT,=,http://id.who.int/icd/entity/1732604740,=,KB44
+16,周産期に発生した心血管障害,L,P299,RJV5,=,http://id.who.int/icd/entity/1853961983,<,KB4Y
+16,先天性風疹症候群,L,P350,HQT9,=,http://id.who.int/icd/entity/1059053724,=,KA62.8 
+16,新生児性風疹感染,S1,P350,HQT9,=,http://id.who.int/icd/entity/1059053724,=,KA62.8 
+16,風疹症候群,S1,P350,HQT9,=,http://id.who.int/icd/entity/1059053724,=,KA62.8 
+16,先天性サイトメガロウイルス感染症,L,P351,CFBR,=,http://id.who.int/icd/entity/1515465998,=,KA62.3
+16,先天性ヘルペスウイルス感染症,L,P352,BM2A,=,http://id.who.int/icd/entity/788102641,=,KA62.A
+16,新生児ヘルペス,S1,P352,BM2A,=,http://id.who.int/icd/entity/788102641,=,KA62.A
+16,先天性単純疱疹,S1,P352,BM2A,=,http://id.who.int/icd/entity/788102641,=,KA62.A
+16,新生児ヘルペス感染症,S1,P352,BM2A,=,http://id.who.int/icd/entity/788102641,=,KA62.A
+16,先天性ウイルス肝炎,L,P353,EKRH,=,http://id.who.int/icd/entity/1270001765,=,KA62.9
+16,新生児Ｃ型肝炎ウイルス感染症,L,P353,MLNH,=,http://id.who.int/icd/entity/2049911925,=,KA62.9 & XN1EZ
+16,新生児C型肝炎ウイルス感染症,S0,P353,MLNH,=,http://id.who.int/icd/entity/2049911925,=,KA62.9 & XN1EZ
+16,新生児C型肝炎ウイルスキャリア,S1,P353,MLNH,=,http://id.who.int/icd/entity/2049911925,=,KA62.9 & XN1EZ
+16,新生児HCV感染症,S1,P353,MLNH,=,http://id.who.int/icd/entity/2049911925,=,KA62.9 & XN1EZ
+16,先天性C型肝炎,S2,P353,MLNH,=,http://id.who.int/icd/entity/2049911925,=,KA62.9 & XN1EZ
+16,先天性Ａ型肝炎,L,P353,NSE9,=,http://id.who.int/icd/entity/2091859414 & http://id.who.int/icd/entity/1177078517,=,KA62.9 & XN40D 
+16,先天性A型肝炎,S0,P353,NSE9,=,http://id.who.int/icd/entity/2091859414 & http://id.who.int/icd/entity/1177078517,=,KA62.9 & XN40D 
+16,新生児Ｂ型肝炎ウイルス感染症,L,P353,NTF8,=,http://id.who.int/icd/entity/70536941,=,KA62.9 & XN0GA
+16,新生児B型肝炎ウイルス感染症,S0,P353,NTF8,=,http://id.who.int/icd/entity/70536941,=,KA62.9 & XN0GA
+16,新生児HBV感染症,S1,P353,NTF8,=,http://id.who.int/icd/entity/70536941,=,KA62.9 & XN0GA
+16,新生児B型肝炎ウイルスキャリア,S1,P353,NTF8,=,http://id.who.int/icd/entity/70536941,=,KA62.9 & XN0GA
+16,先天性B型肝炎,S2,P353,NTF8,=,http://id.who.int/icd/entity/70536941,=,KA62.9 & XN0GA
+16,先天性水痘症候群,L,P358,F5L2,=,http://id.who.int/icd/entity/851814044,<,KA62.2
+16,先天性水痘・帯状疱疹ウイルス感染症,S1,P358,F5L2,=,http://id.who.int/icd/entity/2071159826,=,KA62.2
+16,先天性水痘症,S1,P358,F5L2,=,http://id.who.int/icd/entity/662161761,<,KA62.2
+16,新生児成人Ｔ細胞白血病ウイルス感染症,L,P358,KHUM,≒,http://id.who.int/icd/entity/1645664101 & http://id.who.int/icd/entity/430573082,≒,KA62.Y & XH6TE2
+16,新生児成人T細胞白血病ウイルス感染症,S0,P358,KHUM,≒,http://id.who.int/icd/entity/1645664101 & http://id.who.int/icd/entity/430573082,≒,KA62.Y & XH6TE2
+16,新生児HTLV感染症,S1,P358,KHUM,≒,http://id.who.int/icd/entity/1645664101 & http://id.who.int/icd/entity/430573082,≒,KA62.Y & XH6TE2
+16,新生児ATLウイルス感染症,S1,P358,KHUM,≒,http://id.who.int/icd/entity/1645664101 & http://id.who.int/icd/entity/430573082,≒,KA62.Y & XH6TE2
+16,新生児HTLV-I感染症,S1,P358,KHUM,=,http://id.who.int/icd/entity/1645664101 & http://id.who.int/icd/entity/430573082,=,KA62.Y & XH6TE2
+16,先天性ウイルス感染症,L,P359,QT0R,=,http://id.who.int/icd/entity/1645664101,=,KA62.Z
+16,新生児Ｂ群連鎖球菌敗血症,L,P360,URKS,=,http://id.who.int/icd/entity/1050165412,=,KA60 & XN2M1
+16,新生児B群連鎖球菌敗血症,S0,P360,URKS,=,http://id.who.int/icd/entity/1050165412,=,KA60 & XN2M1
+16,新生児GBS敗血症,S1,P360,URKS,=,http://id.who.int/icd/entity/1050165412,=,KA60 & XN2M1
+16,新生児肺炎球菌敗血症,L,P361,G3BC,=,http://id.who.int/icd/entity/381388700 & http://id.who.int/icd/entity/701476640,=,KA60 & XN3PW 
+16,新生児黄色ぶどう球菌敗血症,L,P362,N2QJ,=,http://id.who.int/icd/entity/796843471,=,KA60 & XN6BM
+16,新生児コアグラーゼ陰性ぶどう球菌敗血症,L,P363,G269,=,http://id.who.int/icd/entity/381388700 & http://id.who.int/icd/entity/250123265,=,KA60 & XN9LM
+16,新生児大腸菌敗血症,L,P364,TQ35,=,http://id.who.int/icd/entity/970687439,=,KA60 & XN6P4
+16,新生児セラチア敗血症,L,P368,A8NJ,=,http://id.who.int/icd/entity/381388700 & http://id.who.int/icd/entity/237808899,=,KA60 & XN71D
+16,新生児緑膿菌敗血症,L,P368,FUT3,=,http://id.who.int/icd/entity/381388700 & http://id.who.int/icd/entity/1811342866,=,KA60 & XN5L6
+16,新生児クレブシエラ敗血症,L,P368,KFK8,=,http://id.who.int/icd/entity/381388700 & http://id.who.int/icd/entity/1889951404,=,KA60 & XN620
+16,新生児リステリア敗血症,L,P368,TV08,=,http://id.who.int/icd/entity/381388700 & http://id.who.int/icd/entity/1927114867,=,KA60 & XN4D1
+16,新生児インフルエンザ菌敗血症,L,P368,V5KV,=,http://id.who.int/icd/entity/381388700 & http://id.who.int/icd/entity/1418788600,=,KA60 & XN5SG
+16,新生児敗血症,L,P369,FTC9,=,http://id.who.int/icd/entity/381388700,=,KA60
+16,新生児細菌性敗血症,S1,P369,FTC9,=,http://id.who.int/icd/entity/381388700,=,KA60
+16,胎児敗血症,L,P369,SP02,=,http://id.who.int/icd/entity/381388700,=,KA60
+16,先天性結核,L,P370,SQG9,=,http://id.who.int/icd/entity/576751653,=,KA61.0
+16,先天性トキソプラズマ症,L,P371,ERK7,=,http://id.who.int/icd/entity/1194018225,=,KA64.0
+16,先天性トキソプラズマ感染症,S1,P371,ERK7,=,http://id.who.int/icd/entity/1194018225,=,KA64.0
+16,新生児トキソプラスマ感染症,S1,P371,ERK7,=,http://id.who.int/icd/entity/1194018225,=,KA64.0
+16,先天性トキソプラスマ症,S1,P371,ERK7,=,http://id.who.int/icd/entity/1194018225,=,KA64.0
+16,先天性リステリア症,L,P372,M5R2,=,http://id.who.int/icd/entity/864425294,=,KA61.1
+16,先天性熱帯熱マラリア,L,P373,FUEQ,=,http://id.who.int/icd/entity/1456330972,=,KA64.1
+16,新生児カンジダ症,L,P375,A6JF,=,http://id.who.int/icd/entity/1080592090,=,KA63.2
+16,新生児モニリア感染,S1,P375,A6JF,=,http://id.who.int/icd/entity/1080592090,=,KA63.2
+16,新生児カンジダ感染,S1,P375,A6JF,=,http://id.who.int/icd/entity/1080592090,=,KA63.2
+16,新生児鵞口瘡,S1,P375,A6JF,=,http://id.who.int/icd/entity/1080592090 & http://id.who.int/icd/entity/2124171981,=,KA63.2 & XA1WN1 
+16,新生児クラミジア感染症,L,P378,UQTB,=,http://id.who.int/icd/entity/1935107489 & http://id.who.int/icd/entity/1065383727,=,KA61.Z & XN27H
+16,母子感染,L,P379,P8GM,=,http://id.who.int/icd/entity/911707612,=,KA6Z
+16,垂直感染,S1,P379,P8GM,=,http://id.who.int/icd/entity/911707612,=,KA6Z
+16,先天性感染,L,P379,QHE0,=,http://id.who.int/icd/entity/911707612,=,KA6Z
+16,新生児臍炎,L,P38,DNS9,=,http://id.who.int/icd/entity/244932428,=,KA65.1
+16,臍炎,S1,P38,DNS9,=,http://id.who.int/icd/entity/244932428,=,KA65.1
+16,新生児感染性乳腺炎,L,P390,S1G1,=,http://id.who.int/icd/entity/1880920858,=,KA65.3
+16,新生児眼炎,L,P391,AR6S,=,http://id.who.int/icd/entity/358047372,=,KA65.0
+16,新生児クラミジア結膜炎,L,P391,CTLB,=,http://id.who.int/icd/entity/159245683,=,KA65.0 & XN27H 
+16,新生児封入体結膜炎,S2,P391,CTLB,=,http://id.who.int/icd/entity/159245683 & http://id.who.int/icd/entity/1526491884,=,KA65.0 &  XN4Q4 
+16,新生児結膜炎,L,P391,D88M,=,http://id.who.int/icd/entity/358047372,=,KA65.0
+16,新生児涙のう炎,L,P391,K8PR,=,http://id.who.int/icd/entity/358047372,=,KA65.0
+16,新生児涙嚢炎,S1,P391,K8PR,=,http://id.who.int/icd/entity/358047372,=,KA65.0
+16,新生児全眼炎,L,P391,MQBU,=,http://id.who.int/icd/entity/358047372,=,KA65.0
+16,胎児の羊水感染症,L,P392,Q1TC,=,http://id.who.int/icd/entity/1643777651,<,KA6Y
+16,新生児尿路感染症,L,P393,SC7G,=,http://id.who.int/icd/entity/78758887,=,KA65.2
+16,新生児皮膚感染症,L,P394,R16F,=,http://id.who.int/icd/entity/2002735219,=,EH1Z
+16,新生児感染症,L,P399,SQ12,=,http://id.who.int/icd/entity/911707612,=,KA6Z
+16,前置血管からの胎児失血,L,P500,DMDA,=,http://id.who.int/icd/entity/2034578371,=,KA80.0 
+16,臍帯破裂からの胎児失血,L,P501,N702,=,http://id.who.int/icd/entity/470744663,=,KA80.1
+16,胎盤からの胎児失血,L,P502,UJTT,=,http://id.who.int/icd/entity/1755557546,=,KA80.2
+16,双胎間輸血症候群による失血,L,P503,ACD1,=,http://id.who.int/icd/entity/233333564,=,KA80.3
+16,母体循環への胎児失血,L,P504,A61L,=,http://id.who.int/icd/entity/2114384040,=,KA80.4
+16,双胎の対児の臍帯断端からの胎児失血,L,P505,K2KG,=,http://id.who.int/icd/entity/458046782,=,KA80.5
+16,胎児失血,L,P509,UCK0,=,http://id.who.int/icd/entity/737177485,=,KA80.Z
+16,胎児出血,S1,P509,UCK0,=,http://id.who.int/icd/entity/737177485,=,KA80.Z
+16,新生児の大量臍出血,L,P510,QVVK,=,http://id.who.int/icd/entity/1706949444,<,KA81
+16,新生児臍出血,L,P519,ELBF,=,http://id.who.int/icd/entity/1320919577,=,KA81
+16,産後臍出血,S1,P519,ELBF,=,http://id.who.int/icd/entity/1320919577,=,KA81
+16,出産後臍出血,S1,P519,ELBF,=,http://id.who.int/icd/entity/1320919577,=,KA81
+16,臍出血,S1,P519,ELBF,=,http://id.who.int/icd/entity/1320919577,=,KA81
+16,新生児脳室内出血,L,P523,GETE,=,http://id.who.int/icd/entity/974582504,=,KA82.Z
+16,新生児脳出血,L,P524,N5R6,=,http://id.who.int/icd/entity/1668913175,=,KA82.4
+16,新生児頭蓋内出血,L,P529,FPRS,=,http://id.who.int/icd/entity/974582504,=,KA82.Z
+16,新生児ビタミンＫ欠乏症,L,P53,DK60,=,http://id.who.int/icd/entity/3517042,=,KA8F.Z
+16,新生児ビタミンK欠乏症,S0,P53,DK60,=,http://id.who.int/icd/entity/3517042,=,KA8F.Z
+16,新生児ビタミンK歇乏症,S1,P53,DK60,=,http://id.who.int/icd/entity/3517042,=,KA8F.Z
+16,新生児吐血,L,P540,FKGE,=,http://id.who.int/icd/entity/1136386749 & http://id.who.int/icd/entity/1337584902,=,KA83.0 & XA8182 
+16,新生児メレナ,L,P541,GGAL,=,http://id.who.int/icd/entity/653274921,<,KB8A
+16,新生児血性便,S1,P541,GGAL,=,http://id.who.int/icd/entity/653274921,<,KB8A
+16,新生児下血,S1,P541,GGAL,=,http://id.who.int/icd/entity/653274921,<,KB8A
+16,真性メレナ,S1,P541,GGAL,=,http://id.who.int/icd/entity/653274921,<,KB8A
+16,新生児直腸出血,L,P542,L90Q,=,http://id.who.int/icd/entity/1381859288,=,KA83.2
+16,新生児胃腸出血,L,P543,BSJD,=,http://id.who.int/icd/entity/924234306,=,KA83.1
+16,新生児副腎出血,L,P544,Q6MU,=,http://id.who.int/icd/entity/1157112278,=,KA83.4
+16,新生児点状出血,L,P545,A82V,=,http://id.who.int/icd/entity/565439556,=,KA83.8
+16,新生児斑状出血,L,P545,FHF2,=,http://id.who.int/icd/entity/1212685503,<,KA83.8
+16,新生児皮下出血,L,P545,HG9R,=,http://id.who.int/icd/entity/565439556,=,KA83.8
+16,新生児皮膚出血,S1,P545,HG9R,=,http://id.who.int/icd/entity/565439556,=,KA83.8
+16,新生児紫斑,L,P545,QRNT,=,http://id.who.int/icd/entity/604043907,<,KA83.8
+16,新生児月経様出血,L,P546,EU5Q,=,http://id.who.int/icd/entity/1428077757,=,KA83.9
+16,新生女児性器出血,S1,P546,EU5Q,=,http://id.who.int/icd/entity/1428077757,=,KA83.9
+16,新生児月経,S1,P546,EU5Q,=,http://id.who.int/icd/entity/1428077757,=,KA83.9
+16,新生児膣出血,S2,P546,EU5Q,=,http://id.who.int/icd/entity/1732947697,=,KA83.9 & XA1LK7
+16,新生児腟出血,S2,P546,EU5Q,=,http://id.who.int/icd/entity/1732947697,=,KA83.9 & XA1LK7
+16,新生児出血性疾患,L,P549,NHP1,=,http://id.who.int/icd/entity/1599946610,=,KA8F.0 
+16,未熟児出血性疾患,S1,P549,NHP1,=,http://id.who.int/icd/entity/1599946610,=,KA8F.0 
+16,胎児Ｒｈ不適合,L,P550,HLPF,=,http://id.who.int/icd/entity/1598237246,=,KA84.0
+16,胎児RH不適合,S0,P550,HLPF,=,http://id.who.int/icd/entity/1598237246,=,KA84.0 
+16,Ｒｈ因子不適合,L,P550,LG9B,=,http://id.who.int/icd/entity/1598237246,=,KA84.0
+16,RH因子不適合,S0,P550,LG9B,=,http://id.who.int/icd/entity/1598237246,=,KA84.0
+16,新生児Ｒｈ不適合,L,P550,NNK8,=,http://id.who.int/icd/entity/1598237246,=,KA84.0
+16,新生児RH不適合,S0,P550,NNK8,=,http://id.who.int/icd/entity/1598237246,=,KA84.0
+16,Ｒｈ溶血性疾患,L,P550,R2HB,=,http://id.who.int/icd/entity/1598237246,=,KA84.0
+16,RH溶血性疾患,S0,P550,R2HB,=,http://id.who.int/icd/entity/1598237246,=,KA84.0
+16,新生児ＡＢＯ不適合溶血性疾患,L,P551,DPLT,=,http://id.who.int/icd/entity/973662120,=,KA84.2
+16,新生児ABO不適合溶血性疾患,S0,P551,DPLT,=,http://id.who.int/icd/entity/973662120,=,KA84.2
+16,ＡＢＯ因子不適合,L,P551,KJB6,=,http://id.who.int/icd/entity/973662120,=,KA84.2
+16,ABO因子不適合,S0,P551,KJB6,=,http://id.who.int/icd/entity/973662120,=,KA84.2
+16,ＡＢＯ溶血性疾患,L,P551,L6PB,=,http://id.who.int/icd/entity/973662120,=,KA84.2
+16,ABO溶血性疾患,S0,P551,L6PB,=,http://id.who.int/icd/entity/973662120,=,KA84.2
+16,ABO不適合による溶血性貧血,S1,P551,L6PB,=,http://id.who.int/icd/entity/973662120,=,KA84.2
+16,胎児血液型不適合,L,P558,RLTL,=,http://id.who.int/icd/entity/1241014644,=,KA84.Z
+16,新生児赤芽球症,L,P559,B7Q2,=,http://id.who.int/icd/entity/1241014644,=,KA84.Z
+16,赤芽球症,S2,P559,B7Q2,=,http://id.who.int/icd/entity/1241014644,=,KA84.Z
+16,胎児赤芽球症,L,P559,NDEQ,=,http://id.who.int/icd/entity/1241014644,=,KA84.Z
+16,胎児性赤芽球症,S1,P559,NDEQ,=,http://id.who.int/icd/entity/1241014644,=,KA84.Z
+16,新生児溶血性黄疸,L,P559,Q5VE,=,http://id.who.int/icd/entity/2103624566,<,KA84.0
+16,新生児溶血性貧血,L,P559,UQAE,=,http://id.who.int/icd/entity/1241014644,=,KA84.Z
+16,新生児溶血性疾患,S2,P559,UQAE,=,http://id.who.int/icd/entity/1241014644,=,KA84.Z
+16,核黄疸ＩＩＩ期,L,P579,AM1V,<,http://id.who.int/icd/entity/1478425625,<,KA86
+16,核黄疸III期,S0,P579,AM1V,<,http://id.who.int/icd/entity/1478425625,<,KA86
+16,核黄疸ＩＶ期,L,P579,DEKK,<,http://id.who.int/icd/entity/1478425625,<,KA86
+16,核黄疸IV期,S0,P579,DEKK,<,http://id.who.int/icd/entity/1478425625,<,KA86
+16,核黄疸Ｉ期,L,P579,ER6C,<,http://id.who.int/icd/entity/1478425625,<,KA86
+16,核黄疸I期,S0,P579,ER6C,<,http://id.who.int/icd/entity/1478425625,<,KA86
+16,核黄疸,L,P579,M9CN,=,http://id.who.int/icd/entity/1478425625,=,KA86
+16,核黄疸ＩＩ期,L,P579,V54C,<,http://id.who.int/icd/entity/1478425625,<,KA86
+16,核黄疸II期,S0,P579,V54C,<,http://id.who.int/icd/entity/1478425625,<,KA86
+16,皮下出血による新生児黄疸,L,P580,HUD5,=,http://id.who.int/icd/entity/213422399,<,KA87.Y
+16,出血による新生児黄疸,L,P581,P0RA,=,http://id.who.int/icd/entity/1777556651,<,KA87.Y
+16,感染症による新生児黄疸,L,P582,FMMC,=,http://id.who.int/icd/entity/2021474370,<,KA87.Y
+16,赤血球増加症による新生児黄疸,L,P583,QJGL,=,http://id.who.int/icd/entity/2014691776,<,KA87.Y
+16,多血症による新生児黄疸,S1,P583,QJGL,=,http://id.who.int/icd/entity/2014691776,<,KA87.Y
+16,早産に関連する新生児黄疸,L,P590,B87P,=,http://id.who.int/icd/entity/272652736,<,KA87.Y
+16,未熟児高ビリルビン血症,S2,P590,B87P,=,http://id.who.int/icd/entity/272652736,<,KA87.Y
+16,濃縮胆汁症候群,L,P591,RR5D,=,http://id.who.int/icd/entity/1963693098,<,KA87.Y
+16,新生児肝炎,L,P592,LCL9,=,http://id.who.int/icd/entity/1833564931,<,KA87.6
+16,母乳性黄疸,L,P593,FUN9,=,http://id.who.int/icd/entity/1693256001,=,KA87.2
+16,新生児黄疸,L,P599,A4F8,=,http://id.who.int/icd/entity/628615515,=,KA87.Z
+16,新生児高ビリルビン血症,S1,P599,A4F8,=,http://id.who.int/icd/entity/628615515,=,KA87.Z
+16,周産期黄疸,S2,P599,A4F8,=,http://id.who.int/icd/entity/628615515,=,KA87.Z
+16,新生児遷延性黄疸,L,P599,KCF1,=,http://id.who.int/icd/entity/1301128393,<,KA87.Y
+16,遷延性黄疸,S2,P599,KCF1,=,http://id.who.int/icd/entity/1301128393,<,KA87.Y
+16,新生児重症黄疸,L,P599,M4M7,=,http://id.who.int/icd/entity/1301128393,<,KA87.Y
+16,新生児生理的黄疸,L,P599,SUCN,=,http://id.who.int/icd/entity/1301128393,<,KA87.Y
+16,新生児特発性高ビリルビン血症,S1,P599,SUCN,=,http://id.who.int/icd/entity/1301128393 & http://id.who.int/icd/entity/894194405,=,KA87.Z & XB5F
+16,生理的黄疸,S1,P599,SUCN,=,http://id.who.int/icd/entity/1301128393,<,KA87.Y
+16,胎児ＤＩＣ,L,P60,A1TT,=,http://id.who.int/icd/entity/742410330,=,KA88
+16,胎児DIC,S0,P60,A1TT,=,http://id.who.int/icd/entity/742410330,=,KA88
+16,新生児播種性血管内凝固,L,P60,RV77,=,http://id.who.int/icd/entity/742410330,=,KA88
+16,新生児播種性血管内血液凝固,S1,P60,RV77,=,http://id.who.int/icd/entity/742410330,=,KA88
+16,新生児播種性血管内血液凝固症候群,S1,P60,RV77,=,http://id.who.int/icd/entity/742410330,=,KA88
+16,新生児DIC,S1,P60,RV77,=,http://id.who.int/icd/entity/742410330,=,KA88
+16,一過性新生児血小板減少症,L,P610,D0BV,=,http://id.who.int/icd/entity/1435737617,=,KA89.Z
+16,新生児血小板減少症,L,P610,Q8TN,=,http://id.who.int/icd/entity/1435737617,=,KA89.Z
+16,新生児赤血球増加症,L,P611,SG25,=,http://id.who.int/icd/entity/819483525,=,KA8A.Z 
+16,新生児多血症,S1,P611,SG25,=,http://id.who.int/icd/entity/819483525,=,KA8A.Z 
+16,未熟児貧血,L,P612,AUQM,=,http://id.who.int/icd/entity/1148519290,=,KA8B
+16,先天性貧血,L,P614,R5HJ,=,http://id.who.int/icd/entity/1389387132,<,KA8Y
+16,新生児性白血球減少症,L,P615,NGNK,<,http://id.who.int/icd/entity/1563178865 & http://id.who.int/icd/entity/920096014,<,KA8Y & XA32R4
+16,一過性新生児好中球減少症,L,P615,VMJU,=,http://id.who.int/icd/entity/932942062,=,KA8D
+16,新生児低プロトロンビン血症,L,P616,QJEJ,=,http://id.who.int/icd/entity/272299518 & http://id.who.int/icd/entity/1352518340,<,3B14.Z & XT16
+16,妊娠糖尿病母体児症候群,L,P700,FD6H,=,http://id.who.int/icd/entity/1500607905,=,KB60.0
+16,糖尿病母体児,L,P701,EF5R,=,http://id.who.int/icd/entity/1010481205,=,KB60.1
+16,母糖尿病児,S1,P701,EF5R,=,http://id.who.int/icd/entity/1010481205,=,KB60.1
+16,新生児一過性糖尿病,L,P702,JNFL,=,http://id.who.int/icd/entity/1596856936,=,KB60.20
+16,新生児糖尿病,L,P702,QT32,=,http://id.who.int/icd/entity/1217915084,=,KB60.2Z
+16,医原性新生児低血糖,L,P703,KGGL,=,http://id.who.int/icd/entity/800514589,<,KB60.4Y
+16,新生児低血糖,L,P704,CBMV,=,http://id.who.int/icd/entity/769402206,=,KB60.4Z
+16,新生児低血糖症,S1,P704,CBMV,=,http://id.who.int/icd/entity/769402206,=,KB60.4Z
+16,新生児一過性低血糖症,L,P704,GH43,=,http://id.who.int/icd/entity/351636445,=,KB60.42
+16,新生児一過性高血糖症,L,P708,QAMV,<,http://id.who.int/icd/entity/28520480,<,KB60.3Y 
+16,新生児における牛乳性低カルシウム血症,L,P710,NCLU,=,http://id.who.int/icd/entity/1166654754,<,KB61.2
+16,新生児低カルシウム血症,L,P711,HRU3,=,http://id.who.int/icd/entity/549613748,=,KB61.2
+16,新生児低マグネシウム血症,L,P712,QGFS,=,http://id.who.int/icd/entity/1416568907,=,KB61.0
+16,新生児テタニー,L,P713,VKPT,=,http://id.who.int/icd/entity/824503775,=,KB61.1
+16,新生児性副甲状腺機能低下症,L,P714,AV3M,=,http://id.who.int/icd/entity/1708733050 & http://id.who.int/icd/entity/1352518340,=,5A50.Z & XT16
+16,新生児性上皮小体機能低下症,S1,P714,AV3M,=,http://id.who.int/icd/entity/1708733050 & http://id.who.int/icd/entity/1352518340,=,5A50.Z & XT16
+16,一過性新生児副甲状腺機能低下症,L,P714,PBJQ,=,http://id.who.int/icd/entity/1120566859,=,KB64
+16,一過性新生児上皮小体機能低下症,S1,P714,PBJQ,=,http://id.who.int/icd/entity/1120566859,=,KB64
+16,新生児甲状腺腫,L,P720,MTDP,=,http://id.who.int/icd/entity/1141775646,<,KB62.Y
+16,一過性新生児甲状腺機能亢進症,L,P721,HAKG,=,http://id.who.int/icd/entity/558223500,=,KB62.0
+16,新生児甲状腺中毒症,S1,P721,HAKG,=,http://id.who.int/icd/entity/558223500,=,KB62.0
+16,新生児甲状腺機能亢進症,L,P721,S6QE,=,http://id.who.int/icd/entity/1470387017 & http://id.who.int/icd/entity/1352518340,=,5A02.Z & XT16
+16,新生児一過性甲状腺機能低下症,L,P722,HRT9,=,http://id.who.int/icd/entity/558223500,=,KB62.0
+16,新生児遅発代謝性アシドーシス,L,P740,HS24,=,http://id.who.int/icd/entity/1670358239,=,KB63.0
+16,新生児脱水症,L,P741,PMLH,=,http://id.who.int/icd/entity/113535307,=,KB63.1
+16,新生児低ナトリウム血症,L,P742,EPR3,=,http://id.who.int/icd/entity/483230597,=,KB63.20
+16,新生児のナトリウム平衡障害,L,P742,SL3P,=,http://id.who.int/icd/entity/1919498678,=,KB63.2Z
+16,新生児低カリウム血症,L,P743,BNCF,=,http://id.who.int/icd/entity/1222536428,=,KB63.30
+16,新生児のカリウム平衡障害,L,P743,GHPJ,=,http://id.who.int/icd/entity/388166688,=,KB63.3Z
+16,新生児一過性チロシン血症,L,P745,DPD9,=,http://id.who.int/icd/entity/25668130,=,KB63.4
+16,新生児電解質異常,L,P749,PE0S,=,http://id.who.int/icd/entity/1561359275 & http://id.who.int/icd/entity/1352518340,=,5C7Z & XT16
+16,胎便栓症候群,L,P760,J416,=,http://id.who.int/icd/entity/2129710176,=,KB87.1
+16,胎便栓塞症候群,S1,P760,J416,=,http://id.who.int/icd/entity/2129710176,=,KB87.1
+16,新生児機能性イレウス,L,P761,LGPF,=,http://id.who.int/icd/entity/1868011045 & http://id.who.int/icd/entity/1352518340,=,DA93.0  & XT16
+16,新生児一過性イレウス,S1,P761,LGPF,=,http://id.who.int/icd/entity/465240566 ,=,KB87.3
+16,新生児腸閉塞症,L,P769,D5ME,=,http://id.who.int/icd/entity/1830837825,=,KB87.Z
+16,新生児腸閉塞,S1,P769,D5ME,=,http://id.who.int/icd/entity/1830837825,=,KB87.Z
+16,新生児壊死性腸炎,L,P77,F1S9,=,http://id.who.int/icd/entity/141267925,=,KB88.Z
+16,胎児壊死性全腸炎,S2,P77,F1S9,=,http://id.who.int/icd/entity/141267925,=,KB88.Z
+16,胎便性腹膜炎,L,P780,LKCV,=,http://id.who.int/icd/entity/1865761275,=,KB85.Z
+16,周産期の腸穿孔,L,P780,N24P,=,http://id.who.int/icd/entity/747427677,=,KB86.Z
+16,新生児腹膜炎,L,P781,KJ8F,=,http://id.who.int/icd/entity/1237785289,=,KB8B
+16,新生児偽性メレナ,L,P782,BGQP,=,http://id.who.int/icd/entity/1030375992,=,KB8A
+16,母体血液嚥下メレナ,S1,P782,BGQP,=,http://id.who.int/icd/entity/1030375992,=,KB8A
+16,仮性メレナ,S1,P782,BGQP,<,http://id.who.int/icd/entity/1030375992,<,KB8A
+16,新生児下痢症,L,P783,QC63,=,http://id.who.int/icd/entity/1160271562,=,1A40.0
+16,新生児非感染性下痢症,S2,P783,QC63,=,http://id.who.int/icd/entity/1478592418,=,KB8C
+16,先天性肝硬変,L,P788,HMCF,=,http://id.who.int/icd/entity/1793564818,<,KB8Y 
+16,新生児消化性潰瘍,L,P788,KP7S,=,http://id.who.int/icd/entity/1158686578,<,KB8Y
+16,新生児胃破裂,L,P788,L9JJ,=,http://id.who.int/icd/entity/1074060570,=,KB83
+16,新生児肝内胆汁うっ滞症,L,P788,TN9V,=,http://id.who.int/icd/entity/2092047168 & http://id.who.int/icd/entity/1352518340,=,DB99.6Z & XT16
+16,新生児肝内胆汁うっ滞,S1,P788,TN9V,=,http://id.who.int/icd/entity/2092047168 & http://id.who.int/icd/entity/1352518340,=,DB99.6Z & XT16
+16,新生児寒冷傷害症候群,L,P800,QVG5,=,http://id.who.int/icd/entity/1444510274,=,KD12.0
+16,寒冷傷害症候群,S1,P800,QVG5,=,http://id.who.int/icd/entity/1444510274,=,KD12.0
+16,新生児低体温症,L,P808,RL9M,=,http://id.who.int/icd/entity/736644026,=,KD12.Z 
+16,新生児軽度低体温,S2,P808,RL9M,=,http://id.who.int/icd/entity/1076103308,=,KD12.Y & XS5W
+16,新生児発熱,L,P819,JFF2,=,http://id.who.int/icd/entity/660796688,=,KD11
+16,新生児皮膚硬化症,L,P830,PUFK,=,http://id.who.int/icd/entity/1470028414,=,KC22.2
+16,新生児硬化症,S1,P830,PUFK,=,http://id.who.int/icd/entity/1470028414,=,KC22.2
+16,新生児スクレレーマ,S1,P830,PUFK,=,http://id.who.int/icd/entity/1470028414,=,KC22.2
+16,新生児中毒性紅斑,L,P831,E6MJ,=,http://id.who.int/icd/entity/852826092,=,KC21.1
+16,胎児水腫,L,P832,DDQR,=,http://id.who.int/icd/entity/1182287637,=,KC41.1
+16,非免疫性胎児水腫,L,P832,QBE3,=,http://id.who.int/icd/entity/1182287637,=,KC41.1
+16,新生児浮腫,L,P833,LB9L,=,http://id.who.int/icd/entity/590580353,<,KC41.Y
+16,新生児乳房腫脹,L,P834,C3ND,=,http://id.who.int/icd/entity/1356667157,=,KC41.0
+16,新生児非感染性乳腺炎,L,P834,NBVC,=,http://id.who.int/icd/entity/1401074728,<,KC41.0
+16,先天性精巣水腫,L,P835,ST2S,=,http://id.who.int/icd/entity/899077249,=,KC00
+16,新生児臍ポリープ,L,P836,AUBJ,=,http://id.who.int/icd/entity/1094419584,=,KC20.1
+16,新生児じんま疹,L,P838,CDR0,=,http://id.who.int/icd/entity/331435466 / http://id.who.int/icd/entity/993242399,=,KC41.Y / EB05 
+16,新生児蕁麻疹,S1,P838,CDR0,=,http://id.who.int/icd/entity/331435466 / http://id.who.int/icd/entity/993242399,=,KC41.Y / EB05 
+16,新生児紅斑,L,P838,EHVC,=,http://id.who.int/icd/entity/331435466 / http://id.who.int/icd/entity/800313204,=,KC41.Y / ME64.0
+16,ブロンズベビー症候群,L,P838,H4JU,=,http://id.who.int/icd/entity/1163101773,<,KC5Y
+16,新生児強皮症,L,P838,KK65,=,http://id.who.int/icd/entity/1470028414,=,KC22.2
+16,新生児皮下脂肪壊死症,L,P838,QGTT,=,http://id.who.int/icd/entity/122394301,=,KC22.0
+16,新生児痙攣,L,P90,D918,=,http://id.who.int/icd/entity/2083324835,=,KB06
+16,新生児痙攣発作,S1,P90,D918,=,http://id.who.int/icd/entity/2083324835,=,KB06
+16,新生児脳虚血,L,P910,QGQ6,=,http://id.who.int/icd/entity/1526436336,=,KB00.Z
+16,新生児くも膜のう胞,L,P911,VUQM,=,http://id.who.int/icd/entity/1068522598,=,KB01
+16,新生児脳嚢胞,S1,P911,VUQM,=,http://id.who.int/icd/entity/1068522598,=,KB01
+16,新生児クモ膜のう胞,S1,P911,VUQM,=,http://id.who.int/icd/entity/1068522598,=,KB01
+16,新生児くも膜嚢胞,S1,P911,VUQM,=,http://id.who.int/icd/entity/1068522598,=,KB01
+16,新生児クモ膜嚢胞,S1,P911,VUQM,=,http://id.who.int/icd/entity/1068522598,=,KB01
+16,新生児脳のう胞,S1,P911,VUQM,=,http://id.who.int/icd/entity/1068522598,=,KB01
+16,新生児脳室周囲白質軟化,L,P912,J35H,=,http://id.who.int/icd/entity/1260194971,=,KB02
+16,新生児脳白質軟化,S1,P912,J35H,=,http://id.who.int/icd/entity/1260194971,=,KB02
+16,新生児PVL,S1,P912,J35H,=,http://id.who.int/icd/entity/1260194971,=,KB02
+16,新生児の脳易刺激性,L,P913,FN18,=,http://id.who.int/icd/entity/777437455,<,KB03
+16,新生児の脳抑制,L,P914,H1N8,=,http://id.who.int/icd/entity/1572360859,<,KB03
+16,新生児昏睡,L,P915,CQHV,=,http://id.who.int/icd/entity/955490063,<,KB03
+16,新生児低酸素性虚血性脳症,L,P916,T2H6,=,http://id.who.int/icd/entity/1281282034,=,KB04
+16,新生児溢乳,L,P920,EPQE,=,http://id.who.int/icd/entity/1534865872,=,KD3C.Z
+16,新生児吐乳,S1,P920,EPQE,=,http://id.who.int/icd/entity/1534865872,=,KD3C.Z
+16,吐乳,S1,P920,EPQE,=,http://id.who.int/icd/entity/1534865872,=,KD3C.Z
+16,新生児嘔吐,L,P920,UFS9,=,http://id.who.int/icd/entity/1534865872,=,KD3C.Z
+16,新生児特発性嘔吐,S1,P920,UFS9,=,http://id.who.int/icd/entity/1534865872 & http://id.who.int/icd/entity/894194405,=,KD3C.Z & XB5F
+16,新生児胃食道逆流,L,P921,V2JV,=,http://id.who.int/icd/entity/1710486451,=,DD93.0 
+16,新生児胃・食道逆流,S1,P921,V2JV,=,http://id.who.int/icd/entity/1710486451,=,DD93.0 
+16,哺乳力低下,L,P922,H4HM,=,http://id.who.int/icd/entity/1251650725,=,KD32.0
+16,哺乳力微弱,S2,P922,H4HM,=,http://id.who.int/icd/entity/1251650725,=,KD32.0
+16,新生児の哺乳力緩慢,S2,P922,H4HM,=,http://id.who.int/icd/entity/1251650725,=,KD32.0
+16,哺乳不全,L,P922,KADB,=,http://id.who.int/icd/entity/1251650725,=,KD32.0
+16,哺乳不振,S2,P922,KADB,=,http://id.who.int/icd/entity/1251650725,=,KD32.0
+16,哺乳不良,S2,P922,KADB,=,http://id.who.int/icd/entity/1251650725,=,KD32.0
+16,哺乳障害,L,P922,S30U,=,http://id.who.int/icd/entity/1842061002,=,KD32.Z
+16,新生児の哺乳不足,L,P923,PQU3,=,http://id.who.int/icd/entity/802251057,=,KD32.1
+16,新生児の哺乳過剰,L,P924,H7TD,=,http://id.who.int/icd/entity/1547694757,=,KD32.2
+16,母体乳房からの新生児哺乳困難,L,P925,C3QF,=,http://id.who.int/icd/entity/963919665,=,KD32.3
+16,新生児の哺乳上の問題,L,P929,HV6V,=,http://id.who.int/icd/entity/1842061002,=,KD32.Z
+16,新生児特異的薬物反応,L,P93,GMPL,=,http://id.who.int/icd/entity/142627676,=,KD34
+16,新生児特異的薬物中毒,L,P93,JTJF,=,http://id.who.int/icd/entity/142627676,=,KD34
+16,新生児重症筋無力症,L,P940,JG18,=,http://id.who.int/icd/entity/1274860004,=,8C60.Y & XT16
+16,新生児一過性重症筋無力症,S1,P940,JG18,=,http://id.who.int/icd/entity/2096990223,=,KB08.0
+16,一過性新生児重症筋無力症,S1,P940,JG18,=,http://id.who.int/icd/entity/2096990223,=,KB08.0
+16,先天性筋緊張亢進,L,P941,B5PT,=,http://id.who.int/icd/entity/431375771,=,KB08.1
+16,先天性筋緊張低下,L,P942,JC63,=,http://id.who.int/icd/entity/1830491492,=,KB08.2
+16,筋緊張低下児,S1,P942,JC63,=,http://id.who.int/icd/entity/1830491492,=,KB08.2
+16,フロッピーインファント,S1,P942,JC63,=,http://id.who.int/icd/entity/1830491492,=,KB08.2
+16,フロッピーベビー症候群,S1,P942,JC63,=,http://id.who.int/icd/entity/1830491492,=,KB08.2
+16,新生児筋無力症,L,P948,UA08,=,http://id.who.int/icd/entity/1901378045,<,KB08.2
+16,新生児の筋緊張障害,L,P949,L0AF,=,http://id.who.int/icd/entity/2070855880,=,KB08.Z
+16,自然死産,L,P95,EU99,=,http://id.who.int/icd/entity/505744734,=,KD3B.Z
+16,浸軟児,L,P95,F8K0,=,http://id.who.int/icd/entity/505744734,=,KD3B.Z
+16,死産児,L,P95,QVTU,=,http://id.who.int/icd/entity/505744734,=,KD3B.Z
+16,新生児腎不全,L,P960,Q8BP,=,http://id.who.int/icd/entity/1635967154,=,KC01
+16,先天性腎不全,S1,P960,Q8BP,=,http://id.who.int/icd/entity/1635967154,=,KC01
+16,新生児尿毒症,S1,P960,Q8BP,=,http://id.who.int/icd/entity/1635967154,=,KC01
+16,新生児薬物離脱症候群,L,P961,ESFF,=,http://id.who.int/icd/entity/80293156,=,KD35
+16,薬物離脱症候群,S1,P961,ESFF,=,http://id.who.int/icd/entity/80293156,=,KD35
+16,新生児頭蓋縫合開大,L,P963,N9BN,=,http://id.who.int/icd/entity/355446863,=,KD31
+16,新生児頭蓋ろう,L,P963,Q0MT,<,http://id.who.int/icd/entity/972866917,<,KD31
+16,子宮内処置の合併症,L,P965,P16G,=,http://id.who.int/icd/entity/59436623,=,KD39.Z
+16,新生児低酸素血症,L,P968,JBTS,=,http://id.who.int/icd/entity/1696217511,<,KB21.Z
+16,新生児低酸素症,S1,P968,JBTS,=,http://id.who.int/icd/entity/1696217511,<,KB21.Z
+16,先天性弱質,L,P969,G78D,=,http://id.who.int/icd/entity/1306203631,<,KD5Z

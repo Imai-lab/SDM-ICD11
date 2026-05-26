@@ -1,0 +1,1704 @@
+ICD10 章,標準病名,代表・同義,ICD10コード,交換コード,関係,ICD11 Foundation URI,関係,MMS
+12,水疱性膿痂疹,L,L00,K842,=,http://id.who.int/icd/entity/1398484288,=,1B72.0
+12,ぶどう球菌性熱傷様皮膚症候群,L,L00,PT1P,=,http://id.who.int/icd/entity/1554593739,=,EA50.2
+12,SSSS,S1,L00,PT1P,=,http://id.who.int/icd/entity/1554593739,=,EA50.2
+12,リッター型中毒性表皮え死症,S1,L00,PT1P,=,http://id.who.int/icd/entity/1554593739,=,EA50.2
+12,RITTER病,S1,L00,PT1P,=,http://id.who.int/icd/entity/1554593739,=,EA50.2
+12,リッター新生児剥脱状皮膚炎,S1,L00,PT1P,=,http://id.who.int/icd/entity/1554593739,=,EA50.2
+12,リッター病,S1,L00,PT1P,=,http://id.who.int/icd/entity/1554593739,=,EA50.2
+12,ブドウ球菌性熱傷様皮膚症候群,S1,L00,PT1P,=,http://id.who.int/icd/entity/1554593739,=,EA50.2
+12,新生児天疱瘡,L,L00,RRLV,≒,http://id.who.int/icd/entity/1613800402 or http://id.who.int/icd/entity/1554593739,≒,KA07.1 or EA50.2
+12,膿痂疹外耳炎,L,L010,ABVB,=,http://id.who.int/icd/entity/188082376,=,AA3Y / 1B72
+12,膿痂疹,L,L010,AQ1D,=,http://id.who.int/icd/entity/971176543,=,1B72.Z
+12,下肢伝染性膿痂疹,L,L010,DJT5,=,http://id.who.int/icd/entity/971176543 & http://id.who.int/icd/entity/2093217246,=,1B72.Y & XA45A6
+12,痂皮性膿痂疹,L,L010,E5H8,=,http://id.who.int/icd/entity/25824900,=,1B72.1
+12,外耳膿痂疹,L,L010,ERM0,=,http://id.who.int/icd/entity/188082376,=,AA3Y / 1B72
+12,白色ぶどう状球菌性膿痂疹,L,L010,F76P,=,http://id.who.int/icd/entity/1398484288,=,1B72.0
+12,白色ブドウ状球菌性膿痂疹,S1,L010,F76P,=,http://id.who.int/icd/entity/1398484288,=,1B72.0
+12,白色葡萄状球菌性膿痂疹,S1,L010,F76P,=,http://id.who.int/icd/entity/1398484288,=,1B72.0
+12,新生児膿痂疹,L,L010,G297,=,http://id.who.int/icd/entity/92952472,=,EH11
+12,連鎖球菌性膿痂疹,L,L010,GPLH,=,http://id.who.int/icd/entity/971176543 & http://id.who.int/icd/entity/1997317917,=,1B72.Y & XN3NM
+12,レンサ状球菌性膿痂疹,S1,L010,GPLH,=,http://id.who.int/icd/entity/971176543 & http://id.who.int/icd/entity/1997317917,=,1B72.Y & XN3NM
+12,連鎖状球菌性膿痂疹,S1,L010,GPLH,=,http://id.who.int/icd/entity/971176543 & http://id.who.int/icd/entity/1997317917,=,1B72.Y & XN3NM
+12,上肢伝染性膿痂疹,L,L010,HJJF,=,http://id.who.int/icd/entity/971176543 & http://id.who.int/icd/entity/986233688 ,=,1B72.Y & XA4BA8
+12,好酸球性膿疱性毛包炎,L,L010,NE9U,=,http://id.who.int/icd/entity/1653155576,<,ED9Y
+12,好酸球性膿疱性毛疱炎,S1,L010,NE9U,=,http://id.who.int/icd/entity/1653155576,<,ED9Y
+12,全身伝染性膿痂疹,L,L010,P4JA,<,http://id.who.int/icd/entity/971176543 & http://id.who.int/icd/entity/1479602347,<,1B72.Z & XK63
+12,外陰部膿痂疹,L,L010,QRV4,=,http://id.who.int/icd/entity/971176543 & http://id.who.int/icd/entity/475546725 ,=,1B72.Y & XA78U5
+12,躯幹伝染性膿痂疹,L,L010,QTMU,=,http://id.who.int/icd/entity/971176543 & http://id.who.int/icd/entity/947150833,=,1B72.Y & XA3FR3
+12,伝染性膿痂疹,L,L010,T14B,=,http://id.who.int/icd/entity/971176543,=,1B72.Z
+12,とびひ,S1,L010,T14B,=,http://id.who.int/icd/entity/971176543,=,1B72.Z
+12,ボックハルト膿痂疹,L,L010,TB9A,=,http://id.who.int/icd/entity/1929235891,=,1B74.0
+12,顔面膿痂疹,L,L010,TBCD,=,http://id.who.int/icd/entity/971176543 & http://id.who.int/icd/entity/968129184,=,1B72.Y & XA86S4 
+12,顔面膿痂疹性湿疹,L,L011,A4UF,=,http://id.who.int/icd/entity/2034126013 & http://id.who.int/icd/entity/968129184 ,=,1B72.2 & XA86S4
+12,全身膿痂疹性湿疹,L,L011,FL21,<,http://id.who.int/icd/entity/2034126013  ,<,1B72.2
+12,躯幹膿痂疹性湿疹,L,L011,J2QQ,=,http://id.who.int/icd/entity/2034126013 & http://id.who.int/icd/entity/947150833,=,1B72.2 & XA3FR3
+12,殿部膿痂疹性湿疹,L,L011,JMAR,=,http://id.who.int/icd/entity/2034126013 & http://id.who.int/icd/entity/1894266247,=,1B72.2 & XA3VA7 
+12,頭部膿痂疹性湿疹,L,L011,LANH,=,http://id.who.int/icd/entity/2034126013 & http://id.who.int/icd/entity/1357976561,=,1B72.2 & XA20Q1
+12,膿痂疹性湿疹,L,L011,PPAN,=,http://id.who.int/icd/entity/2034126013  ,=,1B72.2
+12,膿痂疹様発疹,S1,L011,PPAN,=,http://id.who.int/icd/entity/2034126013  ,=,1B72.2
+12,膿痂疹様湿疹,S1,L011,PPAN,=,http://id.who.int/icd/entity/2034126013  ,=,1B72.2
+12,膿痂疹性皮膚炎,S1,L011,PPAN,=,http://id.who.int/icd/entity/2034126013  ,=,1B72.2
+12,上肢膿痂疹性湿疹,L,L011,VH7S,=,http://id.who.int/icd/entity/2034126013 &  http://id.who.int/icd/entity/986233688,=,1B72.2 & XA4BA8
+12,頬部膿瘍,L,L020,L1U8,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1286369458,=,1B75.3 & XA7MK8 
+12,頬部皮下膿瘍,S1,L020,L1U8,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1286369458,=,1B75.3 & XA7MK8 
+12,下顎部膿瘍,L,L020,N4DD,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1535382642,=,1B75.3 & XA8KA2
+12,下顎皮下膿瘍,S1,L020,N4DD,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1535382642,=,1B75.3 & XA8KA2
+12,下顎部皮下膿瘍,S1,L020,N4DD,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1535382642,=,1B75.3 & XA8KA2
+12,顔面よう,L,L020,PD20,=,http://id.who.int/icd/entity/1456834066 & http://id.who.int/icd/entity/968129184,=,1B75.1 & XA86S4
+12,前額部膿瘍,L,L020,PNSP,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/862454798,=,1B75.3 & XA6TR8
+12,顔面せつ,L,L020,SL0P,=,http://id.who.int/icd/entity/1081137172 & http://id.who.int/icd/entity/968129184,=,1B75.0 &  XA86S4
+12,面疔,S1,L020,SL0P,=,http://id.who.int/icd/entity/1081137172 & http://id.who.int/icd/entity/968129184,=,1B75.0 &  XA86S4
+12,顔面フルンクロージス,S2,L020,SL0P,=,http://id.who.int/icd/entity/1081137172 & http://id.who.int/icd/entity/968129184,=,1B75.0 &  XA86S4
+12,顔面膿瘍,L,L020,V3U3,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/968129184,=,1B75.3 & XA86S4
+12,顔面皮下膿瘍,S1,L020,V3U3,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/968129184,=,1B75.3 & XA86S4
+12,頚部よう,L,L021,BC2L,=,http://id.who.int/icd/entity/1456834066 & http://id.who.int/icd/entity/956558826,=,1B75.1 & XA7AA6
+12,頸部カルブンケル,S1,L021,BC2L,=,http://id.who.int/icd/entity/1456834066 & http://id.who.int/icd/entity/956558826,=,1B75.1 & XA7AA6
+12,頚部カルブンケル,S1,L021,BC2L,=,http://id.who.int/icd/entity/1456834066 & http://id.who.int/icd/entity/956558826,=,1B75.1 & XA7AA6
+12,頸部よう,S1,L021,BC2L,=,http://id.who.int/icd/entity/1456834066 & http://id.who.int/icd/entity/956558826,=,1B75.1 & XA7AA6
+12,頚部膿瘍,L,L021,MGDG,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/956558826,=,1B75.3 & XA7AA6
+12,頸部膿瘍,S1,L021,MGDG,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/956558826,=,1B75.3 & XA7AA6
+12,頚部皮下膿瘍,S1,L021,MGDG,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/956558826,=,1B75.3 & XA7AA6
+12,頚部せつ,L,L021,Q2GL,=,http://id.who.int/icd/entity/1081137172 & http://id.who.int/icd/entity/956558826,=,1B75.0 & XA7AA6
+12,頚部フルンケル,S1,L021,Q2GL,=,http://id.who.int/icd/entity/1081137172 & http://id.who.int/icd/entity/956558826,=,1B75.0 & XA7AA6
+12,頸部フルンケル,S1,L021,Q2GL,=,http://id.who.int/icd/entity/1081137172 & http://id.who.int/icd/entity/956558826,=,1B75.0 & XA7AA6
+12,頸部せつ,S1,L021,Q2GL,=,http://id.who.int/icd/entity/1081137172 & http://id.who.int/icd/entity/956558826,=,1B75.0 & XA7AA6
+12,鼡径部膿瘍,L,L022,A6TA,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1206407267,=,1B75.3 & XA0GN7
+12,鼠径部膿瘍,S1,L022,A6TA,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1206407267,=,1B75.3 & XA0GN7
+12,鼡径部皮下膿瘍,S1,L022,A6TA,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1206407267,=,1B75.3 & XA0GN7
+12,肋骨周囲膿瘍,L,L022,B4BK,<,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/650081113,<,1B75.3 & XA5D93
+12,下腹部膿瘍,L,L022,D5HT,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/2105593940,=,1B75.3 & XA4TC0
+12,下腹部皮下膿瘍,S1,L022,D5HT,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/2105593940,=,1B75.3 & XA4TC0
+12,背部せつ,L,L022,DL5Q,=,http://id.who.int/icd/entity/1081137172 & http://id.who.int/icd/entity/1187030,=,1B75.0 & XA2P90
+12,側胸部膿瘍,L,L022,E9R4,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/691256124 ,=,1B75.3 & XA7884
+12,側胸部皮下膿瘍,S1,L022,E9R4,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/691256124 ,=,1B75.3 & XA7884
+12,胸部せつ,L,L022,G7PN,=,http://id.who.int/icd/entity/1081137172 & http://id.who.int/icd/entity/650081113 ,=,1B75.0 & XA5D93
+12,胸壁せつ,S2,L022,G7PN,=,http://id.who.int/icd/entity/1081137172 & http://id.who.int/icd/entity/1656376572 ,=,1B75.0 & XA55T2
+12,会陰部せつ,L,L022,G9S3,=,http://id.who.int/icd/entity/1081137172 & http://id.who.int/icd/entity/402925049 ,=,1B75.0 &  XA53N9 
+12,腹部膿瘍,L,L022,H6PE,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1983193090,=,1B75.3 & XA6GV0
+12,腹部皮下膿瘍,S1,L022,H6PE,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1983193090,=,1B75.3 & XA6GV0
+12,腹壁皮下膿瘍,S1,L022,H6PE,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/119571850,=,1B75.3 & XA3KX0 
+12,臍部膿瘍,L,L022,HL0C,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1330482498,=,1B75.3 & XA3MT8
+12,臍周囲皮下膿瘍,S1,L022,HL0C,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1330482498,=,1B75.3 & XA3MT8
+12,臍周囲膿瘍,S1,L022,HL0C,<,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1330482498,<,1B75.3 & XA3MT8
+12,臍部皮下膿瘍,S1,L022,HL0C,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1330482498,=,1B75.3 & XA3MT8
+12,腹部よう,L,L022,JGJ4,=,http://id.who.int/icd/entity/1456834066 & http://id.who.int/icd/entity/1983193090 ,=,1B75.1 & XA6GV0
+12,腹壁よう,S2,L022,JGJ4,=,http://id.who.int/icd/entity/1456834066 & http://id.who.int/icd/entity/119571850,=,1B75.1 & XA3KX0
+12,会陰部膿瘍,L,L022,L4L5,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/402925049,=,1B75.3 & XA53N9 
+12,会陰部皮下膿瘍,S1,L022,L4L5,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/402925049,=,1B75.3 & XA53N9 
+12,会陰性膿瘍,S1,L022,L4L5,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/402925049,=,1B75.3 & XA53N9 
+12,会陰部周囲膿瘍,S2,L022,L4L5,<,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/402925049,<,1B75.3 & XA53N9 
+12,胸部よう,L,L022,LQB4,=,http://id.who.int/icd/entity/1456834066 & http://id.who.int/icd/entity/650081113 ,=,1B75.1 & XA5D93
+12,胸壁よう,S2,L022,LQB4,=,http://id.who.int/icd/entity/1456834066 & http://id.who.int/icd/entity/1656376572,=,1B75.1 & XA55T2
+12,腹部せつ,L,L022,LR69,=,http://id.who.int/icd/entity/1081137172 & http://id.who.int/icd/entity/1983193090 ,=,1B75.0 & XA6GV0
+12,腹壁せつ,S2,L022,LR69,=,http://id.who.int/icd/entity/1081137172 & http://id.who.int/icd/entity/119571850,=,1B75.0 & XA3KX0
+12,会陰部よう,L,L022,LUNH,=,http://id.who.int/icd/entity/1456834066 & http://id.who.int/icd/entity/402925049 ,=,1B75.1 & XA53N9 
+12,前胸部膿瘍,L,L022,M1BV,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/481043491 ,=,1B75.3 & XA2RT1 
+12,前胸部皮下膿瘍,S1,L022,M1BV,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/481043491 ,=,1B75.3 & XA2RT1 
+12,鼡径部せつ,L,L022,N4HG,=,http://id.who.int/icd/entity/1081137172 & http://id.who.int/icd/entity/1206407267,=,1B75.0 & XA0GN7
+12,鼠径部せつ,S1,L022,N4HG,=,http://id.who.int/icd/entity/1081137172 & http://id.who.int/icd/entity/1206407267,=,1B75.0 & XA0GN7
+12,腹壁膿瘍,L,L022,NAJU,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/119571850,=,1B75.3 & XA3KX0
+12,全腹部多発膿瘍,S2,L022,NAJU,<,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1983193090,<,1B75.3 & XA6GV0
+12,胸部膿瘍,L,L022,NS6U,=,"http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/650081113 
+",=,1B75.3 & XA5D93
+12,胸部皮下膿瘍,S1,L022,NS6U,=,"http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/650081113 
+",=,1B75.3 & XA5D93
+12,胸壁膿瘍,S1,L022,NS6U,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1656376572,=,1B75.3 & XA55T2
+12,胸壁周囲膿瘍,S2,L022,NS6U,<,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1656376572,<,1B75.3 & XA55T2
+12,臍部せつ,L,L022,Q0PN,=,http://id.who.int/icd/entity/1081137172 & http://id.who.int/icd/entity/1330482498 ,=,1B75.0 &  XA3MT8
+12,腰部膿瘍,L,L022,Q7DH,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1218764272,=,1B75.3 &  XA9ET2
+12,腰部皮下膿瘍,S1,L022,Q7DH,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1218764272,=,1B75.3 &  XA9ET2
+12,背部膿瘍,L,L022,QA4L,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1187030,=,1B75.3 & XA2P90
+12,背部皮下膿瘍,S1,L022,QA4L,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1187030,=,1B75.3 & XA2P90
+12,背部よう,L,L022,QVVQ,=,http://id.who.int/icd/entity/1456834066 & http://id.who.int/icd/entity/1187030 ,=,1B75.1 & XA2P90
+12,鼡径部よう,L,L022,R27Q,=,http://id.who.int/icd/entity/1456834066 & http://id.who.int/icd/entity/1206407267,=,1B75.1 & XA0GN7
+12,鼠径部よう,S1,L022,R27Q,=,http://id.who.int/icd/entity/1456834066 & http://id.who.int/icd/entity/1206407267,=,1B75.1 & XA0GN7
+12,臍部よう,L,L022,RL1P,=,http://id.who.int/icd/entity/1456834066 & http://id.who.int/icd/entity/1330482498 ,=,1B75.1 & XA3MT8
+12,腸骨部膿瘍,L,L022,UJNB,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1286173258,=,1B75.3 & XA0NH8
+12,腸骨部皮下膿瘍,S1,L022,UJNB,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1286173258,=,1B75.3 & XA0NH8
+12,殿部よう,L,L023,G9KT,=,http://id.who.int/icd/entity/1456834066 & http://id.who.int/icd/entity/1894266247 ,=,1B75.1 & XA3VA7
+12,殿部せつ,L,L023,GFP1,=,http://id.who.int/icd/entity/1081137172 & http://id.who.int/icd/entity/1894266247 ,=,1B75.0 & XA3VA7
+12,殿部膿瘍,L,L023,RKJJ,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1894266247  ,=,1B75.3 & XA3VA7
+12,殿部皮下膿瘍,S1,L023,RKJJ,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1894266247  ,=,1B75.3 & XA3VA7
+12,臀部皮下膿瘍,S1,L023,RKJJ,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1894266247  ,=,1B75.3 & XA3VA7
+12,臀部膿瘍,S1,L023,RKJJ,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1894266247  ,=,1B75.3 & XA3VA7
+12,示指膿瘍,L,L024,AN2D,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/15105170,=,1B75.3 & XA6NZ0 
+12,第2指皮下膿瘍,S1,L024,AN2D,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/15105170,=,1B75.3 & XA6NZ0 
+12,示指皮下膿瘍,S1,L024,AN2D,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/15105170,=,1B75.3 & XA6NZ0 
+12,第2指膿瘍,S1,L024,AN2D,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/15105170,=,1B75.3 & XA6NZ0 
+12,腋窩せつ,L,L024,BD2L,=,http://id.who.int/icd/entity/1081137172 & http://id.who.int/icd/entity/1494375321 ,=,1B75.0 &  XA17J1
+12,環指膿瘍,L,L024,C0AA,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1823823558,=,1B75.3 & XA06X8
+12,環指皮下膿瘍,S1,L024,C0AA,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1823823558,=,1B75.3 & XA06X8
+12,第4指膿瘍,S1,L024,C0AA,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1823823558,=,1B75.3 & XA06X8
+12,第4指皮下膿瘍,S1,L024,C0AA,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1823823558,=,1B75.3 & XA06X8
+12,肩せつ,L,L024,DFGU,=,http://id.who.int/icd/entity/1081137172 & http://id.who.int/icd/entity/2127070735,=,1B75.0 & XA2ND5
+12,手背膿瘍,L,L024,DKA9,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/2088002216,=,1B75.3 & XA30Z6
+12,手背部膿瘍,S1,L024,DKA9,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/2088002216,=,1B75.3 & XA30Z6
+12,手背皮下膿瘍,S1,L024,DKA9,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/2088002216,=,1B75.3 & XA30Z6
+12,手膿瘍,S1,L024,DKA9,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/430791912 ,=,1B75.3 & XA5R12 
+12,手背部皮下膿瘍,S1,L024,DKA9,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/2088002216,=,1B75.3 & XA30Z6
+12,足膿瘍,L,L024,DQJP,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/1896004518,=,1B75.3 & XA47V8
+12,足部皮下膿瘍,S1,L024,DQJP,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/1896004518,=,1B75.3 & XA47V8
+12,足皮下膿瘍,S1,L024,DQJP,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/1896004518,=,1B75.3 & XA47V8
+12,小指膿瘍,L,L024,E7Q6,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1621005983,=,1B75.3 & XA5EN3
+12,小指皮下膿瘍,S1,L024,E7Q6,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1621005983,=,1B75.3 & XA5EN3
+12,第5指膿瘍,S1,L024,E7Q6,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1621005983,=,1B75.3 & XA5EN3
+12,第5指皮下膿瘍,S1,L024,E7Q6,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1621005983,=,1B75.3 & XA5EN3
+12,足蹠膿瘍,L,L024,GJU0,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1797255514,=,1B75.3 & XA1XM4
+12,足底部膿瘍,S1,L024,GJU0,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1797255514,=,1B75.3 & XA1XM4
+12,足底膿瘍,S1,L024,GJU0,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1797255514,=,1B75.3 & XA1XM4
+12,足底皮下膿瘍,S1,L024,GJU0,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1797255514,=,1B75.3 & XA1XM4
+12,足蹠皮下膿瘍,S1,L024,GJU0,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1797255514,=,1B75.3 & XA1XM4
+12,足蹠部膿瘍,S1,L024,GJU0,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1797255514,=,1B75.3 & XA1XM4
+12,足蹠部皮下膿瘍,S1,L024,GJU0,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1797255514,=,1B75.3 & XA1XM4
+12,足底部皮下膿瘍,S1,L024,GJU0,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1797255514,=,1B75.3 & XA1XM4
+12,足背膿瘍,L,L024,H824,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/2084017562,=,1B75.3 & XA8BE2
+12,足背部膿瘍,S1,L024,H824,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/2084017562,=,1B75.3 & XA8BE2
+12,足背皮下膿瘍,S1,L024,H824,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/2084017562,=,1B75.3 & XA8BE2
+12,足背部皮下膿瘍,S1,L024,H824,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/2084017562,=,1B75.3 & XA8BE2
+12,手指膿瘍,L,L024,HLT7,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/822750113,=,1B75.3 & XA2593
+12,指膿瘍,S1,L024,HLT7,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/822750113,=,1B75.3 & XA2593
+12,手指皮下膿瘍,S1,L024,HLT7,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/822750113,=,1B75.3 & XA2593
+12,指尖膿瘍,S2,L024,HLT7,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/309316639,=,1B75.3 & XA7GT9
+12,下腿膿瘍,L,L024,LAPE,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/106050921,=,1B75.3 & XA3YG1 
+12,下腿部皮下膿瘍,S1,L024,LAPE,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/106050921,=,1B75.3 & XA3YG1 
+12,下腿皮下膿瘍,S1,L024,LAPE,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/106050921,=,1B75.3 & XA3YG1 
+12,下腿部膿瘍,S1,L024,LAPE,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/106050921,=,1B75.3 & XA3YG1 
+12,母指膿瘍,L,L024,MH65,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/452671086,=,1B75.3 & XA8DJ6
+12,第1指皮下膿瘍,S1,L024,MH65,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/452671086,=,1B75.3 & XA8DJ6
+12,第1指膿瘍,S1,L024,MH65,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/452671086,=,1B75.3 & XA8DJ6
+12,母指皮下膿瘍,S1,L024,MH65,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/452671086,=,1B75.3 & XA8DJ6
+12,前腕膿瘍,L,L024,ML71,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1477228030,=,1B75.3 & XA7WB0
+12,前腕皮下膿瘍,S1,L024,ML71,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1477228030,=,1B75.3 & XA7WB0
+12,前腕部膿瘍,S1,L024,ML71,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1477228030,=,1B75.3 & XA7WB0
+12,前腕部皮下膿瘍,S1,L024,ML71,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1477228030,=,1B75.3 & XA7WB0
+12,大腿部膿瘍,L,L024,NCRG,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/238202718,=,1B75.3 & XA5S78
+12,大腿部皮下膿瘍,S1,L024,NCRG,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/238202718,=,1B75.3 & XA5S78
+12,大腿膿瘍,S1,L024,NCRG,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/238202718,=,1B75.3 & XA5S78
+12,大腿皮下膿瘍,S1,L024,NCRG,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/238202718,=,1B75.3 & XA5S78
+12,肩よう,L,L024,NKP5,=,http://id.who.int/icd/entity/1456834066 & http://id.who.int/icd/entity/2127070735,=,1B75.1 & XA2ND5
+12,上腕膿瘍,L,L024,P7CA,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/312192089,=,1B75.3 & XA6809
+12,上腕部皮下膿瘍,S1,L024,P7CA,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/312192089,=,1B75.3 & XA6809
+12,上腕部膿瘍,S1,L024,P7CA,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/312192089,=,1B75.3 & XA6809
+12,上腕皮下膿瘍,S1,L024,P7CA,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/312192089,=,1B75.3 & XA6809
+12,趾膿瘍,L,L024,PQBA,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1735902769,=,1B75.3 & XA4LC9
+12,足指膿瘍,S1,L024,PQBA,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1735902769,=,1B75.3 & XA4LC9
+12,指趾膿瘍,S2,L024,PQBA,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1735902769,=,1B75.3 & XA4LC9
+12,股関節部よう,L,L024,QFTB,=,http://id.who.int/icd/entity/1456834066 & http://id.who.int/icd/entity/1188078244,=,1B75.1 & XA4XS4
+12,腋窩部膿瘍,L,L024,QVBB,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1494375321,=,1B75.3 & XA17J1
+12,腋窩膿瘍,S1,L024,QVBB,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1494375321,=,1B75.3 & XA17J1
+12,腋窩皮下膿瘍,S1,L024,QVBB,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1494375321,=,1B75.3 & XA17J1
+12,腋窩部皮下膿瘍,S1,L024,QVBB,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1494375321,=,1B75.3 & XA17J1
+12,中指膿瘍,L,L024,R335,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/806667718,=,1B75.3 & XA0Y38
+12,中指皮下膿瘍,S1,L024,R335,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/806667718,=,1B75.3 & XA0Y38
+12,第3指膿瘍,S1,L024,R335,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/806667718,=,1B75.3 & XA0Y38
+12,第3指皮下膿瘍,S1,L024,R335,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/806667718,=,1B75.3 & XA0Y38
+12,手掌膿瘍,L,L024,S47B,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/243611688,=,1B75.3 & XA3NY8
+12,手掌部皮下膿瘍,S1,L024,S47B,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/243611688,=,1B75.3 & XA3NY8
+12,手掌部膿瘍,S1,L024,S47B,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/243611688,=,1B75.3 & XA3NY8
+12,手掌皮下膿瘍,S1,L024,S47B,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/243611688,=,1B75.3 & XA3NY8
+12,腋窩よう,L,L024,TGEU,=,http://id.who.int/icd/entity/1456834066 & http://id.who.int/icd/entity/1494375321,=,1B75.1 & XA17J1
+12,股関節部せつ,L,L024,U2LE,=,http://id.who.int/icd/entity/1081137172 & http://id.who.int/icd/entity/1188078244,=,1B75.0 &  XA4XS4
+12,膝部膿瘍,L,L024,VJ6T,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/1670056745,=,1B75.3 & XA8KL5
+12,膝膿瘍,S1,L024,VJ6T,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/1670056745,=,1B75.3 & XA8KL5
+12,膝部皮下膿瘍,S1,L024,VJ6T,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/1670056745,=,1B75.3 & XA8KL5
+12,頭頂部膿瘍,L,L028,DCH8,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/1116521274,=,1B75.3 & XA4W34 
+12,頭皮膿瘍,L,L028,DKCT,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/570444145,=,1B75.3 & XA6CW5
+12,頭部膿瘍,S2,L028,DKCT,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/1357976561 ,=,1B75.3 & XA20Q1
+12,頭部皮下膿瘍,S2,L028,DKCT,=,http://id.who.int/icd/entity/1324834502 &  http://id.who.int/icd/entity/1357976561 ,=,1B75.3 & XA20Q1
+12,頭皮よう,L,L028,H904,=,http://id.who.int/icd/entity/1456834066 &  http://id.who.int/icd/entity/570444145,=,1B75.1 & XA6CW5
+12,頭部よう,S2,L028,H904,=,http://id.who.int/icd/entity/1456834066 & http://id.who.int/icd/entity/1357976561,=,1B75.1 & XA20Q1
+12,頭皮せつ,L,L028,QED4,=,http://id.who.int/icd/entity/1081137172 &  http://id.who.int/icd/entity/570444145,=,1B75.0 & XA6CW5
+12,頭部せつ,S2,L028,QED4,=,http://id.who.int/icd/entity/1081137172 & http://id.who.int/icd/entity/1357976561,=,1B75.0 & XA20Q1
+12,耳後部膿瘍,L,L028,S6EP,<,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1144556225,<,1B75.3 & XA01U5
+12,頭頂部フルンケル,L,L028,U456,=,http://id.who.int/icd/entity/1081137172 & http://id.who.int/icd/entity/1116521274,=,1B75.0 &  XA4W34 
+12,敗血症性膿瘍,L,L029,AA0R,<,http://id.who.int/icd/entity/1324834502,<,1B75.3 
+12,多発皮下膿瘍,L,L029,J26F,<,http://id.who.int/icd/entity/1324834502 ,<,1B75.3 
+12,多発性皮脂腺膿瘍,S2,L029,J26F,<,http://id.who.int/icd/entity/1324834502 ,<,1B75.3 
+12,多発性せつ,L,L029,M166,<,http://id.who.int/icd/entity/1081137172 ,<,1B75.0
+12,せつ腫症,L,L029,P4M1,=,http://id.who.int/icd/entity/1194531705,=,1B75.2 
+12,フルンクロージス,S1,L029,P4M1,=,http://id.who.int/icd/entity/1194531705,=,1B75.2 
+12,せつ,L,L029,QN3T,=,http://id.who.int/icd/entity/1081137172 ,=,1B75.0
+12,フルンケル,S1,L029,QN3T,=,http://id.who.int/icd/entity/1081137172 ,=,1B75.0
+12,せつ腫,S1,L029,QN3T,=,http://id.who.int/icd/entity/1081137172 ,=,1B75.0
+12,腫物,S2,L029,QN3T,=,http://id.who.int/icd/entity/1081137172 ,=,1B75.0
+12,よう,L,L029,QUUP,=,http://id.who.int/icd/entity/1456834066,=,1B75.1
+12,カルブンケル症,S1,L029,QUUP,=,http://id.who.int/icd/entity/1456834066,=,1B75.1
+12,カルブンケル,S1,L029,QUUP,=,http://id.who.int/icd/entity/1456834066,=,1B75.1
+12,皮膚膿瘍,L,L029,SF1B,=,http://id.who.int/icd/entity/1324834502 ,=,1B75.3 
+12,皮下膿瘍,S1,L029,SF1B,=,http://id.who.int/icd/entity/1324834502 ,=,1B75.3 
+12,膿瘍,L,L029,TE94,=,http://id.who.int/icd/entity/1324834502,=,1B75.3
+12,膿瘍形成,S2,L029,TE94,=,http://id.who.int/icd/entity/1324834502 ,=,1B75.3 
+12,周囲膿瘍,S2,L029,TE94,<,http://id.who.int/icd/entity/1324834502 ,<,1B75.3 
+12,感染膿瘍,S2,L029,TE94,=,http://id.who.int/icd/entity/1324834502 ,=,1B75.3 
+12,化膿性爪囲炎,L,L030,D69D,<,http://id.who.int/icd/entity/1861250844,<,EE12.Z
+12,爪囲炎,L,L030,HEQJ,=,http://id.who.int/icd/entity/1861250844,=,EE12.Z
+12,爪周囲炎,S1,L030,HEQJ,=,http://id.who.int/icd/entity/1861250844,=,EE12.Z
+12,爪甲炎,S2,L030,HEQJ,=,http://id.who.int/icd/entity/1861250844,=,EE12.Z
+12,爪郭炎,S2,L030,HEQJ,=,http://id.who.int/icd/entity/1861250844,=,EE12.Z
+12,爪甲爪郭炎,S2,L030,HEQJ,=,http://id.who.int/icd/entity/1861250844,=,EE12.Z
+12,爪溝炎,S2,L030,HEQJ,=,http://id.who.int/icd/entity/1861250844,=,EE12.Z
+12,趾ひょう疽,L,L030,HJDQ,≒,http://id.who.int/icd/entity/579742959 & http://id.who.int/icd/entity/1735902769 ,=,EE12.0 & XA4LC9
+12,趾蜂巣炎,S1,L030,HJDQ,=,http://id.who.int/icd/entity/436897781,=,1B70.Z & XA4LC9
+12,爪下膿瘍,L,L030,K1RP,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1724482772,=,1B75.3 & XA6Q52
+12,ひょう疽,L,L030,LAU2,≒,http://id.who.int/icd/entity/579742959,=,EE12.0
+12,指蜂巣炎,S1,L030,LAU2,=,http://id.who.int/icd/entity/2134985313,=,1B70.Z & XA2593
+12,手指蜂巣炎,S1,L030,LAU2,=,http://id.who.int/icd/entity/2134985313,=,1B70.Z & XA2593
+12,手指ひょう疽,L,L030,TKF0,=,http://id.who.int/icd/entity/579742959 & http://id.who.int/icd/entity/822750113,=,EE12.0 & XA2593
+12,爪床炎,L,L030,VRT4,<,http://id.who.int/icd/entity/1861250844,=,EE12.Z & XA0060
+12,大腿部蜂巣炎,L,L031,BMTS,=,http://id.who.int/icd/entity/1305464814 & http://id.who.int/icd/entity/238202718,=,1B70.Z & XA5S78
+12,大腿部蜂窩織炎,S1,L031,BMTS,=,http://id.who.int/icd/entity/1305464814 & http://id.who.int/icd/entity/238202718,=,1B70.Z & XA5S78
+12,肩蜂巣炎,L,L031,BRV2,=,http://id.who.int/icd/entity/679740024 & http://id.who.int/icd/entity/2127070735,=,1B70.Z & XA2ND5
+12,肩蜂窩織炎,S1,L031,BRV2,=,http://id.who.int/icd/entity/679740024 & http://id.who.int/icd/entity/2127070735,=,1B70.Z & XA2ND5
+12,足関節部蜂巣炎,L,L031,ECQE,=,http://id.who.int/icd/entity/1305464814 & http://id.who.int/icd/entity/2000483733,=,1B70.Z & XA27P3
+12,足関節部蜂窩織炎,S1,L031,ECQE,=,http://id.who.int/icd/entity/1305464814 & http://id.who.int/icd/entity/2000483733,=,1B70.Z & XA27P3
+12,股関節部蜂巣炎,L,L031,EHFV,=,http://id.who.int/icd/entity/1305464814 & http://id.who.int/icd/entity/1188078244,=,1B70.Z &XA4XS4
+12,股関節部蜂窩織炎,S1,L031,EHFV,=,http://id.who.int/icd/entity/1305464814 & http://id.who.int/icd/entity/1188078244,=,1B70.Z &XA4XS4
+12,下肢蜂巣炎,L,L031,F3V7,=,http://id.who.int/icd/entity/1305464814,=,1B70.Z & XA45A6
+12,下肢蜂窩織炎,S1,L031,F3V7,=,http://id.who.int/icd/entity/1305464814,=,1B70.Z & XA45A6
+12,上腕蜂巣炎,L,L031,GLRV,=,http://id.who.int/icd/entity/679740024 & http://id.who.int/icd/entity/312192089 ,=,1B70.Z & XA6809
+12,上腕蜂窩織炎,S1,L031,GLRV,=,http://id.who.int/icd/entity/679740024 & http://id.who.int/icd/entity/312192089 ,=,1B70.Z & XA6809
+12,手蜂巣炎,L,L031,GTV1,=,http://id.who.int/icd/entity/679740024 & http://id.who.int/icd/entity/430791912,=,1B70.Z & XA5R12
+12,手蜂窩織炎,S1,L031,GTV1,=,http://id.who.int/icd/entity/679740024 & http://id.who.int/icd/entity/430791912,=,1B70.Z & XA5R12
+12,前腕蜂巣炎,L,L031,JPPC,=,http://id.who.int/icd/entity/679740024 & http://id.who.int/icd/entity/1477228030,=,1B70.Z & XA7WB0
+12,前腕蜂窩織炎,S1,L031,JPPC,=,http://id.who.int/icd/entity/679740024 & http://id.who.int/icd/entity/1477228030,=,1B70.Z & XA7WB0
+12,足背蜂巣炎,L,L031,KE8C,=,http://id.who.int/icd/entity/1173456397 & http://id.who.int/icd/entity/2084017562,=,1B70.Z & XA8BE2
+12,足背蜂窩織炎,S1,L031,KE8C,=,http://id.who.int/icd/entity/1173456397 & http://id.who.int/icd/entity/2084017562,=,1B70.Z & XA8BE2
+12,足蜂巣炎,L,L031,NQTJ,=,http://id.who.int/icd/entity/1173456397,=,1B70.Z & XA47V8
+12,足蜂窩織炎,S1,L031,NQTJ,=,http://id.who.int/icd/entity/1173456397,=,1B70.Z & XA47V8
+12,膝部蜂巣炎,L,L031,NSNS,=,http://id.who.int/icd/entity/1305464814 & http://id.who.int/icd/entity/1670056745,=,1B70.Z & XA8KL5 
+12,膝部蜂窩織炎,S1,L031,NSNS,=,http://id.who.int/icd/entity/1305464814 & http://id.who.int/icd/entity/1670056745,=,1B70.Z & XA8KL5 
+12,腋窩蜂巣炎,L,L031,PNRU,=,http://id.who.int/icd/entity/322774774 & http://id.who.int/icd/entity/1494375321,=,1B70.Z & XA17J1
+12,腋窩蜂窩織炎,S1,L031,PNRU,=,http://id.who.int/icd/entity/322774774 & http://id.who.int/icd/entity/1494375321,=,1B70.Z & XA17J1
+12,手関節部蜂巣炎,L,L031,SBE3,=,http://id.who.int/icd/entity/679740024 & http://id.who.int/icd/entity/1679928503,=,1B70.Z &XA2J63  
+12,手関節蜂巣炎,S1,L031,SBE3,=,http://id.who.int/icd/entity/679740024 & http://id.who.int/icd/entity/1679928503,=,1B70.Z &XA2J63  
+12,肘部蜂巣炎,L,L031,SBTU,=,http://id.who.int/icd/entity/679740024 & http://id.who.int/icd/entity/667468098,=,1B70.Z & XA9FF8
+12,肘部蜂窩織炎,S1,L031,SBTU,=,http://id.who.int/icd/entity/679740024 & http://id.who.int/icd/entity/667468098,=,1B70.Z & XA9FF8
+12,下腿蜂巣炎,L,L031,VVTQ,=,http://id.who.int/icd/entity/1305464814 & http://id.who.int/icd/entity/106050921 ,=,1B70.Z & XA3YG1
+12,下腿蜂窩織炎,S1,L031,VVTQ,=,http://id.who.int/icd/entity/1305464814 & http://id.who.int/icd/entity/106050921 ,=,1B70.Z & XA3YG1
+12,下顎部蜂巣炎,L,L032,BV3F,=,http://id.who.int/icd/entity/1043501101 & http://id.who.int/icd/entity/1535382642,=,1B70.Z & XA8KA2
+12,下顎部蜂窩織炎,S1,L032,BV3F,=,http://id.who.int/icd/entity/1043501101 & http://id.who.int/icd/entity/1535382642,=,1B70.Z & XA8KA2
+12,頬部蜂巣炎,L,L032,P9A1,=,http://id.who.int/icd/entity/1043501101 & http://id.who.int/icd/entity/1286369458,=,1B70.Z & XA7MK8
+12,頬部蜂窩織炎,S1,L032,P9A1,=,http://id.who.int/icd/entity/1043501101 & http://id.who.int/icd/entity/1286369458,=,1B70.Z & XA7MK8
+12,顔面蜂巣炎,L,L032,QEHB,=,http://id.who.int/icd/entity/1043501101 & http://id.who.int/icd/entity/968129184,=,1B70.Z & XA86S4
+12,顔面フレグモーネ,S1,L032,QEHB,=,http://id.who.int/icd/entity/1043501101 & http://id.who.int/icd/entity/968129184,=,1B70.Z & XA86S4
+12,顔面蜂窩織炎,S1,L032,QEHB,=,http://id.who.int/icd/entity/1043501101 & http://id.who.int/icd/entity/968129184,=,1B70.Z & XA86S4
+12,会陰部蜂巣炎,L,L033,B2UU,=,http://id.who.int/icd/entity/1851012020,=,1B70.Z & XA53N9
+12,会陰部蜂窩織炎,S1,L033,B2UU,=,http://id.who.int/icd/entity/1851012020,=,1B70.Z & XA53N9
+12,胸壁蜂巣炎,L,L033,ED81,=,http://id.who.int/icd/entity/2029088182,=,1B70.Z & XA55T2
+12,胸壁蜂窩織炎,S1,L033,ED81,=,http://id.who.int/icd/entity/2029088182,=,1B70.Z & XA55T2
+12,体幹蜂巣炎,L,L033,H3VU,=,http://id.who.int/icd/entity/322774774,=,1B70.Z & XA3FR3
+12,体幹蜂窩織炎,S1,L033,H3VU,=,http://id.who.int/icd/entity/322774774,=,1B70.Z & XA3FR3
+12,鼡径部蜂巣炎,L,L033,K7G9,=,http://id.who.int/icd/entity/207371595,=,1B70.Z & XA2XG2
+12,鼠径部蜂巣炎,S1,L033,K7G9,=,http://id.who.int/icd/entity/207371595,=,1B70.Z & XA2XG2
+12,鼡径部蜂窩織炎,S1,L033,K7G9,=,http://id.who.int/icd/entity/207371595,=,1B70.Z & XA2XG2
+12,腹壁蜂巣炎,L,L033,L40A,=,http://id.who.int/icd/entity/498769952,=,1B70.Z & XA3KX0
+12,腹壁蜂窩織炎,S1,L033,L40A,=,http://id.who.int/icd/entity/498769952,=,1B70.Z & XA3KX0
+12,殿部蜂巣炎,L,L033,M9EE,=,http://id.who.int/icd/entity/452551499,=,1B70.Z & XA3VA7
+12,殿部蜂窩織炎,S1,L033,M9EE,=,http://id.who.int/icd/entity/452551499,=,1B70.Z & XA3VA7
+12,背部蜂巣炎,L,L033,UEBT,=,http://id.who.int/icd/entity/2142416607,=,1B70.Z & XA2P90
+12,背部蜂窩織炎,S1,L033,UEBT,=,http://id.who.int/icd/entity/2142416607,=,1B70.Z & XA2P90
+12,臍部蜂巣炎,L,L033,VUPT,=,http://id.who.int/icd/entity/1763176671,=,1B70.Z & XA3MT8
+12,臍部蜂窩織炎,S1,L033,VUPT,=,http://id.who.int/icd/entity/1763176671,=,1B70.Z & XA3MT8
+12,頭皮蜂巣炎,L,L038,G4JQ,=,http://id.who.int/icd/entity/1043501101 & http://id.who.int/icd/entity/570444145,=,1B70.Z & XA6CW5
+12,頭部蜂巣炎,S1,L038,G4JQ,=,http://id.who.int/icd/entity/1043501101 & http://id.who.int/icd/entity/570444145,=,1B70.Z & XA6CW5
+12,頭皮蜂窩織炎,S1,L038,G4JQ,=,http://id.who.int/icd/entity/1043501101 & http://id.who.int/icd/entity/570444145,=,1B70.Z & XA6CW5
+12,頚部蜂巣炎,L,L038,U35D,=,http://id.who.int/icd/entity/1043501101 & http://id.who.int/icd/entity/956558826 ,=,1B70.Z & XA7AA6
+12,頚部蜂窩織炎,S1,L038,U35D,=,http://id.who.int/icd/entity/1043501101 & http://id.who.int/icd/entity/956558826 ,=,1B70.Z & XA7AA6
+12,頸部蜂巣炎,S1,L038,U35D,=,http://id.who.int/icd/entity/1043501101 & http://id.who.int/icd/entity/956558826 ,=,1B70.Z & XA7AA6
+12,頸部フレグモーネ,S1,L038,U35D,=,http://id.who.int/icd/entity/1043501101 & http://id.who.int/icd/entity/956558826 ,=,1B70.Z & XA7AA6
+12,頚部フレグモーネ,S1,L038,U35D,=,http://id.who.int/icd/entity/1043501101 & http://id.who.int/icd/entity/956558826 ,=,1B70.Z & XA7AA6
+12,深在性フレグモーネ,L,L039,BNMV,=, http://id.who.int/icd/entity/2144774073 & http://id.who.int/icd/entity/423444880 ,=,1B70.Z & XK16
+12,広汎性フレグモーネ,L,L039,J0H7,=,http://id.who.int/icd/entity/2144774073 & http://id.who.int/icd/entity/1265853763,=,1B70.Z & XK31
+12,蜂窩織炎,L,L039,J7PE,=,http://id.who.int/icd/entity/2144774073,=,1B70.Z 
+12,蜂巣炎,L,L039,J7PE,=,http://id.who.int/icd/entity/2144774073,=,1B70.Z 
+12,フレグモーネ,S1,L039,J7PE,=,http://id.who.int/icd/entity/2144774073,=,1B70.Z 
+12,蜂巣織炎,S1,L039,J7PE,=,http://id.who.int/icd/entity/2144774073,=,1B70.Z 
+12,皮下蜂窩織炎,S2,L039,J7PE,=,http://id.who.int/icd/entity/2144774073,=,1B70.Z 
+12,急性リンパ管炎,L,L039,RTCE,=,http://id.who.int/icd/entity/845065622,=,1B70.3
+12,頭部急性リンパ節炎,L,L040,A0JD,=,http://id.who.int/icd/entity/1542124704 & http://id.who.int/icd/entity/1357976561,=,BD90.0 & XA20Q1
+12,頚部化膿性リンパ節炎,L,L040,AN9F,=,http://id.who.int/icd/entity/1379768488 & http://id.who.int/icd/entity/1773835017,=,BD90.0 & XA5XT7
+12,頚部化膿性リンパ腺炎,S1,L040,AN9F,=,http://id.who.int/icd/entity/1379768488 & http://id.who.int/icd/entity/1773835017,=,BD90.0 & XA5XT7
+12,頸部化膿性リンパ節炎,S1,L040,AN9F,=,http://id.who.int/icd/entity/1379768488 & http://id.who.int/icd/entity/1773835017,=,BD90.0 & XA5XT7
+12,頸部化膿性リンパ腺炎,S1,L040,AN9F,=,http://id.who.int/icd/entity/1379768488 & http://id.who.int/icd/entity/1773835017,=,BD90.0 & XA5XT7
+12,単純性項部リンパ腺炎,L,L040,BVM0,<,http://id.who.int/icd/entity/1379768488 & http://id.who.int/icd/entity/1773835017,<,BD90.0 & XA6H69
+12,単純性頚部リンパ腺炎,L,L040,MU0L,<,http://id.who.int/icd/entity/1379768488 & http://id.who.int/icd/entity/1773835017,<,BD90.0 & XA6H69
+12,単純性頸部リンパ腺炎,S1,L040,MU0L,<,http://id.who.int/icd/entity/1379768488 & http://id.who.int/icd/entity/1773835017,<,BD90.0 & XA6H69
+12,頚部リンパ腺膿瘍,L,L040,P887,=,http://id.who.int/icd/entity/1114195768 & http://id.who.int/icd/entity/1773835017,=,BD90.0 & XA5XT7
+12,頸部リンパ腺膿瘍,S1,L040,P887,=,http://id.who.int/icd/entity/1114195768 & http://id.who.int/icd/entity/1773835017,=,BD90.0 & XA5XT7
+12,顔面急性リンパ節炎,L,L040,PALA,=,http://id.who.int/icd/entity/1542124704 & http://id.who.int/icd/entity/890961929,=,BD90.0 & XA2U89
+12,頚部リンパ節炎,L,L040,QJ79,=,http://id.who.int/icd/entity/327081943,=,BD90.Y & XA5XT7
+12,頸部リンパ節炎,S1,L040,QJ79,=,http://id.who.int/icd/entity/327081943,=,BD90.Y & XA5XT7
+12,頚部急性リンパ節炎,L,L040,QTQB,=,http://id.who.int/icd/entity/1235005397,=,BD90.0 & XA5XT7
+12,頸部急性リンパ節炎,S1,L040,QTQB,=,http://id.who.int/icd/entity/1235005397,=,BD90.0 & XA5XT7
+12,顎下リンパ節炎,L,L040,SAJN,=,http://id.who.int/icd/entity/727010342,<,DA04.2 
+12,体幹の急性リンパ節炎,L,L041,PGUE,=,http://id.who.int/icd/entity/1542124704 & http://id.who.int/icd/entity/947150833,=,BD90.0 & XA3FR3
+12,腋窩急性リンパ節炎,L,L042,BTLM,=,http://id.who.int/icd/entity/1381104706,=,BD90.0 & XA90B2
+12,上肢の急性リンパ節炎,L,L042,HSTP,=,http://id.who.int/icd/entity/1542124704 &http://id.who.int/icd/entity/465545679,=,BD90.0 & XA23Z9
+12,肩急性リンパ節炎,L,L042,R5U1,=,http://id.who.int/icd/entity/1542124704 & http://id.who.int/icd/entity/2127070735,=,BD90.0 & XA2ND5
+12,股関節部急性リンパ節炎,L,L043,FTQT,=,http://id.who.int/icd/entity/1542124704 & http://id.who.int/icd/entity/421186462,=,BD90.0 & XA4TQ2 
+12,下肢の急性リンパ節炎,L,L043,TF29,=,http://id.who.int/icd/entity/1542124704 & http://id.who.int/icd/entity/276642106,=,BD90.0 & XA0Z86
+12,化膿性リンパ節炎,L,L049,GP4M,=,http://id.who.int/icd/entity/1379768488,<,BD90.0
+12,化膿性リンパ腺炎,S1,L049,GP4M,=,http://id.who.int/icd/entity/1379768488,<,BD90.0
+12,急性リンパ節炎,L,L049,LMFE,=,http://id.who.int/icd/entity/1542124704,=,BD90.0
+12,急性リンパ腺炎,S1,L049,LMFE,=,http://id.who.int/icd/entity/1542124704,=,BD90.0
+12,急性化膿性リンパ節炎,L,L049,LURH,=,http://id.who.int/icd/entity/1379768488,<,BD90.0
+12,リンパ節フレグモーネ,S2,L049,LURH,=,http://id.who.int/icd/entity/1379768488,<,BD90.0
+12,毛巣洞,L,L059,N35S,=,http://id.who.int/icd/entity/1857606837,=,EG63.0
+12,仙骨部毛巣洞,S1,L059,N35S,=,http://id.who.int/icd/entity/1857606837,=,EG63.0
+12,毛巣瘻,S1,L059,N35S,=,http://id.who.int/icd/entity/1857606837,=,EG63.0
+12,毛巣のう胞,L,L059,V39S,=,http://id.who.int/icd/entity/1050753334,=,EG63.1
+12,毛巣のう腫,S1,L059,V39S,=,http://id.who.int/icd/entity/1050753334,=,EG63.1
+12,毛巣嚢腫,S1,L059,V39S,=,http://id.who.int/icd/entity/1050753334,=,EG63.1
+12,毛巣嚢胞,S1,L059,V39S,=,http://id.who.int/icd/entity/1050753334,=,EG63.1
+12,膿皮症,L,L080,AHBK,=,http://id.who.int/icd/entity/576937098,<,1B7Z
+12,化膿性皮膚炎,S1,L080,AHBK,=,http://id.who.int/icd/entity/576937098,<,1B7Z
+12,敗血症性皮膚炎,L,L080,E90E,=,http://id.who.int/icd/entity/531258563,<,1B7Y
+12,急性汎発性発疹性膿疱症,L,L080,MRSH,=,http://id.who.int/icd/entity/254592445,=,EH67.0
+12,AGEP,S1,L080,MRSH,=,http://id.who.int/icd/entity/254592445,=,EH67.0
+12,慢性膿皮症,L,L080,R70L,=,http://id.who.int/icd/entity/824331367,<,EB21
+12,増殖性化膿性口内炎,L,L080,UDMM,=,http://id.who.int/icd/entity/172394120,<,EL3Y 
+12,紅色陰癬,L,L081,QDJ3,=,http://id.who.int/icd/entity/272312002,<,1C44 
+12,皮膚感染症,L,L089,A668,=,http://id.who.int/icd/entity/1412960686,=,1B7Z
+12,臍周囲炎,L,L089,EB9E,=,http://id.who.int/icd/entity/2080388317 & http://id.who.int/icd/entity/1535186570,<,ME66.Y & XA1LM1
+12,頚部膿疱,L,L089,HUUJ,=,http://id.who.int/icd/entity/2080388317 & http://id.who.int/icd/entity/956558826,<,ME66.Y & XA7AA6 
+12,頸部膿疱,S1,L089,HUUJ,=,http://id.who.int/icd/entity/2080388317 & http://id.who.int/icd/entity/956558826,<,ME66.Y & XA7AA6 
+12,膿疱,L,L089,L4TP,=,http://id.who.int/icd/entity/1280890201,<,ME66.Y
+12,膿疱疹,S1,L089,L4TP,=,http://id.who.int/icd/entity/1280890201,<,ME66.Y
+12,多発性膿疱症,L,L089,TKMN,<,http://id.who.int/icd/entity/1280890201,<,ME66.Y
+12,小膿疱性皮膚炎,L,L089,UVTA,<,http://id.who.int/icd/entity/1280890201,<,ME66.Y
+12,尋常性天疱瘡,L,L100,LBNN,=,http://id.who.int/icd/entity/278358681,=,EB40.0Z
+12,連鎖球菌性膿瘍疹,L,L100,NH24,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1997317917,=,1B75.3 & XN3NM
+12,レンサ球菌性膿瘍疹,S1,L100,NH24,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1997317917,=,1B75.3 & XN3NM
+12,れんさ球菌性膿瘍疹,S1,L100,NH24,=,http://id.who.int/icd/entity/1324834502 & http://id.who.int/icd/entity/1997317917,=,1B75.3 & XN3NM
+12,増殖性天疱瘡,L,L101,HPK7,=,http://id.who.int/icd/entity/1977394957,<,EB40.0Y
+12,落葉状天疱瘡,L,L102,Q4K0,=,http://id.who.int/icd/entity/24246260,=,EB40.1
+12,ブラジル天疱瘡,L,L103,N2HH,=,http://id.who.int/icd/entity/1681537638,<,EB40.1 
+12,紅斑性天疱瘡,L,L104,A1VM,=,http://id.who.int/icd/entity/399813106,<,EB40.1 
+12,SENEAR USHER症候群,S1,L104,A1VM,=,http://id.who.int/icd/entity/399813106,<,EB40.1 
+12,シネアー・アッシャー症候群,S1,L104,A1VM,=,http://id.who.int/icd/entity/399813106,<,EB40.1 
+12,シネア・アッシャー症候群,S1,L104,A1VM,=,http://id.who.int/icd/entity/399813106,<,EB40.1 
+12,シネア・アッシャ症候群,S1,L104,A1VM,=,http://id.who.int/icd/entity/399813106,<,EB40.1 
+12,脂漏性天疱瘡,S1,L104,A1VM,=,http://id.who.int/icd/entity/399813106,<,EB40.1 
+12,SENEAR-USHER症候群,S1,L104,A1VM,=,http://id.who.int/icd/entity/399813106,<,EB40.1 
+12,薬剤誘発性天疱瘡,L,L105,CL3T,=,http://id.who.int/icd/entity/1923048552,<,EB40.Y
+12,薬物誘発性天疱瘡,S1,L105,CL3T,=,http://id.who.int/icd/entity/1923048552,<,EB40.Y
+12,疱疹状天疱瘡,L,L108,BEU5,=,http://id.who.int/icd/entity/1716380485,<,EB40.1
+12,腫瘍随伴性天疱瘡,L,L108,H9AE,=,http://id.who.int/icd/entity/104197957,=,EB40.2 
+12,天疱瘡,L,L109,JN9J,=,http://id.who.int/icd/entity/191659986,=,EB40.Z 
+12,後天性毛包性角化症,L,L110,M3GE,<,http://id.who.int/icd/entity/1614890502,<,ED56
+12,後天性毛包嚢性角化症,S1,L110,M3GE,<,http://id.who.int/icd/entity/1614890502,<,ED56
+12,後天性毛包のう性角化症,S1,L110,M3GE,<,http://id.who.int/icd/entity/1614890502,<,ED56
+12,一過性棘融解性皮膚症,L,L111,AB2A,=,http://id.who.int/icd/entity/1763995532,<,ED5Y 
+12,グローバー病,S1,L111,AB2A,=,http://id.who.int/icd/entity/1763995532,<,ED5Y 
+12,一過性アカントリーゼ性皮膚症,S1,L111,AB2A,=,http://id.who.int/icd/entity/1763995532,<,ED5Y 
+12,棘融解,L,L119,L5MS,=,http://id.who.int/icd/entity/1443351187,<,ED5Y 
+12,アカントリーゼ性障害,S1,L119,L5MS,=,http://id.who.int/icd/entity/1443351187,<,ED5Y 
+12,水疱性類天疱瘡,L,L120,A30Q,=,http://id.who.int/icd/entity/233308710,=,EB41.0 
+12,眼性類天疱瘡,L,L121,CR5R,=,http://id.who.int/icd/entity/953963439,=,9A62
+12,瘢痕性類天疱瘡,L,L121,J8MK,=,http://id.who.int/icd/entity/1456138933,=,EB41.1
+12,良性粘膜類天疱瘡,L,L121,VUME,=,http://id.who.int/icd/entity/1456138933,=,EB41.1
+12,若年性ヘルペス状皮膚炎,L,L122,FCA1,<,http://id.who.int/icd/entity/286313127,<,EB44
+12,小児期の慢性水疱性疾患,S2,L122,FCA1,≒,http://id.who.int/icd/entity/470720333,<,EB42
+12,後天性表皮水疱症,L,L123,PGG5,=,http://id.who.int/icd/entity/2034586329,=,EB43 
+12,類天疱瘡,L,L129,F0NJ,=,http://id.who.int/icd/entity/445309625,=,EB41.Z
+12,ジューリング病,L,L130,UBU4,=,http://id.who.int/icd/entity/286313127,=,EB44
+12,ヘルペス状皮膚炎,S1,L130,UBU4,=,http://id.who.int/icd/entity/286313127,=,EB44
+12,ジューリング疱疹状皮膚炎,S1,L130,UBU4,=,http://id.who.int/icd/entity/286313127,=,EB44
+12,ジューリングヘルペス状皮膚炎,S1,L130,UBU4,=,http://id.who.int/icd/entity/286313127,=,EB44
+12,DUHRING疱疹状皮膚炎,S1,L130,UBU4,=,http://id.who.int/icd/entity/286313127,=,EB44
+12,ウイルキンソン・スネッドン症候群,L,L131,TBNA,=,http://id.who.int/icd/entity/1952122675,<,EB2Y
+12,スネッドン・ウイルキンソン病,S1,L131,TBNA,=,http://id.who.int/icd/entity/1952122675,<,EB2Y
+12,角層下膿疱性皮膚症,S1,L131,TBNA,=,http://id.who.int/icd/entity/1952122675,<,EB2Y
+12,線状ＩｇＡ水疱性皮膚症,L,L138,B87D,=,http://id.who.int/icd/entity/1802341051,=,EB42
+12,線状IGA水疱性皮膚症,S0,L138,B87D,=,http://id.who.int/icd/entity/1802341051,=,EB42
+12,IGA水疱性皮膚症,S1,L138,B87D,=,http://id.who.int/icd/entity/1802341051,=,EB42
+12,水疱症,L,L139,F5L1,=,http://id.who.int/icd/entity/2061271525,=,ME63.3
+12,水疱性皮膚炎,S1,L139,F5L1,=,http://id.who.int/icd/entity/2061271525,=,ME63.3
+12,ベニエ痒疹,L,L200,MK5M,=,http://id.who.int/icd/entity/215767047,=,EA80.Z 
+12,BESNIER痒疹,S1,L200,MK5M,=,http://id.who.int/icd/entity/215767047,=,EA80.Z 
+12,屈曲部湿疹,L,L208,BNN1,=,http://id.who.int/icd/entity/1536893861 OR http://id.who.int/icd/entity/1797007957 ,<,EA80.1 or EA80.2
+12,四肢小児湿疹,L,L208,CVAB,=,http://id.who.int/icd/entity/1205902774 & http://id.who.int/icd/entity/1810600222,=,EA80.1 & XA6AS2
+12,びまん性神経皮膚炎,L,L208,D61H,≒,http://id.who.int/icd/entity/1430564150 & http://id.who.int/icd/entity/1265853763,≒,EA83.0Z & XK31
+12,アトピー性神経皮膚炎,L,L208,D8AJ,=,http://id.who.int/icd/entity/215767047,=,EA80.Z 
+12,急性乳児湿疹,L,L208,K65A,=,http://id.who.int/icd/entity/1444425291 & http://id.who.int/icd/entity/786106375,=,EA80.0 & XT5R
+12,慢性乳児湿疹,L,L208,N7SE,=,http://id.who.int/icd/entity/1444425291 & http://id.who.int/icd/entity/490003542,=,EA80.0 & XT8W
+12,成人アトピー性皮膚炎,L,L208,N8VQ,=,http://id.who.int/icd/entity/1314630323,=,EA80.2
+12,成人型アトピー性皮膚炎,S1,L208,N8VQ,=,http://id.who.int/icd/entity/1314630323,=,EA80.2
+12,小児湿疹,L,L208,NSS2,=,http://id.who.int/icd/entity/1205902774,=,EA80.1
+12,小児アトピー性湿疹,L,L208,RUB0,=,http://id.who.int/icd/entity/1205902774,=,EA80.1
+12,小児アトピー性皮膚炎,L,L208,RUB0,=,http://id.who.int/icd/entity/1205902774,=,EA80.1
+12,小児乾燥型湿疹,L,L208,SSMF,<,http://id.who.int/icd/entity/1069298482,<,EA84 
+12,小児乾燥型皮膚炎,S1,L208,SSMF,<,http://id.who.int/icd/entity/1069298482,<,EA84 
+12,小児乾燥性湿疹,S1,L208,SSMF,<,http://id.who.int/icd/entity/1069298482,<,EA84 
+12,内因性湿疹,L,L208,T3N0,<,http://id.who.int/icd/entity/1887882424,<,EA8Z
+12,乳児皮膚炎,L,L208,VUMR,=,http://id.who.int/icd/entity/1887882424 & http://id.who.int/icd/entity/1588782340,=,EA8Z & XT2C
+12,乳児湿疹,S1,L208,VUMR,=,http://id.who.int/icd/entity/1887882424 & http://id.who.int/icd/entity/1588782340,=,EA8Z & XT2C
+12,アトピー性皮膚炎,L,L209,QTMA,≒,http://id.who.int/icd/entity/215767047,=,EA80.Z
+12,アトピー性湿疹,L,L209,QTMA,=,http://id.who.int/icd/entity/215767047,=,EA80.Z
+12,アトピー皮膚炎,S1,L209,QTMA,≒,http://id.who.int/icd/entity/215767047,=,EA80.Z
+12,乳痂,L,L210,CE13,=,http://id.who.int/icd/entity/1315633810,=,EH40.00
+12,粃糠疹,L,L210,L6RF,=,http://id.who.int/icd/entity/1291606644,<,EA81.1
+12,粃糠性湿疹,S2,L210,L6RF,=,http://id.who.int/icd/entity/1291606644,<,EA81.1
+12,頭部脂漏,L,L210,P7QT,=,http://id.who.int/icd/entity/1010943819,=,EA81.1
+12,単純性顔面粃糠疹,L,L210,PL69,=,http://id.who.int/icd/entity/1386947078,=,EA88.4
+12,頭部粃糠疹,L,L210,TGLH,=,http://id.who.int/icd/entity/1291606644,<,EA81.1
+12,ふけ症,S1,L210,TGLH,=,http://id.who.int/icd/entity/1291606644,<,EA81.1
+12,頭部乾性脂漏,S1,L210,TGLH,=,http://id.who.int/icd/entity/1291606644,<,EA81.1
+12,乾性脂漏症,S1,L210,TGLH,=,http://id.who.int/icd/entity/1291606644,<,EA81.1
+12,脂漏性乳児皮膚炎,L,L211,M69R,≒,http://id.who.int/icd/entity/1493830367,=,EH40.0Z 
+12,新生児皮脂漏,L,L211,ULUB,≒,http://id.who.int/icd/entity/1493830367,=,EH40.0Z 
+12,脂漏性皮膚炎,L,L219,GG1U,=,http://id.who.int/icd/entity/1771541907,=,EA81.Z 
+12,脂漏性湿疹,S1,L219,GG1U,=,http://id.who.int/icd/entity/1771541907,=,EA81.Z 
+12,くさ,S2,L219,GG1U,=,http://id.who.int/icd/entity/1771541907,=,EA81.Z 
+12,おむつ皮膚炎,L,L22,EC89,=,http://id.who.int/icd/entity/490390892,=,EH40.10 
+12,おむつ発疹,S1,L22,EC89,=,http://id.who.int/icd/entity/490390892,=,EH40.10 
+12,おしめ皮膚炎,S1,L22,EC89,=,http://id.who.int/icd/entity/490390892,=,EH40.10 
+12,おむつかぶれ,S1,L22,EC89,≒,http://id.who.int/icd/entity/490390892,=,EH40.10 
+12,おむつ紅斑,S1,L22,EC89,=,http://id.who.int/icd/entity/490390892,=,EH40.10 
+12,おむつ負け,S1,L22,EC89,=,http://id.who.int/icd/entity/490390892,=,EH40.10 
+12,乾癬様おむつかぶれ,S2,L22,EC89,=,http://id.who.int/icd/entity/1679862383 ,=,EH40.02
+12,金属アレルギー性接触皮膚炎,L,L230,J4SK,=,http://id.who.int/icd/entity/557756406,=,EK00.6
+12,金アレルギー性接触皮膚炎,L,L230,V9FS,<,http://id.who.int/icd/entity/874331458,<,EK00.6
+12,金皮膚炎,S1,L230,V9FS,<,http://id.who.int/icd/entity/874331458,<,EK00.6
+12,金アレルギー性接触性皮膚炎,S1,L230,V9FS,<,http://id.who.int/icd/entity/874331458,<,EK00.6
+12,接着剤アレルギー性接触皮膚炎,L,L231,NQDU,=,http://id.who.int/icd/entity/566746993 & http://id.who.int/icd/entity/654224655,=,EK00.8 & XM3U55
+12,化粧品アレルギー性接触皮膚炎,L,L232,TM46,=,http://id.who.int/icd/entity/819475103 & http://id.who.int/icd/entity/1710460700 ,=,EK00.1 & XE79N
+12,医薬品アレルギー性接触皮膚炎,L,L233,SU6J,=,http://id.who.int/icd/entity/1435762443,=,EK00.C
+12,染料アレルギー性接触皮膚炎,L,L234,DLV3,=,http://id.who.int/icd/entity/2020673786 & http://id.who.int/icd/entity/765717097,=,EK00.Y & XM8H37
+12,化学物質アレルギー性接触皮膚炎,L,L235,CTJ2,<,http://id.who.int/icd/entity/2020673786,<,EK00.Y
+12,ゴムアレルギー性接触皮膚炎,L,L235,QEB9,=,http://id.who.int/icd/entity/605976600,=,EK00.A
+12,セメントアレルギー性接触皮膚炎,L,L235,RH13,<,http://id.who.int/icd/entity/2020673786,<,EK00.Y
+12,殺虫剤アレルギー性接触皮膚炎,L,L235,S94K,=,http://id.who.int/icd/entity/572041268,=,EK00.9
+12,プラスチックアレルギー性接触皮膚炎,L,L235,SJMV,=,http://id.who.int/icd/entity/566746993 & http://id.who.int/icd/entity/578066542,=,EK00.8  & XE7K4
+12,ナイロンアレルギー性接触皮膚炎,L,L235,U015,<,http://id.who.int/icd/entity/2020673786,<,EK00.Y
+12,サクラソウによるアレルギー性接触皮膚炎,L,L237,AKEG,=,http://id.who.int/icd/entity/964975497 & http://id.who.int/icd/entity/4961075,=,EK00.7 & XM95D5
+12,サクラソウによるアレルギー性接触性皮膚炎,S1,L237,AKEG,=,http://id.who.int/icd/entity/964975497 & http://id.who.int/icd/entity/4961075,=,EK00.7 & XM95D5
+12,サクラソウ皮膚炎,S1,L237,AKEG,=,http://id.who.int/icd/entity/964975497 & http://id.who.int/icd/entity/4961075,=,EK00.7 & XM95D5
+12,ウルシによるアレルギー性接触皮膚炎,L,L237,APHA,=,http://id.who.int/icd/entity/964975497 & http://id.who.int/icd/entity/886120464,=,EK00.7 &  XM40N4
+12,漆によるアレルギー性接触皮膚炎,S1,L237,APHA,=,http://id.who.int/icd/entity/964975497 & http://id.who.int/icd/entity/886120464,=,EK00.7 &  XM40N4
+12,ウルシかぶれ,S1,L237,APHA,=,http://id.who.int/icd/entity/964975497 & http://id.who.int/icd/entity/886120464,=,EK00.7 &  XM40N4
+12,ウルシ皮膚炎,S1,L237,APHA,=,http://id.who.int/icd/entity/964975497 & http://id.who.int/icd/entity/886120464,=,EK00.7 &  XM40N4
+12,植物アレルギー性接触皮膚炎,L,L237,EV7T,=,http://id.who.int/icd/entity/964975497,=,EK00.7
+12,銀杏によるアレルギー性接触皮膚炎,L,L237,MJ13,<,http://id.who.int/icd/entity/964975497,<,EK00.7
+12,銀杏によるアレルギー性接触性皮膚炎,S1,L237,MJ13,<,http://id.who.int/icd/entity/964975497,<,EK00.7
+12,銀杏皮膚炎,S1,L237,MJ13,<,http://id.who.int/icd/entity/964975497,<,EK00.7
+12,光線過敏症,L,L238,D0GB,=,http://id.who.int/icd/entity/654408969,=,ME66.0 
+12,光アレルギー,S1,L238,D0GB,=,http://id.who.int/icd/entity/654408969,=,ME66.0 
+12,全身接触性皮膚炎,L,L239,EC4A,=,http://id.who.int/icd/entity/320346211,<,EK5Y 
+12,全身接触皮膚炎,S1,L239,EC4A,=,http://id.who.int/icd/entity/320346211,<,EK5Y 
+12,皮膚過敏症,L,L239,EUFE,=,http://id.who.int/icd/entity/1047945302 ,=,4A82 
+12,顔面アレルギー性皮膚炎,L,L239,FQ5B,=,http://id.who.int/icd/entity/2020673786 & http://id.who.int/icd/entity/968129184,=,EK00.Z & XA86S4 
+12,全身性アレルギー性皮膚炎,L,L239,J9VN,=,http://id.who.int/icd/entity/2020673786 & http://id.who.int/icd/entity/1479602347,=,EK00.Z & XK63
+12,湿疹状アレルギー性接触性皮膚炎,L,L239,MGUS,=,http://id.who.int/icd/entity/2020673786,=,EK00.Z 
+12,アレルギー性接触皮膚炎,L,L239,TDBN,=,http://id.who.int/icd/entity/2020673786,=,EK00.Z 
+12,接触皮膚過敏症,S1,L239,TDBN,=,http://id.who.int/icd/entity/2020673786,=,EK00.Z 
+12,接触過敏症,S1,L239,TDBN,=,http://id.who.int/icd/entity/2020673786,=,EK00.Z 
+12,洗剤刺激性接触皮膚炎,L,L240,BH9C,=,http://id.who.int/icd/entity/440917684,=,EK02.00 
+12,油脂刺激性接触皮膚炎,L,L241,PF05,=,http://id.who.int/icd/entity/353892113,<,EK02.Y
+12,溶剤刺激性接触皮膚炎,L,L242,DR8E,=,http://id.who.int/icd/entity/2142115550 ,=,EK02.01
+12,化粧品刺激性接触皮膚炎,L,L243,LKKH,=,http://id.who.int/icd/entity/1938805922,=,EK02.03 
+12,殺虫剤刺激性接触皮膚炎,L,L245,ACS4,=,http://id.who.int/icd/entity/1588922421 & http://id.who.int/icd/entity/455736406,=,EK02.0 & XM3K66
+12,アンモニア性皮膚炎,L,L245,D67R,=,http://id.who.int/icd/entity/1986519154 & http://id.who.int/icd/entity/1579729654,=,EK02.02 & XM4TP4
+12,アンモニア皮膚炎,S1,L245,D67R,=,http://id.who.int/icd/entity/1986519154 & http://id.who.int/icd/entity/1579729654,=,EK02.02 & XM4TP4
+12,アルカリ刺激性接触皮膚炎,L,L245,T7F0,=,http://id.who.int/icd/entity/1986519154,=,EK02.02
+12,セメント刺激性接触皮膚炎,L,L245,U8VH,<,http://id.who.int/icd/entity/353892113,<,EK02.Y
+12,ナイロン刺激性接触皮膚炎,L,L245,VHJP,<,http://id.who.int/icd/entity/1986519154,<,EK02.0
+12,食物刺激性接触皮膚炎,L,L246,RJC9,=,http://id.who.int/icd/entity/1505183220,=,EK02.06
+12,植物刺激性接触皮膚炎,L,L247,ULC4,=,http://id.who.int/icd/entity/1772703008,=,EK02.05
+12,尿路ストーマ周囲皮膚炎,L,L248,JM6S,=,"http://id.who.int/icd/entity/2058595636 & 
+ http://id.who.int/icd/entity/355657718",=,EK02.23 / QB61.8 
+12,毛虫皮膚炎,L,L248,MRUG,=,http://id.who.int/icd/entity/1191427209,=,NE61  & XM1142
+12,刺激物質性接触皮膚炎,L,L249,KJHR,=,http://id.who.int/icd/entity/195009390,=,EK02.Z
+12,薬物性接触性皮膚炎,L,L251,C2KS,=,http://id.who.int/icd/entity/1435762443,=,EK00.C 
+12,化学性皮膚炎,L,L253,N48M,=,http://id.who.int/icd/entity/1986519154,=,EK02.02
+12,海水浴皮膚炎,L,L258,UGP8,=,http://id.who.int/icd/entity/1074227353,<,NE61
+12,職業性皮膚炎,L,L259,CD16,=,http://id.who.int/icd/entity/1172926586,<,EK5Y 
+12,職業性接触性皮膚炎,S1,L259,CD16,=,http://id.who.int/icd/entity/1172926586,<,EK5Y 
+12,職業性接触湿疹,S2,L259,CD16,=,http://id.who.int/icd/entity/1172926586,<,EK5Y 
+12,職業性皮膚障害,S2,L259,CD16,=,http://id.who.int/icd/entity/1172926586,<,EK5Y 
+12,主婦湿疹,L,L259,P3QS,<,http://id.who.int/icd/entity/1223380074 & http://id.who.int/icd/entity/430791912,<,EK5Y & XA5R12
+12,進行性指掌角皮症,L,L259,PJ2A,<,http://id.who.int/icd/entity/1223380074 & http://id.who.int/icd/entity/430791912,<,EK5Y & XA5R12
+12,進行性指掌角化症,S1,L259,PJ2A,<,http://id.who.int/icd/entity/1205950456 & http://id.who.int/icd/entity/430791912,<,ED55.Z & XA5R12
+12,主婦湿疹乾燥型,S1,L259,PJ2A,<,http://id.who.int/icd/entity/440917684 & http://id.who.int/icd/entity/430791912,<,EK02.00 & XA5R12
+12,接触皮膚炎,L,L259,U7HB,=,http://id.who.int/icd/entity/1223380074,=,EK5Y 
+12,接触性皮膚炎,S1,L259,U7HB,=,http://id.who.int/icd/entity/195009390,=,EK02.Z
+12,湿疹様接触皮膚炎,S2,L259,U7HB,=,http://id.who.int/icd/entity/195009390,=,EK02.Z
+12,接触湿疹,S2,L259,U7HB,=,http://id.who.int/icd/entity/195009390,=,EK02.Z
+12,接触性湿疹,S2,L259,U7HB,=,http://id.who.int/icd/entity/195009390,=,EK02.Z
+12,ヘブラ粃糠疹,L,L26,F8KU,=,http://id.who.int/icd/entity/444139015,<,EB10
+12,剥離性皮膚炎,L,L26,LU0A,=,http://id.who.int/icd/entity/444139015,<,EB10
+12,表皮剥脱性皮膚炎,S1,L26,LU0A,=,http://id.who.int/icd/entity/444139015,<,EB10
+12,制癌剤皮膚炎,L,L270,A9AC,=,http://id.who.int/icd/entity/2070891383,=,EH76.0
+12,制がん剤皮膚炎,S1,L270,A9AC,=,http://id.who.int/icd/entity/2070891383,=,EH76.0
+12,薬疹,L,L270,KQG3,=,http://id.who.int/icd/entity/923546127,=,EH6Z
+12,薬物疹,S1,L270,KQG3,=,http://id.who.int/icd/entity/923546127,=,EH6Z
+12,薬物性皮膚炎,S1,L270,KQG3,=,http://id.who.int/icd/entity/923546127,=,EH6Z
+12,薬物性湿疹,S2,L270,KQG3,=,http://id.who.int/icd/entity/715259533,=,EH6Y
+12,薬物性中毒疹,S2,L270,KQG3,=,http://id.who.int/icd/entity/715259533,=,EH6Y
+12,紫斑型薬疹,L,L270,MQBJ,<,http://id.who.int/icd/entity/923546127,<,EH6Y
+12,紅皮症型薬疹,L,L270,MSQL,=,http://id.who.int/icd/entity/586101376,=,EH64
+12,ステロイド誘発性皮膚症,L,L270,P0E1,=,http://id.who.int/icd/entity/923546127 & http://id.who.int/icd/entity/765024126,=,EH6Y & XM8JY6
+12,薬剤性過敏症症候群,L,L270,PHLN,=,http://id.who.int/icd/entity/516577496,=,EH65 
+12,DIHS,S1,L270,PHLN,=,http://id.who.int/icd/entity/516577496,=,EH65 
+12,ＬＥ型薬疹,L,L270,RD8D,<,http://id.who.int/icd/entity/1095957392,<,EH6Y
+12,LE型薬疹,S0,L270,RD8D,<,http://id.who.int/icd/entity/1095957392,<,EH6Y
+12,LE様型薬疹,S1,L270,RD8D,<,http://id.who.int/icd/entity/1095957392,<,EH6Y
+12,エリテマトーデス型薬疹,S1,L270,RD8D,<,http://id.who.int/icd/entity/1095957392,<,EH6Y
+12,LE様薬疹,S1,L270,RD8D,<,http://id.who.int/icd/entity/1095957392,<,EH6Y
+12,ステロイド皮膚炎,L,L270,SAVH,=,http://id.who.int/icd/entity/1371008326 & http://id.who.int/icd/entity/765024126,=,EH6Y & XM8JY6
+12,全身薬疹,L,L270,SNDL,=,http://id.who.int/icd/entity/923546127 & http://id.who.int/icd/entity/1479602347 ,=,EH6Z & XK63
+12,ピリン疹,L,L270,SRTN,=,http://id.who.int/icd/entity/1371008326 / http://id.who.int/icd/entity/711103322,<,EH60 / NE60
+12,薬物性口唇炎,L,L271,B2RM,=,http://id.who.int/icd/entity/1261216593,<,DA00.0
+12,手足症候群,L,L271,B79A,=,http://id.who.int/icd/entity/593924589,=,EH76.0
+12,固定薬疹,L,L271,K1HB,=,http://id.who.int/icd/entity/20014644,=,EH66
+12,しいたけ皮膚炎,L,L272,BR81,<,http://id.who.int/icd/entity/1505183220 & http://id.who.int/icd/entity/2132582328,<,EK02.06  & XE4DN
+12,食物性皮膚炎,L,L272,G6B6,<,http://id.who.int/icd/entity/1887882424,<,EA8Z
+12,中毒疹,L,L279,D4A9,<,http://id.who.int/icd/entity/1887882424,<,EA8Z
+12,中毒性湿疹,S1,L279,D4A9,<,http://id.who.int/icd/entity/1887882424,<,EA8Z
+12,アレルギー性皮膚炎,L,L279,Q6A3,=,http://id.who.int/icd/entity/2020673786,=,EK00.Z
+12,皮膚アレルギー,S2,L279,Q6A3,=,http://id.who.int/icd/entity/2020673786,=,EK00.Z
+12,アレルギー性湿疹,S2,L279,Q6A3,=,http://id.who.int/icd/entity/2020673786,=,EK00.Z
+12,類苔癬,L,L280,CUCB,=,http://id.who.int/icd/entity/266281219,=,EA93
+12,単純苔癬,L,L280,F89D,=,http://id.who.int/icd/entity/1430564150,=,EA83.0Z
+12,苔癬,L,L280,QR67,=,http://id.who.int/icd/entity/1430564150,=,EA83.0Z
+12,限局性神経皮膚炎,L,L280,U4U5,=,http://id.who.int/icd/entity/1430564150,=,EA83.0Z
+12,ビダール苔癬,L,L280,V4JE,=,http://id.who.int/icd/entity/1430564150,=,EA83.0Z
+12,慢性単純性苔癬,S1,L280,V4JE,=,http://id.who.int/icd/entity/1430564150,=,EA83.0Z
+12,結節性痒疹,L,L281,JEHU,=,http://id.who.int/icd/entity/806314148,=,EC91.0
+12,固定蕁麻疹,S1,L281,JEHU,=,http://id.who.int/icd/entity/806314148,=,EC91.0
+12,固定じんま疹,S1,L281,JEHU,=,http://id.who.int/icd/entity/806314148,=,EC91.0
+12,丘疹状じんま疹,L,L282,B3LF,=,http://id.who.int/icd/entity/2079182048,<,EC91.Z
+12,丘疹状蕁麻疹,S1,L282,B3LF,=,http://id.who.int/icd/entity/2079182048,<,EC91.Z
+12,色素性痒疹,L,L282,BQT1,=,http://id.who.int/icd/entity/611718075,<,EB2Y 
+12,亜急性痒疹,L,L282,CVRR,=,http://id.who.int/icd/entity/2079182048,<,EC91.Z
+12,亜急性単純性痒疹,S1,L282,CVRR,=,http://id.who.int/icd/entity/2079182048,<,EC91.Z
+12,痒疹,L,L282,D83G,=,http://id.who.int/icd/entity/268810206,=,EC91.Z 
+12,慢性痒疹,L,L282,DMK1,=,http://id.who.int/icd/entity/268810206 & http://id.who.int/icd/entity/490003542,=,EC91.Z & XT8W
+12,急性痒疹,L,L282,GC99,=,http://id.who.int/icd/entity/268810206  & http://id.who.int/icd/entity/786106375,=,EC91.Z & XT5R
+12,小児じんま疹様苔癬,S1,L282,GC99,<,http://id.who.int/icd/entity/806314148,<,EC91.0
+12,小児ストロフルス,S1,L282,GC99,<,http://id.who.int/icd/entity/806314148,<,EC91.0
+12,ストロフルス,S1,L282,GC99,<,http://id.who.int/icd/entity/806314148,<,EC91.0
+12,じんま疹様苔癬,S1,L282,GC99,<,http://id.who.int/icd/entity/806314148,<,EC91.0
+12,多形慢性痒疹,L,L282,P9QJ,<,http://id.who.int/icd/entity/268810206 & http://id.who.int/icd/entity/490003542,<,EC91.Z & XT8W
+12,多型慢性痒疹,S1,L282,P9QJ,<,http://id.who.int/icd/entity/268810206 & http://id.who.int/icd/entity/490003542,<,EC91.Z & XT8W
+12,慢性多型痒疹,S1,L282,P9QJ,<,http://id.who.int/icd/entity/268810206 & http://id.who.int/icd/entity/490003542,<,EC91.Z & XT8W
+12,慢性多形痒疹,S1,L282,P9QJ,<,http://id.who.int/icd/entity/268810206 & http://id.who.int/icd/entity/490003542,<,EC91.Z & XT8W
+12,ヘブラ痒疹,L,L282,RSM3,=,http://id.who.int/icd/entity/268810206,=,EC91.Z
+12,肛門そう痒症,L,L290,L2FL,=,http://id.who.int/icd/entity/1237083575,=,EG60
+12,肛門掻痒症,S1,L290,L2FL,=,http://id.who.int/icd/entity/1237083575,=,EG60
+12,肛門周囲掻痒症,S2,L290,L2FL,=,http://id.who.int/icd/entity/1237083575,=,EG60
+12,肛門周囲そう痒症,S2,L290,L2FL,=,http://id.who.int/icd/entity/1237083575,=,EG60
+12,陰のうそう痒症,L,L291,BVED,=,http://id.who.int/icd/entity/1001262689,=,GA81.0 & XA8MT4
+12,陰のう掻痒症,S1,L291,BVED,=,http://id.who.int/icd/entity/1001262689,=,GA81.0 & XA8MT4
+12,陰嚢そう痒症,S1,L291,BVED,=,http://id.who.int/icd/entity/1001262689,=,GA81.0 & XA8MT4
+12,陰嚢掻痒症,S1,L291,BVED,=,http://id.who.int/icd/entity/1001262689,=,GA81.0 & XA8MT4
+12,外陰部そう痒症,L,L292,BK36,=,http://id.who.int/icd/entity/1482356956,=,GA42.0 
+12,外陰部掻痒症,S1,L292,BK36,=,http://id.who.int/icd/entity/1482356956,=,GA42.0 
+12,外陰そう痒症,S1,L292,BK36,=,http://id.who.int/icd/entity/1482356956,=,GA42.0 
+12,陰部そう痒症,S1,L292,BK36,=,http://id.who.int/icd/entity/1482356956,=,GA42.0 
+12,陰部掻痒症,S1,L292,BK36,=,http://id.who.int/icd/entity/1482356956,=,GA42.0 
+12,外陰掻痒症,S1,L292,BK36,=,http://id.who.int/icd/entity/1482356956,=,GA42.0 
+12,陰部痒痛,S2,L292,BK36,=,http://id.who.int/icd/entity/1482356956,=,GA42.0 
+12,陰門掻痒症,S2,L292,BK36,=,http://id.who.int/icd/entity/1482356956,=,GA42.0 
+12,陰門そう痒症,S2,L292,BK36,=,http://id.who.int/icd/entity/1482356956,=,GA42.0 
+12,汎発性皮膚そう痒症,L,L298,DP0B,=,http://id.who.int/icd/entity/1729106757 & http://id.who.int/icd/entity/1479602347 ,=,EC90.Z & XK63
+12,全身皮膚そう痒症,S1,L298,DP0B,=,http://id.who.int/icd/entity/1729106757 & http://id.who.int/icd/entity/1479602347 ,=,EC90.Z & XK63
+12,全身そう痒感,S1,L298,DP0B,=,http://id.who.int/icd/entity/1729106757 & http://id.who.int/icd/entity/1479602347 ,=,EC90.Z & XK63
+12,全身そう痒症,S1,L298,DP0B,=,http://id.who.int/icd/entity/1729106757 & http://id.who.int/icd/entity/1479602347 ,=,EC90.Z & XK63
+12,汎発性皮膚掻痒症,S1,L298,DP0B,=,http://id.who.int/icd/entity/1729106757 & http://id.who.int/icd/entity/1479602347 ,=,EC90.Z & XK63
+12,老年性そう痒症,L,L298,ES2E,=,http://id.who.int/icd/entity/1441759964,<,ED54 
+12,老人性皮膚そう痒症,S1,L298,ES2E,=,http://id.who.int/icd/entity/1441759964,<,ED54 
+12,老人性皮膚掻痒症,S1,L298,ES2E,=,http://id.who.int/icd/entity/1441759964,<,ED54 
+12,老人性掻痒症,S1,L298,ES2E,=,http://id.who.int/icd/entity/1441759964,<,ED54 
+12,老人性そう痒症,S1,L298,ES2E,=,http://id.who.int/icd/entity/1441759964,<,ED54 
+12,限局性そう痒症,L,L298,VHU6,=,http://id.who.int/icd/entity/1729106757 & http://id.who.int/icd/entity/108658876 ,=,EC90.Z & XK9A
+12,限局性痒み症,S1,L298,VHU6,=,http://id.who.int/icd/entity/1729106757 & http://id.who.int/icd/entity/108658876 ,=,EC90.Z & XK9A
+12,皮膚そう痒症,L,L299,AEDB,=,http://id.who.int/icd/entity/1729106757,=,EC90.Z
+12,皮膚掻痒症,S1,L299,AEDB,=,http://id.who.int/icd/entity/1729106757,=,EC90.Z
+12,皮膚そう痒,S1,L299,AEDB,=,http://id.who.int/icd/entity/1729106757,=,EC90.Z
+12,皮膚掻痒,S1,L299,AEDB,=,http://id.who.int/icd/entity/1729106757,=,EC90.Z
+12,皮膚掻痒(症),S1,L299,AEDB,=,http://id.who.int/icd/entity/1729106757,=,EC90.Z
+12,透析皮膚そう痒症,L,L299,DR12,=,http://id.who.int/icd/entity/2094665806,=,EC90.12
+12,透析そう痒症,S1,L299,DR12,=,http://id.who.int/icd/entity/2094665806,=,EC90.12
+12,症候性そう痒症,L,L299,KP2G,<,http://id.who.int/icd/entity/1729106757,<,EC90.Z
+12,症候性痒み症,S1,L299,KP2G,<,http://id.who.int/icd/entity/1729106757,<,EC90.Z
+12,そう痒,L,L299,MRNQ,=,http://id.who.int/icd/entity/1729106757,=,EC90.Z
+12,掻痒,S1,L299,MRNQ,=,http://id.who.int/icd/entity/1729106757,=,EC90.Z
+12,かゆみ,S1,L299,MRNQ,=,http://id.who.int/icd/entity/1729106757,=,EC90.Z
+12,非特異性そう痒症,L,L299,Q6DS,<,http://id.who.int/icd/entity/1729106757,<,EC90.Z
+12,非特異性掻痒症,S1,L299,Q6DS,<,http://id.who.int/icd/entity/1729106757,<,EC90.Z
+12,貨幣状湿疹,L,L300,KRHM,=,http://id.who.int/icd/entity/816000251,=,EA82 
+12,貨幣状皮膚炎,S1,L300,KRHM,=,http://id.who.int/icd/entity/816000251,=,EA82 
+12,汗疱,L,L301,ELTK,=,http://id.who.int/icd/entity/1441325423,=,EA85.0
+12,汗疱性湿疹,L,L301,FGPF,=,http://id.who.int/icd/entity/1441325423,=,EA85.0
+12,汗疱状皮膚炎,S1,L301,FGPF,=,http://id.who.int/icd/entity/1441325423,=,EA85.0
+12,汗疱性皮膚炎,S1,L301,FGPF,=,http://id.who.int/icd/entity/1441325423,=,EA85.0
+12,異汗症,L,L301,LU5Q,=,http://id.who.int/icd/entity/1441325423,=,EA85.0
+12,異汗性湿疹,L,L301,NF97,=,http://id.who.int/icd/entity/1441325423,=,EA85.0
+12,発汗異常性皮膚炎,S2,L301,NF97,=,http://id.who.int/icd/entity/1441325423,=,EA85.0
+12,湿疹様発疹,L,L302,FSLE,≒,http://id.who.int/icd/entity/558215570,=,EA88.2
+12,自家感作性皮膚炎,L,L302,M05M,=,http://id.who.int/icd/entity/558215570,=,EA88.2
+12,感染性皮膚炎,L,L303,R8JA,=,http://id.who.int/icd/entity/1141799940,=,EA88.0Z
+12,細菌性湿疹,S1,L303,R8JA,=,http://id.who.int/icd/entity/1141799940,=,EA88.0Z & XN74M
+12,感染性皮疹,S1,L303,R8JA,=,http://id.who.int/icd/entity/1141799940,=,EA88.0Z
+12,感染性湿疹様皮膚炎,S2,L303,R8JA,≒,http://id.who.int/icd/entity/1141799940,=,EA88.0Z
+12,間擦疹,L,L304,HC6G,=,http://id.who.int/icd/entity/937488272,=,EK02.20
+12,間擦性皮膚炎,S1,L304,HC6G,=,http://id.who.int/icd/entity/937488272,=,EK02.20
+12,間擦湿疹,S1,L304,HC6G,=,http://id.who.int/icd/entity/937488272,=,EK02.20
+12,間擦性湿疹,S1,L304,HC6G,=,http://id.who.int/icd/entity/937488272,=,EK02.20
+12,摩擦皮膚炎,S2,L304,HC6G,=,http://id.who.int/icd/entity/937488272,=,EK02.20
+12,肛囲間擦疹,L,L304,KCQR,=,http://id.who.int/icd/entity/1622824332,=,EK02.20 & XA4B34
+12,陰部間擦疹,L,L304,PP8V,=,http://id.who.int/icd/entity/1622824332,=,EK02.20 & XA4B34
+12,紅斑性間擦疹,L,L304,QUFT,=,http://id.who.int/icd/entity/937488272,=,EK02.20
+12,白色粃糠疹,L,L305,EGBN,=,http://id.who.int/icd/entity/1386947078,=,EA88.4
+12,化膿性皮膚疾患,L,L308,DEME,<,http://id.who.int/icd/entity/1141799940,<,EA88.0Z
+12,冬期湿疹,L,L308,JG4U,=,http://id.who.int/icd/entity/1021286302,<,ED54 
+12,外陰部皮膚炎,L,L309,BBRS,=,http://id.who.int/icd/entity/1902246236,=,EA87.1 & XA78U
+12,腋窩湿疹,L,L309,C3QQ,=,http://id.who.int/icd/entity/1490534861 & http://id.who.int/icd/entity/1494375321,=,EA8Y & XA17J1
+12,会陰部肛囲湿疹,L,L309,DA90,=,http://id.who.int/icd/entity/1389496349,=,EA87.Z
+12,鼻背部湿疹,L,L309,DN34,=,http://id.who.int/icd/entity/1490534861 & http://id.who.int/icd/entity/263290113,=,EA8Y & XA5YP3
+12,手湿疹,L,L309,F8BE,=,http://id.who.int/icd/entity/1601642892,=,EA85.2Z
+12,手掌部湿疹,S2,L309,F8BE,=,http://id.who.int/icd/entity/1601642892 & http://id.who.int/icd/entity/1366227152,=,EA85.2Z & XA4BA8
+12,赤色湿疹,L,L309,GCPS,<,http://id.who.int/icd/entity/1887882424,<,EA8Z
+12,丘疹状湿疹,L,L309,HQU0,=,http://id.who.int/icd/entity/1887882424 / http://id.who.int/icd/entity/1338054937 ,<,EA8Z / ME67 
+12,丘疹性湿疹,S1,L309,HQU0,=,http://id.who.int/icd/entity/1887882424 / http://id.who.int/icd/entity/1338054937 ,<,EA8Z / ME67 
+12,鱗状湿疹,L,L309,JALF,=,http://id.who.int/icd/entity/1887882424 / http://id.who.int/icd/entity/1085812235 ,<,EA8Y / ME66.1
+12,扁平湿疹,L,L309,JFUF,=,http://id.who.int/icd/entity/1402978031,=,A91.Z 
+12,手指湿疹,L,L309,KLN5,=,http://id.who.int/icd/entity/1601642892 & http://id.who.int/icd/entity/822750113 ,=,EA85.2Z & XA2593
+12,足湿疹,L,L309,L0GL,=,http://id.who.int/icd/entity/1425408945,<,EA85.3
+12,乳房皮膚炎,L,L309,LCTK,=,http://id.who.int/icd/entity/1490534861 & http://id.who.int/icd/entity/831985561,=,EA8Y & XA12C1 
+12,乳腺湿疹,S1,L309,LCTK,=,http://id.who.int/icd/entity/1490534861 & http://id.who.int/icd/entity/831985561,=,EA8Y & XA12C1 
+12,乳房湿疹,S1,L309,LCTK,=,http://id.who.int/icd/entity/1490534861 & http://id.who.int/icd/entity/831985561,=,EA8Y & XA12C1 
+12,乳腺周囲湿疹,S2,L309,LCTK,=,http://id.who.int/icd/entity/1490534861 & http://id.who.int/icd/entity/831985561,=,EA8Y & XA12C1 
+12,急性湿疹,L,L309,LLG3,=,http://id.who.int/icd/entity/1887882424 & http://id.who.int/icd/entity/786106375,=,EA8Z & XT5R 
+12,亜急性湿疹,S1,L309,LLG3,=,http://id.who.int/icd/entity/1887882424 & http://id.who.int/icd/entity/2058324694,=,EA8Z & XT1L
+12,亀裂性湿疹,L,L309,NDCA,=,http://id.who.int/icd/entity/1069298482,=,EA84
+12,皸裂性皮膚炎,S1,L309,NDCA,=,http://id.who.int/icd/entity/1069298482,=,EA84
+12,頭部湿疹,L,L309,P7B5,=,http://id.who.int/icd/entity/1490534861 & http://id.who.int/icd/entity/1357976561,=,EA8Y & XA20Q1 
+12,鼻前庭部湿疹,L,L309,PKD2,=,http://id.who.int/icd/entity/1490534861 & http://id.who.int/icd/entity/1460087132,=,EA8Y & XA53X2
+12,鼻入口部湿疹,S2,L309,PKD2,<,http://id.who.int/icd/entity/1490534861 & http://id.who.int/icd/entity/1460087132,=,EA8Y & XA53X2
+12,全身湿疹,L,L309,PNQ2,=,http://id.who.int/icd/entity/1948274596,=,EA89
+12,全身湿性湿疹,S2,L309,PNQ2,=,"http://id.who.int/icd/entity/1948274596 
+",=,EA89
+12,新生児皮膚炎,L,L309,PSVU,=,http://id.who.int/icd/entity/1887882424 & http://id.who.int/icd/entity/1352518340 ,=,EA8Z & XT16
+12,慢性湿疹,L,L309,PVTT,=,http://id.who.int/icd/entity/1887882424 & http://id.who.int/icd/entity/490003542,=,EA8Z & XT8W
+12,湿疹,L,L309,Q9DF,=,http://id.who.int/icd/entity/1887882424,=,EA8Z
+12,落屑性湿疹,L,L309,R2NN,=,http://id.who.int/icd/entity/1887882424 / http://id.who.int/icd/entity/1085812235 ,<,EA8Y / ME66.1
+12,落屑性皮膚炎,S2,L309,R2NN,=,http://id.who.int/icd/entity/1887882424 / http://id.who.int/icd/entity/1085812235 ,<,EA8Y / ME66.1
+12,人工肛門部皮膚炎,L,L309,R7QH,=,http://id.who.int/icd/entity/2058595636,=,EK02.23
+12,ストマ皮膚炎,S1,L309,R7QH,=,http://id.who.int/icd/entity/2058595636,=,EK02.23
+12,人工肛門皮膚炎,S2,L309,R7QH,=,http://id.who.int/icd/entity/2058595636,=,EK02.23
+12,人工肛門周囲皮膚炎,S2,L309,R7QH,=,http://id.who.int/icd/entity/2058595636,=,EK02.23
+12,人工肛門造設部周囲湿疹,S2,L309,R7QH,=,http://id.who.int/icd/entity/2058595636,=,EK02.23
+12,陰のう湿疹,L,L309,RQ1F,=,http://id.who.int/icd/entity/1154179836,<,EA87.0 & XA8MT4
+12,陰嚢湿疹,S1,L309,RQ1F,=,http://id.who.int/icd/entity/1154179836,<,EA87.0 & XA8MT4
+12,皮膚炎,L,L309,S9BD,=,http://id.who.int/icd/entity/1887882424,=,EA8Z
+12,肛門湿疹,L,L309,SAR2,=,http://id.who.int/icd/entity/1389496349,=,EA87.2
+12,頚部皮膚炎,L,L309,ST6Q,=,http://id.who.int/icd/entity/1490534861 & http://id.who.int/icd/entity/956558826,=,EA8Y & XA7AA6
+12,頸部皮膚炎,S1,L309,ST6Q,=,http://id.who.int/icd/entity/1490534861 & http://id.who.int/icd/entity/956558826,=,EA8Z & XA7AA6
+12,頚部湿疹,S2,L309,ST6Q,=,http://id.who.int/icd/entity/1490534861 & http://id.who.int/icd/entity/956558826,<,EA8Z & XA7AA6
+12,頸部湿疹,S2,L309,ST6Q,=,http://id.who.int/icd/entity/1490534861 & http://id.who.int/icd/entity/956558826,<,EA8Z & XA7AA6
+12,顔面急性皮膚炎,L,L309,T3EN,=,http://id.who.int/icd/entity/1490534861 & http://id.who.int/icd/entity/968129184 & http://id.who.int/icd/entity/786106375,<,EA8Y & XA86S4 & XT5R
+12,紅斑性湿疹,L,L309,UNDQ,=,http://id.who.int/icd/entity/1887882424 / http://id.who.int/icd/entity/800313204,=,EA8Z
+12,濾胞性乾癬,L,L400,CKH7,=,http://id.who.int/icd/entity/1587117114,<,EA90.Y
+12,顔面尋常性乾癬,L,L400,CPKS,=,http://id.who.int/icd/entity/1088800108 & http://id.who.int/icd/entity/968129184,=,EA90.0 & XA86S4 
+12,尋常性乾癬,L,L400,E8QH,=,http://id.who.int/icd/entity/1088800108,=,EA90.0
+12,びまん性乾癬,L,L400,G2VL,=,http://id.who.int/icd/entity/1088800108 & http://id.who.int/icd/entity/1265853763 ,=,EA90.0 & XK31
+12,脂漏性乾癬,L,L400,HAE0,=,http://id.who.int/icd/entity/1072282963,<,EA90.5Y
+12,腰部尋常性乾癬,L,L400,KKTE,=,http://id.who.int/icd/entity/1088800108 & http://id.who.int/icd/entity/501035478,=,EA90.0 & XA25R8
+12,全身の尋常性乾癬,L,L400,LG6M,=,http://id.who.int/icd/entity/1088800108 & http://id.who.int/icd/entity/1479602347 ,=,EA90.0 & XK63 
+12,四肢尋常性乾癬,L,L400,MNHS,=,http://id.who.int/icd/entity/1088800108 & http://id.who.int/icd/entity/1810600222,=,EA90.0 & XA6AS2
+12,頭部尋常性乾癬,L,L400,Q098,=,http://id.who.int/icd/entity/1088800108 & http://id.who.int/icd/entity/570444145 ,=,EA90.0 & XA6CW5
+12,頭の尋常性乾癬,S1,L400,Q098,=,http://id.who.int/icd/entity/1088800108 & http://id.who.int/icd/entity/570444145 ,=,EA90.0 & XA6CW5
+12,円板状乾癬,L,L400,S92K,=,http://id.who.int/icd/entity/1036961771,<,EA90.0
+12,貨幣状乾癬,S1,L400,S92K,=,http://id.who.int/icd/entity/2015404572,<,EA90.0
+12,環状乾癬,S2,L400,S92K,=,http://id.who.int/icd/entity/1036961771,<,EA90.0
+12,局面状乾癬,L,L400,VBNA,=,http://id.who.int/icd/entity/1088800108,=,EA90.0
+12,小児汎発性膿疱性乾癬,L,L401,HDJU,=,http://id.who.int/icd/entity/632162554 & http://id.who.int/icd/entity/1043777387,=,EA90.40 & XT4X
+12,膿疱性乾癬,L,L401,HKDU,=,http://id.who.int/icd/entity/64081271,=,EA90.4Z
+12,汎発性膿疱性乾癬,L,L401,K406,=,http://id.who.int/icd/entity/632162554,=,EA90.40
+12,膿疱性乾癬・汎発型,S1,L401,K406,=,http://id.who.int/icd/entity/632162554,=,EA90.40
+12,全身性膿疱性乾癬,S1,L401,K406,=,http://id.who.int/icd/entity/632162554,=,EA90.40
+12,汎発型膿疱性乾癬,S1,L401,K406,=,http://id.who.int/icd/entity/632162554,=,EA90.40
+12,疱疹状膿痂疹,L,L401,P0HG,=,http://id.who.int/icd/entity/1405116325,<,EA90.40
+12,ヘルペス状膿痂疹,S1,L401,P0HG,=,http://id.who.int/icd/entity/1405116325,<,EA90.40
+12,急性汎発性膿疱性乾癬,L,L401,P11C,=,http://id.who.int/icd/entity/1154272557,=,EA90.40 & XT5R
+12,フォン・ツムブッシュ病,S1,L401,P11C,≒,http://id.who.int/icd/entity/1154272557,=,EA90.40
+12,VON ZUMBUSCH病,S1,L401,P11C,≒,http://id.who.int/icd/entity/1154272557,=,EA90.40
+12,稽留性肢端皮膚炎汎発型,L,L402,EHCJ,=,http://id.who.int/icd/entity/1359173639,=,EA90.41
+12,HALLOPEAU稽留性肢端皮膚炎汎発型,S1,L402,EHCJ,=,http://id.who.int/icd/entity/1359173639,=,EA90.41
+12,アロポー稽留性肢端皮膚炎汎発型,S1,L402,EHCJ,=,http://id.who.int/icd/entity/1359173639,=,EA90.41
+12,稽留性肢端皮膚炎,L,L402,PD2N,=,http://id.who.int/icd/entity/1359173639,=,EA90.41
+12,アロポー稽留性肢端皮膚炎,S1,L402,PD2N,=,http://id.who.int/icd/entity/1359173639,=,EA90.41
+12,稽留性先端皮膚炎,S1,L402,PD2N,=,http://id.who.int/icd/entity/1359173639,=,EA90.41
+12,アロポー,S1,L402,PD2N,=,http://id.who.int/icd/entity/1359173639,=,EA90.41
+12,細菌疹,L,L403,DS4K,=,http://id.who.int/icd/entity/877172115,=,EA90.42
+12,掌蹠膿疱症,L,L403,NMAL,=,http://id.who.int/icd/entity/877172115,=,EA90.42
+12,掌蹠膿疱症性骨関節炎,L,L403,U6K1,<,http://id.who.int/icd/entity/877172115 / http://id.who.int/icd/entity/396939646,<,EA90.42 / FA2Z
+12,掌蹠膿疱症性関節骨炎,S1,L403,U6K1,<,http://id.who.int/icd/entity/877172115 / http://id.who.int/icd/entity/396939646,<,EA90.42 / FA2Z
+12,掌蹠膿疱性関節炎,S1,L403,U6K1,<,http://id.who.int/icd/entity/877172115 / http://id.who.int/icd/entity/396939646,<,EA90.42 / FA2Z
+12,掌蹠膿疱症性骨関節症,S1,L403,U6K1,<,http://id.who.int/icd/entity/877172115 / http://id.who.int/icd/entity/396939646,<,EA90.42 / FA2Z
+12,点状乾癬,L,L404,MB1U,=,http://id.who.int/icd/entity/1202062855,=,EA90.1
+12,滴状乾癬,L,L404,QUAH,=,http://id.who.int/icd/entity/1202062855,=,EA90.1
+12,乾癬性関節炎,L,L405,D3FB,=,http://id.who.int/icd/entity/868183264,=,FA21.Z
+12,関節症性乾癬,S1,L405,D3FB,=,http://id.who.int/icd/entity/868183264,=,FA21.Z
+12,乾癬性若年性関節炎,S2,L405,D3FB,=,http://id.who.int/icd/entity/1473955563,=,FA24.2
+12,破壊性関節炎,L,L405,G61B,=,http://id.who.int/icd/entity/981832614,<,FA21.Y
+12,乾癬性関節炎・仙腸関節,L,L405,GEM6,=,http://id.who.int/icd/entity/868183264 & http://id.who.int/icd/entity/428919892,=,FA21.Y & XA3T32
+12,乾癬性関節炎・股関節,L,L405,J1HN,=,http://id.who.int/icd/entity/868183264 & http://id.who.int/icd/entity/1188078244,=,FA21.Y & XA4XS4
+12,乾癬性関節炎・指関節,L,L405,J5PP,=,http://id.who.int/icd/entity/1021967781,=,FA21.Y & XA3T43 
+12,乾癬性関節炎・指節骨関節,S1,L405,J5PP,=,http://id.who.int/icd/entity/1021967781,=,FA21.Y & XA3T43 
+12,乾癬性関節炎・肘関節,L,L405,JLAD,=,http://id.who.int/icd/entity/868183264 & http://id.who.int/icd/entity/1364152594 ,=,FA21.Y  & XA69H4
+12,多発性乾癬性関節炎,L,L405,P4AG,=,http://id.who.int/icd/entity/101285361 ,=,FA21.Y & XA4EJ6
+12,乾癬性関節炎・足関節,L,L405,P7HK,=,http://id.who.int/icd/entity/1199272939,=,FA21.Y & XA27P3 
+12,乾癬性脊椎炎,L,L405,QL2Q,=,http://id.who.int/icd/entity/1311294297,=,FA21.0
+12,乾癬性関節炎・膝関節,L,L405,RM0A,=,http://id.who.int/icd/entity/868183264 & http://id.who.int/icd/entity/1574110781,=,FA21.Y  & XA8RL1
+12,乾癬性関節炎・肩関節,L,L405,STB7,=,http://id.who.int/icd/entity/868183264 & http://id.who.int/icd/entity/719727487,=,FA21.Y  & XA05J7 
+12,乾癬性関節炎・手関節,L,L405,T18N,=,http://id.who.int/icd/entity/868183264 & http://id.who.int/icd/entity/1676501535,=,FA21.Y & XA62V5 
+12,乾癬性紅皮症,L,L408,AVQS,=,http://id.who.int/icd/entity/748671833,=,EA90.3
+12,屈曲部乾癬,L,L408,TD3K,=,http://id.who.int/icd/entity/604023068,<,EA90.52
+12,乾癬,L,L409,D2LT,=,http://id.who.int/icd/entity/63698555,=,EA90.Z
+12,四肢乾癬,L,L409,G7L7,=,http://id.who.int/icd/entity/1918887625 & http://id.who.int/icd/entity/1810600222,=,EA90.5Y & XA6AS2
+12,急性痘瘡状苔癬状粃糠疹,L,L410,RP45,=,http://id.who.int/icd/entity/1545407981,=,EA93 & XT5R
+12,急性苔癬状痘瘡状粃糠疹,S1,L410,RP45,=,http://id.who.int/icd/entity/1545407981,=,EA93 & XT5R
+12,ムーカ・ハーベルマン病,S1,L410,RP45,=,http://id.who.int/icd/entity/1545407981,=,EA93 & XT5R
+12,苔癬状類乾癬,L,L411,AP25,=,http://id.who.int/icd/entity/927945582,=,EK91.1
+12,慢性苔癬状粃糠疹,L,L411,TTQV,=,http://id.who.int/icd/entity/961986681,=,EA93 & XT8W
+12,滴状類乾癬,L,L411,VMRL,=,http://id.who.int/icd/entity/961986681,=,EA93 & XT8W
+12,小局面状類乾癬,L,L413,PSTR,=,http://id.who.int/icd/entity/682646804,=,EA95
+12,大局面状類乾癬,L,L414,VQUL,=,http://id.who.int/icd/entity/1532939912,=,EK91.0
+12,網状類乾癬,L,L415,EHVH,=,http://id.who.int/icd/entity/927945582,=,EK91.1
+12,局面性類乾癬,L,L418,JCMA,=,http://id.who.int/icd/entity/1532939912 or  http://id.who.int/icd/entity/682646804,=,EK91.0 or EA95
+12,斑状類乾癬,L,L418,MQ27,=,http://id.who.int/icd/entity/1532939912 or  http://id.who.int/icd/entity/682646804,=,EK91.0 or EA95
+12,類乾癬,L,L419,H5G2,=,http://id.who.int/icd/entity/1532939912 or  http://id.who.int/icd/entity/682646804 & http://id.who.int/icd/entity/266281219,=,EK91.0 OR EA95 OR EA93
+12,下腿類乾癬,L,L419,HBUB,=,(http://id.who.int/icd/entity/1532939912 or  http://id.who.int/icd/entity/682646804 & http://id.who.int/icd/entity/266281219) & http://id.who.int/icd/entity/106050921,=,(EK91.0 OR EA95 OR EA93 ) & XA3YG1
+12,躯幹類乾癬,L,L419,VQ2M,=,(http://id.who.int/icd/entity/1532939912 or  http://id.who.int/icd/entity/682646804 & http://id.who.int/icd/entity/266281219) & http://id.who.int/icd/entity/947150833,=,(EK91.0 OR EA95 OR EA93 ) & XA3FR3 
+12,ジベルばら色粃糠疹,L,L42,J78U,=,http://id.who.int/icd/entity/919892859,=,EA10
+12,ばら色粃糠疹,S1,L42,J78U,=,http://id.who.int/icd/entity/919892859,=,EA10
+12,ジベルバラ色粃糠疹,S1,L42,J78U,=,http://id.who.int/icd/entity/919892859,=,EA10
+12,バラ色粃糠疹,S1,L42,J78U,=,http://id.who.int/icd/entity/919892859,=,EA10
+12,遠山連圏状粃糠疹,L,L42,QJFU,=,http://id.who.int/icd/entity/919892859,=,EA10
+12,肥厚性扁平苔癬,L,L430,RC0E,=,http://id.who.int/icd/entity/1096967508,=,EA91.1
+12,水疱性扁平苔癬,L,L431,NGH2,=,http://id.who.int/icd/entity/606709958,<,EA91.Y 
+12,熱帯扁平苔癬,L,L433,E41Q,=,http://id.who.int/icd/entity/1402978031,<,EA91.6
+12,扁平苔癬様角化症,L,L438,FUBQ,=,http://id.who.int/icd/entity/1636539273,=,2F21.Y & XH63L8
+12,扁平苔癬,L,L439,DGNC,=,http://id.who.int/icd/entity/1402978031,=,EA91.Z
+12,扁平紅色苔癬,S1,L439,DGNC,=,http://id.who.int/icd/entity/1402978031,=,EA91.Z
+12,紅色苔癬,S1,L439,DGNC,=,http://id.who.int/icd/entity/1402978031,=,EA91.Z
+12,ウイルソン紅色苔癬,L,L439,SEDD,=,http://id.who.int/icd/entity/1402978031,=,EA91.Z
+12,ウィルソン紅色苔癬,S1,L439,SEDD,=,http://id.who.int/icd/entity/1402978031,=,EA91.Z
+12,WILSON紅色苔癬,S1,L439,SEDD,=,http://id.who.int/icd/entity/1402978031,=,EA91.Z
+12,口腔扁平苔癬,L,L439,TR3E,=,http://id.who.int/icd/entity/2115480325,=,EA91.42 
+12,毛孔性紅色粃糠疹,L,L440,UDLA,=,http://id.who.int/icd/entity/2048594962,=,EA94
+12,紅色粃糠疹,S2,L440,UDLA,=,http://id.who.int/icd/entity/2048594962,=,EA94
+12,四肢毛孔性紅色粃糠疹,L,L440,UQSP,=,http://id.who.int/icd/entity/2048594962 & http://id.who.int/icd/entity/1810600222,=,EA94 & XA6AS2
+12,全身毛孔性紅色粃糠疹,L,L440,VUFJ,=,http://id.who.int/icd/entity/2048594962 & http://id.who.int/icd/entity/1479602347 ,=,EA94 & XK63
+12,光沢苔癬,L,L441,T56B,=,http://id.who.int/icd/entity/525392264,<,EA92
+12,線状苔癬,L,L442,J417,=,http://id.who.int/icd/entity/1811777913,<,EA92
+12,念珠状紅色苔癬,L,L443,SL0B,=,http://id.who.int/icd/entity/246826221,<,EA92
+12,小児丘疹性先端皮膚炎,L,L444,N3RV,=,http://id.who.int/icd/entity/2102974329,=,EA12
+12,ジアノッティー・クロスティ病,S1,L444,N3RV,=,http://id.who.int/icd/entity/2102974329,=,EA12
+12,GIANOTTI-CROSTI病,S1,L444,N3RV,=,http://id.who.int/icd/entity/2102974329,=,EA12
+12,GIANOTTI病,S1,L444,N3RV,=,http://id.who.int/icd/entity/2102974329,=,EA12
+12,ジアノッティー病,S1,L444,N3RV,=,http://id.who.int/icd/entity/2102974329,=,EA12
+12,ジアノッティ・クロスティ症候群,S1,L444,N3RV,=,http://id.who.int/icd/entity/2102974329,=,EA12
+12,GIANOTTI CROSTI症候群,S1,L444,N3RV,=,http://id.who.int/icd/entity/2102974329,=,EA12
+12,炎症性角化症,L,L449,E0KP,=,http://id.who.int/icd/entity/729405476 / http://id.who.int/icd/entity/1831523271,=,EB7Y / ME60.3
+12,アレルギー性じんま疹,L,L500,HH8U,=,http://id.who.int/icd/entity/1358947933,<,EB00.0
+12,アレルギー性蕁麻疹,S1,L500,HH8U,=,http://id.who.int/icd/entity/1358947933,<,EB00.0
+12,特発性じんま疹,L,L501,E2CM,=,http://id.who.int/icd/entity/454740499 ,=,EB00.Z
+12,特発性蕁麻疹,S1,L501,E2CM,=,http://id.who.int/icd/entity/454740499 ,=,EB00.Z
+12,寒冷じんま疹,L,L502,A3LJ,=,http://id.who.int/icd/entity/915116593,=,EB01.1
+12,寒冷蕁麻疹,S1,L502,A3LJ,=,http://id.who.int/icd/entity/915116593,=,EB01.1
+12,温熱じんま疹,L,L502,PGUC,=,http://id.who.int/icd/entity/661458778,<,EB01.Y
+12,温熱蕁麻疹,S1,L502,PGUC,=,http://id.who.int/icd/entity/661458778,<,EB01.Y
+12,人工じんま疹,L,L503,EH63,≒,http://id.who.int/icd/entity/609400482,=,EB01.0
+12,人工蕁麻疹,S1,L503,EH63,≒,http://id.who.int/icd/entity/609400482,=,EB01.0
+12,皮膚描記性じんま疹,L,L503,QH3V,=,http://id.who.int/icd/entity/609400482,=,EB01.0
+12,皮膚描記性蕁麻疹,S1,L503,QH3V,=,http://id.who.int/icd/entity/609400482,=,EB01.0
+12,振動性じんま疹,L,L504,CK9G,=,http://id.who.int/icd/entity/1471948086 ,<,EB01.Y
+12,振動性蕁麻疹,S1,L504,CK9G,=,http://id.who.int/icd/entity/1471948086 ,<,EB01.Y
+12,コリン性じんま疹,L,L505,S3K9,=,http://id.who.int/icd/entity/855107748,=,EB02.0 
+12,コリン性蕁麻疹,S1,L505,S3K9,=,http://id.who.int/icd/entity/855107748,=,EB02.0 
+12,コリン作動性蕁麻疹,S1,L505,S3K9,=,http://id.who.int/icd/entity/855107748,=,EB02.0 
+12,接触じんま疹,L,L506,FPH1,=,http://id.who.int/icd/entity/1180350557,=,EB01.3 
+12,接触蕁麻疹,S1,L506,FPH1,=,http://id.who.int/icd/entity/1180350557,=,EB01.3
+12,機械性じんま疹,L,L506,MU0U,≒,http://id.who.int/icd/entity/609400482,≒,EB01.0
+12,機械性蕁麻疹,S1,L506,MU0U,≒,http://id.who.int/icd/entity/609400482,=,EB01.0
+12,周期性再発性じんま疹,L,L508,BJ83,=,http://id.who.int/icd/entity/818149360,<,EB0Y 
+12,周期性再発性蕁麻疹,S1,L508,BJ83,=,http://id.who.int/icd/entity/818149360,<,EB0Y 
+12,出血性じんま疹,L,L508,E6BU,<,http://id.who.int/icd/entity/993242399,<,EB0Y 
+12,自己免疫性じんま疹,L,L508,GLH7,=,http://id.who.int/icd/entity/702193256,<,EB00.1
+12,アスピリンじんま疹,L,L508,Q9BK,=,http://id.who.int/icd/entity/1491701156 & http://id.who.int/icd/entity/372746086,=,EH61.0 & XM4G06
+12,サリチル酸じんま疹,S1,L508,Q9BK,=,http://id.who.int/icd/entity/1491701156  & http://id.who.int/icd/entity/1567261395 ,=,EH61.0 & XM68B5
+12,薬物性じんま疹,L,L508,RVNJ,=,http://id.who.int/icd/entity/1491701156,=,EH61.0
+12,薬物性蕁麻疹,S1,L508,RVNJ,=,http://id.who.int/icd/entity/1491701156,=,EH61.0
+12,慢性じんま疹,L,L508,UE25,=,http://id.who.int/icd/entity/901000137,=,EB00.1 
+12,慢性蕁麻疹,S1,L508,UE25,=,http://id.who.int/icd/entity/901000137,=,EB00.1 
+12,じんま疹,L,L509,LP64,=,http://id.who.int/icd/entity/993242399,=,EB05 
+12,蕁麻疹,S1,L509,LP64,=,http://id.who.int/icd/entity/993242399,=,EB05
+12,非水疱性多形紅斑,L,L510,CHDP,<,http://id.who.int/icd/entity/364669853,<,EB12.Z 
+12,水疱性多形紅斑,L,L511,HGAU,<,http://id.who.int/icd/entity/364669853,<,EB12.Z 
+12,スティーブンス・ジョンソン症候群,L,L511,LC7R,=,http://id.who.int/icd/entity/450167795,=,EB13.0 
+12,スティーヴンス・ジョンソン症候群,S1,L511,LC7R,=,http://id.who.int/icd/entity/450167795,=,EB13.0 
+12,スチーブンス・ジョンソン症候群,S1,L511,LC7R,=,http://id.who.int/icd/entity/450167795,=,EB13.0 
+12,STEVENS-JOHNSON症候群,S1,L511,LC7R,=,http://id.who.int/icd/entity/450167795,=,EB13.0 
+12,ライエル症候群型薬疹,L,L512,A9TU,=,http://id.who.int/icd/entity/1575072695,=,EB13.1 
+12,LYELL型薬疹,S1,L512,A9TU,=,http://id.who.int/icd/entity/1575072695,=,EB13.1 
+12,ライエル型薬疹,S1,L512,A9TU,=,http://id.who.int/icd/entity/1575072695,=,EB13.1 
+12,LYELL症候群型薬疹,S1,L512,A9TU,=,http://id.who.int/icd/entity/1575072695,=,EB13.1 
+12,中毒性表皮壊死症,L,L512,J236,=,http://id.who.int/icd/entity/1575072695,=,EB13.1
+12,ライエル症候群,L,L512,J236,=,http://id.who.int/icd/entity/1575072695,=,EB13.1
+12,中毒性表皮壊死剥離症,S1,L512,J236,=,http://id.who.int/icd/entity/1575072695,=,EB13.1
+12,TEN,S1,L512,J236,=,http://id.who.int/icd/entity/1575072695,=,EB13.1
+12,LYELL症候群,S1,L512,J236,=,http://id.who.int/icd/entity/1575072695,=,EB13.1
+12,ライエル病,S1,L512,J236,=,http://id.who.int/icd/entity/1575072695,=,EB13.1
+12,LYELL病,S1,L512,J236,=,http://id.who.int/icd/entity/1575072695,=,EB13.1
+12,重症多形滲出性紅斑・急性期,L,L518,HB3H,=,http://id.who.int/icd/entity/195467267 & http://id.who.int/icd/entity/786106375,=,EB13 & XT5R 
+12,多形滲出性紅斑,L,L518,UR33,<,http://id.who.int/icd/entity/364669853,<,EB12.Z 
+12,多形性滲出性紅斑,S1,L518,UR33,<,http://id.who.int/icd/entity/364669853,<,EB12.Z 
+12,多発滲出性紅斑,S1,L518,UR33,<,http://id.who.int/icd/entity/364669853,<,EB12.Z 
+12,多形紅斑性関節障害,L,L519,MV22,=,http://id.who.int/icd/entity/364669853 / http://id.who.int/icd/entity/1525792972,=,EB12.Z / FA5Z
+12,多形紅斑,L,L519,UD0T,=,http://id.who.int/icd/entity/364669853,=,EB12.Z 
+12,多形性紅斑,S1,L519,UD0T,=,http://id.who.int/icd/entity/364669853,=,EB12.Z 
+12,結節性紅斑,L,L52,CVJ2,=,http://id.who.int/icd/entity/1628519266,=,EB31
+12,結節性紅斑性関節障害,L,L52,N3EH,=,http://id.who.int/icd/entity/1628519266 / http://id.who.int/icd/entity/1525792972,=,EB31 / FA5Z
+12,滲出性紅斑型中毒疹,L,L530,AVAK,<,http://id.who.int/icd/entity/797787024,<,EB10
+12,中毒性紅斑,L,L530,LRNG,=,http://id.who.int/icd/entity/1366836835,<,EB10
+12,遠心性環状紅斑,L,L531,C30L,=,http://id.who.int/icd/entity/875793399,<,EB11
+12,ダリエー紅斑,S1,L531,C30L,=,http://id.who.int/icd/entity/875793399,<,EB11
+12,DARIER環状紅斑,S1,L531,C30L,=,http://id.who.int/icd/entity/875793399,<,EB11
+12,ダリエ遠心性環状紅斑,S1,L531,C30L,=,http://id.who.int/icd/entity/875793399,<,EB11
+12,ダリエー環状紅斑,S1,L531,C30L,=,http://id.who.int/icd/entity/875793399,<,EB11
+12,DARIER紅斑,S1,L531,C30L,=,http://id.who.int/icd/entity/875793399,<,EB11
+12,DARIER遠心性環状紅斑,S1,L531,C30L,=,http://id.who.int/icd/entity/875793399,<,EB11
+12,リウマチ性環状紅斑,L,L531,K1U3,=,http://id.who.int/icd/entity/958930318 / http://id.who.int/icd/entity/2113186970,=,EB11 / ME83
+12,リウマチ性紅斑,S1,L531,K1U3,=,http://id.who.int/icd/entity/958930318 / http://id.who.int/icd/entity/2113186970,=,EB11 / ME83
+12,環状紅斑,L,L532,PLSD,=,http://id.who.int/icd/entity/958930318,=,EB11 
+12,輪状紅斑,S1,L532,PLSD,=,http://id.who.int/icd/entity/958930318,=,EB11 
+12,遠心性丘疹性紅斑,L,L538,MFAV,<,http://id.who.int/icd/entity/800313204,<,ME64.0
+12,手掌紅斑,L,L538,N93J,=,http://id.who.int/icd/entity/800313204 & http://id.who.int/icd/entity/243611688,=,ME64.0 & XA3NY8
+12,丘疹紅皮症,L,L538,TAF5,=,http://id.who.int/icd/entity/681804983,<,EB10
+12,丘疹-紅皮症,S1,L538,TAF5,=,http://id.who.int/icd/entity/681804983,<,EB10
+12,丘疹状紅斑,L,L538,UUVE,=,http://id.who.int/icd/entity/800313204 / http://id.who.int/icd/entity/1338054937,<,ME64.0 / ME67
+12,紅皮症,L,L539,AFMR,=,http://id.who.int/icd/entity/444139015,<,EB10
+12,麻疹様紅斑,L,L539,CQN3,<,http://id.who.int/icd/entity/800313204,<,ME64.0
+12,アトピー性紅皮症,L,L539,CU0Q,=,http://id.who.int/icd/entity/444139015 / http://id.who.int/icd/entity/215767047 ,=,EB10 / EA80.Z 
+12,湿疹続発性紅皮症,L,L539,DFB8,=,http://id.who.int/icd/entity/444139015 / http://id.who.int/icd/entity/1887882424 ,=,EB10 / EA8Z 
+12,湿疹性紅皮症,S1,L539,DFB8,=,http://id.who.int/icd/entity/444139015 / http://id.who.int/icd/entity/1887882424 ,=,EB10 / EA8Z 
+12,持続性色素異常性紅斑,L,L539,KL28,<,http://id.who.int/icd/entity/800313204,<,ME64.0
+12,紅斑症,L,L539,MFDR,=,http://id.who.int/icd/entity/800313204,=,ME64.0
+12,紅斑,S1,L539,MFDR,=,http://id.who.int/icd/entity/800313204,=,ME64.0
+12,紅斑(症),S1,L539,MFDR,=,http://id.who.int/icd/entity/800313204,=,ME64.0
+12,日光紅斑,L,L550,H67N,=,http://id.who.int/icd/entity/1996095396,=,EJ40.0
+12,第１度日焼け,L,L550,NJ0M,=,http://id.who.int/icd/entity/1996095396,=,EJ40.0
+12,第1度日焼け,S0,L550,NJ0M,=,http://id.who.int/icd/entity/1996095396,=,EJ40.0
+12,第２度日焼け,L,L551,QJMD,=,http://id.who.int/icd/entity/330445366,=,EJ40.1
+12,第2度日焼け,S0,L551,QJMD,=,http://id.who.int/icd/entity/330445366,=,EJ40.1
+12,第３度日焼け,L,L552,MD4T,=,http://id.who.int/icd/entity/318744822 & http://id.who.int/icd/entity/1201187093,=,EJ40.Z & XS25
+12,第3度日焼け,S0,L552,MD4T,=,http://id.who.int/icd/entity/318744822 & http://id.who.int/icd/entity/1201187093,=,EJ40.Z & XS25
+12,日焼け,L,L559,GCED,=,http://id.who.int/icd/entity/318744822 ,=,EJ40.Z
+12,薬物性光毒性反応,L,L560,SAD9,=,http://id.who.int/icd/entity/2004770716,<,EH75
+12,薬物性光アレルギー性反応,L,L561,TFP6,=,http://id.who.int/icd/entity/305500682 ,<,EH75
+12,ベルロック皮膚炎,L,L562,ETU5,=,http://id.who.int/icd/entity/1721287415,<,EK20
+12,中毒性黒色皮膚炎,S1,L562,ETU5,=,http://id.who.int/icd/entity/1721287415,<,EK20
+12,中毒性苔癬状黒色皮膚炎,S1,L562,ETU5,=,http://id.who.int/icd/entity/1721287415,<,EK20
+12,光接触皮膚炎,L,L562,JT0L,=,http://id.who.int/icd/entity/1695649400,=,EK2Z
+12,日光じんま疹,L,L563,UGTG,=,http://id.who.int/icd/entity/64163683,<,EB01.Y
+12,日光蕁麻疹,S1,L563,UGTG,=,http://id.who.int/icd/entity/64163683,<,EB01.Y
+12,多形日光疹,L,L564,HQTB,=,http://id.who.int/icd/entity/1883086071,=,EJ30.0
+12,日光過敏性皮膚炎,L,L568,K99C,=,http://id.who.int/icd/entity/875262703,=,EJ4Z
+12,顔面光線角化症,L,L570,BU37,=,http://id.who.int/icd/entity/1803982621 & http://id.who.int/icd/entity/968129184,=,EK90.0 & XA86S4 
+12,顔面日光角化症,S1,L570,BU37,=,http://id.who.int/icd/entity/1803982621 & http://id.who.int/icd/entity/968129184,=,EK90.0 & XA86S4 
+12,顔日光角化症,S1,L570,BU37,=,http://id.who.int/icd/entity/1803982621 & http://id.who.int/icd/entity/968129184,=,EK90.0 & XA86S4 
+12,顔光線角化症,S1,L570,BU37,=,http://id.who.int/icd/entity/1803982621 & http://id.who.int/icd/entity/968129184,=,EK90.0 & XA86S4 
+12,光線角化症,L,L570,D0HK,=,http://id.who.int/icd/entity/1803982621,<,EK90.0
+12,老人性角化症,S1,L570,D0HK,≒,http://id.who.int/icd/entity/1803982621,=,EK90.0
+12,老人性角化腫,S1,L570,D0HK,≒,http://id.who.int/icd/entity/1803982621,=,EK90.0
+12,太陽角化症,S1,L570,D0HK,≒,http://id.who.int/icd/entity/1803982621,=,EK90.0
+12,老人性皮膚角化症,S1,L570,D0HK,≒,http://id.who.int/icd/entity/1803982621,=,EK90.0
+12,日光角化症,S1,L570,D0HK,≒,http://id.who.int/icd/entity/1803982621,=,EK90.0
+12,老年性角化症,S1,L570,D0HK,≒,http://id.who.int/icd/entity/1803982621,=,EK90.0
+12,掌蹠角化腫,L,L570,JUUH,=,http://id.who.int/icd/entity/1205950456 ,=,ED55.Z 
+12,光線類細網症,L,L571,M2B9,=,http://id.who.int/icd/entity/1804793992,<,EJ30.1
+12,項部菱形皮膚,L,L572,PVTU,=,http://id.who.int/icd/entity/2053114486,<,EJ20.0
+12,老人性弛緩性皮膚,L,L574,EGNK,=,http://id.who.int/icd/entity/1824871544,=,EJ20.0
+12,老人性弾力線維症,L,L574,L2AM,=,http://id.who.int/icd/entity/1824871544,=,EJ20.0
+12,光線肉芽腫,L,L575,PJRJ,=,http://id.who.int/icd/entity/160340450,<,EJ20.0
+12,日光皮膚炎,L,L578,FQFQ,=,http://id.who.int/icd/entity/1996095396,=,EJ40.0 
+12,日光湿疹,S1,L578,FQFQ,=,http://id.who.int/icd/entity/1996095396,=,EJ40.0 
+12,日光性皮膚炎,S1,L578,FQFQ,=,http://id.who.int/icd/entity/1996095396,=,EJ40.0 
+12,水夫皮膚炎,S2,L578,FQFQ,=,http://id.who.int/icd/entity/1996095396,=,EJ40.0 
+12,紫外線皮膚炎,S2,L578,FQFQ,=,http://id.who.int/icd/entity/1996095396,=,EJ40.0 
+12,光線皮膚炎,S2,L578,FQFQ,=,http://id.who.int/icd/entity/1996095396,=,EJ40.0 
+12,農夫皮膚炎,S2,L578,FQFQ,=,http://id.who.int/icd/entity/1996095396,=,EJ40.0 
+12,慢性光線性皮膚炎,L,L578,QJU8,=,http://id.who.int/icd/entity/248339081,=,EJ30.1 
+12,急性放射線皮膚炎,L,L580,D79U,=,http://id.who.int/icd/entity/464336101,=,EL60
+12,急性放射線性皮膚炎,S1,L580,D79U,=,http://id.who.int/icd/entity/464336101,=,EL60
+12,急性放射線皮膚障害,S1,L580,D79U,=,http://id.who.int/icd/entity/464336101,=,EL60
+12,慢性放射線皮膚炎,L,L581,GJSM,=,http://id.who.int/icd/entity/1510830838,=,EJ71 
+12,慢性放射線皮膚障害,S1,L581,GJSM,=,http://id.who.int/icd/entity/1510830838,=,EJ71 
+12,慢性放射線性皮膚炎,S1,L581,GJSM,=,http://id.who.int/icd/entity/1510830838,=,EJ71 
+12,放射線角化腫,L,L589,GLLB,<,http://id.who.int/icd/entity/2121277663,<,EJ7Z
+12,放射線皮膚炎,L,L589,R6BG,=,http://id.who.int/icd/entity/2121277663,=,EJ7Z
+12,放射線皮膚障害,S1,L589,R6BG,=,http://id.who.int/icd/entity/2121277663,=,EJ7Z
+12,レントゲン皮膚炎,S1,L589,R6BG,=,http://id.who.int/icd/entity/2121277663,=,EJ7Z
+12,放射線性皮膚炎,S1,L589,R6BG,=,http://id.who.int/icd/entity/2121277663,=,EJ7Z
+12,温熱性紅斑,L,L590,C3MR,=,http://id.who.int/icd/entity/972721186,=,EJ10 
+12,温熱性皮膚炎,S1,L590,C3MR,=,http://id.who.int/icd/entity/972721186,=,EJ10 
+12,放射線皮膚潰瘍,L,L598,DCFF,<,http://id.who.int/icd/entity/2121277663,<,EJ7Z
+12,レントゲン潰瘍,S1,L598,DCFF,<,http://id.who.int/icd/entity/2121277663,<,EJ7Z
+12,頚部放射線皮膚潰瘍,L,L598,SLSG,<,http://id.who.int/icd/entity/2121277663 & http://id.who.int/icd/entity/272906060,<,EJ7Z & XA7AA6
+12,頚部放射線照射後潰瘍,S1,L598,SLSG,<,http://id.who.int/icd/entity/2121277663 & http://id.who.int/icd/entity/272906060,<,EJ7Z & XA7AA6
+12,頸部放射線皮膚潰瘍,S1,L598,SLSG,<,http://id.who.int/icd/entity/2121277663 & http://id.who.int/icd/entity/272906060,<,EJ7Z & XA7AA6
+12,頸部放射線照射後潰瘍,S1,L598,SLSG,<,http://id.who.int/icd/entity/2121277663 & http://id.who.int/icd/entity/272906060,<,EJ7Z & XA7AA6
+12,陥入爪,L,L600,S65A,=,http://id.who.int/icd/entity/1624343310 ,=,EE13.1Z
+12,爪嵌入症,S1,L600,S65A,=,http://id.who.int/icd/entity/1624343310 ,=,EE13.1Z
+12,嵌入爪,S1,L600,S65A,=,http://id.who.int/icd/entity/1624343310 ,=,EE13.1Z
+12,かん入爪,S1,L600,S65A,=,http://id.who.int/icd/entity/1624343310 ,=,EE13.1Z
+12,巻爪,S1,L600,S65A,=,http://id.who.int/icd/entity/1624343310 ,=,EE13.1Z
+12,爪剥離症,L,L601,LS00,=,http://id.who.int/icd/entity/93998748,=,EE10.2
+12,爪甲剥離症,S1,L601,LS00,=,http://id.who.int/icd/entity/93998748,=,EE10.2
+12,爪甲鉤弯症,L,L602,NAVD,=,http://id.who.int/icd/entity/1899437669,<,EE10.3
+12,爪鉤彎症,S1,L602,NAVD,=,http://id.who.int/icd/entity/1899437669,<,EE10.3
+12,爪甲鈎弯症,S1,L602,NAVD,=,http://id.who.int/icd/entity/1899437669,<,EE10.3
+12,爪甲鉤彎症,S1,L602,NAVD,=,http://id.who.int/icd/entity/1899437669,<,EE10.3
+12,爪鈎弯症,S1,L602,NAVD,=,http://id.who.int/icd/entity/1899437669,<,EE10.3
+12,爪鉤弯症,S1,L602,NAVD,=,http://id.who.int/icd/entity/1899437669,<,EE10.3
+12,爪萎縮,L,L603,LH07,=,http://id.who.int/icd/entity/324338659,=,EE10.4
+12,爪異栄養症,S2,L603,LH07,=,http://id.who.int/icd/entity/343725041,=,EE10.5
+12,爪栄養障害,S2,L603,LH07,=,http://id.who.int/icd/entity/343725041,=,EE10.5
+12,爪甲軟化症,L,L603,PDAE,=,http://id.who.int/icd/entity/1412296856,<,EE10.4
+12,爪軟化症,S1,L603,PDAE,=,http://id.who.int/icd/entity/1412296856,<,EE10.4
+12,爪甲縦裂症,L,L603,REEG,=,http://id.who.int/icd/entity/2037739046,<,EE13.0
+12,つめ縦裂症,S1,L603,REEG,=,http://id.who.int/icd/entity/2037739046,<,EE13.0
+12,ボー線,L,L604,KS2L,=,http://id.who.int/icd/entity/1737637989,<,EE10.1Y
+12,爪横溝症,S1,L604,KS2L,=,http://id.who.int/icd/entity/1737637989,<,EE10.1Y
+12,黄色爪症候群,L,L605,RG68,=,http://id.who.int/icd/entity/47812081,=,EE11.1
+12,爪甲線条,L,L608,AGRB,=,http://id.who.int/icd/entity/312817438,<,EE10.1Y
+12,爪甲点状凹窩,L,L608,DVNQ,=,http://id.who.int/icd/entity/641699736,=,EE10.10
+12,爪肥大,L,L608,JCC8,=,http://id.who.int/icd/entity/706629092,=,EE10.3
+12,爪肥大症,S1,L608,JCC8,=,http://id.who.int/icd/entity/706629092,=,EE10.3
+12,匙状爪,L,L608,JT10,=,http://id.who.int/icd/entity/1768324595,<,EE10.0
+12,爪変形,L,L608,M74C,=,http://id.who.int/icd/entity/1255912593,=,EE10.Z
+12,変形爪,S1,L608,M74C,=,http://id.who.int/icd/entity/1255912593,=,EE10.Z
+12,爪甲変形,S1,L608,M74C,=,http://id.who.int/icd/entity/1255912593,=,EE10.Z
+12,爪甲白斑症,L,L608,Q1VU,=,http://id.who.int/icd/entity/827609320,<,EE11.Y
+12,爪変色,L,L608,TEPT,=,http://id.who.int/icd/entity/955213795,=,EE11.Z 
+12,爪の障害,L,L609,GPR1,=,http://id.who.int/icd/entity/2001175004,=,EE1Z
+12,完全脱毛症,L,L630,FPU4,=,http://id.who.int/icd/entity/1633035058,=,ED70.21
+12,完全頭部脱毛症,S2,L630,FPU4,=,http://id.who.int/icd/entity/1633035058,=,ED70.21
+12,汎発性脱毛症,L,L631,EAHB,=,http://id.who.int/icd/entity/69070500,<,ED70.2Y
+12,播種性脱毛症,S1,L631,EAHB,=,http://id.who.int/icd/entity/69070500,<,ED70.2Y
+12,多発性脱毛症,S1,L631,EAHB,=,http://id.who.int/icd/entity/69070500,<,ED70.2Y
+12,全身性脱毛症,L,L631,KCAF,=,http://id.who.int/icd/entity/69070500,<,ED70.2Y
+12,全脱毛症,S1,L631,KCAF,=,http://id.who.int/icd/entity/69070500,<,ED70.2Y
+12,蛇行状脱毛症,L,L632,G46G,=,http://id.who.int/icd/entity/1890631259,<,ED70.2Y
+12,広汎性円形脱毛症,L,L638,BDV6,=,http://id.who.int/icd/entity/65720611 & http://id.who.int/icd/entity/1265853763,=,ED70.2Z & XK31
+12,偽性円形脱毛症,L,L638,C7N8,<,http://id.who.int/icd/entity/65720611,<,ED70.2Z
+12,帯状脱毛症,L,L638,HVK2,=,http://id.who.int/icd/entity/1890631259,<,ED70.2Y
+12,円形脱毛症,L,L639,RTPC,=,http://id.who.int/icd/entity/65720611,=,ED70.2Z
+12,円形性脱毛症,S1,L639,RTPC,=,http://id.who.int/icd/entity/65720611,=,ED70.2Z
+12,円形禿頭症,S2,L639,RTPC,=,http://id.who.int/icd/entity/65720611,=,ED70.2Z
+12,薬物誘発性男性ホルモン性脱毛症,L,L640,BU0L,<,http://id.who.int/icd/entity/1707380076,<,ED70.0 
+12,若年性脱毛症,L,L648,AACF,<,http://id.who.int/icd/entity/1707380076,<,ED70.0 
+12,男性型脱毛症,L,L649,E94T,=,http://id.who.int/icd/entity/1707380076,=,ED70.0 
+12,男性ホルモン性脱毛症,S1,L649,E94T,=,http://id.who.int/icd/entity/1707380076,=,ED70.0 
+12,壮年性脱毛症,S1,L649,E94T,=,http://id.who.int/icd/entity/1707380076,=,ED70.0 
+12,休止期性脱毛,L,L650,A3CH,=,http://id.who.int/icd/entity/1188535025,=,ED70.3Z 
+12,成長期性脱毛,L,L651,PGN5,=,http://id.who.int/icd/entity/597448549,=,ED70.4
+12,毛包性ムチン沈着症,L,L652,G7DN,=,http://id.who.int/icd/entity/240681277,<,EB90.1Y
+12,毛包嚢性ムチン沈着症,S1,L652,G7DN,=,http://id.who.int/icd/entity/240681277,<,EB90.1Y
+12,ムチン沈着性脱毛症,S1,L652,G7DN,=,http://id.who.int/icd/entity/240681277,<,EB90.1Y
+12,毛包のう性ムチン沈着症,S1,L652,G7DN,=,http://id.who.int/icd/entity/240681277,<,EB90.1Y
+12,粃糠性脱毛症,L,L658,MFES,<,http://id.who.int/icd/entity/1313926062,<,ED70.Z
+12,医原性脱毛症,L,L658,U04H,<,http://id.who.int/icd/entity/1313926062,<,ED70.Z
+12,症候性脱毛症,L,L659,CN77,<,http://id.who.int/icd/entity/1313926062,<,ED70.Y 
+12,症候性脱毛,S1,L659,CN77,<,http://id.who.int/icd/entity/1313926062,<,ED70.Y 
+12,症候性脱毛(症),S1,L659,CN77,<,http://id.who.int/icd/entity/1313926062,<,ED70.Y 
+12,老人性脱毛症,L,L659,FE7E,=,http://id.who.int/icd/entity/1313926062 / http://id.who.int/icd/entity/835503193,=,ED70.Z / MG2A 
+12,びまん性脱毛症,L,L659,G5H5,=,http://id.who.int/icd/entity/1313926062 & http://id.who.int/icd/entity/1265853763 ,=,ED70.Z & XK31
+12,脱毛症,L,L659,HKUQ,=,http://id.who.int/icd/entity/1313926062,=,ED70.Z
+12,脱毛(症),S1,L659,HKUQ,=,http://id.who.int/icd/entity/1313926062,=,ED70.Z
+12,脱毛,S1,L659,HKUQ,=,http://id.who.int/icd/entity/1313926062,=,ED70.Z
+12,無毛症,L,L659,JN31,=,http://id.who.int/icd/entity/684738954,<,EC21.2
+12,非瘢痕性脱毛症,L,L659,P3KA,<,http://id.who.int/icd/entity/1313926062,<,ED70.Y 
+12,女子慢性びまん性脱毛症,L,L659,VKPG,=,"http://id.who.int/icd/entity/687011469 & http://id.who.int/icd/entity/490003542 & http://id.who.int/icd/entity/1265853763 
+",=,ED70.1 & XT8W & XK31
+12,萎縮性脱毛症,L,L660,GE53,=,http://id.who.int/icd/entity/1196440271,<,ED70.5Y
+12,毛孔性扁平苔癬,L,L661,AQHC,=,http://id.who.int/icd/entity/1963050127,=,EA91.2
+12,脱毛性毛包炎,L,L662,JSUG,=,http://id.who.int/icd/entity/1454811046,=,ED70.50
+12,脱毛性毛包嚢炎,S1,L662,JSUG,=,http://id.who.int/icd/entity/1454811046,=,ED70.50
+12,脱毛性毛包のう炎,S1,L662,JSUG,=,http://id.who.int/icd/entity/1454811046,=,ED70.50
+12,頭部膿瘍性毛包周囲炎,L,L663,N8PM,=,http://id.who.int/icd/entity/872245808,<,ED70.51
+12,頭部膿瘍性毛包のう周囲炎,S1,L663,N8PM,=,http://id.who.int/icd/entity/872245808,<,ED70.51
+12,頭部膿瘍性毛包嚢周囲炎,S1,L663,N8PM,=,http://id.who.int/icd/entity/872245808,<,ED70.51
+12,瘢痕性紅斑性網様毛包炎,L,L664,A32H,=,http://id.who.int/icd/entity/1075050916,<,ED56 
+12,瘢痕性紅斑性網様毛包のう炎,S1,L664,A32H,=,http://id.who.int/icd/entity/1075050916,<,ED56 
+12,瘢痕性紅斑性網様毛包嚢炎,S1,L664,A32H,=,http://id.who.int/icd/entity/1075050916,<,ED56 
+12,外傷性脱毛症,L,L668,U128,=,http://id.who.int/icd/entity/1853626163,<,ED70.5Y
+12,瘢痕性脱毛症,L,L669,L3LK,=,http://id.who.int/icd/entity/1642258398,=,ED70.5Z
+12,結節性裂毛症,L,L670,U0T2,=,http://id.who.int/icd/entity/1537798736,<,ED73.Y
+12,灰色毛,L,L671,L3S2,=,http://id.who.int/icd/entity/723033820,=,ED73.11
+12,早発性灰色毛,S1,L671,L3S2,=,http://id.who.int/icd/entity/15112306155 ,=,ED73.10
+12,毛髪変色,L,L671,QCST,=,http://id.who.int/icd/entity/1055080410,=,ED73.1Z 
+12,毛髪色の変化,S1,L671,QCST,=,http://id.who.int/icd/entity/1055080410,=,ED73.1Z 
+12,後天性限局性白毛症,L,L671,U0AS,≒,http://id.who.int/icd/entity/723033820,=,ED73.11 
+12,白毛,L,L671,V0GT,=,http://id.who.int/icd/entity/723033820,=,ED73.11 
+12,毛脆弱症,L,L678,K6MN,=,http://id.who.int/icd/entity/81366265,=,ED73.0
+12,毛髪萎縮,L,L678,K8Q6,<,http://id.who.int/icd/entity/163039429,<,ED7Y 
+12,男性型多毛症,L,L680,H38N,=,http://id.who.int/icd/entity/752836859,=,ED72.0
+12,後天性生毛性多毛症,L,L681,DL4P,=,http://id.who.int/icd/entity/1885858920,<,EL10
+12,薬物性多毛,L,L681,M3UF,=,http://id.who.int/icd/entity/1679028162,<,EH72.Y 
+12,限局性多毛症,L,L682,AQLD,=,http://id.who.int/icd/entity/80395417,=,ED71 & XK9A
+12,局所性多毛症,S1,L682,AQLD,=,http://id.who.int/icd/entity/80395417,=,ED71 & XK9A
+12,多毛症,L,L689,G8M7,=,http://id.who.int/icd/entity/2042627850,=,ED71
+12,顔面尋常性ざ瘡,L,L700,CEPT,=,http://id.who.int/icd/entity/1892393023 & http://id.who.int/icd/entity/968129184,=,ED80.Z & XA86S4
+12,尋常性ざ瘡,L,L700,D80N,=,http://id.who.int/icd/entity/1892393023,=,ED80.Z
+12,にきび,S1,L700,D80N,=,http://id.who.int/icd/entity/1892393023,=,ED80.Z
+12,面皰,L,L700,JARS,=,http://id.who.int/icd/entity/2077814774,=,ED80.0
+12,膿疱性ざ瘡,L,L700,V2RT,=,http://id.who.int/icd/entity/611951866,=,ED80.2
+12,集簇性ざ瘡,L,L701,LR79,=,http://id.who.int/icd/entity/360738219,=,ED80.41
+12,痘瘡性ざ瘡,L,L702,EF38,=,http://id.who.int/icd/entity/417800714,<,ED81.Y 
+12,粟粒性壊死性ざ瘡,L,L702,LF32,=,http://id.who.int/icd/entity/370878602,<,EG30.0 
+12,熱帯性ざ瘡,L,L703,NP0B,=,http://id.who.int/icd/entity/73855168,<,ED80.Y
+12,新生児ざ瘡,L,L704,TR97,=,http://id.who.int/icd/entity/1302834639,=,KC21.0
+12,小児ざ瘡,L,L704,VQBQ,=,http://id.who.int/icd/entity/2005427028,=,ED80.6
+12,若年性女子表皮剥離性ざ瘡,L,L705,L190,=,http://id.who.int/icd/entity/314814146,<,6B25.1
+12,膿痂疹性ざ瘡,L,L708,FBPQ,=,http://id.who.int/icd/entity/971176543,=,ED80.Z 
+12,ざ瘡感染,S1,L708,FBPQ,<,http://id.who.int/icd/entity/1892393023,<,ED80.Z 
+12,ステロイドざ瘡,L,L708,K9L7,=,http://id.who.int/icd/entity/1694366853,<,EH76.2
+12,ざ瘡,L,L709,E0U3,=,http://id.who.int/icd/entity/1892393023,=,ED80.Z 
+12,アクネ,S1,L709,E0U3,=,http://id.who.int/icd/entity/1892393023,=,ED80.Z 
+12,口囲ざ瘡,L,L709,E12C,=,http://id.who.int/icd/entity/1892393023 & http://id.who.int/icd/entity/13424608,=,ED80.Z & XA1A48
+12,ざ瘡様発疹,L,L709,G9GQ,=,http://id.who.int/icd/entity/1101707278,<,ED80.Y
+12,ざ瘡様皮疹,S1,L709,G9GQ,=,http://id.who.int/icd/entity/1101707278,<,ED80.Y
+12,ざ瘡様皮膚湿疹,S2,L709,G9GQ,=,http://id.who.int/icd/entity/1101707278,<,ED80.Y
+12,顔面ざ瘡,L,L709,QD0U,=,http://id.who.int/icd/entity/1892393023 & http://id.who.int/icd/entity/968129184,=,ED80.Z & XA86S4
+12,口囲湿疹,L,L710,UFTS,=,http://id.who.int/icd/entity/929263065,<,ED90.1
+12,口囲皮膚炎,S1,L710,UFTS,=,http://id.who.int/icd/entity/1815308480,=,ED90.1
+12,しゅさ鼻,L,L711,H2AA,=,http://id.who.int/icd/entity/158901546,<,ED90.02
+12,しゅさ鼻瘤,S1,L711,H2AA,=,http://id.who.int/icd/entity/158901546,<,ED90.02
+12,鼻瘤,S1,L711,H2AA,=,http://id.who.int/icd/entity/158901546,<,ED90.02
+12,ステロイドしゅさ,L,L718,B69K,=,http://id.who.int/icd/entity/134161404 & http://id.who.int/icd/entity/765024126,=,ED90.0Y & XM8JY6
+12,しゅさ性ざ瘡,L,L719,AFRU,=,http://id.who.int/icd/entity/134161404,=,ED90.0Z
+12,酒さ性ざ瘡,S1,L719,AFRU,=,http://id.who.int/icd/entity/134161404,=,ED90.0Z
+12,しゅさ,L,L719,D64D,=,http://id.who.int/icd/entity/134161404,=,ED90.0Z
+12,酒さ,S1,L719,D64D,=,http://id.who.int/icd/entity/134161404,=,ED90.0Z
+12,しゅさ性角膜炎,L,L719,KPHS,=,http://id.who.int/icd/entity/971063023,<,ED90.0Y / 9A7Y 
+12,顔面しゅさ,L,L719,SQKF,=,http://id.who.int/icd/entity/134161404 & http://id.who.int/icd/entity/968129184,=,ED90.0Z & XA86S4
+12,しゅさ様皮膚炎,L,L719,TQHN,=,http://id.who.int/icd/entity/134161404,=,ED90.0Z
+12,酒さ様皮膚炎,S1,L719,TQHN,=,http://id.who.int/icd/entity/134161404,=,ED90.0Z
+12,酒さ性皮膚炎,S1,L719,TQHN,=,http://id.who.int/icd/entity/134161404,=,ED90.0Z
+12,しゅさ性皮膚炎,S1,L719,TQHN,=,http://id.who.int/icd/entity/134161404,=,ED90.0Z
+12,上皮のう胞,L,L720,A8VT,=,http://id.who.int/icd/entity/1840564352,=,EK70.0Z
+12,上皮嚢胞,S1,L720,A8VT,=,http://id.who.int/icd/entity/1840564352,=,EK70.0Z
+12,アテローム化膿,L,L720,B484,=,http://id.who.int/icd/entity/1400386155,=,EK70.00
+12,アテローム感染,S1,L720,B484,=,http://id.who.int/icd/entity/1400386155,=,EK70.00
+12,化膿性粉瘤,S1,L720,B484,=,http://id.who.int/icd/entity/1400386155,=,EK70.00
+12,感染性アテローム,S1,L720,B484,=,http://id.who.int/icd/entity/1400386155,=,EK70.00
+12,化膿性アテローム,S1,L720,B484,=,http://id.who.int/icd/entity/1400386155,=,EK70.00
+12,感染性粉瘤,S1,L720,B484,=,http://id.who.int/icd/entity/1400386155,=,EK70.00
+12,粉瘤,L,L720,B7J0,=,http://id.who.int/icd/entity/1840564352,=,EK70.0Z
+12,アテローム,L,L720,B7J0,=,http://id.who.int/icd/entity/1840564352,=,EK70.0Z
+12,アテローマ,S1,L720,B7J0,=,http://id.who.int/icd/entity/1840564352,=,EK70.0Z
+12,粉瘤腫,S2,L720,B7J0,=,http://id.who.int/icd/entity/1840564352,=,EK70.0Z
+12,皮膚アテローム,S2,L720,B7J0,=,http://id.who.int/icd/entity/1840564352,=,EK70.0Z
+12,アテローム腫,S2,L720,B7J0,=,http://id.who.int/icd/entity/1840564352,=,EK70.0Z
+12,粥腫症,S2,L720,B7J0,=,http://id.who.int/icd/entity/1840564352,=,EK70.0Z
+12,封入性類皮腫,L,L720,CMQP,=,http://id.who.int/icd/entity/1840564352,=,EK70.0Z
+12,炎症性アテローム,L,L720,DCR4,=,http://id.who.int/icd/entity/1400386155,=,EK70.00 
+12,炎症性粉瘤,S1,L720,DCR4,=,http://id.who.int/icd/entity/1400386155,=,EK70.00 
+12,粉瘤炎,S1,L720,DCR4,=,http://id.who.int/icd/entity/1840564352,=,EK70.0Z
+12,頚部アテローム,L,L720,EP45,=,http://id.who.int/icd/entity/1840564352 & http://id.who.int/icd/entity/956558826,=,EK70.0Z & XA7AA6
+12,頸部粉瘤,S1,L720,EP45,=,http://id.who.int/icd/entity/1840564352 & http://id.who.int/icd/entity/956558826,=,EK70.0Z & XA7AA6
+12,頚部粉瘤,S1,L720,EP45,=,http://id.who.int/icd/entity/1840564352 & http://id.who.int/icd/entity/956558826,=,EK70.0Z & XA7AA6
+12,頸部アテローム,S1,L720,EP45,=,http://id.who.int/icd/entity/1840564352 & http://id.who.int/icd/entity/956558826,=,EK70.0Z & XA7AA6
+12,陰のうアテローム,L,L720,F422,=,http://id.who.int/icd/entity/1840564352 & http://id.who.int/icd/entity/344934694,=,EK70.0Z & XA8MT4
+12,陰嚢アテローム,S1,L720,F422,=,http://id.who.int/icd/entity/1840564352 & http://id.who.int/icd/entity/344934694,=,EK70.0Z & XA8MT4
+12,稗粒腫,L,L720,G0TL,=,http://id.who.int/icd/entity/1924428447,<,EK70.Y
+12,頭部アテローム,L,L720,H3HK,=,http://id.who.int/icd/entity/1840564352 & http://id.who.int/icd/entity/1357976561,=,EK70.0Z & XA20Q1
+12,頭部粉瘤,S1,L720,H3HK,=,http://id.who.int/icd/entity/1840564352 & http://id.who.int/icd/entity/1357976561,=,EK70.0Z & XA20Q1
+12,表皮のう胞,L,L720,S62V,=,http://id.who.int/icd/entity/1840564352,=,EK70.0Z
+12,表皮嚢胞,S1,L720,S62V,=,http://id.who.int/icd/entity/1840564352,=,EK70.0Z
+12,脂腺のう胞,L,L721,H174,=,http://id.who.int/icd/entity/1840564352,=,EK70.0Z
+12,脂腺嚢胞,S1,L721,H174,=,http://id.who.int/icd/entity/1840564352,=,EK70.0Z
+12,毛鞘性のう胞,L,L721,HBCV,=,http://id.who.int/icd/entity/150930710,=,EK70.1
+12,毛鞘性嚢胞,S1,L721,HBCV,=,http://id.who.int/icd/entity/150930710,=,EK70.1
+12,毛孔性のう胞,L,L721,NE5P,=,http://id.who.int/icd/entity/150930710,=,EK70.1
+12,毛孔性嚢胞,S1,L721,NE5P,=,http://id.who.int/icd/entity/150930710,=,EK70.1
+12,増殖性外毛根鞘性のう腫,L,L721,PSGB,<,http://id.who.int/icd/entity/150930710,<,EK70.1 
+12,増殖性外毛根鞘性嚢腫,S1,L721,PSGB,<,http://id.who.int/icd/entity/150930710,<,EK70.1 
+12,外毛根鞘のう腫,L,L721,QBEE,=,http://id.who.int/icd/entity/150930710,=,EK70.1
+12,毛髮のう腫,S1,L721,QBEE,=,http://id.who.int/icd/entity/150930710,=,EK70.1
+12,毛髪のう腫,S1,L721,QBEE,=,http://id.who.int/icd/entity/150930710,=,EK70.1
+12,外毛根鞘嚢腫,S1,L721,QBEE,=,http://id.who.int/icd/entity/150930710,=,EK70.1
+12,毛髮嚢腫,S1,L721,QBEE,=,http://id.who.int/icd/entity/150930710,=,EK70.1
+12,毛髪嚢腫,S1,L721,QBEE,=,http://id.who.int/icd/entity/150930710,=,EK70.1
+12,皮脂のう胞,L,L721,QHN0,=,http://id.who.int/icd/entity/150930710,=,EK70.1
+12,皮脂嚢胞,S1,L721,QHN0,=,http://id.who.int/icd/entity/150930710,=,EK70.1
+12,多発性脂腺のう胞症,L,L722,A2GU,=,http://id.who.int/icd/entity/2085770731,<,2F22
+12,多発性脂腺嚢胞症,S1,L722,A2GU,=,http://id.who.int/icd/entity/2085770731,<,2F22
+12,類皮腫,L,L729,GBHQ,=,http://id.who.int/icd/entity/1622534741,=,EK70.Z
+12,類表皮腫,S1,L729,GBHQ,=,http://id.who.int/icd/entity/1622534741,=,EK70.Z
+12,デルモイド,S1,L729,GBHQ,=,http://id.who.int/icd/entity/1622534741,=,EK70.Z
+12,エピデルモイド,S1,L729,GBHQ,=,http://id.who.int/icd/entity/1622534741,=,EK70.Z
+12,類表皮嚢胞,S2,L729,GBHQ,=,http://id.who.int/icd/entity/1840564352,=,EK70.0Z
+12,類表皮のう胞,S2,L729,GBHQ,=,http://id.who.int/icd/entity/1840564352,=,EK70.0Z
+12,ケロイドざ瘡,L,L730,KRS2,=,http://id.who.int/icd/entity/175343202,<,EE60.Y
+12,頭部乳頭状皮膚炎,L,L730,PQV7,=,http://id.who.int/icd/entity/292398717,=,EE60.Y & head
+12,乳頭状皮膚炎,S1,L730,PQV7,=,http://id.who.int/icd/entity/1900806145,<,EE60.Y
+12,須毛偽毛包のう炎,L,L731,A42C,=,http://id.who.int/icd/entity/336055701,<,EE60.Y 
+12,須毛偽毛包嚢炎,S1,L731,A42C,=,http://id.who.int/icd/entity/336055701,<,ED9Y
+12,汗腺炎,L,L732,E5A5,=,http://id.who.int/icd/entity/1621794154,=,ED92.0
+12,化膿性汗腺炎,L,L732,VR2N,=,http://id.who.int/icd/entity/1621794154,=,ED92.0
+12,毛瘡,L,L738,BTEB,=,http://id.who.int/icd/entity/552979445,<,1B75.4
+12,須毛毛瘡,L,L738,C6QE,=,http://id.who.int/icd/entity/1245506993,<,1B75.4
+12,尋常性毛瘡,L,L738,NT7V,=,http://id.who.int/icd/entity/25801498,=,1B75.4
+12,頭皮部毛のう炎,L,L739,ECFE,=,http://id.who.int/icd/entity/796132216,=,EG30.0
+12,頭部毛のう炎,S1,L739,ECFE,=,http://id.who.int/icd/entity/796132216,=,EG30.0
+12,頭部毛嚢炎,S1,L739,ECFE,=,http://id.who.int/icd/entity/796132216,=,EG30.0
+12,頭皮部毛嚢炎,S1,L739,ECFE,=,http://id.who.int/icd/entity/796132216,=,EG30.0
+12,毛包炎,L,L739,VNFV,=,http://id.who.int/icd/entity/1622653958,=,1B74.Z
+12,毛嚢炎,S1,L739,VNFV,=,http://id.who.int/icd/entity/900320365,=,ED9Y
+12,毛のう炎,S1,L739,VNFV,=,http://id.who.int/icd/entity/900320365,=,ED9Y
+12,硬毛嚢炎,S2,L739,VNFV,=,http://id.who.int/icd/entity/900320365,=,ED9Y
+12,硬毛のう炎,S2,L739,VNFV,=,http://id.who.int/icd/entity/900320365,=,ED9Y
+12,紅色汗疹,L,L740,VT04,=,http://id.who.int/icd/entity/1245016385,<,EE02.Y 
+12,水晶様汗疹,L,L741,JTQL,=,http://id.who.int/icd/entity/796835029,<,EE02.Y 
+12,深在性汗疹,L,L742,CGHP,=,http://id.who.int/icd/entity/1540615212,<,EE02.Y 
+12,熱帯性汗疹,L,L742,QVRG,=,http://id.who.int/icd/entity/1540615212,<,EE02.Y 
+12,汗疹湿疹化,L,L743,BK1P,=,http://id.who.int/icd/entity/204420062,<,EE02.Y
+12,汗疹性湿疹,S1,L743,BK1P,=,http://id.who.int/icd/entity/204420062,<,EE02.Y
+12,汗疹,L,L743,S660,=,http://id.who.int/icd/entity/204420062,=,EE02.Z
+12,あせも,S1,L743,S660,=,http://id.who.int/icd/entity/204420062,=,EE02.Z
+12,特発性後天性全身性無汗症,L,L744,GBKR,=,http://id.who.int/icd/entity/66005738,<,EE01.0
+12,無汗症,L,L744,GNMV,=,http://id.who.int/icd/entity/1299624490,=,EE01.Z
+12,無発汗症,S1,L744,GNMV,=,http://id.who.int/icd/entity/1299624490,=,EE01.Z
+12,乏汗症,L,L744,T46S,=,http://id.who.int/icd/entity/1299624490,=,EE01.Z
+12,発汗減少症,S1,L744,T46S,=,http://id.who.int/icd/entity/1299624490,=,EE01.Z
+12,減汗症,S1,L744,T46S,=,http://id.who.int/icd/entity/1299624490,=,EE01.Z
+12,多発性汗腺膿瘍,L,L748,C1ML,<,http://id.who.int/icd/entity/1116239404,<,EE02.Y
+12,乳児多発性汗腺膿瘍,L,L748,ETPN,<,http://id.who.int/icd/entity/1116239404 & http://id.who.int/icd/entity/1588782340,<,EE02.Y & XT2C
+12,汗腺膿瘍,L,L748,N95B,=,http://id.who.int/icd/entity/1116239404,<,EE02.Y
+12,エクリン汗腺の障害,L,L749,KF2U,=,http://id.who.int/icd/entity/666962606,=,EE0Y 
+12,発汗障害,L,L749,L50T,=,http://id.who.int/icd/entity/666962606,=,EE0Y 
+12,臭汗症,L,L750,DEGR,=,http://id.who.int/icd/entity/1456323010,<,ED92.1 
+12,腋臭症,L,L750,EJ2V,=,http://id.who.int/icd/entity/1456323010,<,ED92.1 
+12,腋臭(症),S1,L750,EJ2V,=,http://id.who.int/icd/entity/1456323010,<,ED92.1 
+12,腋臭,S1,L750,EJ2V,=,http://id.who.int/icd/entity/1456323010,<,ED92.1 
+12,わきが,S1,L750,EJ2V,=,http://id.who.int/icd/entity/1456323010,<,ED92.1 
+12,腋臭局所多汗症,S2,L750,EJ2V,=,http://id.who.int/icd/entity/1456323010 / http://id.who.int/icd/entity/1416949107,<,ED92.1 / EE00.Z
+12,色汗症,L,L751,FJSF,=,http://id.who.int/icd/entity/864449620,<,ED92.1
+12,アポクリン汗疹,L,L752,A2EA,=,http://id.who.int/icd/entity/1194009771,<,ED92.1
+12,フォックス・フォアダイス病,L,L752,ML6R,=,http://id.who.int/icd/entity/1194009771,<,ED92.1
+12,FOX FORDYCE病,S1,L752,ML6R,=,http://id.who.int/icd/entity/1194009771,<,ED92.1
+12,アポクリン汗腺の障害,L,L759,B3JS,=,http://id.who.int/icd/entity/1116391228,=,ED92.1 
+12,老人性白斑,L,L80,CVM9,=,http://id.who.int/icd/entity/1894744640 & http://id.who.int/icd/entity/459275392,=,ED63.0 & XT9T
+12,白斑,L,L80,M5D4,=,http://id.who.int/icd/entity/1894744640,=,ED63.0
+12,白斑形成,S1,L80,M5D4,=,http://id.who.int/icd/entity/1894744640,=,ED63.0
+12,尋常性白斑,L,L80,NKM6,=,http://id.who.int/icd/entity/1894744640,=,ED63.0
+12,白なまず,S1,L80,NKM6,=,http://id.who.int/icd/entity/1894744640,=,ED63.0
+12,大理石様白斑,L,L80,SA9J,<,http://id.who.int/icd/entity/1894744640,<,ED63.0
+12,鼻部外傷性色素沈着,L,L810,AHS0,=,http://id.who.int/icd/entity/977509282 & http://id.who.int/icd/entity/1082634473,<,ED60.Y & XA3H13
+12,耳介外傷性色素沈着,L,L810,ATEU,=,http://id.who.int/icd/entity/977509282 & http://id.who.int/icd/entity/2030796271,<,ED60.Y & XA4E71
+12,外傷性色素沈着,L,L810,EUVA,=,http://id.who.int/icd/entity/977509282,<,ED60.Y
+12,外傷性色素沈着症,S1,L810,EUVA,=,http://id.who.int/icd/entity/977509282,<,ED60.Y
+12,眼瞼外傷性色素沈着,L,L810,FEU4,=,http://id.who.int/icd/entity/977509282 & http://id.who.int/icd/entity/1142633691,<,ED60.Y & XA3RB1
+12,外耳部外傷性色素沈着,L,L810,G4R3,=,http://id.who.int/icd/entity/977509282 & http://id.who.int/icd/entity/768242906,<,ED60.Y & XA6ZY6
+12,炎症後色素沈着,L,L810,LJLV,=,http://id.who.int/icd/entity/1666934623,=,ED60.2
+12,炎症性色素沈着,S1,L810,LJLV,=,http://id.who.int/icd/entity/1666934623,=,ED60.2
+12,前額部外傷性色素沈着,L,L810,M1BN,=,http://id.who.int/icd/entity/977509282 & http://id.who.int/icd/entity/862454798,<,ED60.Y  & XA6TR8
+12,光線性花弁状色素斑,L,L810,PTE1,<,http://id.who.int/icd/entity/1666934623,<,ED60.2
+12,眼部外傷性色素沈着,L,L810,R0MN,=,http://id.who.int/icd/entity/977509282 & http://id.who.int/icd/entity/2055915829,<,ED60.Y & XA7D89 
+12,眼周囲部外傷性色素沈着,L,L810,STVH,=,http://id.who.int/icd/entity/977509282 & http://id.who.int/icd/entity/950703353,<,ED60.Y & XA0SB3
+12,肝斑,L,L811,ARGL,=,http://id.who.int/icd/entity/101755595,=,ED60.1
+12,しみ,S1,L811,ARGL,=,http://id.who.int/icd/entity/101755595,=,ED60.1
+12,黒皮症,L,L811,P0SD,=,http://id.who.int/icd/entity/2052676433,=,ED60.Z 
+12,中毒性黒皮症,S2,L811,P0SD,<,http://id.who.int/icd/entity/2052676433,<,ED61.Y 
+12,老人性黒皮症,S2,L811,P0SD,=,http://id.who.int/icd/entity/2052676433 & http://id.who.int/icd/entity/459275392 ,=,ED61.Y & XT9T 
+12,老年性黒皮症,S2,L811,P0SD,=,http://id.who.int/icd/entity/2052676433 & http://id.who.int/icd/entity/459275392 ,=,ED61.Y & XT9T 
+12,老人性色素斑,L,L811,SBKF,=, http://id.who.int/icd/entity/1350389129,=,EJ20.1 
+12,老人斑(皮膚疾患),S2,L811,SBKF,=,http://id.who.int/icd/entity/2052676433 & http://id.who.int/icd/entity/459275392 ,=,ED61.Y & XT9T 
+12,老人性色素沈着,S2,L811,SBKF,=,http://id.who.int/icd/entity/2052676433 & http://id.who.int/icd/entity/459275392 ,=,ED61.Y & XT9T 
+12,雀卵斑,L,L812,J7J4,=,http://id.who.int/icd/entity/1925052982,=,ED61.0
+12,そばかす,S1,L812,J7J4,=,http://id.who.int/icd/entity/1925052982,=,ED61.0
+12,雀斑,S1,L812,J7J4,=,http://id.who.int/icd/entity/1925052982,=,ED61.0
+12,カフェオレ斑,L,L813,ASA1,≒,http://id.who.int/icd/entity/183381588,<,LC1Y 
+12,黒色素皮症,L,L814,BSDS,=,http://id.who.int/icd/entity/2052676433,=,ED61.Y 
+12,老年性黒子,L,L814,EJSN,=,http://id.who.int/icd/entity/2052676433 & http://id.who.int/icd/entity/459275392 ,=,ED61.Y & XT9T 
+12,老年性ほくろ,S1,L814,EJSN,=,http://id.who.int/icd/entity/2052676433 & http://id.who.int/icd/entity/459275392 ,=,ED61.Y & XT9T 
+12,老人性黒子,S1,L814,EJSN,=,http://id.who.int/icd/entity/2052676433 & http://id.who.int/icd/entity/459275392 ,=,ED61.Y & XT9T 
+12,老人性ほくろ,S1,L814,EJSN,=,http://id.who.int/icd/entity/2052676433 & http://id.who.int/icd/entity/459275392 ,=,ED61.Y & XT9T 
+12,眼瞼メラノーシス,L,L814,ENDR,=,http://id.who.int/icd/entity/1210333794 & http://id.who.int/icd/entity/1142633691 ,=,ED60.Z & XA3RB1
+12,リール黒皮症,L,L814,FLTH,<,http://id.who.int/icd/entity/1210333794,<,ED60.Y
+12,RIEHL黒皮症,S1,L814,FLTH,<,http://id.who.int/icd/entity/1210333794,<,ED60.Y
+12,女子顔面黒皮症,S1,L814,FLTH,<,http://id.who.int/icd/entity/1210333794,<,ED60.Y
+12,リール女子顔面黒皮症,S2,L814,FLTH,<,http://id.who.int/icd/entity/1210333794,<,ED60.Y
+12,メラニン色素沈着症,L,L814,LGMS,=,http://id.who.int/icd/entity/1210333794,=,ED60.Z 
+12,メラニン沈着,S1,L814,LGMS,=,http://id.who.int/icd/entity/2052676433,=,ED61.Y
+12,メラニン沈着症,S1,L814,LGMS,=,http://id.who.int/icd/entity/2052676433,=,ED61.Y
+12,神経皮膚黒色症,L,L814,TJL7,<,http://id.who.int/icd/entity/1427672516,<,LD2D.Y 
+12,単純黒子,L,L814,VVTC,=,http://id.who.int/icd/entity/891464140,<,2F20.0Y
+12,若年性黒子,S1,L814,VVTC,=,http://id.who.int/icd/entity/891464140,<,2F20.0Y
+12,ほくろ,S1,L814,VVTC,=,http://id.who.int/icd/entity/891464140,<,2F20.0Y
+12,黒子,S1,L814,VVTC,=,http://id.who.int/icd/entity/891464140,<,2F20.0Y
+12,良性黒子,S1,L814,VVTC,=,http://id.who.int/icd/entity/891464140,<,2F20.0Y
+12,皮膚色素欠乏症,L,L816,BNVG,=,http://id.who.int/icd/entity/1807730236,=,ED63.Z 
+12,皮膚色素脱失,S1,L816,BNVG,=,http://id.who.int/icd/entity/1807730236,=,ED63.Z 
+12,皮膚色素歇乏症,S1,L816,BNVG,=,http://id.who.int/icd/entity/1807730236,=,ED63.Z 
+12,多形皮膚萎縮症,L,L816,J229,=,http://id.who.int/icd/entity/634124345,=,EE50
+12,炎症後色素脱失,L,L816,TDMR,<,http://id.who.int/icd/entity/952912968,<,ED63.Y
+12,慢性色素性紫斑,L,L817,BAG4,=,http://id.who.int/icd/entity/280360139 & http://id.who.int/icd/entity/490003542,=,EF40.0 & XT8W
+12,慢性色素性紫斑病,S1,L817,BAG4,=,http://id.who.int/icd/entity/280360139 & http://id.who.int/icd/entity/490003542,=,EF40.0 & XT8W
+12,蛇行状血管腫,L,L817,GGMK,=,http://id.who.int/icd/entity/1724787481,<,LC50.Y
+12,進行性色素性皮膚病,L,L817,H5RM,=,http://id.who.int/icd/entity/280360139,=,EF40.0 
+12,シャンバーグ病,S1,L817,H5RM,=,http://id.who.int/icd/entity/1163684025,<,EF40.0
+12,SCHAMBERG病,S1,L817,H5RM,=,http://id.who.int/icd/entity/1163684025,<,EF40.0
+12,シャンバーク病,S1,L817,H5RM,=,http://id.who.int/icd/entity/1163684025,<,EF40.0
+12,特発性色素性紫斑,L,L817,M9KP,=,http://id.who.int/icd/entity/280360139 & http://id.who.int/icd/entity/894194405,=,EF40.0 & XB5F
+12,色素性紫斑性皮膚症,L,L817,PMP3,=,http://id.who.int/icd/entity/280360139,<,EF40.0 
+12,色素性紫斑,L,L817,Q6DQ,=,http://id.who.int/icd/entity/280360139,=,EF40.0
+12,紫斑性苔癬状皮膚炎,L,L817,U59V,=,http://id.who.int/icd/entity/761477306,<,EF40.0 
+12,紫斑性苔癬性皮膚炎,S1,L817,U59V,=,http://id.who.int/icd/entity/761477306,<,EF40.0 
+12,紫斑性色素性苔癬様皮膚炎,S2,L817,U59V,=,http://id.who.int/icd/entity/761477306,<,EF40.0 
+12,外傷性刺青,L,L818,ACQC,=,http://id.who.int/icd/entity/143347295,<,EH93.0
+12,網状肢端色素沈着症,L,L818,AS5T,=,http://id.who.int/icd/entity/1506483461,<,EC23.Y
+12,いれずみ,L,L818,LD0T,=,http://id.who.int/icd/entity/857612238,<,EH93.0
+12,刺青,S1,L818,LD0T,=,http://id.who.int/icd/entity/857612238,<,EH93.0
+12,鉄色素沈着,L,L818,SA9H,=,http://id.who.int/icd/entity/495802390,<,ED62.0 
+12,外傷性顔面刺青,L,L818,VD3C,=,http://id.who.int/icd/entity/143347295 & http://id.who.int/icd/entity/968129184,=,EH93.0 & XA86S4
+12,色素斑,L,L818,VDKP,=,http://id.who.int/icd/entity/330822053,=,ME60.1
+12,皮膚色素沈着,L,L819,GD1P,=,http://id.who.int/icd/entity/330822053,=,ME60.1
+12,皮膚色素沈着症,S1,L819,GD1P,=,http://id.who.int/icd/entity/330822053,=,ME60.1
+12,色素沈着,S1,L819,GD1P,=,http://id.who.int/icd/entity/330822053,=,ME60.1
+12,異常色素沈着,S1,L819,GD1P,=,http://id.who.int/icd/entity/330822053,=,ME60.1
+12,皮膚色異常,L,L819,KPEV,=,http://id.who.int/icd/entity/144124957,=,ED64 
+12,皮膚色素異常症,S1,L819,KPEV,=,http://id.who.int/icd/entity/144124957,=,ED64 
+12,色素異常症,L,L819,VP2E,=,http://id.who.int/icd/entity/144124957,=,ED64
+12,脂漏性角化症,L,L82,AH7A,=,http://id.who.int/icd/entity/1627987797,=,2F21.0 
+12,老人性いぼ,S1,L82,AH7A,=,http://id.who.int/icd/entity/1627987797 & http://id.who.int/icd/entity/459275392,=,2F21.0 & XT9T
+12,老人性疣贅,S1,L82,AH7A,=,http://id.who.int/icd/entity/1627987797 & http://id.who.int/icd/entity/459275392,=,2F21.0 & XT9T
+12,老人性扁平いぼ,S1,L82,AH7A,=,http://id.who.int/icd/entity/1627987797 & http://id.who.int/icd/entity/459275392,=,2F21.0 & XT9T
+12,脂漏性いぼ,S1,L82,AH7A,≒,http://id.who.int/icd/entity/1627987797,=,2F21.0 
+12,脂漏性疣贅,S1,L82,AH7A,≒,http://id.who.int/icd/entity/1627987797,=,2F21.0 
+12,老人性扁平疣贅,S1,L82,AH7A,=,http://id.who.int/icd/entity/1627987797 & http://id.who.int/icd/entity/459275392,=,2F21.0 & XT9T
+12,レーザー・トルラ症候群,L,L82,CGVC,<,http://id.who.int/icd/entity/1627987797,<,2F21.0
+12,レーザー・トルラ病,S1,L82,CGVC,<,http://id.who.int/icd/entity/1627987797,<,2F21.0
+12,黒色丘疹性皮膚症,L,L82,R9K1,=,http://id.who.int/icd/entity/168986957,<,2F21.0
+12,融合性細網状乳頭腫症,L,L83,DUQJ,=,http://id.who.int/icd/entity/555831327,<,ED51.Y
+12,黒色表皮腫,L,L83,KML6,=,http://id.who.int/icd/entity/71488193,=,ED51.0Z
+12,黒色表皮肥厚症,S1,L83,KML6,=,http://id.who.int/icd/entity/71488193,=,ED51.0Z
+12,後天性黒色表皮腫,S2,L83,KML6,=,http://id.who.int/icd/entity/71488193,=,ED51.0Z
+12,黒色角化症,S2,L83,KML6,=,http://id.who.int/icd/entity/71488193,=,ED51.0Z
+12,鶏眼,L,L84,R5TG,=,http://id.who.int/icd/entity/1753952135,<,EH92.0Z
+12,うおのめ,S1,L84,R5TG,=,http://id.who.int/icd/entity/1753952135,<,EH92.0Z
+12,胼胝,L,L84,V9H3,=,http://id.who.int/icd/entity/500716388,<,EH92.0Z
+12,胼胝腫,S1,L84,V9H3,=,http://id.who.int/icd/entity/500716388,<,EH92.0Z
+12,たこ,S1,L84,V9H3,=,http://id.who.int/icd/entity/500716388,<,EH92.0Z
+12,後天性魚鱗癬,L,L850,HFAC,=,http://id.who.int/icd/entity/1504032289,=,ED50.0
+12,掌蹠角化症,L,L851,C40L,=,http://id.who.int/icd/entity/1205950456,=,ED55.Z
+12,皮膚角化亢進,S1,L851,C40L,=,http://id.who.int/icd/entity/1205950456,=,ED55.Z
+12,手指角皮症,S1,L851,C40L,=,http://id.who.int/icd/entity/1205950456 & http://id.who.int/icd/entity/822750113,=,ED55.Z & XA2593
+12,手掌角化症,S1,L851,C40L,=,http://id.who.int/icd/entity/1825703623,=,ED55.Z & XA3NY8 
+12,手掌皮膚角化症,S1,L851,C40L,=,http://id.who.int/icd/entity/1825703623,=,ED55.Z & XA3NY8 
+12,手指角化症,S1,L851,C40L,=,http://id.who.int/icd/entity/1205950456 & http://id.who.int/icd/entity/822750113,=,ED55.Z & XA2593
+12,後天性掌蹠角皮症,S1,L851,C40L,=,http://id.who.int/icd/entity/1205950456,=,ED55.Z
+12,後天性角皮症,S2,L851,C40L,=,http://id.who.int/icd/entity/1205950456,=,ED55.Z
+12,後天性掌蹠角化症,S2,L851,C40L,=,http://id.who.int/icd/entity/1022262197,=,ED55.0
+12,手足のあれ,S2,L851,C40L,=,http://id.who.int/icd/entity/1022262197,=,ED55.0
+12,胞状異角化症,L,L851,SMNE,=,http://id.who.int/icd/entity/1205950456,=,ED55.Z
+12,点状角化症,L,L852,NAAR,=,http://id.who.int/icd/entity/1212361548,<,EC20.32
+12,点状手掌足底角化症,S2,L852,NAAR,=,http://id.who.int/icd/entity/1212361548,<,EC20.32
+12,点状掌蹠角化症,S2,L852,NAAR,=,http://id.who.int/icd/entity/1212361548,<,EC20.32
+12,乾皮症,L,L853,D0Q8,=,http://id.who.int/icd/entity/755558110,=,ED54
+12,皮脂欠乏症,L,L853,D0Q8,=,http://id.who.int/icd/entity/904130064,<,ED54
+12,乾燥肌,S1,L853,D0Q8,=,http://id.who.int/icd/entity/904130064,<,ED54
+12,皮膚乾燥症,S1,L853,D0Q8,=,http://id.who.int/icd/entity/904130064,<,ED54
+12,皮脂減少症,S1,L853,D0Q8,=,http://id.who.int/icd/entity/904130064,<,ED54
+12,慢性乾燥症,S1,L853,D0Q8,=,http://id.who.int/icd/entity/904130064,<,ED54
+12,皮脂欠乏性湿疹,L,L853,FKJH,=,http://id.who.int/icd/entity/1069298482,=,EA84
+12,乾燥型湿疹,S1,L853,FKJH,=,http://id.who.int/icd/entity/1069298482,=,EA84
+12,乾燥性湿疹,S1,L853,FKJH,=,http://id.who.int/icd/entity/1069298482,=,EA84
+12,皮脂欠乏性皮膚炎,S1,L853,FKJH,=,http://id.who.int/icd/entity/1069298482,=,EA84
+12,皮膚乾燥性皮膚炎,S1,L853,FKJH,=,http://id.who.int/icd/entity/1069298482,=,EA84
+12,老人性乾皮症,L,L853,R7HP,=,http://id.who.int/icd/entity/1196012271,<,ED54
+12,老人性皮膚乾燥症,S1,L853,R7HP,=,http://id.who.int/icd/entity/1196012271,<,ED54
+12,皮角,L,L858,BJ47,=,http://id.who.int/icd/entity/1444461303,<,ME60.3 
+12,角化棘細胞腫,L,L858,GFNP,=,http://id.who.int/icd/entity/516478127,=,2C31.1
+12,ケラトアカントーマ,S1,L858,GFNP,=,http://id.who.int/icd/entity/516478127,=,2C31.1
+12,顔面毛包性紅斑黒皮症,L,L858,HPFR,=,http://id.who.int/icd/entity/1013339126,<,ED56 & XA86S4
+12,固定性扁豆状角化症,L,L858,LT57,=,http://id.who.int/icd/entity/932302493,<,ED5Y
+12,FLEGEL病,S1,L858,LT57,=,http://id.who.int/icd/entity/932302493,<,ED5Y
+12,持続性扁豆状角化症,S1,L858,LT57,=,http://id.who.int/icd/entity/932302493,<,ED5Y
+12,フレーゲル病,S1,L858,LT57,=,http://id.who.int/icd/entity/932302493,<,ED5Y
+12,毛孔角化症,L,L858,QAGS,=,http://id.who.int/icd/entity/1614890502,=,ED56 
+12,毛孔性角化症,S1,L858,QAGS,=,http://id.who.int/icd/entity/1614890502,=,ED56 
+12,過角化症,L,L859,N5MM,<,http://id.who.int/icd/entity/1831523271,<,ME60.3
+12,皮膚角化症,S1,L859,N5MM,=,http://id.who.int/icd/entity/1831523271,=,ME60.3
+12,角化性皮膚疾患,S1,L859,N5MM,=,http://id.who.int/icd/entity/1831523271,=,ME60.3
+12,角質増殖症,L,L859,P6JA,<,http://id.who.int/icd/entity/1831523271,<,ME60.3
+12,キルレ病,L,L870,SPSN,=,http://id.who.int/icd/entity/1155194526,=,EE70.0
+12,穿通性毛嚢角質増殖症,S1,L870,SPSN,=,http://id.who.int/icd/entity/1155194526,=,EE70.0
+12,穿通性毛のう角質増殖症,S1,L870,SPSN,=,http://id.who.int/icd/entity/1155194526,=,EE70.0
+12,反応性穿孔性膠原線維症,L,L871,ECFN,=,http://id.who.int/icd/entity/984413241,<,EE70.Y
+12,蛇行性穿孔性弾力線維症,L,L872,SJJJ,=,http://id.who.int/icd/entity/1430012917,<,EE70.Y
+12,経表皮排除疾患,L,L879,ML0D,=,http://id.who.int/icd/entity/1430012917,=,EE70.Z
+12,壊疽性膿皮症,L,L88,QK6P,=,http://id.who.int/icd/entity/2120746218,=,EB21
+12,壊疽性皮膚炎,S2,L88,QK6P,=,http://id.who.int/icd/entity/2120746218,=,EB21
+12,潰瘍性慢性膿皮症,L,L88,S2NG,=,http://id.who.int/icd/entity/1951293028 & http://id.who.int/icd/entity/490003542 ,<,EB21 & XT8W
+12,侵食性膿皮症,S2,L88,S2NG,=,http://id.who.int/icd/entity/1951293028,<,EB21
+12,褥瘡・ステージＩ,L,L890,MGQB,=,http://id.who.int/icd/entity/380028323,=,EH90.0
+12,褥瘡・ステージI,S0,L890,MGQB,=,http://id.who.int/icd/entity/380028323,=,EH90.0
+12,じょく瘡・ステージI,S1,L890,MGQB,=,http://id.who.int/icd/entity/380028323,=,EH90.0
+12,褥瘡・ステージＩＩ,L,L891,NM58,=,http://id.who.int/icd/entity/1944913975,=,EH90.1
+12,褥瘡・ステージII,S0,L891,NM58,=,http://id.who.int/icd/entity/1944913975,=,EH90.1
+12,じょく瘡・ステージII,S1,L891,NM58,=,http://id.who.int/icd/entity/1944913975,=,EH90.1
+12,褥瘡・ステージＩＩＩ,L,L892,F04C,=,http://id.who.int/icd/entity/121657546,=,EH90.2
+12,褥瘡・ステージIII,S0,L892,F04C,=,http://id.who.int/icd/entity/121657546,=,EH90.2
+12,じょく瘡・ステージIII,S1,L892,F04C,=,http://id.who.int/icd/entity/121657546,=,EH90.2
+12,褥瘡・ステージＩＶ,L,L893,T23V,=,http://id.who.int/icd/entity/1644926300,=,EH90.3
+12,褥瘡・ステージIV,S0,L893,T23V,=,http://id.who.int/icd/entity/1644926300,=,EH90.3
+12,じょく瘡・ステージIV,S1,L893,T23V,=,http://id.who.int/icd/entity/1644926300,=,EH90.3
+12,足褥瘡,L,L899,FJJ0,=,http://id.who.int/icd/entity/357201965,=,EH90.5 & XA45A6 
+12,足じょく瘡,S1,L899,FJJ0,=,http://id.who.int/icd/entity/357201965,=,EH90.5 & XA45A6 
+12,圧迫性潰瘍,L,L899,FVL9,=,http://id.who.int/icd/entity/455330172,=,EH90.Z
+12,背部褥瘡,L,L899,G078,=,http://id.who.int/icd/entity/1790484912 &  http://id.who.int/icd/entity/1187030,=,EH90.5 & XA2P90
+12,背部じょく瘡,S1,L899,G078,=,http://id.who.int/icd/entity/1790484912 &  http://id.who.int/icd/entity/1187030,=,EH90.5 & XA2P90
+12,褥瘡感染,L,L899,H9B4,=,http://id.who.int/icd/entity/455330172 / http://id.who.int/icd/entity/1435254666,=,EH90.Z  / 1H0Z
+12,じょく瘡感染,S1,L899,H9B4,=,http://id.who.int/icd/entity/455330172 / http://id.who.int/icd/entity/1435254666,=,EH90.Z  / 1H0Z
+12,殿部褥瘡,L,L899,KV0K,=,http://id.who.int/icd/entity/357201965 & http://id.who.int/icd/entity/1894266247,=,EH90.5 & XA3VA7
+12,殿部じょく瘡,S1,L899,KV0K,=,http://id.who.int/icd/entity/357201965 & http://id.who.int/icd/entity/1894266247,=,EH90.5 & XA3VA7
+12,褥瘡性潰瘍,L,L899,LER7,=,http://id.who.int/icd/entity/455330172,=,EH90.Z
+12,じょく瘡性潰瘍,S1,L899,LER7,=,http://id.who.int/icd/entity/455330172,=,EH90.Z
+12,褥瘡潰瘍,S1,L899,LER7,=,http://id.who.int/icd/entity/455330172,=,EH90.Z
+12,褥瘡,L,L899,MB0E,=,http://id.who.int/icd/entity/455330172,=,EH90.Z
+12,床ずれ,S1,L899,MB0E,=,http://id.who.int/icd/entity/455330172,=,EH90.Z
+12,圧迫性壊死,S1,L899,MB0E,=,http://id.who.int/icd/entity/455330172,=,EH90.Z
+12,じょく瘡,S1,L899,MB0E,=,http://id.who.int/icd/entity/455330172,=,EH90.Z
+12,圧迫壊死,S1,L899,MB0E,=,http://id.who.int/icd/entity/455330172,=,EH90.Z
+12,ギブス性潰瘍,L,L899,NL40,<,http://id.who.int/icd/entity/455330172,<,EH90.Z
+12,褥瘡・ＤＴＩ,L,L899,PC0K,=,http://id.who.int/icd/entity/1721328596,=,EH90.4
+12,褥瘡・DTI,S0,L899,PC0K,=,http://id.who.int/icd/entity/1721328596,=,EH90.4
+12,じょく瘡・DTI,S1,L899,PC0K,=,http://id.who.int/icd/entity/1721328596,=,EH90.4
+12,仙骨部褥瘡,L,L899,UEL0,=,http://id.who.int/icd/entity/2054650106 & http://id.who.int/icd/entity/1603057968,=,EH90.5 & XA2UC8
+12,仙骨部じょく瘡,S1,L899,UEL0,=,http://id.who.int/icd/entity/2054650106 & http://id.who.int/icd/entity/1603057968,=,EH90.5 & XA2UC8
+12,疝骨部褥瘡,S1,L899,UEL0,=,http://id.who.int/icd/entity/2054650106 & http://id.who.int/icd/entity/1603057968,=,EH90.5 & XA2UC8
+12,硬化性萎縮性苔癬,L,L900,ABCA,=,http://id.who.int/icd/entity/2076834974,=,EB60.Z 
+12,硬化萎縮性苔癬,S1,L900,ABCA,=,http://id.who.int/icd/entity/2076834974,=,EB60.Z 
+12,白色苔癬,L,L900,E75N,=,http://id.who.int/icd/entity/2076834974,=,EB60.Z 
+12,慢性萎縮性肢端皮膚炎,L,L904,NDF4,=,http://id.who.int/icd/entity/1761234822,<,1C1G.14 
+12,手指瘢痕拘縮,L,L905,CNS5,=,http://id.who.int/icd/entity/188639283 & http://id.who.int/icd/entity/822750113,=,EH94 & XA2593
+12,趾瘢痕拘縮,L,L905,JHBD,=,http://id.who.int/icd/entity/188639283 & http://id.who.int/icd/entity/1735902769,=,EH94 & XA4LC9 
+12,ざ瘡瘢痕,L,L905,JL4K,=,http://id.who.int/icd/entity/2143641220,=,ED80.5
+12,潰瘍瘢痕,L,L905,KFBC,<,http://id.who.int/icd/entity/188639283,<,EH94
+12,術後瘢痕,L,L905,MK3V,=,http://id.who.int/icd/entity/1482297027,=,EL50.Z 
+12,術後性創部瘢痕,S1,L905,MK3V,=,http://id.who.int/icd/entity/1482297027,=,EL50.Z 
+12,萎縮性瘢痕,L,L905,Q8UG,=,http://id.who.int/icd/entity/464005814,=,EE40.2 
+12,瘢痕,L,L905,TBJD,=,http://id.who.int/icd/entity/188639283,=,EH94
+12,瘢痕拘縮,L,L905,VLVD,=,http://id.who.int/icd/entity/188639283,=,EH94
+12,拘縮瘢痕,S1,L905,VLVD,=,http://id.who.int/icd/entity/188639283,=,EH94
+12,癒着性瘢痕,S2,L905,VLVD,=,http://id.who.int/icd/entity/188639283,=,EH94
+12,線状皮膚萎縮症,L,L906,EALU,=,http://id.who.int/icd/entity/2031932143,=,EE40.1Z
+12,線状萎縮,S1,L906,EALU,=,http://id.who.int/icd/entity/2031932143,=,EE40.1Z
+12,老人性皮膚萎縮症,L,L908,CEC5,=,http://id.who.int/icd/entity/2021810977 & http://id.who.int/icd/entity/459275392,=,EE40.Z  & XT9T
+12,斑状皮膚萎縮症,L,L909,B60H,=,http://id.who.int/icd/entity/1490033315,=,EE41.1
+12,斑紋皮膚萎縮,S1,L909,B60H,=,http://id.who.int/icd/entity/1490033315,=,EE41.1
+12,原発性斑状皮膚萎縮症,L,L909,D428,=,http://id.who.int/icd/entity/308286033,<,EE41.1
+12,皮膚萎縮症,L,L909,EF18,=,http://id.who.int/icd/entity/1174467290,<,EE7Y
+12,皮膚の萎縮性障害,S1,L909,EF18,=,http://id.who.int/icd/entity/1174467290,<,EE7Y
+12,皮膚萎縮,S1,L909,EF18,=,http://id.who.int/icd/entity/1174467290,<,EE7Y
+12,ケロイド,L,L910,BAJK,=,http://id.who.int/icd/entity/2057714006,=,EE60.0Z
+12,ケロイド形成,S1,L910,BAJK,=,http://id.who.int/icd/entity/2057714006,=,EE60.0Z
+12,ケロイド症,S1,L910,BAJK,=,http://id.who.int/icd/entity/2057714006,=,EE60.0Z
+12,ケロイド化,S1,L910,BAJK,=,http://id.who.int/icd/entity/2057714006,=,EE60.0Z
+12,熱傷後瘢痕ケロイド拘縮,L,L910,CTUF,=,http://id.who.int/icd/entity/569183507,<,EH94
+12,熱傷後瘢痕拘縮,S1,L910,CTUF,=,http://id.who.int/icd/entity/569183507,<,EH94
+12,創部瘢痕ケロイド,L,L910,D0C3,=,http://id.who.int/icd/entity/513183345,=,EE60.1
+12,ケロイド体質,L,L910,DAC1,<,http://id.who.int/icd/entity/2057714006,<,EE60.0Z
+12,肥厚性瘢痕,L,L910,GDVV,=,http://id.who.int/icd/entity/513183345,=,EE60.1
+12,肥大性瘢痕,S1,L910,GDVV,=,http://id.who.int/icd/entity/513183345,=,EE60.1
+12,術後ケロイド瘢痕,L,L910,JCU3,=,http://id.who.int/icd/entity/1736958896,=,EL50.0
+12,手術創ケロイド,S1,L910,JCU3,=,http://id.who.int/icd/entity/1736958896,=,EL50.0
+12,術創瘢痕ケロイド,S1,L910,JCU3,=,http://id.who.int/icd/entity/1736958896,=,EL50.0
+12,術後ケロイド,S1,L910,JCU3,=,http://id.who.int/icd/entity/1736958896,=,EL50.0
+12,術後ケロイド形成,S1,L910,JCU3,=,http://id.who.int/icd/entity/1736958896,=,EL50.0
+12,術後手術創ケロイド,S1,L910,JCU3,=,http://id.who.int/icd/entity/1736958896,=,EL50.0
+12,術創ケロイド,S1,L910,JCU3,=,http://id.who.int/icd/entity/1736958896,=,EL50.0
+12,術創肉芽腫,S2,L910,JCU3,=,http://id.who.int/icd/entity/1736958896,=,EL50.0
+12,腹壁手術創ケロイド,S2,L910,JCU3,=,http://id.who.int/icd/entity/1736958896 & http://id.who.int/icd/entity/119571850,=,EL50.0 & XA3KX0 
+12,腹壁手術創肉芽,S2,L910,JCU3,=,http://id.who.int/icd/entity/1736958896 & http://id.who.int/icd/entity/119571850,=,EL50.0 & XA3KX0 
+12,ケロイド瘢痕,L,L910,JLR8,=,http://id.who.int/icd/entity/2057714006,=,EE60.0Z
+12,瘢痕ケロイド,S1,L910,JLR8,=,http://id.who.int/icd/entity/2057714006,=,EE60.0Z
+12,熱傷後瘢痕ケロイド,L,L910,LAA1,=,http://id.who.int/icd/entity/569183507,<,EH94
+12,熱傷肥大瘢痕,S1,L910,LAA1,=,http://id.who.int/icd/entity/569183507,<,EH94
+12,熱傷瘢痕ケロイド,S1,L910,LAA1,=,http://id.who.int/icd/entity/569183507,<,EH94
+12,熱傷性肥厚性瘢痕,S1,L910,LAA1,=,http://id.who.int/icd/entity/569183507,<,EH94
+12,真性ケロイド,L,L910,LPMJ,=,http://id.who.int/icd/entity/2057714006,=,EE60.0Z
+12,熱傷後瘢痕ケロイド潰瘍,L,L910,RKHH,=,http://id.who.int/icd/entity/569183507,<,EH94
+12,熱傷瘢痕,L,L910,RT1U,=,http://id.who.int/icd/entity/569183507,<,EH94
+12,熱傷性瘢痕,S1,L910,RT1U,=,http://id.who.int/icd/entity/569183507,<,EH94
+12,熱傷後瘢痕,S1,L910,RT1U,=,http://id.who.int/icd/entity/569183507,<,EH94
+12,火傷瘢痕,S1,L910,RT1U,=,http://id.who.int/icd/entity/569183507,<,EH94
+12,早期ケロイド,L,L910,SSNG,=,http://id.who.int/icd/entity/2057714006 & http://id.who.int/icd/entity/378801232,<, EE60.0Z & XT2Q
+12,ケロイド拘縮,L,L910,T538,=,http://id.who.int/icd/entity/2057714006,=,EE60.0Z
+12,熱傷後ケロイド,L,L910,URH8,=,http://id.who.int/icd/entity/569183507,<,EH94
+12,火傷部ケロイド,S1,L910,URH8,=,http://id.who.int/icd/entity/569183507,<,EH94
+12,熱傷性ケロイド,S1,L910,URH8,=,http://id.who.int/icd/entity/569183507,<,EH94
+12,皮膚の肥厚性障害,L,L919,UMUL,=,http://id.who.int/icd/entity/444787370,<,ME66.1 
+12,穿孔性環状肉芽腫,L,L920,QLPL,=,http://id.who.int/icd/entity/370902274,<,EE80.0
+12,環状肉芽腫,L,L920,VC1J,=,http://id.who.int/icd/entity/1925637202,=,EE80.0
+12,リポイド類壊死症,L,L921,SD1F,=,http://id.who.int/icd/entity/655608138,=,EE80.1
+12,皮膚異物肉芽腫,L,L923,HNQ5,=,http://id.who.int/icd/entity/107721903,=,EH93.3
+12,臍肉芽腫,L,L928,CG26,=,http://id.who.int/icd/entity/1195494715,=,KC20.2 
+12,臍息肉,S1,L928,CG26,=,http://id.who.int/icd/entity/1195494715,=,KC20.2 
+12,臍息肉腫,S1,L928,CG26,=,http://id.who.int/icd/entity/1195494715,=,KC20.2 
+12,頚部肉芽腫,L,L928,RRVA,=,http://id.who.int/icd/entity/647260534 & http://id.who.int/icd/entity/956558826,=,EE8Z & XA7AA6
+12,頸部肉芽腫,S1,L928,RRVA,=,http://id.who.int/icd/entity/647260534 & http://id.who.int/icd/entity/956558826,=,EE8Z & XA7AA6
+12,不良肉芽,L,L929,DHL1,=,http://id.who.int/icd/entity/647260534,=,EE8Z 
+12,病的肉芽,S1,L929,DHL1,=,http://id.who.int/icd/entity/647260534,=,EE8Z 
+12,類上皮細胞肉芽腫,L,L929,GLBA,<,http://id.who.int/icd/entity/647260534,<,EE8Y
+12,皮膚肉芽腫,L,L929,KMBM,=,http://id.who.int/icd/entity/647260534,=,EE8Z 
+12,ＬＥ皮疹,L,L930,HT3V,=,http://id.who.int/icd/entity/1401395930,=,"EB5Z 
+"
+12,LE皮疹,S0,L930,HT3V,=,http://id.who.int/icd/entity/1401395930,=,"EB5Z 
+"
+12,エリテマトーデス,L,L930,RNJL,=,http://id.who.int/icd/entity/1443317238,=,4A40.Z
+12,狼瘡紅斑,S2,L930,RNJL,=,http://id.who.int/icd/entity/1443317238,=,4A40.Z
+12,限局性円板状エリテマトーデス,L,L930,TGG3,=,http://id.who.int/icd/entity/2144907708 & http://id.who.int/icd/entity/108658876,=,EB51.0 & XK9A
+12,局所紅斑性狼瘡,S1,L930,TGG3,=,http://id.who.int/icd/entity/2144907708 & http://id.who.int/icd/entity/108658876,=,EB51.0 & XK9A
+12,限局性円板状紅斑性狼瘡,S1,L930,TGG3,=,http://id.who.int/icd/entity/2144907708 & http://id.who.int/icd/entity/108658876,=,EB51.0 & XK9A
+12,円板状エリテマトーデス,L,L930,UE6U,=,http://id.who.int/icd/entity/2144907708,=,EB51.0
+12,慢性円板状紅斑性狼瘡,S1,L930,UE6U,=,http://id.who.int/icd/entity/2144907708,=,EB51.0
+12,LE円板状皮疹,S1,L930,UE6U,=,http://id.who.int/icd/entity/2144907708,=,EB51.0
+12,円板状ループス,S1,L930,UE6U,=,http://id.who.int/icd/entity/2144907708,=,EB51.0
+12,円板状紅斑性狼瘡,S1,L930,UE6U,=,http://id.who.int/icd/entity/2144907708,=,EB51.0
+12,慢性円板状エリテマトーデス,S1,L930,UE6U,=,http://id.who.int/icd/entity/2144907708,=,EB51.0
+12,亜急性皮膚エリテマトーデス,L,L931,DVCT,=,http://id.who.int/icd/entity/192274757,=,EB50
+12,亜急性紅斑性狼瘡,S1,L931,DVCT,=,http://id.who.int/icd/entity/192274757,=,EB50
+12,ＬＥ蝶形皮疹,L,L931,PEDP,=,http://id.who.int/icd/entity/1401395930,=,EB5Z 
+12,LE蝶形皮疹,S0,L931,PEDP,=,http://id.who.int/icd/entity/1401395930,=,EB5Z 
+12,深在性エリテマトーデス,L,L932,NKP9,=,http://id.who.int/icd/entity/84064653,<,EB51.Y
+12,深在性紅斑性狼瘡,S1,L932,NKP9,=,http://id.who.int/icd/entity/84064653,<,EB51.Y
+12,皮膚エリテマトーデス,L,L932,VUU9,=,http://id.who.int/icd/entity/1401395930,=,EB5Z
+12,斑状強皮症,L,L940,F0L2,=,http://id.who.int/icd/entity/1430740369,=,EB61.0
+12,モルフェア,S1,L940,F0L2,=,http://id.who.int/icd/entity/31664821,=,EB61.Z
+12,斑状鞏皮症,S1,L940,F0L2,=,http://id.who.int/icd/entity/1430740369,=,EB61.0
+12,斑状硬皮症,S1,L940,F0L2,=,http://id.who.int/icd/entity/1430740369,=,EB61.0
+12,限局性強皮症,L,L940,R05U,=,http://id.who.int/icd/entity/1430740369,=,EB61.0
+12,剣創状強皮症,L,L941,BP49,=,http://id.who.int/icd/entity/62112898,<,EB61.1
+12,線状強皮症,L,L941,MV2M,=,http://id.who.int/icd/entity/806129669,=,EB61.1
+12,帯状強皮症,S1,L941,MV2M,=,http://id.who.int/icd/entity/806129669,=,EB61.1
+12,皮膚石灰沈着症,L,L942,VL6F,=,http://id.who.int/icd/entity/1151451386,<,EB90.40
+12,皮下石灰化,S1,L942,VL6F,=,http://id.who.int/icd/entity/1151451386,<,EB90.40
+12,手指硬化症,L,L943,H83J,=,http://id.who.int/icd/entity/187455179 & http://id.who.int/icd/entity/822750113,=,4A42.2 & XA2593
+12,ゴットロン丘疹,L,L944,LD9Q,=,http://id.who.int/icd/entity/739030149,=,4A41.0Z
+12,血管性多形皮膚萎縮症,L,L945,JEE4,=,http://id.who.int/icd/entity/927945582,=,EK91.1
+12,アインフム,L,L946,V3UP,=,http://id.who.int/icd/entity/1138885521,<,EE7Y
+12,特発性指趾離断症,S1,L946,V3UP,=,http://id.who.int/icd/entity/1138885521,<,EE7Y
+12,白色皮膚萎縮,L,L950,ACJ4,=,http://id.who.int/icd/entity/1237292304,=,EF50
+12,皮斑様血管炎,L,L950,D5NE,=,http://id.who.int/icd/entity/1237292304,=,EF50
+12,網状皮斑,L,L950,JDDT,<,http://id.who.int/icd/entity/1237292304,=,EF50
+12,持久性隆起性紅斑,L,L951,JSPN,=,http://id.who.int/icd/entity/754210950,<,EF40.2Y
+12,持続性隆起性紅斑,S1,L951,JSPN,=,http://id.who.int/icd/entity/754210950,<,EF40.2Y
+12,皮膚の血管炎,L,L959,ECH8,=,http://id.who.int/icd/entity/372387893,=,EF40.Z
+12,足関節外果難治性皮膚潰瘍,L,L97,BJNC,<,"http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1095703574 
+",<,ME60.2 & XA41K4
+12,足外果部難治性皮膚潰瘍,S1,L97,BJNC,<,"http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1095703574 
+",<,ME60.2 & XA41K4
+12,大腿皮膚潰瘍,L,L97,CKNS,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/238202718,=,ME60.2 & XA5S78
+12,大腿部皮膚潰瘍,S1,L97,CKNS,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/238202718,=,ME60.2 & XA5S78
+12,大腿潰瘍,S1,L97,CKNS,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/238202718,=,ME60.2 & XA5S78
+12,大腿部潰瘍,S1,L97,CKNS,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/238202718,=,ME60.2 & XA5S78
+12,踵部難治性皮膚潰瘍,L,L97,DCAV,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/247910170,<,ME60.2 & XA5HK0
+12,踵部難治性潰瘍,S1,L97,DCAV,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/247910170,<,ME60.2 & XA5HK0
+12,足底難治性皮膚潰瘍,L,L97,DFK5,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1797255514,<,ME60.2 & XA1XM4
+12,足底難治性潰瘍,S1,L97,DFK5,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1797255514,<,ME60.2 & XA1XM4
+12,足底部難治性潰瘍,S1,L97,DFK5,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1797255514,<,ME60.2 & XA1XM4
+12,趾難治性皮膚潰瘍,L,L97,DNB8,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1735902769,<,ME60.2 & XA4LC9
+12,趾難治性潰瘍,S1,L97,DNB8,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1735902769,<,ME60.2 & XA4LC9
+12,足関節皮膚潰瘍,L,L97,E9SJ,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1106248434 ,=,ME60.2 & XA67V4 
+12,足関節潰瘍,S1,L97,E9SJ,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1106248434 ,=,ME60.2 & XA67V4 
+12,足関節部皮膚潰瘍,S1,L97,E9SJ,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1106248434 ,=,ME60.2 & XA67V4 
+12,足関節部潰瘍,S1,L97,E9SJ,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1106248434 ,=,ME60.2 & XA67V4 
+12,足部皮膚潰瘍,L,L97,EJLD,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1896004518,=,ME60.2 & XA47V8
+12,足潰瘍,S1,L97,EJLD,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1896004518,=,ME60.2 & XA47V8
+12,足部潰瘍,S1,L97,EJLD,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1896004518,=,ME60.2 & XA47V8
+12,足皮膚潰瘍,S1,L97,EJLD,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1896004518,=,ME60.2 & XA47V8
+12,下肢皮膚潰瘍,L,L97,FBKN,=,http://id.who.int/icd/entity/517516952,=,ME60.2 & XA45A6
+12,下肢潰瘍,S1,L97,FBKN,=,http://id.who.int/icd/entity/517516952,=,ME60.2 & XA45A6
+12,足底皮膚潰瘍,L,L97,G85H,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1797255514,=,ME60.2 & XA1XM4
+12,足蹠潰瘍,S1,L97,G85H,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1797255514,=,ME60.2 & XA1XM4
+12,足底潰瘍,S1,L97,G85H,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1797255514,=,ME60.2 & XA1XM4
+12,足底部潰瘍,S1,L97,G85H,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1797255514,=,ME60.2 & XA1XM4
+12,足底部皮膚潰瘍,S1,L97,G85H,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1797255514,=,ME60.2 & XA1XM4
+12,母趾皮膚潰瘍,L,L97,GLK8,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1003902257,<,ME60.2 & XA2RP7
+12,母趾潰瘍,S1,L97,GLK8,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1003902257,=,ME60.2 & XA2RP7
+12,第1趾皮膚潰瘍,S1,L97,GLK8,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1003902257,<,ME60.2 & XA2RP7
+12,第1趾潰瘍,S1,L97,GLK8,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1003902257,=,ME60.2 & XA2RP7
+12,下腿皮膚潰瘍,L,L97,GNSN,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/106050921,=,ME60.2 & XA3YG1 
+12,下腿部皮膚潰瘍,S1,L97,GNSN,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/106050921,=,ME60.2 & XA3YG1 
+12,下腿部潰瘍,S1,L97,GNSN,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/106050921,=,ME60.2 & XA3YG1 
+12,下腿潰瘍,S1,L97,GNSN,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/106050921,=,ME60.2 & XA3YG1 
+12,足背皮膚潰瘍,L,L97,HP3P,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/2084017562,=,ME60.2 & XA8BE2
+12,足背部潰瘍,S1,L97,HP3P,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/2084017562,=,ME60.2 & XA8BE2
+12,足背潰瘍,S1,L97,HP3P,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/2084017562,=,ME60.2 & XA8BE2
+12,足背部皮膚潰瘍,S1,L97,HP3P,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/2084017562,=,ME60.2 & XA8BE2
+12,膝部難治性皮膚潰瘍,L,L97,K0E5,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1670056745,<,ME60.2 & XA8KL5
+12,膝難治性潰瘍,S1,L97,K0E5,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1670056745,<,ME60.2 & XA8KL5
+12,膝部難治性潰瘍,S1,L97,K0E5,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1670056745,<,ME60.2 & XA8KL5
+12,趾皮膚潰瘍,L,L97,K4M8,=,http://id.who.int/icd/entity/517516952  & http://id.who.int/icd/entity/1735902769,=,ME60.2 & XA4LC9
+12,趾潰瘍,S1,L97,K4M8,=,http://id.who.int/icd/entity/517516952  & http://id.who.int/icd/entity/1735902769,=,ME60.2 & XA4LC9
+12,足指皮膚潰瘍,S1,L97,K4M8,=,http://id.who.int/icd/entity/517516952  & http://id.who.int/icd/entity/1735902769,=,ME60.2 & XA4LC9
+12,足指潰瘍,S1,L97,K4M8,=,http://id.who.int/icd/entity/517516952  & http://id.who.int/icd/entity/1735902769,=,ME60.2 & XA4LC9
+12,大腿難治性皮膚潰瘍,L,L97,K552,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/238202718,<,ME60.2 & XA5S78
+12,大腿部難治性潰瘍,S1,L97,K552,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/238202718,<,ME60.2 & XA5S78
+12,大腿部難治性皮膚潰瘍,S1,L97,K552,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/238202718,<,ME60.2 & XA5S78
+12,母趾難治性皮膚潰瘍,L,L97,L9E4,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1003902257,<,ME60.2 & XA2RP7
+12,母趾難治性潰瘍,S1,L97,L9E4,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1003902257,<,ME60.2 & XA2RP7
+12,第1趾難治性潰瘍,S1,L97,L9E4,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1003902257,<,ME60.2 & XA2RP7
+12,第1趾難治性皮膚潰瘍,S1,L97,L9E4,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1003902257,<,ME60.2 & XA2RP7
+12,下腿難治性皮膚潰瘍,L,L97,LU6T,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/106050921,<,ME60.2 & XA3YG1 
+12,難治性下腿潰瘍,S1,L97,LU6T,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/106050921,<,ME60.2 & XA3YG1 
+12,下腿難治性潰瘍,S1,L97,LU6T,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/106050921,<,ME60.2 & XA3YG1 
+12,下腿部難治性皮膚潰瘍,S1,L97,LU6T,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/106050921,<,ME60.2 & XA3YG1 
+12,足関節外果皮膚潰瘍,L,L97,P35B,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1714085734 ,=,ME60.2 & XA7AM4 
+12,足関節外果潰瘍,S1,L97,P35B,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1714085734 ,=,ME60.2 & XA7AM4 
+12,足関節外果部皮膚潰瘍,S1,L97,P35B,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1714085734 ,=,ME60.2 & XA7AM4 
+12,膝部皮膚潰瘍,L,L97,PQ7L,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1670056745,=,ME60.2 & XA8KL5
+12,膝関節部潰瘍,S1,L97,PQ7L,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1670056745,=,ME60.2 & XA8KL5
+12,膝皮膚潰瘍,S1,L97,PQ7L,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1670056745,=,ME60.2 & XA8KL5
+12,膝部潰瘍,S1,L97,PQ7L,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1670056745,=,ME60.2 & XA8KL5
+12,膝潰瘍,S1,L97,PQ7L,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1670056745,=,ME60.2 & XA8KL5
+12,足関節難治性皮膚潰瘍,L,L97,Q8PA,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1106248434,<,ME60.2 & XA67V4
+12,足関節部難治性潰瘍,S1,L97,Q8PA,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1106248434,<,ME60.2 & XA67V4
+12,足関節難治性潰瘍,S1,L97,Q8PA,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1106248434,<,ME60.2 & XA67V4
+12,踵部皮膚潰瘍,L,L97,QGJB,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/247910170,<,ME60.2 & XA5HK0
+12,踵潰瘍,S1,L97,QGJB,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/247910170,<,ME60.2 & XA5HK0
+12,踵骨部潰瘍,S1,L97,QGJB,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/247910170,<,ME60.2 & XA5HK0
+12,踵部潰瘍,S1,L97,QGJB,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/247910170,<,ME60.2 & XA5HK0
+12,踵皮膚潰瘍,S1,L97,QGJB,=,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/247910170,<,ME60.2 & XA5HK0
+12,下肢難治性皮膚潰瘍,L,L97,RD71,<,http://id.who.int/icd/entity/517516952,<,ME60.2 & XA45A6
+12,下肢難治性潰瘍,S1,L97,RD71,<,http://id.who.int/icd/entity/517516952,<,ME60.2 & XA45A6
+12,難治性下肢潰瘍,S1,L97,RD71,<,http://id.who.int/icd/entity/517516952,<,ME60.2 & XA45A6
+12,足背難治皮膚潰瘍,L,L97,TPFF,<,http://id.who.int/icd/entity/517516952  & http://id.who.int/icd/entity/2084017562,<,ME60.2 & XA8BE2
+12,足背部難治性潰瘍,S1,L97,TPFF,<,http://id.who.int/icd/entity/517516952  & http://id.who.int/icd/entity/2084017562,<,ME60.2 & XA8BE2
+12,足部難治性皮膚潰瘍,L,L97,UT3D,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1896004518 ,<,ME60.2 & XA47V8
+12,足難治性皮膚潰瘍,S1,L97,UT3D,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1896004518 ,<,ME60.2 & XA47V8
+12,足部難治性潰瘍,S1,L97,UT3D,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1896004518 ,<,ME60.2 & XA47V8
+12,足難治性潰瘍,S1,L97,UT3D,<,http://id.who.int/icd/entity/517516952 & http://id.who.int/icd/entity/1896004518 ,<,ME60.2 & XA47V8
+12,毛細血管拡張性肉芽腫,L,L980,T8ME,=,http://id.who.int/icd/entity/440675859,=,2F26
+12,化膿性肉芽腫,S1,L980,T8ME,=,http://id.who.int/icd/entity/440675859,=,2F26
+12,膿原性肉芽腫,S1,L980,T8ME,=,http://id.who.int/icd/entity/440675859,=,2F26
+12,末梢血管拡張性肉芽腫,S1,L980,T8ME,=,http://id.who.int/icd/entity/440675859,=,2F26
+12,細菌性肉芽腫症,L,L980,VDST,=,http://id.who.int/icd/entity/440675859 & http://id.who.int/icd/entity/83217129,=,2F26 & XN74M
+12,神経症性掻破,L,L981,G9PU,=,http://id.who.int/icd/entity/726494117,=,6B25.1
+12,人工皮膚炎,L,L981,HA14,=,http://id.who.int/icd/entity/2131747719,=,ED00
+12,アカツキ病,L,L981,M8DC,=,http://id.who.int/icd/entity/906356663,<,ME66.Y
+12,あかつき病,S1,L981,M8DC,=,http://id.who.int/icd/entity/906356663,<,ME66.Y
+12,スイート症候群,L,L982,FKQS,≒,http://id.who.int/icd/entity/195212152,=,EB20
+12,SWEET症候群,S1,L982,FKQS,≒,http://id.who.int/icd/entity/195212152,=,EB20
+12,スイート病,L,L982,P5SQ,≒,http://id.who.int/icd/entity/195212152,=,EB20
+12,熱性好中球性皮膚症,S1,L982,P5SQ,=,http://id.who.int/icd/entity/195212152,=,EB20
+12,急性熱性好中球性皮膚症,S1,L982,P5SQ,=,http://id.who.int/icd/entity/195212152,=,EB20
+12,好酸球性蜂巣炎,L,L983,J9T9,=,http://id.who.int/icd/entity/1860796142,=,EB30
+12,好酸球性蜂窩織炎,S1,L983,J9T9,=,http://id.who.int/icd/entity/1860796142,=,EB30
+12,ウェルズ病,S1,L983,J9T9,=,http://id.who.int/icd/entity/1860796142,=,EB30
+12,背部難治性皮膚潰瘍,L,L984,A7K0,<,http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/1187030,<,ME60.2 & XA2P90
+12,背部難治性潰瘍,S1,L984,A7K0,<,http://id.who.int/icd/entity/596352530 & http://id.who.int/icd/entity/1187030,<,ME60.2 & XA2P90
+12,腹部皮膚潰瘍,L,L984,B6GA,=,http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/1983193090,=,ME60.2 & XA6GV0
+12,腹壁潰瘍,S1,L984,B6GA,=,http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/119571850,=,ME60.2 & XA3KX0
+12,腹部潰瘍,S1,L984,B6GA,=,http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/1983193090,=,ME60.2 & XA6GV0
+12,指尖皮膚潰瘍,L,L984,D1BC,=,"http://id.who.int/icd/entity/171812485 & http://id.who.int/icd/entity/309316639　
+",=,ME60.2 & XA7GT9
+12,指先部潰瘍,S1,L984,D1BC,=,http://id.who.int/icd/entity/596352530 & http://id.who.int/icd/entity/309316639,=,ME60.2 & XA7GT9
+12,指尖部皮膚潰瘍,S1,L984,D1BC,=,http://id.who.int/icd/entity/596352530 & http://id.who.int/icd/entity/309316639,=,ME60.2 & XA7GT9
+12,指尖部潰瘍,S1,L984,D1BC,=,http://id.who.int/icd/entity/596352530 & http://id.who.int/icd/entity/309316639,=,ME60.2 & XA7GT9
+12,指尖潰瘍,S1,L984,D1BC,=,http://id.who.int/icd/entity/596352530 & http://id.who.int/icd/entity/309316639,=,ME60.2 & XA7GT9
+12,熱帯性潰瘍,L,L984,D4JH,=,http://id.who.int/icd/entity/126620013,=,EA40
+12,難治性皮膚潰瘍,L,L984,E3DG,<,http://id.who.int/icd/entity/596352530,<,ME60.2
+12,慢性皮膚潰瘍,S1,L984,E3DG,=,http://id.who.int/icd/entity/596352530 & http://id.who.int/icd/entity/490003542,=,ME60.2 & XT8W
+12,皮膚難治性潰瘍,S1,L984,E3DG,<,http://id.who.int/icd/entity/596352530,<,ME60.2
+12,腹壁瘢痕部潰瘍,L,L984,ET4S,<,http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/119571850 ,<,ME60.2 & XA3KX0
+12,手部難治性皮膚潰瘍,L,L984,FFDT,<,http://id.who.int/icd/entity/171812485 & http://id.who.int/icd/entity/430791912,<,ME60.2 & XA5R12
+12,手部難治性潰瘍,S1,L984,FFDT,<,http://id.who.int/icd/entity/171812485 & http://id.who.int/icd/entity/430791912,<,ME60.2 & XA5R12
+12,胸部難治性皮膚潰瘍,L,L984,FKM6,<,http://id.who.int/icd/entity/465900922 &  http://id.who.int/icd/entity/650081113,<,ME60.2 & XA5D93
+12,胸部難治性潰瘍,S1,L984,FKM6,<,http://id.who.int/icd/entity/465900922 &  http://id.who.int/icd/entity/650081113,<,ME60.2 & XA5D93
+12,胸壁難治性潰瘍,S1,L984,FKM6,<,http://id.who.int/icd/entity/465900922 &  http://id.who.int/icd/entity/1656376572,<,ME60.2 & XA55T2
+12,前腕難治性皮膚潰瘍,L,L984,G617,<,http://id.who.int/icd/entity/596352530 & http://id.who.int/icd/entity/1477228030,<,ME60.2 & XA7WB0
+12,前腕部難治性皮膚潰瘍,S1,L984,G617,<,http://id.who.int/icd/entity/596352530 & http://id.who.int/icd/entity/1477228030,<,ME60.2 & XA7WB0
+12,前腕難治性潰瘍,S1,L984,G617,<,http://id.who.int/icd/entity/596352530 & http://id.who.int/icd/entity/1477228030,<,ME60.2 & XA7WB0
+12,前腕皮膚潰瘍,L,L984,G6V3,=,http://id.who.int/icd/entity/596352530 & http://id.who.int/icd/entity/1477228030,=,ME60.2 & XA7WB0
+12,前腕潰瘍,S1,L984,G6V3,=,http://id.who.int/icd/entity/596352530 & http://id.who.int/icd/entity/1477228030,=,ME60.2 & XA7WB0
+12,前腕部潰瘍,S1,L984,G6V3,=,http://id.who.int/icd/entity/596352530 & http://id.who.int/icd/entity/1477228030,=,ME60.2 & XA7WB0
+12,前腕部皮膚潰瘍,S1,L984,G6V3,=,http://id.who.int/icd/entity/596352530 & http://id.who.int/icd/entity/1477228030,=,ME60.2 & XA7WB0
+12,頚部皮膚潰瘍,L,L984,GL2U,=,http://id.who.int/icd/entity/310256253,=,ME60.2 & XA7AA6
+12,頸部皮膚潰瘍,S1,L984,GL2U,=,http://id.who.int/icd/entity/310256253,=,ME60.2 & XA7AA6
+12,頸部潰瘍,S1,L984,GL2U,=,http://id.who.int/icd/entity/310256253,=,ME60.2 & XA7AA6
+12,頚部潰瘍,S1,L984,GL2U,=,http://id.who.int/icd/entity/310256253,=,ME60.2 & XA7AA6
+12,皮膚びらん,L,L984,H3JJ,=,http://id.who.int/icd/entity/596352530,=,ME60.2
+12,皮膚潰瘍,L,L984,HUVQ,=,http://id.who.int/icd/entity/596352530,=,ME60.2
+12,腋窩難治性皮膚潰瘍,L,L984,JG4D,<,"http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/1494375321
+",<,ME60.2 & XA17J1
+12,腋窩部難治性潰瘍,S1,L984,JG4D,<,http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/1896461648 ,<,ME60.2 & XA17J1
+12,背部皮膚潰瘍,L,L984,KPRV,=,"http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/1187030
+",=,ME60.2 & XA2P90
+12,背部潰瘍,S1,L984,KPRV,=,"http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/1187030
+",=,ME60.2 & XA2P90
+12,殿部難治性皮膚潰瘍,L,L984,LSTM,<,http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/1894266247,<,ME60.2 & XA3VA7
+12,殿部難治性潰瘍,S1,L984,LSTM,<,http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/1894266247,<,ME60.2 & XA3VA7
+12,胸部皮膚潰瘍,L,L984,PP1C,=,http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/650081113,=,ME60.2 & XA5D93
+12,胸壁潰瘍,S1,L984,PP1C,=,http://id.who.int/icd/entity/465900922 &  http://id.who.int/icd/entity/1656376572,=,ME60.2 & XA55T2
+12,胸部潰瘍,S1,L984,PP1C,=,http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/650081113,=,ME60.2 & XA5D93
+12,殿部皮膚潰瘍,L,L984,R9TR,=,http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/1894266247,=,ME60.2 & XA3VA7
+12,殿部潰瘍,S1,L984,R9TR,=,http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/1894266247,=,ME60.2 & XA3VA7
+12,殿部巨大潰瘍,S1,L984,R9TR,=,http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/1894266247,=,ME60.2 & XA3VA7
+12,おしり皮膚潰瘍,S1,L984,R9TR,=,http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/1894266247,=,ME60.2 & XA3VA7
+12,頚部難治性皮膚潰瘍,L,L984,RE98,=,http://id.who.int/icd/entity/310256253,=,ME60.2 & XA7AA6
+12,頸部難治性皮膚潰瘍,S1,L984,RE98,=,http://id.who.int/icd/entity/310256253,=,ME60.2 & XA7AA6
+12,頸部難治性潰瘍,S1,L984,RE98,=,http://id.who.int/icd/entity/310256253,=,ME60.2 & XA7AA6
+12,頚部難治性潰瘍,S1,L984,RE98,=,http://id.who.int/icd/entity/310256253,=,ME60.2 & XA7AA6
+12,手部皮膚潰瘍,L,L984,T31H,=,http://id.who.int/icd/entity/171812485 & http://id.who.int/icd/entity/430791912,=,ME60.2 & XA5R12
+12,手皮膚潰瘍,S1,L984,T31H,=,http://id.who.int/icd/entity/171812485 & http://id.who.int/icd/entity/430791912,=,ME60.2 & XA5R12
+12,手潰瘍,S1,L984,T31H,=,http://id.who.int/icd/entity/171812485 & http://id.who.int/icd/entity/430791912,=,ME60.2 & XA5R12
+12,腋窩皮膚潰瘍,L,L984,U8MJ,=,"http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/1494375321
+",=,ME60.2 & XA17J1
+12,腋窩潰瘍,S1,L984,U8MJ,=,"http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/1494375321
+",=,ME60.2 & XA17J1
+12,腋窩部皮膚潰瘍,S1,L984,U8MJ,=,"http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/1494375321
+",=,ME60.2 & XA17J1
+12,指尖難治性皮膚潰瘍,L,L984,U935,<,http://id.who.int/icd/entity/596352530 & http://id.who.int/icd/entity/309316639,<,ME60.2 & XA7GT9
+12,難治性指尖潰瘍,S1,L984,U935,<,http://id.who.int/icd/entity/596352530 & http://id.who.int/icd/entity/309316639,<,ME60.2 & XA7GT9
+12,手指皮膚潰瘍,L,L984,V639,=,http://id.who.int/icd/entity/171812485 & http://id.who.int/icd/entity/822750113,=,ME60.2 & XA2593
+12,指潰瘍,S1,L984,V639,=,http://id.who.int/icd/entity/171812485 & http://id.who.int/icd/entity/822750113,=,ME60.2 & XA2593
+12,指皮膚潰瘍,S1,L984,V639,=,http://id.who.int/icd/entity/171812485 & http://id.who.int/icd/entity/822750113,=,ME60.2 & XA2593
+12,手指潰瘍,S1,L984,V639,=,http://id.who.int/icd/entity/171812485 & http://id.who.int/icd/entity/822750113,=,ME60.2 & XA2593
+12,腹部難治性皮膚潰瘍,L,L984,V7K0,<,http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/1983193090,<,ME60.2 & XA6GV0
+12,腹部難治性潰瘍,S1,L984,V7K0,<,http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/1983193090,<,ME60.2 & XA6GV0
+12,腹壁難治性潰瘍,S1,L984,V7K0,<,http://id.who.int/icd/entity/465900922 & http://id.who.int/icd/entity/119571850 ,<,ME60.2 & XA3KX0
+12,手指難治性皮膚潰瘍,L,L984,V8E2,=,http://id.who.int/icd/entity/171812485 & http://id.who.int/icd/entity/822750113,=,ME60.2 & XA2593
+12,手指難治性潰瘍,S1,L984,V8E2,=,http://id.who.int/icd/entity/171812485 & http://id.who.int/icd/entity/822750113,=,ME60.2 & XA2593
+12,粘液水腫性苔癬,L,L985,A1FF,=,http://id.who.int/icd/entity/15830032,=,EB90.11
+12,ムチン沈着症,L,L985,NJ3J,=,http://id.who.int/icd/entity/2018255084,=,EB90.1
+12,趾粘液のう腫,L,L985,NSM1,=,http://id.who.int/icd/entity/2018255084 & http://id.who.int/icd/entity/1735902769,=,EB90.1 & XA4LC9
+12,足趾粘液嚢腫,S1,L985,NSM1,=,http://id.who.int/icd/entity/2018255084 & http://id.who.int/icd/entity/1735902769,=,EB90.1 & XA4LC9
+12,趾粘液嚢腫,S1,L985,NSM1,=,http://id.who.int/icd/entity/2018255084 & http://id.who.int/icd/entity/1735902769,=,EB90.1 & XA4LC9
+12,足趾粘液のう腫,S1,L985,NSM1,=,http://id.who.int/icd/entity/2018255084 & http://id.who.int/icd/entity/1735902769,=,EB90.1 & XA4LC9
+12,病巣性ムチン症,L,L985,PR48,<,http://id.who.int/icd/entity/2018255084,<,EB90.1
+12,病巣性沈着症,S1,L985,PR48,<,http://id.who.int/icd/entity/2018255084,<,EB90.1
+12,手指粘液のう腫,L,L985,UJ3B,=,http://id.who.int/icd/entity/2018255084 & http://id.who.int/icd/entity/822750113,=,EB90.1 & XA2593
+12,手指粘液嚢腫,S1,L985,UJ3B,=,http://id.who.int/icd/entity/2018255084 & http://id.who.int/icd/entity/822750113,=,EB90.1 & XA2593
+12,ストーマ粘膜皮膚侵入,L,L986,T1A6,<,http://id.who.int/icd/entity/917691180,<,EM0Y / QB61.Z 
+12,ストマ粘膜皮膚移植,S1,L986,T1A6,<,http://id.who.int/icd/entity/917691180,<,EM0Y / QB61.Z 
+12,人工肛門部粘膜皮膚侵入,S1,L986,T1A6,<,http://id.who.int/icd/entity/917691180 / http://id.who.int/icd/entity/1819041366,<,EM0Y / QB61.Z 
+12,人工肛門部粘膜皮膚移植,S1,L986,T1A6,<,http://id.who.int/icd/entity/917691180 / http://id.who.int/icd/entity/1819041366,<,EM0Y / QB61.Z 
+12,ストーマ粘膜皮膚移植,S1,L986,T1A6,<,http://id.who.int/icd/entity/917691180,<,EM0Y / QB61.Z 
+12,ストマ粘膜皮膚侵入,S1,L986,T1A6,<,http://id.who.int/icd/entity/917691180,<,EM0Y / QB61.Z 
+12,点状角質融解症,L,L988,GLV3,=,http://id.who.int/icd/entity/1522505592,<,1C44
+12,難治性瘻孔,L,L988,SB1F,<,http://id.who.int/icd/entity/602989108,<,EG9Z
+12,アトピー皮膚,L,L988,TJHA,=,http://id.who.int/icd/entity/215767047,=,EA80.Z
+12,皮膚瘻,L,L988,VUL4,<,http://id.who.int/icd/entity/602989108,<,EG9Z
+12,瘻孔,S1,L988,VUL4,<,http://id.who.int/icd/entity/602989108,<,EG9Z
+12,瘻孔形成,S1,L988,VUL4,<,http://id.who.int/icd/entity/602989108,<,EG9Z
+12,瘻,S1,L988,VUL4,<,http://id.who.int/icd/entity/602989108,<,EG9Z

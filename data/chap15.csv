@@ -1,0 +1,921 @@
+ICD10 章,標準病名,代表・同義,ICD10コード,交換コード,関係,ICD11 Foundation URI,関係,MMS
+15,腹膜妊娠,L,O000,LD9M,=,http://id.who.int/icd/entity/1396448570,=,JA01.0 
+15,腹腔内妊娠,S1,O000,LD9M,=,http://id.who.int/icd/entity/1396448570,=,JA01.0 
+15,腹腔妊娠,S1,O000,LD9M,=,http://id.who.int/icd/entity/1396448570,=,JA01.0 
+15,卵管膨大部妊娠,L,O001,GGD4,=,http://id.who.int/icd/entity/913821868,=,JA01.1
+15,卵管峡部妊娠,L,O001,HA4S,=,http://id.who.int/icd/entity/913821868,=,JA01.1
+15,卵管狭窄妊娠,S1,O001,HA4S,=,http://id.who.int/icd/entity/913821868,=,JA01.1
+15,卵管妊娠破裂,L,O001,NMDL,=,http://id.who.int/icd/entity/913821868,=,JA01.1
+15,卵管妊娠,L,O001,NSCS,=,http://id.who.int/icd/entity/913821868,=,JA01.1
+15,卵管間質部妊娠,L,O001,PN4J,=,http://id.who.int/icd/entity/232469447,<,JA01.Y
+15,子宮卵管間質部妊娠,S1,O001,PN4J,=,http://id.who.int/icd/entity/913821868,=,JA01.1
+15,卵管流産,L,O001,U52U,=,http://id.who.int/icd/entity/913821868,=,JA01.1
+15,卵巣妊娠,L,O002,HBR1,=,http://id.who.int/icd/entity/1121615955,=,JA01.2 
+15,子宮頚管妊娠,L,O008,HF5S,=,http://id.who.int/icd/entity/514389732,<,JA01.Y 
+15,頸管妊娠,S1,O008,HF5S,=,http://id.who.int/icd/entity/514389732,<,JA01.Y 
+15,頚管妊娠,S1,O008,HF5S,=,http://id.who.int/icd/entity/514389732,<,JA01.Y 
+15,子宮頸管妊娠,S1,O008,HF5S,=,http://id.who.int/icd/entity/514389732,<,JA01.Y 
+15,子宮筋層内妊娠,L,O008,M5L0,=,http://id.who.int/icd/entity/1759864548,<,JA01.Y
+15,子宮広間膜内妊娠,L,O008,R41G,=,http://id.who.int/icd/entity/1036098211,<,JA01.Y
+15,副角妊娠,L,O008,SGKL,=,http://id.who.int/icd/entity/42419141,<,JA01.Y 
+15,子宮副角妊娠,S1,O008,SGKL,=,http://id.who.int/icd/entity/42419141,<,JA01.Y 
+15,副角子宮妊娠,S1,O008,SGKL,=,http://id.who.int/icd/entity/42419141,<,JA01.Y 
+15,異所性妊娠,L,O009,RSVV,=,http://id.who.int/icd/entity/1563334645,=,JA01.Z
+15,外妊,S1,O009,RSVV,=,http://id.who.int/icd/entity/1563334645,=,JA01.Z 
+15,異所妊娠,S1,O009,RSVV,=,http://id.who.int/icd/entity/1563334645,=,JA01.Z 
+15,子宮外妊娠,S1,O009,RSVV,=,http://id.who.int/icd/entity/1563334645,=,JA01.Z 
+15,非侵入全奇胎,L,O010,D7S6,=,http://id.who.int/icd/entity/1338299833,=,JA02.0 
+15,胎児共存奇胎,L,O010,JDQK,<,http://id.who.int/icd/entity/1338299833,<,JA02.0 
+15,全胞状奇胎,L,O010,VCDV,=,http://id.who.int/icd/entity/1338299833,=,JA02.0 
+15,全奇胎,S1,O010,VCDV,=,http://id.who.int/icd/entity/1338299833,=,JA02.0 
+15,非侵入部分奇胎,L,O011,DVC5,<,http://id.who.int/icd/entity/714020909,<,JA02.1 
+15,部分胞状奇胎,L,O011,KRBV,=,http://id.who.int/icd/entity/714020909,=,JA02.1 
+15,部分性胞状奇胎,S1,O011,KRBV,=,http://id.who.int/icd/entity/714020909,=,JA02.1 
+15,部分奇胎,S1,O011,KRBV,=,http://id.who.int/icd/entity/714020909,=,JA02.1 
+15,絨毛性疾患,L,O019,C06J,=,http://id.who.int/icd/entity/946166369,=,JA02.Z
+15,絨毛性腫瘍,S1,O019,C06J,=,http://id.who.int/icd/entity/946166369,=,JA02.Z
+15,胞状奇胎,L,O019,RHFG,=,http://id.who.int/icd/entity/946166369,=,JA02.Z
+15,枯死卵,L,O020,RHM7,=,http://id.who.int/icd/entity/1313043847,=,JA04 
+15,稽留流産,L,O021,MH2A,=,http://id.who.int/icd/entity/721991699,=,JA03
+15,絨毛血管腫,L,O028,AE5U,=,http://id.who.int/icd/entity/588453442,=,JA0Z & XH5AW4
+15,胎盤血管腫,S1,O028,AE5U,=,http://id.who.int/icd/entity/1330705568,<,JA8A.1 
+15,絨毛膜血管腫,S1,O028,AE5U,=,http://id.who.int/icd/entity/588453442,=,JA0Z & XH5AW4
+15,塞栓症併発不全流産,L,O032,QK1R,=,http://id.who.int/icd/entity/1130176621,=,JA00.02 
+15,不全流産,L,O034,U3CA,=,http://id.who.int/icd/entity/1442348653,=,JA00.04 
+15,流産,L,O039,B2QC,=,http://id.who.int/icd/entity/964163142,=,JA00.09 
+15,自然流産,L,O039,CVEV,=,http://id.who.int/icd/entity/964163142,=,JA00.09 
+15,完全流産,L,O039,Q13S,=,http://id.who.int/icd/entity/964163142,=,JA00.09
+15,進行流産,L,O039,UELB,=,http://id.who.int/icd/entity/964163142,=,JA00.09
+15,進行性流産,S1,O039,UELB,=,http://id.who.int/icd/entity/964163142,=,JA00.09
+15,塞栓症合併不完全人工流産,L,O042,PV3P,=,http://id.who.int/icd/entity/2015645997,=,JA00.12
+15,治療的流産,L,O049,DDMQ,=,http://id.who.int/icd/entity/1517114528,=,JA00.1
+15,母胎保護法による人工妊娠中絶,S2,O049,DDMQ,=,http://id.who.int/icd/entity/1517114528,=,JA00.1
+15,医学的流産,S2,O049,DDMQ,=,http://id.who.int/icd/entity/1517114528,=,JA00.1
+15,人工妊娠中絶,L,O049,E6RT,=,http://id.who.int/icd/entity/1451039589,=,JA00.19
+15,人工流産,S1,O049,E6RT,=,http://id.who.int/icd/entity/1451039589,=,JA00.19
+15,妊娠中絶,S2,O049,E6RT,=,http://id.who.int/icd/entity/1451039589,=,JA00.19
+15,非医学的人工妊娠中絶,L,O059,KULF,=,http://id.who.int/icd/entity/1517114528,=,JA00.1
+15,非合法的妊娠中絶,L,O059,N53V,=,http://id.who.int/icd/entity/1517114528,=,JA00.1
+15,感染性流産,L,O068,PS23,=,http://id.who.int/icd/entity/650231750,=,JA05.0
+15,人工妊娠中絶の不成功,L,O074,HLCV,=,http://id.who.int/icd/entity/784335969,=,JA00.3 
+15,人工流産の不成功,S2,O074,HLCV,=,http://id.who.int/icd/entity/784335969,=,JA00.3 
+15,流産後卵巣炎,L,O080,BFN6,=,http://id.who.int/icd/entity/50436307 ,<,JA05.0 / GA07.Z
+15,流産後敗血症性ショック,L,O080,BLKM,=,http://id.who.int/icd/entity/1486595936 / http://id.who.int/icd/entity/1683090852,=,JA05.0 / 1G41
+15,流産後子宮傍結合組織炎,L,O080,CDJ1,=,http://id.who.int/icd/entity/650231750 / http://id.who.int/icd/entity/1230041477,=,JA05.0 / GA05.Z
+15,流産後卵管炎,L,O080,GKJK,=,http://id.who.int/icd/entity/325890325,<,JA05.0 / GA07.Z
+15,流産後子宮内膜炎,L,O080,K8PG,=,http://id.who.int/icd/entity/185788920,<,JA05.0 / GA01.Z 
+15,流産後卵管卵巣炎,L,O080,P2SB,=,http://id.who.int/icd/entity/50436307 ,<,JA05.0 / GA07.Z
+15,流産後卵管-卵巣炎,S1,O080,P2SB,=,http://id.who.int/icd/entity/50436307 ,<,JA05.0 / GA07.Z
+15,流産後敗血症,L,O080,S0TH,=,http://id.who.int/icd/entity/1486595936,=,JA05.0 / 1G40
+15,流産後ＤＩＣ,L,O081,AUEN,=,http://id.who.int/icd/entity/237978982,=,JA05.1 / 3B20
+15,流産後DIC,S0,O081,AUEN,=,http://id.who.int/icd/entity/237978982,=,JA05.1 / 3B20
+15,流産後無フィブリノゲン症,L,O081,V0PM,=,http://id.who.int/icd/entity/1727231880,<,JA05.1 / 3B20
+15,流産後無尿,L,O084,ARKN,=,http://id.who.int/icd/entity/578910208,<,JA05.4 / MF51
+15,流産後乏尿,L,O084,L4B9,=,http://id.who.int/icd/entity/578910208,<,JA05.4 / MF51
+15,流産後尿細管壊死,L,O084,NCPJ,=,http://id.who.int/icd/entity/312201574,=,JA05.4 / GB52
+15,流産後尿毒症,L,O084,QUV2,=,http://id.who.int/icd/entity/1397149747,=,JA05.4 / GB6Z
+15,妊娠・分娩・産褥の既存の本態性高血圧症,L,O100,QA8R,=,http://id.who.int/icd/entity/1126579721,=,JA20.0 
+15,妊娠・分娩・産褥の既存の高血圧性心疾患,L,O101,U28J,=,http://id.who.int/icd/entity/644739997,=,JA20.1 
+15,妊娠・分娩・産褥の既存の高血圧性腎疾患,L,O102,QV48,=,http://id.who.int/icd/entity/1388356450,=,JA20.2 
+15,妊娠・分娩・産褥の既存の高血圧性心腎疾患,L,O103,UB6U,=,http://id.who.int/icd/entity/931884792,=,JA20.3 
+15,妊娠・分娩・産褥の既存の二次性高血圧症,L,O104,J9B1,=,http://id.who.int/icd/entity/1147534692,=,JA20.4 
+15,加重型妊娠高血圧腎症,L,O11,JH2G,=,http://id.who.int/icd/entity/1872761464,=,JA21 
+15,混合型妊娠高血圧症候群,S1,O11,JH2G,=,http://id.who.int/icd/entity/1872761464,=,JA21 
+15,過重型妊娠高血圧腎症,S1,O11,JH2G,=,http://id.who.int/icd/entity/1872761464,=,JA21 
+15,混合型妊娠中毒症,S1,O11,JH2G,=,http://id.who.int/icd/entity/1872761464,=,JA21 
+15,妊娠浮腫,L,O120,A5BK,=,http://id.who.int/icd/entity/1582913208,=,JA22.1 
+15,妊娠蛋白尿,L,O121,TNGJ,=,http://id.who.int/icd/entity/991075106,=,JA22.0
+15,妊娠中一過性高血圧症,L,O13,BJQ3,<,http://id.who.int/icd/entity/2118553363,<,JA23 
+15,妊娠高血圧症,L,O13,VELE,=,http://id.who.int/icd/entity/2118553363,=,JA23 
+15,軽症妊娠高血圧腎症,L,O140,CPQT,=,http://id.who.int/icd/entity/690705840,<,JA24.0 
+15,軽度子癇前症,S1,O140,CPQT,=,http://id.who.int/icd/entity/690705840,<,JA24.0 
+15,軽症妊娠高血圧症候群,L,O140,ND4J,=,http://id.who.int/icd/entity/690705840,<,JA24.0 
+15,軽症妊娠中毒症,S1,O140,ND4J,=,http://id.who.int/icd/entity/690705840,<,JA24.0 
+15,重症妊娠高血圧症候群,L,O141,BB6G,=,http://id.who.int/icd/entity/479404771,=,JA24.1 
+15,重症妊娠中毒症,S1,O141,BB6G,=,http://id.who.int/icd/entity/479404771,=,JA24.1 
+15,妊娠高血圧症候群重症,S1,O141,BB6G,=,http://id.who.int/icd/entity/479404771,=,JA24.1 
+15,重症妊娠高血圧腎症,L,O141,RGB2,=,http://id.who.int/icd/entity/479404771,=,JA24.1 
+15,ＨＥＬＬＰ症候群,L,O142,G58R,=,http://id.who.int/icd/entity/1748922908,=,JA24.2 
+15,HELLP症候群,S0,O142,G58R,=,http://id.who.int/icd/entity/1748922908,=,JA24.2 
+15,ヘルプ症候群,S1,O142,G58R,=,http://id.who.int/icd/entity/1748922908,=,JA24.2 
+15,妊娠高血圧腎症,L,O149,B46A,=,http://id.who.int/icd/entity/229121159,=,JA24.Z
+15,子癇前症,S1,O149,B46A,=,http://id.who.int/icd/entity/229121159,=,JA24.Z
+15,早発型妊娠高血圧症候群,L,O149,FS6K,=,http://id.who.int/icd/entity/2118553363 & http://id.who.int/icd/entity/378801232,=,JA23 & XT2Q 
+15,遅発型妊娠高血圧症候群,L,O149,MTU5,=,http://id.who.int/icd/entity/2118553363 & http://id.who.int/icd/entity/1393648567,=,JA23 & XT3R
+15,後期妊娠中毒症,S1,O149,MTU5,=,http://id.who.int/icd/entity/2118553363,=,JA23 
+15,晩期妊娠中毒,S1,O149,MTU5,=,http://id.who.int/icd/entity/2118553363,=,JA23 
+15,妊娠高血圧症候群,L,O149,PSDA,=,http://id.who.int/icd/entity/2118553363,=,JA23
+15,純粋型妊娠中毒症,S1,O149,PSDA,=,http://id.who.int/icd/entity/229121159,=,JA24.Z
+15,純粋型妊娠高血圧症候群,S1,O149,PSDA,=,http://id.who.int/icd/entity/2118553363,=,JA23
+15,妊娠中毒症,S1,O149,PSDA,=,http://id.who.int/icd/entity/229121159,=,JA24.Z
+15,妊娠子癇,L,O150,E1UF,=,http://id.who.int/icd/entity/1696606198,=,JA25.0
+15,分娩子癇,L,O151,CGR7,=,http://id.who.int/icd/entity/7072356,=,JA25.1 
+15,産褥子癇,L,O152,SEL9,=,http://id.who.int/icd/entity/1959180957,=,JA25.2 
+15,子癇,L,O159,LAQM,=,http://id.who.int/icd/entity/250375350,=,JA25.3 
+15,子癇発作,L,O159,PA1N,=,http://id.who.int/icd/entity/250375350,=,JA25.3
+15,産後高血圧症,L,O16,F5E1,=,http://id.who.int/icd/entity/1042184245 & http://id.who.int/icd/entity/230631349,=,JA2Z & XT4Z
+15,切迫流産,L,O200,NA6B,=,http://id.who.int/icd/entity/1929927516,=,JA40.0
+15,絨毛膜下血腫,L,O208,S9T7,<,http://id.who.int/icd/entity/224131129 & http://id.who.int/icd/entity/156594054 ,<,JA40.Z & XA66R5
+15,妊娠初期の出血,L,O209,DR8J,=,http://id.who.int/icd/entity/224131129,=,JA40.Z 
+15,軽症妊娠悪阻,L,O210,C68A,=,http://id.who.int/icd/entity/1878037467,=,JA60.0 
+15,悪阻,L,O210,N0K7,=,http://id.who.int/icd/entity/1878037467,=,JA60.0 
+15,つわり,S1,O210,N0K7,=,http://id.who.int/icd/entity/1878037467,=,JA60.0 
+15,妊娠悪阻,S1,O210,N0K7,=,http://id.who.int/icd/entity/1878037467,=,JA60.0 
+15,妊娠嘔吐,S1,O210,N0K7,=,http://id.who.int/icd/entity/1878037467,=,JA60.0 
+15,婦人悪阻,S1,O210,N0K7,=,http://id.who.int/icd/entity/1878037467,=,JA60.0 
+15,脱水を伴う妊娠悪阻,L,O211,BKA1,=,http://id.who.int/icd/entity/1924579879,<,JA60.1 
+15,ビタミン欠乏症を伴う妊娠悪阻,L,O211,CGB5,=,http://id.who.int/icd/entity/180051535 / http://id.who.int/icd/entity/699767035 ,<,JA60.1  / 5B7Y 
+15,ビタミン歇乏症を伴う妊娠悪阻,S1,O211,CGB5,=,http://id.who.int/icd/entity/180051535 / http://id.who.int/icd/entity/699767035 ,<,JA60.1  / 5B7Y 
+15,電解質異常を伴う妊娠悪阻,L,O211,DC13,=,http://id.who.int/icd/entity/744135350,<,JA60.1 
+15,炭水化物欠乏症を伴う妊娠悪阻,L,O211,JBGJ,=,http://id.who.int/icd/entity/1469998965,<,JA60.1 
+15,炭水化物歇乏症を伴う妊娠悪阻,S1,O211,JBGJ,=,http://id.who.int/icd/entity/1469998965,<,JA60.1 
+15,ウェルニッケ脳症を伴う妊娠悪阻,L,O211,N6QS,=,http://id.who.int/icd/entity/180051535 / http://id.who.int/icd/entity/1360335041,=,JA60.1 / 5B5A.10
+15,重症妊娠悪阻,L,O211,TRH8,=,http://id.who.int/icd/entity/180051535,=,JA60.1 
+15,妊娠後期嘔吐,L,O212,G7D5,=,http://id.who.int/icd/entity/2115374770,=,JA60.2 
+15,妊娠性静脈瘤,L,O220,VQ6P,=,http://id.who.int/icd/entity/1853305829,=,JA61.0 
+15,妊娠中の下肢静脈瘤,S1,O220,VQ6P,=,http://id.who.int/icd/entity/1853305829,=,JA61.0 
+15,妊娠中の腟静脈瘤,L,O221,DAU7,=,http://id.who.int/icd/entity/1102778797,<,JA61.1 
+15,妊娠中の膣静脈瘤,S1,O221,DAU7,=,http://id.who.int/icd/entity/1102778797,<,JA61.1 
+15,妊娠中の会陰静脈瘤,L,O221,E3N1,=,http://id.who.int/icd/entity/1696206143,<,JA61.1 
+15,妊娠中の性器の静脈瘤,L,O221,FP9P,=,http://id.who.int/icd/entity/188546673,=,JA61.1 
+15,妊娠中の外陰静脈瘤,L,O221,HMSJ,=,http://id.who.int/icd/entity/1726028108 ,<,JA61.1
+15,妊娠中の下肢血栓性静脈炎,L,O222,TD3P,=,http://id.who.int/icd/entity/2140253838 / http://id.who.int/icd/entity/1342264365,=,JA61.2 / BD70.0  
+15,妊娠中の深在静脈血栓症,L,O223,LERG,=,http://id.who.int/icd/entity/450519836,=,JA61.3 
+15,妊娠中の痔核,L,O224,FB6L,=,http://id.who.int/icd/entity/1765077136,=,JA61.4 
+15,妊娠中の脳静脈血栓症,L,O225,VSFK,=,http://id.who.int/icd/entity/209665306,=,JA61.5 
+15,妊娠性静脈炎,L,O229,C0NC,=,http://id.who.int/icd/entity/633358134,<,JA61.Y 
+15,妊娠性静脈症,S2,O229,C0NC,=,http://id.who.int/icd/entity/633358134,<,JA61.Y 
+15,妊娠中の静脈合併症,S2,O229,C0NC,=,http://id.who.int/icd/entity/482174292,=,JA61.Z 
+15,妊娠性静脈血栓症,L,O229,JGP4,=,http://id.who.int/icd/entity/534363040,<,JA61.Y 
+15,妊娠中の腎感染症,L,O230,BKBH,=,http://id.who.int/icd/entity/1922038628,=,JA62.0
+15,妊娠中の膀胱感染症,L,O231,RKRU,=,http://id.who.int/icd/entity/398735090,=,JA62.1
+15,妊娠中の尿道感染症,L,O232,FKU8,=,http://id.who.int/icd/entity/1667851791,=,JA62.2
+15,妊娠中の無症候性細菌尿,L,O234,G35E,=,http://id.who.int/icd/entity/1976317967,<,JA62.Y
+15,妊娠中の子宮頚管炎,L,O235,A11V,=,http://id.who.int/icd/entity/607839855,=,JA62.4 & XA5WW1 
+15,妊娠中の子宮頸管炎,S1,O235,A11V,=,http://id.who.int/icd/entity/607839855,=,JA62.4 & XA5WW1 
+15,妊娠中の子宮内感染,L,O235,FK7L,=,http://id.who.int/icd/entity/1907993182 /  http://id.who.int/icd/entity/1488350448,=,JA62.4 / GA01.Z
+15,妊娠中のＢ群溶連菌性腟炎,L,O235,HSE7,=,http://id.who.int/icd/entity/1432580606 & http://id.who.int/icd/entity/942223947,=,"JA62.4 & XN2M1 / GA02.Z
+"
+15,妊娠中のB群溶連菌性腟炎,S0,O235,HSE7,=,http://id.who.int/icd/entity/1432580606 & http://id.who.int/icd/entity/942223947,=,JA62.4 & XN2M1
+15,妊娠中のB群溶連菌性膣炎,S1,O235,HSE7,=,http://id.who.int/icd/entity/1432580606 & http://id.who.int/icd/entity/942223947,=,JA62.4 & XN2M1
+15,GBS膣炎・妊娠中,S1,O235,HSE7,=,http://id.who.int/icd/entity/1432580606 & http://id.who.int/icd/entity/942223947,=,JA62.4 & XN2M1
+15,GBS腟炎・妊娠中,S1,O235,HSE7,=,http://id.who.int/icd/entity/1432580606 & http://id.who.int/icd/entity/942223947,=,JA62.4 & XN2M1
+15,妊娠中の性器感染症,L,O235,KHVC,=,http://id.who.int/icd/entity/277345691,=,JA62.4 
+15,子宮内感染症,L,O235,N6H3,=,http://id.who.int/icd/entity/1907993182,=,JA62.4 & XA99N3
+15,子宮内感染,S1,O235,N6H3,=,http://id.who.int/icd/entity/1907993182,=,JA62.4 & XA99N3
+15,子宮内感染(症),S1,O235,N6H3,=,http://id.who.int/icd/entity/1907993182,=,JA62.4 & XA99N3
+15,妊娠中の尿路性器感染症,L,O239,E54N,=,http://id.who.int/icd/entity/2046208198,=,JA62.Z 
+15,１型糖尿病合併妊娠,L,O240,EDTN,=,http://id.who.int/icd/entity/1240893990,=,JA63.0 
+15,1型糖尿病合併妊娠,S0,O240,EDTN,=,http://id.who.int/icd/entity/1240893990,=,JA63.0 
+15,インスリン依存性糖尿病合併妊娠,S2,O240,EDTN,=,http://id.who.int/icd/entity/1240893990,=,JA63.0 
+15,２型糖尿病合併妊娠,L,O241,VE1M,=,http://id.who.int/icd/entity/750602160,=,JA63.1
+15,2型糖尿病合併妊娠,S0,O241,VE1M,=,http://id.who.int/icd/entity/750602160,=,JA63.1
+15,インスリン非依存性糖尿病合併妊娠,S2,O241,VE1M,=,http://id.who.int/icd/entity/750602160,=,JA63.1
+15,妊娠糖尿病,L,O244,PFM2,=,http://id.who.int/icd/entity/1320503631,=,JA63.2
+15,妊娠性糖尿病,S1,O244,PFM2,=,http://id.who.int/icd/entity/1320503631,=,JA63.2
+15,妊娠中の糖尿病,L,O249,EJ7H,=,http://id.who.int/icd/entity/169360210,=,JA63.Z
+15,妊娠中の栄養失調症,L,O25,JC2A,=,http://id.who.int/icd/entity/1867773640,=,JA64 
+15,妊娠中の体重過剰増加,L,O260,AVNN,=,http://id.who.int/icd/entity/1418322587,=,JA65.2
+15,妊娠中の体重増加不良,L,O261,HL1G,=,http://id.who.int/icd/entity/834809615,=,JA65.3 
+15,習慣流産妊娠の管理,L,O262,HB96,=,http://id.who.int/icd/entity/1164935152,=,JA65.4 
+15,妊娠中の遺残した子宮内避妊器具,L,O263,E2C3,=,http://id.who.int/icd/entity/539275878,=,JA65.5 
+15,妊娠性疱疹,L,O264,JJ56,=,http://id.who.int/icd/entity/1405755890,=,JA65.10
+15,妊娠性ヘルペス,S1,O264,JJ56,=,http://id.who.int/icd/entity/1405755890,=,JA65.10
+15,妊娠中のヘルペス感染症,S2,O264,JJ56,=,http://id.who.int/icd/entity/1405755890,=,JA65.10
+15,仰臥位低血圧症候群,L,O265,ARGQ,=,http://id.who.int/icd/entity/914484324,=,JA65.6
+15,母体の低血圧症候群,L,O265,G4SH,=,http://id.who.int/icd/entity/914484324,=,JA65.6
+15,妊娠中肝障害,L,O266,F08F,=,http://id.who.int/icd/entity/1110228123,=,JA65.0 
+15,妊娠肝,S2,O266,F08F,=,http://id.who.int/icd/entity/1110228123,=,JA65.0 
+15,妊娠中の黄疸,L,O266,GD7H,=,http://id.who.int/icd/entity/1110228123 / http://id.who.int/icd/entity/1056591229,=,JA65.0 / ME10.1
+15,妊娠黄疸,S1,O266,GD7H,=,http://id.who.int/icd/entity/1110228123 / http://id.who.int/icd/entity/1056591229,=,JA65.0 / ME10.1
+15,妊娠性黄疸,S1,O266,GD7H,=,http://id.who.int/icd/entity/1110228123 / http://id.who.int/icd/entity/1056591229,=,JA65.0 / ME10.1
+15,妊娠性反復性黄疸,L,O266,JFS6,=,http://id.who.int/icd/entity/1110228123  / http://id.who.int/icd/entity/1056591229 & http://id.who.int/icd/entity/1721353160,=,JA65 .0 / ME10.1 & XT44
+15,急性妊娠脂肪肝,L,O266,VUUA,=,http://id.who.int/icd/entity/1226221530,<,JA65 .0
+15,妊娠性急性脂肪肝,S1,O266,VUUA,=,http://id.who.int/icd/entity/1226221530,<,JA65 .0
+15,恥骨結合開離,L,O267,EPBE,=,http://id.who.int/icd/entity/661090575,=,JA65.7 
+15,妊娠性末梢神経炎,L,O268,E225,=,http://id.who.int/icd/entity/1545981529,<,"JA65.Y / 8C1Z
+"
+15,妊娠性多発神経炎,S1,O268,E225,<,http://id.who.int/icd/entity/473120302,<,JA65.Y 
+15,妊娠性神経炎,S1,O268,E225,=,http://id.who.int/icd/entity/1545981529,<,JA65.Y 
+15,妊娠神経炎,S1,O268,E225,=,http://id.who.int/icd/entity/1545981529,<,JA65.Y 
+15,妊娠性エプーリス,L,O268,F8FN,=,http://id.who.int/icd/entity/469673529 / http://id.who.int/icd/entity/159004102,=,JA65.Y / DA0B.Y
+15,妊娠高血圧網膜症,L,O268,KQP2,=,http://id.who.int/icd/entity/218513628 & http://id.who.int/icd/entity/714822826,=,9B71.1 & XT0S
+15,妊娠中毒網膜症,S1,O268,KQP2,=,http://id.who.int/icd/entity/218513628 / http://id.who.int/icd/entity/2118553363,=,9B71.1 / JA23
+15,水腎症合併妊娠,L,O268,L0FC,=,http://id.who.int/icd/entity/1820143581 /http://id.who.int/icd/entity/1379313682,=,JA65.Y / GB56.4
+15,妊娠腎,L,O268,P80B,=,http://id.who.int/icd/entity/1820143581,=,JA65.Y / GC2Z & XA6KU8
+15,妊娠時腎症,S2,O268,P80B,=,http://id.who.int/icd/entity/1820143581,=,JA65.Y / GC2Z & XA6KU8
+15,妊娠性腎疾患,S2,O268,P80B,=,http://id.who.int/icd/entity/1820143581,=,JA65.Y / GC2Z & XA6KU8
+15,妊娠水腎症,L,O268,SNS9,=,http://id.who.int/icd/entity/1820143581 /http://id.who.int/icd/entity/1379313682,=,JA65.Y / GB56.4
+15,妊娠性水腎症,S1,O268,SNS9,<,http://id.who.int/icd/entity/1820143581 /http://id.who.int/icd/entity/1379313682,<,JA65.Y / GB56.4
+15,妊娠性の衰弱および疲労,L,O268,T22U,=,http://id.who.int/icd/entity/218513628,=,JA65.Y / MG22
+15,妊娠性歯肉炎,L,O268,TKMB,=,http://id.who.int/icd/entity/810195673,<,DA0B.Y 
+15,妊娠中の肺の圧迫性虚脱,L,O290,B72G,=,http://id.who.int/icd/entity/1068855712,<,JA67.0
+15,妊娠中呼吸器合併症,L,O290,DF84,=,http://id.who.int/icd/entity/437072167,=,JA67.0 
+15,妊娠中メンデルソン症候群,L,O290,PTU9,=,http://id.who.int/icd/entity/375502347,=,JA67.0 / CA72
+15,妊娠中誤嚥性肺炎,L,O290,S4EM,=,http://id.who.int/icd/entity/375502347,=,JA67.0 / CA72
+15,妊娠中誤嚥性肺臓炎,S1,O290,S4EM,=,http://id.who.int/icd/entity/375502347,=,JA67.0 / CA72
+15,妊娠中の麻酔による心不全,L,O291,HD64,=,http://id.who.int/icd/entity/1703916861,=,JA67.1 / BD1Z
+15,妊娠中の麻酔による心停止,L,O291,TH38,=,http://id.who.int/icd/entity/777118106,=,JA67.1 / MC82.Z
+15,妊娠中の麻酔による脳無酸素症,L,O292,GH97,=,http://id.who.int/icd/entity/1244313347,=,JA67.2 / 8B24.0
+15,妊娠中の局所麻酔に対する中毒反応,L,O293,R15N,=,http://id.who.int/icd/entity/1856004568,=,JA67.3
+15,妊娠中の挿管不成功,L,O296,E82T,=,http://id.who.int/icd/entity/212365095,=,JA67.5
+15,妊娠中の挿管困難,L,O296,KTH3,=,http://id.who.int/icd/entity/212365095,=,JA67.5
+15,妊娠中の麻酔合併症,L,O299,S8FN,=,http://id.who.int/icd/entity/1721217915,=,JA67.Z 
+15,二絨毛膜二羊膜性双胎,L,O300,L2A0,<,http://id.who.int/icd/entity/1662154859,<,JA80.0 
+15,二羊膜二絨毛膜双胎,S1,O300,L2A0,<,http://id.who.int/icd/entity/1662154859,<,JA80.0 
+15,二絨毛膜二羊膜双胎,S1,O300,L2A0,<,http://id.who.int/icd/entity/1662154859,<,JA80.0 
+15,一絨毛膜二羊膜性双胎,L,O300,M978,<,http://id.who.int/icd/entity/1662154859,<,JA80.0 
+15,一絨毛膜二羊膜双胎,S1,O300,M978,<,http://id.who.int/icd/entity/1662154859,<,JA80.0 
+15,一絨毛膜一羊膜性双胎,L,O300,S9QK,<,http://id.who.int/icd/entity/1662154859,<,JA80.0 
+15,一絨毛膜一羊膜双胎,S1,O300,S9QK,<,http://id.who.int/icd/entity/1662154859,<,JA80.0 
+15,双胎妊娠,L,O300,TNMN,=,http://id.who.int/icd/entity/1662154859,=,JA80.0 
+15,三胎妊娠,L,O301,GHFV,=,http://id.who.int/icd/entity/106542591,=,JA80.1 
+15,四胎妊娠,L,O302,MHGU,=,http://id.who.int/icd/entity/1928652032,=,JA80.2
+15,五胎妊娠,L,O308,PKD0,=,http://id.who.int/icd/entity/775149547,<,JA80.Y 
+15,多胎妊娠,L,O309,A1P9,=,http://id.who.int/icd/entity/1520349216,=,JA80.Z
+15,圧縮胎児,L,O310,FRPG,=,http://id.who.int/icd/entity/2146087146,=,JA81.0
+15,紙様胎児,S1,O310,FRPG,=,http://id.who.int/icd/entity/2146087146,=,JA81.0
+15,一胎以上流産後の妊娠継続,L,O311,Q731,=,http://id.who.int/icd/entity/446791040,=,JA81.1 
+15,一胎以上子宮内死亡後の妊娠継続,L,O312,RJMK,=,http://id.who.int/icd/entity/1846291841,=,JA81.2 
+15,多胎妊娠に特異的な合併症,L,O318,LSQ9,=,http://id.who.int/icd/entity/1070955958,=,JA81.Z
+15,不安定胎位のための母体管理,L,O320,PHCM,=,http://id.who.int/icd/entity/2121076950,=,JA82.0 
+15,不全足位,L,O321,ABML,<,http://id.who.int/icd/entity/682638346,<, KA05.0 
+15,膝位,L,O321,C0B1,<,http://id.who.int/icd/entity/682638346,<, KA05.0 
+15,骨盤位のための母体管理,L,O321,CBUA,=,http://id.who.int/icd/entity/455531840,=,JA82.1 
+15,複殿位,L,O321,CRHE,<,http://id.who.int/icd/entity/682638346,<, KA05.0 
+15,骨盤位,L,O321,H4JQ,=,http://id.who.int/icd/entity/455531840,=,JA82.1 
+15,全足位,L,O321,SCHJ,<,http://id.who.int/icd/entity/682638346,<, KA05.0 
+15,単殿位,L,O321,SM92,<,http://id.who.int/icd/entity/682638346,<, KA05.0 
+15,足位,L,O321,UDQE,<,http://id.who.int/icd/entity/682638346,<,KA05.0
+15,斜位のための母体管理,L,O322,JK1V,=,http://id.who.int/icd/entity/784253996,<,JA82.2
+15,横位,L,O322,NBDV,=,http://id.who.int/icd/entity/728699714,<,JA82.2
+15,横位のための母体管理,L,O322,PJND,=,http://id.who.int/icd/entity/728699714,<,JA82.2
+15,前頭位分娩,L,O323,D5BG,=,http://id.who.int/icd/entity/180371499,=,JA82.3 
+15,顔位分娩,L,O323,DLLL,=,http://id.who.int/icd/entity/180371499,=,JA82.3 
+15,頤位のための母体管理,L,O323,JL06,=,http://id.who.int/icd/entity/180371499,=,JA82.3 
+15,額位分娩,L,O323,NCTK,=,http://id.who.int/icd/entity/1612117911,<,JA82.3 
+15,顔位のための母体管理,L,O323,TMAN,=,http://id.who.int/icd/entity/180371499,=,JA82.3 
+15,前頭位のための母体管理,L,O323,UHUG,=,http://id.who.int/icd/entity/180371499,=,JA82.3 
+15,額位のための母体管理,L,O323,VSET,=,http://id.who.int/icd/entity/1612117911,<,JA82.3 
+15,正期産における児頭陥入不全のための母体管理,L,O324,EVCD,=,http://id.who.int/icd/entity/2033111999,=,JA82.4
+15,複合胎位のための母体管理,L,O326,BNQQ,=,http://id.who.int/icd/entity/1757957844,=,JA82.6
+15,後方後頭位分娩,L,O328,R4US,<,http://id.who.int/icd/entity/1266167115,<,JA82.Y
+15,異常胎位,L,O329,BAPV,=,http://id.who.int/icd/entity/1266167115,=,JA82.Z
+15,回旋異常,L,O329,E0K8,=,http://id.who.int/icd/entity/1266167115,=,JA82.Z
+15,既知の胎位異常あるいはその疑いのための母体管理,L,O329,PTR6,=,http://id.who.int/icd/entity/1266167115,=,JA82.Z
+15,骨盤変形,L,O330,FVQF,=,http://id.who.int/icd/entity/1653987413,=,JA83.0
+15,変形骨盤,S1,O330,FVQF,=,http://id.who.int/icd/entity/1653987413,=,JA83.0
+15,狭骨盤,L,O331,BD6K,=,http://id.who.int/icd/entity/131995073,=,JA83.1 
+15,比較的狭骨盤,L,O331,VBPL,<,http://id.who.int/icd/entity/131995073,<,JA83.1 
+15,骨盤入口狭窄,L,O332,UL0D,=,http://id.who.int/icd/entity/1936934208,=,JA83.2
+15,中部骨産道狭窄症,L,O333,C9K7,=,http://id.who.int/icd/entity/372803754,=,JA83.3 
+15,中部骨産道狭窄,S1,O333,C9K7,<,http://id.who.int/icd/entity/372803754,<,JA83.3 
+15,男性型骨盤,L,O333,F8G1,=,http://id.who.int/icd/entity/1940549586,<,JA83.3 
+15,骨盤出口狭窄,L,O333,SNS0,=,http://id.who.int/icd/entity/372803754,=,JA83.3 
+15,巨大児分娩,L,O335,FL1K,=,http://id.who.int/icd/entity/10344108,=,JA83.5
+15,超巨大児分娩,L,O335,LMCQ,=,http://id.who.int/icd/entity/10344108,=,JA83.5
+15,巨大児による骨盤不均衡,L,O335,PUV5,=,http://id.who.int/icd/entity/10344108,=,JA83.5
+15,頭囲拡大,L,O336,BSKS,=,http://id.who.int/icd/entity/1949337173,=,JA83.6 
+15,胎児仙尾部奇形腫による骨盤不均衡,L,O337,S2RJ,=,http://id.who.int/icd/entity/1118257368,=,JA83.Y
+15,既知の胎児骨盤不均衡またはその疑いのための母体管理,L,O339,F077,=,http://id.who.int/icd/entity/775151839,=,JA83.Z
+15,児頭骨盤不均衡,L,O339,KC6J,=,http://id.who.int/icd/entity/775151839,=,JA83.Z
+15,児頭骨盤不適合,S1,O339,KC6J,=,http://id.who.int/icd/entity/775151839,=,JA83.Z
+15,CPD,S1,O339,KC6J,=,http://id.who.int/icd/entity/775151839,=,JA83.Z
+15,胎児骨盤不均衡,S1,O339,KC6J,=,http://id.who.int/icd/entity/775151839,=,JA83.Z
+15,管状骨盤,L,O339,VSGC,<,http://id.who.int/icd/entity/775151839,<,JA83.Z 
+15,子宮の先天奇形のための母体管理,L,O340,V3BD,=,http://id.who.int/icd/entity/1508682005,=,JA84.0 
+15,子宮腫瘍のための母体管理,L,O341,AUD2,=,http://id.who.int/icd/entity/481798342,<,JA84.1
+15,筋腫合併妊娠,L,O341,N1H0,=,http://id.who.int/icd/entity/481798342,<,JA84.1
+15,子宮筋腫合併妊娠,S1,O341,N1H0,=,http://id.who.int/icd/entity/481798342,<,JA84.1
+15,筋腫合併分娩,L,O341,RNBL,=,http://id.who.int/icd/entity/481798342,<,JA84.1
+15,既往子宮術後分娩,L,O342,MA8S,=,http://id.who.int/icd/entity/1208628350,=,JA84.2 
+15,既往子宮手術後分娩,S1,O342,MA8S,=,http://id.who.int/icd/entity/1208628350,=,JA84.2 
+15,既往子宮術後妊娠,L,O342,S3VM,=,http://id.who.int/icd/entity/1208628350,=,JA84.2 
+15,既往子宮手術後妊娠,S1,O342,S3VM,=,http://id.who.int/icd/entity/1208628350,=,JA84.2 
+15,既往帝切後妊娠,L,O342,V0DF,=,http://id.who.int/icd/entity/1507278767,=,JA84.2 / JB0D.6
+15,子宮頚管無力症のための母体管理,L,O343,RSC3,=,http://id.who.int/icd/entity/759298540,=,JA84.3 
+15,子宮頸管無力症のための母体管理,S1,O343,RSC3,=,http://id.who.int/icd/entity/759298540,=,JA84.3 
+15,軟産道強靱症,L,O344,AC4P,=,http://id.who.int/icd/entity/577575903,<,JA84.Y
+15,軟産道強靭症,S1,O344,AC4P,=,http://id.who.int/icd/entity/577575903,<,JA84.Y
+15,頸管強靱症,S2,O344,AC4P,=,http://id.who.int/icd/entity/577575903,<,JA84.Y
+15,頚管強靱症,S2,O344,AC4P,=,http://id.who.int/icd/entity/577575903,<,JA84.Y
+15,頚管強靭症,S2,O344,AC4P,=,http://id.who.int/icd/entity/577575903,<,JA84.Y
+15,頚管熟化不全,L,O344,CTCE,=,http://id.who.int/icd/entity/577575903,<,JA84.Z
+15,子宮頚管熟化不全,S1,O344,CTCE,=,http://id.who.int/icd/entity/577575903,<,JA84.Z
+15,頸管熟化不全,S1,O344,CTCE,=,http://id.who.int/icd/entity/577575903,<,JA84.Z
+15,子宮口開大不全,L,O344,D5J9,=,http://id.who.int/icd/entity/577575903,<,JA84.Y
+15,軟産道伸展不良,L,O344,DV6S,=,http://id.who.int/icd/entity/577575903,<,JA84.Y
+15,軟産道軟化不全,S2,O344,DV6S,=,http://id.who.int/icd/entity/577575903,<,JA84.Y
+15,子宮頚部腫瘍合併妊娠,L,O344,HJKG,=,http://id.who.int/icd/entity/337258435,<,JA84.Y
+15,子宮頸部腫瘍合併妊娠,S1,O344,HJKG,=,http://id.who.int/icd/entity/337258435,<,JA84.Z
+15,腟異常のための母体管理,L,O346,N2QD,=,http://id.who.int/icd/entity/1330247445,=,JA84.4 
+15,膣異常のための母体管理,S1,O346,N2QD,=,http://id.who.int/icd/entity/1330247445,=,JA84.4 
+15,卵巣腫瘍合併妊娠,L,O348,FF2B,=,http://id.who.int/icd/entity/1600798842,=,JA84.Y
+15,子宮付属器腫瘍合併妊娠,L,O348,L714,=,http://id.who.int/icd/entity/1574794059 / http://id.who.int/icd/entity/510389001,=,JA84.Y / 2F33 & XA7E69
+15,子宮附属器腫瘍合併妊娠,S1,O348,L714,=,http://id.who.int/icd/entity/1574794059 / http://id.who.int/icd/entity/510389001,=,JA84.Y / 2F33 & XA7E69
+15,膀胱瘤合併妊娠,L,O348,RGV8,=,http://id.who.int/icd/entity/631895781,<,JA84.Y
+15,既知の母体骨盤臓器の異常またはその疑いのための母体管理,L,O349,P22V,=,http://id.who.int/icd/entity/1466642371,<,JA84.Y
+15,胎児水頭症,L,O350,APE4,=,http://id.who.int/icd/entity/410124169,<,JA85.0 
+15,胎児中枢神経系奇形,L,O350,UFC2,=,http://id.who.int/icd/entity/1158963604,=,JA85.0
+15,胎児染色体異常,L,O351,AHG5,=,http://id.who.int/icd/entity/543140866,=,JA85.1 
+15,妊娠中風疹感染,L,O353,LP36,=,http://id.who.int/icd/entity/257903239,=,JA85.3 & XN2WE
+15,サイトメガロウイルス感染症合併妊娠,L,O353,T29L,=,http://id.who.int/icd/entity/1064083725,=,JA85.3 / 1D82.Z 
+15,サイトメガロウイルス感染合併妊娠,S1,O353,T29L,=,http://id.who.int/icd/entity/1064083725,=,JA85.3 / 1D82.Z 
+15,胎児水腎症,L,O358,E7LC,=,http://id.who.int/icd/entity/949403359 / http://id.who.int/icd/entity/1379313682,=,JA85.Y / GB56.4
+15,胎児腎疾患のための母体管理,L,O358,EVHS,=,http://id.who.int/icd/entity/949403359 / http://id.who.int/icd/entity/1914766361,=,JA85.Y / GC2Z & XA6KU8 
+15,胎児心疾患のための母体管理,L,O358,F9TE,=,http://id.who.int/icd/entity/949403359 / http://id.who.int/icd/entity/2135151223,=,JA85.Y / BC4Z 
+15,胎児胸水,L,O358,U3EF,=,http://id.who.int/icd/entity/949403359 / http://id.who.int/icd/entity/11236328,=,JA85.Y  / CB27
+15,胎児無心体のための母体管理,L,O358,VRU1,<,http://id.who.int/icd/entity/1267984194,<,JA85.Z
+15,胎児奇形,L,O359,B6AC,=,http://id.who.int/icd/entity/949403359,=,JA85.Z
+15,胎児異常,L,O359,FLC2,=,http://id.who.int/icd/entity/949403359,=,JA85.Z
+15,Ｄ不適合,L,O360,BA6E,=,http://id.who.int/icd/entity/520875155,<,JA86.0 
+15,D不適合,S0,O360,BA6E,=,http://id.who.int/icd/entity/520875155,<,JA86.0 
+15,Ｒｈ不適合,L,O360,C8SM,=,http://id.who.int/icd/entity/520875155,<,JA86.0 
+15,RH不適合,S0,O360,C8SM,=,http://id.who.int/icd/entity/520875155,<,JA86.0 
+15,RH不適合妊娠,S1,O360,C8SM,=,http://id.who.int/icd/entity/520875155,<,JA86.0 
+15,Ｅ不適合,L,O360,N5CH,=,http://id.who.int/icd/entity/520875155,<,JA86.0 
+15,E不適合,S0,O360,N5CH,=,http://id.who.int/icd/entity/520875155,<,JA86.0 
+15,血液型不適合,L,O361,EBSU,=,http://id.who.int/icd/entity/567807038,<,JA86.Y
+15,血液型不適合妊娠,S1,O361,EBSU,=,http://id.who.int/icd/entity/567807038,<,JA86.Y
+15,母児間血液型不適合,S1,O361,EBSU,=,http://id.who.int/icd/entity/567807038,<,JA86.Y
+15,ミラー症候群,L,O362,EQ37,<,http://id.who.int/icd/entity/1433754817,<,JA86.1 
+15,バランタイン症候群,S1,O362,EQ37,<,http://id.who.int/icd/entity/1433754817,<,JA86.1 
+15,BALLANTYNE症候群,S1,O362,EQ37,<,http://id.who.int/icd/entity/1433754817,<,JA86.1 
+15,胎児水腫のための母体管理,L,O362,K9HS,=,http://id.who.int/icd/entity/1433754817,=,JA86.1 
+15,重症胎児水腫のための母体管理,L,O362,LN3D,=,http://id.who.int/icd/entity/1433754817,=,JA86.1 
+15,非重症胎児水腫のための母体管理,L,O362,TJQG,=,http://id.who.int/icd/entity/1433754817,=,JA86.1 
+15,胎児機能不全・妊娠中,L,O363,T2KF,=,http://id.who.int/icd/entity/1389328275,<,JA86.2 
+15,胎児機能不全・非分娩時,S1,O363,T2KF,=,http://id.who.int/icd/entity/1389328275,<,JA86.2 
+15,胎児低酸素症のための母体管理,S2,O363,T2KF,=,http://id.who.int/icd/entity/809406805,=,JA86.2 
+15,子宮内胎児死亡,L,O364,S7H7,=,http://id.who.int/icd/entity/1137705665,=,JA86.3 
+15,子宮内胎児死亡のための母体管理,L,O364,T8HQ,=,http://id.who.int/icd/entity/1137705665,=,JA86.3 
+15,胎盤機能不全,L,O365,HC35,=,http://id.who.int/icd/entity/1485728385,<,JA86.4 
+15,胎盤機能障害,S1,O365,HC35,=,http://id.who.int/icd/entity/1485728385,<,JA86.4 
+15,胎盤機能低下,S1,O365,HC35,=,http://id.who.int/icd/entity/1485728385,<,JA86.4 
+15,胎盤機能不全症,S1,O365,HC35,=,http://id.who.int/icd/entity/1485728385,<,JA86.4 
+15,胎盤機能低下のための母体管理,S1,O365,HC35,=,http://id.who.int/icd/entity/1485728385,<,JA86.4 
+15,胎盤不全症候群,S1,O365,HC35,=,http://id.who.int/icd/entity/1485728385,<,JA86.4 
+15,胎児栄養失調症,S2,O365,HC35,=,http://id.who.int/icd/entity/647745365,=,JA86.4 
+15,胎児発育不全のための母体管理,L,O365,UE99,=,http://id.who.int/icd/entity/647745365,=,JA86.4 
+15,胎児発育不全・母体,S1,O365,UE99,=,http://id.who.int/icd/entity/647745365,=,JA86.4 
+15,子宮内胎児発育不全のための母体管理,S1,O365,UE99,=,http://id.who.int/icd/entity/647745365,=,JA86.4 
+15,胎児過剰発育のための母体管理,L,O366,H180,=,http://id.who.int/icd/entity/1379311530,=,JA86.5 
+15,巨大児妊娠,L,O366,M6JM,=,http://id.who.int/icd/entity/1379311530,=,JA86.5 
+15,潜在胎児機能不全,L,O368,NUEH,=,http://id.who.int/icd/entity/1278996002,=,JA86.Z 
+15,潜在胎児仮死,S1,O368,NUEH,=,http://id.who.int/icd/entity/1278996002,=,JA86.Z 
+15,切迫仮死,S1,O368,NUEH,=,http://id.who.int/icd/entity/1313876091,=,KB20.Z
+15,胎児因子による羊水過多症,L,O40,CL9P,=,http://id.who.int/icd/entity/649416238,=,JA87
+15,羊水過多症,L,O40,FHDH,=,http://id.who.int/icd/entity/649416238,=,JA87
+15,羊水過多(症),S1,O40,FHDH,=,http://id.who.int/icd/entity/649416238,=,JA87
+15,羊水過多,S1,O40,FHDH,=,http://id.who.int/icd/entity/649416238,=,JA87
+15,母体因子による羊水過多症,L,O40,L4UT,=,http://id.who.int/icd/entity/649416238,=,JA87
+15,急性羊水過多症,L,O40,U26Q,=,http://id.who.int/icd/entity/649416238 & http://id.who.int/icd/entity/786106375,=,JA87 & XT5R 
+15,原因不明の羊水過少症,L,O410,CA41,=,http://id.who.int/icd/entity/262953341,=,JA88.0 
+15,胎児因子による羊水過少症,L,O410,DTAL,=,http://id.who.int/icd/entity/262953341,=,JA88.0 
+15,羊水過少症,L,O410,GGRM,=,http://id.who.int/icd/entity/262953341,=,JA88.0 
+15,羊水過少(症),S1,O410,GGRM,=,http://id.who.int/icd/entity/262953341,=,JA88.0 
+15,羊水過少,S1,O410,GGRM,=,http://id.who.int/icd/entity/262953341,=,JA88.0 
+15,卵膜炎,L,O411,C7CN,=,http://id.who.int/icd/entity/54972624 & http://id.who.int/icd/entity/1192277156,=,JA88.1 & XA85H
+15,羊水感染症,L,O411,P77G,=,http://id.who.int/icd/entity/1393838991 & http://id.who.int/icd/entity/9052694,=,JA88.1 & XA33K
+15,胎盤炎,L,O411,Q5F7,=,http://id.who.int/icd/entity/106675648,=,JA88.1 & XA90F8 
+15,絨毛膜羊膜炎,L,O411,R3LJ,=,http://id.who.int/icd/entity/203071698,<,JA88.1 
+15,絨毛羊膜炎,S1,O411,R3LJ,=,http://id.who.int/icd/entity/203071698,<,JA88.1 
+15,羊膜炎,S1,O411,R3LJ,=,http://id.who.int/icd/entity/54972624 & http://id.who.int/icd/entity/1901492070,=,JA88.1 & XA8XR0 
+15,羊水混濁,L,O418,F4N0,=,http://id.who.int/icd/entity/1782373380,=,KD38 
+15,卵膜異常,L,O419,G4PQ,=,http://id.who.int/icd/entity/1140753340 & http://id.who.int/icd/entity/1192277156,=,JA88.Z & XA85H6
+15,前期破水・分娩開始が破水後２４時間未満,L,O420,VP7R,=,http://id.who.int/icd/entity/237762883,=,JA89.0 
+15,前期破水・分娩開始が破水後24時間未満,S0,O420,VP7R,=,http://id.who.int/icd/entity/237762883,=,JA89.0 
+15,前期破水・分娩開始が破水後２４時間以降,L,O421,QG09,=,http://id.who.int/icd/entity/1801467095,=,JA89.1 
+15,前期破水・分娩開始が破水後24時間以降,S0,O421,QG09,=,http://id.who.int/icd/entity/1801467095,=,JA89.1 
+15,前期破水・治療による分娩遷延,L,O422,M02J,=,http://id.who.int/icd/entity/533554216,=,JA89.2 
+15,前期破水,L,O429,DB93,=,http://id.who.int/icd/entity/1648189790,=,JA89.3 
+15,早期破水,L,O429,EM49,=,http://id.who.int/icd/entity/1648189790,=,JA89.3 
+15,前期破水による羊水過少症,L,O429,KHS6,=,http://id.who.int/icd/entity/928240453,=,JA89.Z 
+15,羊水漏出,L,O429,M4K3,=,http://id.who.int/icd/entity/928240453,=,JA89.Z 
+15,高位破水,L,O429,MMGK,<,http://id.who.int/icd/entity/928240453,<,JA89.Z 
+15,破水,L,O429,NBEA,=,http://id.who.int/icd/entity/928240453,=,JA89.Z 
+15,胎盤輸血症候群,L,O430,H91R,=,http://id.who.int/icd/entity/315830722,=,JA8A.0 
+15,母児間輸血症候群,S2,O430,H91R,=,http://id.who.int/icd/entity/946939382,<,JA8A.0 
+15,双胎児間輸血症候群,L,O430,JHNF,=,http://id.who.int/icd/entity/850604370,<,JA8A.0 
+15,双生児輸血症候群,S1,O430,JHNF,=,http://id.who.int/icd/entity/850604370,<,JA8A.0 
+15,胎盤のう胞,L,O431,B3QJ,=,http://id.who.int/icd/entity/439762945,<,JA8A.1 
+15,胎盤嚢胞,S1,O431,B3QJ,=,http://id.who.int/icd/entity/439762945,<,JA8A.1 
+15,周郭胎盤,L,O431,RB68,=,http://id.who.int/icd/entity/262405191,<,JA8A.1 
+15,胎盤の奇形,L,O431,V17S,=,http://id.who.int/icd/entity/2006514776,=,JA8A.1 
+15,胎盤梗塞,L,O438,FTFC,=,http://id.who.int/icd/entity/927504660,<,JA8A.Y 
+15,白色胎児梗塞,S2,O438,FTFC,<,http://id.who.int/icd/entity/927504660,<,JA8A.Y 
+15,胎盤壊死,L,O438,PJ7B,=,http://id.who.int/icd/entity/1554269746,<,JA8A.Y 
+15,胎盤異常,L,O439,QG05,=,http://id.who.int/icd/entity/1377312465,=,JA8A.Z 
+15,胎盤障害,S1,O439,QG05,=,http://id.who.int/icd/entity/1377312465,=,JA8A.Y 
+15,部分前置胎盤,L,O441,C82E,=,http://id.who.int/icd/entity/569806149,=,JA8B.Z 
+15,後在低置胎盤,L,O441,C8V9,=,http://id.who.int/icd/entity/569806149,=,JA8B.Z 
+15,出血を伴う前置胎盤,L,O441,CAUD,=,http://id.who.int/icd/entity/1289850134,=,JA8B.1 
+15,前置胎盤,L,O441,CFH2,=,http://id.who.int/icd/entity/569806149,=,JA8B.Z 
+15,辺縁前置胎盤,L,O441,CN3D,=,http://id.who.int/icd/entity/569806149,=,JA8B.Z 
+15,出血を伴う低置胎盤,L,O441,FPSE,=,http://id.who.int/icd/entity/1289850134,=,JA8B.1
+15,胎盤位置異常,L,O441,G2NF,=,http://id.who.int/icd/entity/569806149,=,JA8B.Z 
+15,低置胎盤,L,O441,JBTF,=,http://id.who.int/icd/entity/569806149,=,JA8B.Z 
+15,低位胎盤,S1,O441,JBTF,=,http://id.who.int/icd/entity/569806149,=,JA8B.Z 
+15,頚管胎盤,L,O441,U0SB,<,http://id.who.int/icd/entity/569806149,<,JA8B.Z 
+15,頸管胎盤,S1,O441,U0SB,<,http://id.who.int/icd/entity/569806149,<,JA8B.Z 
+15,全前置胎盤,L,O441,UDLC,=,http://id.who.int/icd/entity/569806149,=,JA8B.Z 
+15,凝固障害を伴う常位胎盤早期剥離,L,O450,MQTC,=,http://id.who.int/icd/entity/894601219,=,JA8C.0 
+15,常位胎盤早期剥離,L,O459,R1CV,=,http://id.who.int/icd/entity/1153253585,=,JA8C.Z 
+15,胎盤早期剥離,L,O459,U41C,=,http://id.who.int/icd/entity/1153253585,=,JA8C.Z 
+15,子宮胎盤溢血,S1,O459,U41C,=,http://id.who.int/icd/entity/1153253585,=,JA8C.Z 
+15,早剥,S1,O459,U41C,=,http://id.who.int/icd/entity/1153253585,=,JA8C.Z 
+15,妊娠中出血,L,O469,KBFP,=,http://id.who.int/icd/entity/1794172502,=,JA41.Z
+15,妊娠時出血,S2,O469,KBFP,=,http://id.who.int/icd/entity/1794172502,=,JA41.Z
+15,分娩前出血,L,O469,UBUP,=,http://id.who.int/icd/entity/1794172502,=,JA41.Z 
+15,妊娠時月経様出血,L,O469,VCB3,=,http://id.who.int/icd/entity/1794172502,=,JA41.Z 
+15,妊娠満３７週未満の偽陣痛,L,O470,C3PR,=,http://id.who.int/icd/entity/674095292,=,JA8D.0 
+15,妊娠満37週未満の偽陣痛,S0,O470,C3PR,=,http://id.who.int/icd/entity/674095292,=,JA8D.0 
+15,妊娠満37週以前の偽陣痛,S1,O470,C3PR,=,http://id.who.int/icd/entity/674095292,=,JA8D.0 
+15,妊娠満３７週以後の偽陣痛,L,O471,VVMT,=,http://id.who.int/icd/entity/1298541866,=,JA8D.1 
+15,妊娠満37週以後の偽陣痛,S0,O471,VVMT,=,http://id.who.int/icd/entity/1298541866,=,JA8D.1 
+15,前駆陣痛,L,O479,N45B,=,http://id.who.int/icd/entity/1432083898,=,JA8D.Z 
+15,前陣痛,S1,O479,N45B,=,http://id.who.int/icd/entity/1432083898,=,JA8D.Z 
+15,偽陣痛,S1,O479,N45B,=,http://id.who.int/icd/entity/1432083898,=,JA8D.Z 
+15,過期妊娠,L,O48,C283,=,http://id.who.int/icd/entity/674416888,=,JA8E
+15,遷延妊娠,S1,O48,C283,=,http://id.who.int/icd/entity/674416888,=,JA8E
+15,分娩予定日超過,L,O48,LV0H,=,http://id.who.int/icd/entity/674416888,=,JA8E 
+15,切迫早産,L,O600,P81D,=,http://id.who.int/icd/entity/861984672,=,JB00.0
+15,自然早産,L,O601,RDMR,=,http://id.who.int/icd/entity/1445665290,=,JB00.1 
+15,早期産,S1,O601,RDMR,=,http://id.who.int/icd/entity/1445665290,=,JB00.1 
+15,早産,S1,O601,RDMR,=,http://id.who.int/icd/entity/1445665290,=,JB00.1 
+15,人工早産,L,O603,DB7C,=,http://id.who.int/icd/entity/968484911,=,JB00.3
+15,器械的分娩誘発の不成功,L,O611,V1TD,=,http://id.who.int/icd/entity/1255395979,=,JB01.1
+15,分娩誘発の不成功,L,O619,J786,=,http://id.who.int/icd/entity/327937142,=,JB01.Z 
+15,子宮頚管拡張不全,L,O620,L3TJ,=,http://id.who.int/icd/entity/1571320612,<,JB02.0 
+15,子宮頸管拡張不全,S1,O620,L3TJ,=,http://id.who.int/icd/entity/1571320612,<,JB02.0 
+15,頚管難産,L,O620,P2NB,=,http://id.who.int/icd/entity/375350633,<,JB02.0 
+15,頸管難産,S1,O620,P2NB,=,http://id.who.int/icd/entity/375350633,<,JB02.0 
+15,原発性陣痛微弱,L,O620,PGFT,≒,http://id.who.int/icd/entity/773832481,≒,JB02.0 
+15,原発性微弱陣痛,S1,O620,PGFT,≒,http://id.who.int/icd/entity/773832481,≒,JB02.0 
+15,原発微弱陣痛,S1,O620,PGFT,≒,http://id.who.int/icd/entity/773832481,≒,JB02.0 
+15,原発性低緊張性子宮機能低下,S1,O620,PGFT,≒,http://id.who.int/icd/entity/773832481,≒,JB02.0 
+15,続発性陣痛微弱,L,O621,VBSC,≒,http://id.who.int/icd/entity/1263825589,≒,JB02.1
+15,続発微弱陣痛,S1,O621,VBSC,≒,http://id.who.int/icd/entity/1263825589,≒,JB02.1
+15,微弱陣痛,L,O622,J11S,=,http://id.who.int/icd/entity/1073291850,=,JB02.2 
+15,陣痛微弱,S1,O622,J11S,=,http://id.who.int/icd/entity/1073291850,=,JB02.2 
+15,子宮収縮不全,L,O622,UATQ,=,http://id.who.int/icd/entity/601248643,<,JB02.2 
+15,急産,L,O623,GBNF,=,http://id.who.int/icd/entity/1521676256,=,JB02.3 
+15,急速分娩,S1,O623,GBNF,=,http://id.who.int/icd/entity/1521676256,=,JB02.3 
+15,墜落分娩,S1,O623,GBNF,=,http://id.who.int/icd/entity/1521676256,=,JB02.3 
+15,過強陣痛,L,O624,BJRN,=,http://id.who.int/icd/entity/1895051446,<,JB02.4
+15,切迫子宮破裂,L,O624,JPAJ,<,http://id.who.int/icd/entity/693926988,<,JB02.4
+15,絞窄輪難産,L,O624,NL90,=,http://id.who.int/icd/entity/898934749,<,JB02.4
+15,砂時計様子宮収縮,S1,O624,NL90,=,http://id.who.int/icd/entity/1348454228,<,JB02.4
+15,非協調性子宮収縮,S2,O624,NL90,=,http://id.who.int/icd/entity/1514954650,<,JB02.4
+15,持続性子宮収縮,S2,O624,NL90,=,http://id.who.int/icd/entity/1521067786,<,JB02.4
+15,収縮輪,S2,O624,NL90,=,http://id.who.int/icd/entity/898934749,<,JB02.4
+15,痙攣陣痛,L,O624,QM1B,=,http://id.who.int/icd/entity/725388005,<,JB02.4
+15,テタニー性子宮収縮,L,O624,SGGE,=,http://id.who.int/icd/entity/725388005,<,JB02.4
+15,テタニー性収縮,S1,O624,SGGE,=,http://id.who.int/icd/entity/725388005,<,JB02.4
+15,子宮強直,L,O624,UAEL,=,http://id.who.int/icd/entity/725388005,<,JB02.4
+15,異常子宮収縮,L,O629,B16G,=,http://id.who.int/icd/entity/1730591881,=,JB02.Z
+15,娩出力異常,L,O629,NFGC,=,http://id.who.int/icd/entity/1730591881,=,JB02.Z
+15,第１期遷延分娩,L,O630,A9BF,=,http://id.who.int/icd/entity/854030240,=,JB03.0 
+15,第1期遷延分娩,S0,O630,A9BF,=,http://id.who.int/icd/entity/854030240,=,JB03.0 
+15,第２期遷延分娩,L,O631,AAKG,=,http://id.who.int/icd/entity/1470937654,=,JB03.1
+15,第2期遷延分娩,S0,O631,AAKG,=,http://id.who.int/icd/entity/1470937654,=,JB03.1
+15,分娩第2期異常遅延,S1,O631,AAKG,=,http://id.who.int/icd/entity/1470937654,=,JB03.1
+15,分娩第2期遅延,S1,O631,AAKG,=,http://id.who.int/icd/entity/1470937654,=,JB03.1
+15,三胎などの第２児の遷延分娩双胎,L,O632,BEBL,=,http://id.who.int/icd/entity/587328203,=,JB03.2 
+15,三胎などの第2児の遷延分娩双胎,S0,O632,BEBL,=,http://id.who.int/icd/entity/587328203,=,JB03.2 
+15,遷延分娩,L,O639,LLBV,=,http://id.who.int/icd/entity/40726813,=,JB03.Z
+15,分娩遅延,S1,O639,LLBV,=,http://id.who.int/icd/entity/40726813,=,JB03.Z
+15,遅延性分娩,S1,O639,LLBV,=,http://id.who.int/icd/entity/40726813,=,JB03.Z
+15,分娩遷延,S1,O639,LLBV,=,http://id.who.int/icd/entity/40726813,=,JB03.Z
+15,高在縦定位,L,O640,ATEE,=,http://id.who.int/icd/entity/161351394,=,JB04.0 
+15,児頭回旋異常,L,O640,AVPG,=,http://id.who.int/icd/entity/161351394,=,JB04.0 
+15,低在横定位,L,O640,GSH4,=,http://id.who.int/icd/entity/453992815,<,JB04.0 
+15,不正軸廻入,L,O640,MSUA,=,http://id.who.int/icd/entity/161351394,=,JB04.0 
+15,胎勢回旋異常,L,O640,N8NU,=,http://id.who.int/icd/entity/161351394,<,JB04.0 
+15,胎向回旋異常,L,O640,UDVB,=,http://id.who.int/icd/entity/161351394,<,JB04.0 
+15,後方後頭位による分娩停止,L,O640,VGME,=,http://id.who.int/icd/entity/455484289,<,JB04.0 
+15,骨盤位による分娩停止,L,O641,U8EC,=,http://id.who.int/icd/entity/1825950580,=,JB04.1 
+15,顔位による分娩停止,L,O642,PN27,=,http://id.who.int/icd/entity/410557323,=,JB04.2
+15,額位による分娩停止,L,O643,HU9D,=,http://id.who.int/icd/entity/2100516383,=,JB04.3
+15,肩甲位による分娩停止,L,O644,KNB7,=,http://id.who.int/icd/entity/249415051,=,JB04.4
+15,上肢脱出,L,O644,QMQC,=,http://id.who.int/icd/entity/249415051,=,JB04.4 
+15,不正軸進入,L,O648,CCUT,=,http://id.who.int/icd/entity/1904468617,=,JB04.Z 
+15,児頭進入異常,S1,O648,CCUT,=,http://id.who.int/icd/entity/1904468617,=,JB04.Z 
+15,後頭頂骨進入,L,O648,DMKG,<,http://id.who.int/icd/entity/1904468617,<,JB04.Z 
+15,前頭頂骨進入,L,O648,LGQN,<,http://id.who.int/icd/entity/1904468617,<,JB04.Z 
+15,傾軸進入,L,O648,NPF9,=,http://id.who.int/icd/entity/1904468617,=,JB04.Z 
+15,男性骨盤による分娩停止,L,O651,EJQR,=,http://id.who.int/icd/entity/348663581 / http://id.who.int/icd/entity/1940549586,=,JB04.Z 
+15,単純狭骨盤による分娩停止,L,O651,EK5E,=,http://id.who.int/icd/entity/1881998325,=,JB05.1
+15,児型骨盤による分娩停止,L,O651,K6CR,=,http://id.who.int/icd/entity/1881998325,=,JB05.1
+15,児形骨盤による分娩停止,S1,O651,K6CR,=,http://id.who.int/icd/entity/1881998325,=,JB05.1
+15,侏小骨盤による分娩停止,L,O651,R5FV,=,http://id.who.int/icd/entity/1881998325,=,JB05.1
+15,胎児骨盤不均衡による分娩停止,L,O654,QRP9,=,http://id.who.int/icd/entity/304418058,=,JB05.4 
+15,卵巣のう腫による分娩停止,L,O655,GE91,=,http://id.who.int/icd/entity/2003746976 / http://id.who.int/icd/entity/181365103 & http://id.who.int/icd/entity/1035495682,=,JB05.5 / 2F32.Y & XH5RJ2 
+15,卵巣嚢腫による分娩停止,S1,O655,GE91,=,http://id.who.int/icd/entity/2003746976 / http://id.who.int/icd/entity/181365103 & http://id.who.int/icd/entity/1035495682,=,JB05.5 / 2F32.Y & XH5RJ2 
+15,軟産道強靱症による分娩停止,L,O655,JHCT,<,http://id.who.int/icd/entity/723274599 / http://id.who.int/icd/entity/577575903 ,<,JB05.5 / JA84.Y  
+15,軟産道強靭症による分娩停止,S1,O655,JHCT,<,http://id.who.int/icd/entity/723274599 / http://id.who.int/icd/entity/577575903 ,<,JB05.5 / JA84.Y  
+15,子宮筋腫による分娩停止,L,O655,MGVJ,<,http://id.who.int/icd/entity/1524730780 ,<,JB05.5 / 2E86.0  
+15,肩甲難産,L,O660,U470,=,http://id.who.int/icd/entity/350318175,=,JB06.0
+15,肩甲嵌入,S2,O660,U470,=,http://id.who.int/icd/entity/350318175,=,JB06.0
+15,双胎懸鉤,L,O661,U9RK,=,http://id.who.int/icd/entity/1907008459,=,JB06.1 
+15,双胎懸鈎,S1,O661,U9RK,=,http://id.who.int/icd/entity/1907008459,=,JB06.1 
+15,巨大児による分娩停止,L,O662,AVQQ,=,http://id.who.int/icd/entity/84407092,=,JB06.2 
+15,奇形児分娩,L,O663,M533,=,http://id.who.int/icd/entity/1615609506,=,JB06.3 
+15,分娩停止,L,O669,F64M,=,http://id.who.int/icd/entity/1617264610,=,JB06.Z 
+15,難産,L,O669,TMB7,=,http://id.who.int/icd/entity/1617264610,=,JB06.Z 
+15,分娩時異常出血,L,O679,B98J,=,http://id.who.int/icd/entity/86946424,=,JA42.Z
+15,分娩時出血,S1,O679,B98J,=,http://id.who.int/icd/entity/86946424,=,JA42.Z
+15,分娩時出血を合併する分娩,S2,O679,B98J,=,http://id.who.int/icd/entity/86946424,=,JA42.Z
+15,胎児心拍異常,L,O680,AJU1,=,http://id.who.int/icd/entity/1184724324,=,JB07.0 
+15,胎児心音異常,S1,O680,AJU1,=,http://id.who.int/icd/entity/1184724324,=,JB07.0 
+15,胎児頻脈,S2,O680,AJU1,=,http://id.who.int/icd/entity/1587587938,<,JB07.0 
+15,胎児徐脈,S2,O680,AJU1,=,http://id.who.int/icd/entity/1329871716,<,JB07.0 
+15,胎児心音不良,S2,O680,AJU1,=,http://id.who.int/icd/entity/1184724324,=,JB07.0 
+15,胎児心拍数異常,S2,O680,AJU1,=,http://id.who.int/icd/entity/1184724324,=,JB07.0 
+15,胎児機能不全,L,O680,MHAH,=,http://id.who.int/icd/entity/363974854,<,KB20.Z 
+15,分娩時仮死,S1,O680,MHAH,=,http://id.who.int/icd/entity/1313876091,<,KB20.Z 
+15,胎児仮死,S1,O680,MHAH,=,http://id.who.int/icd/entity/1313876091,<,KB20.Z 
+15,胎児ジストレス,S1,O680,MHAH,=,http://id.who.int/icd/entity/1474007427,=,KB20.Z 
+15,胎児機能不全・分娩時,S1,O680,MHAH,=,http://id.who.int/icd/entity/363974854,<,KB20.Z 
+15,胎児低酸素症,S2,O680,MHAH,=,http://id.who.int/icd/entity/1474007427,=,KB20.Z 
+15,胎児ジストレスの生化学的異常を合併する分娩,S2,O680,MHAH,=,http://id.who.int/icd/entity/1474007427,=,KB20.Z 
+15,胎児アシドーシス,S2,O680,MHAH,=,http://id.who.int/icd/entity/900553320,<,KB20.Z 
+15,胎児不整脈,L,O680,MUVD,=,http://id.who.int/icd/entity/1184724324,=,JB07.0 
+15,羊水混濁を合併する分娩,L,O681,G46D,=,http://id.who.int/icd/entity/601274614,=,JB07.1 
+15,臍帯下垂,L,O690,BMPQ,=,http://id.who.int/icd/entity/1516617187,=,JB08.0 
+15,臍帯脱出,L,O690,JQTH,=,http://id.who.int/icd/entity/1516617187,=,JB08.0 
+15,臍帯脱垂,S1,O690,JQTH,=,http://id.who.int/icd/entity/1516617187,=,JB08.0 
+15,臍帯真結節,L,O692,AS9G,=,http://id.who.int/icd/entity/1726044662,<,JB08.5 
+15,臍帯結節を合併する分娩,S1,O692,AS9G,=,http://id.who.int/icd/entity/1726044662,<,JB08.5 
+15,臍帯巻絡,L,O692,PDHN,=,http://id.who.int/icd/entity/1266884746,=,JB08.5 
+15,臍帯圧迫,L,O692,UGVE,=,http://id.who.int/icd/entity/1266884746,=,JB08.5
+15,臍帯圧迫を合併する分娩,S1,O692,UGVE,=,http://id.who.int/icd/entity/1266884746,=,JB08.5
+15,過短臍帯,L,O693,NSPE,=,http://id.who.int/icd/entity/784919836,=,JB08.2
+15,過短臍帯を合併する分娩,S1,O693,NSPE,=,http://id.who.int/icd/entity/784919836,=,JB08.2
+15,前置血管,L,O694,F85V,=,http://id.who.int/icd/entity/1562803848,=,JB08.3
+15,前置血管を合併する分娩,S1,O694,F85V,=,http://id.who.int/icd/entity/1562803848,=,JB08.3
+15,臍帯離断,L,O695,QCBT,<,http://id.who.int/icd/entity/946713374,<,JB08.4
+15,臍帯皮下出血,L,O695,R9UG,=,http://id.who.int/icd/entity/946713374,=,JB08.4
+15,臍帯血腫,L,O695,S1KJ,=,http://id.who.int/icd/entity/651889818,<,LB03.Y
+15,臍血腫,S1,O695,S1KJ,=,http://id.who.int/icd/entity/1987016572,=,JB08.4
+15,分娩時臍帯血管損傷,L,O695,TV9M,=,http://id.who.int/icd/entity/946713374 / http://id.who.int/icd/entity/709098927 ,=,JB08.4 / ND56.5 
+15,臍帯血管損傷を合併する分娩,S1,O695,TV9M,=,http://id.who.int/icd/entity/946713374 / http://id.who.int/icd/entity/709098927 ,=,JB08.4 / ND56.5 
+15,臍帯卵膜付着,L,O698,CQ95,=,http://id.who.int/icd/entity/244184567,<,JA8A.1
+15,臍帯過捻転,L,O698,UBVV,<,http://id.who.int/icd/entity/487352992 / http://id.who.int/icd/entity/840768416,<,JA8A.Y / LB03.Y  
+15,臍帯過捻転を合併する分娩,S1,O698,UBVV,<,http://id.who.int/icd/entity/487352992 / http://id.who.int/icd/entity/840768416,<,JA8A.Y / LB03.Y  
+15,臍帯異常,L,O699,UNRK,=,http://id.who.int/icd/entity/487352992,=,LB08.Z
+15,臍帯の異常を合併する分娩,S1,O699,UNRK,=,http://id.who.int/icd/entity/487352992,=,LB08.Z
+15,会陰裂傷第１度,L,O700,LRLG,=,http://id.who.int/icd/entity/595260591,=,JB09.0
+15,会陰裂傷第1度,S0,O700,LRLG,=,http://id.who.int/icd/entity/595260591,=,JB09.0
+15,小陰唇裂傷,L,O700,RUET,=,http://id.who.int/icd/entity/99196699 & http://id.who.int/icd/entity/1090115429,=,JB09.0 & XA0MU9 
+15,分娩時小陰唇裂傷,S1,O700,RUET,=,http://id.who.int/icd/entity/99196699 & http://id.who.int/icd/entity/1090115429,=,JB09.0 & XA0MU9 
+15,会陰腟壁裂傷,L,O700,TU9Q,=,http://id.who.int/icd/entity/595260591,=,JB09.0
+15,会陰膣壁裂傷,S1,O700,TU9Q,=,http://id.who.int/icd/entity/595260591,=,JB09.0
+15,会陰裂傷第２度,L,O701,RLAC,=,http://id.who.int/icd/entity/1177631035,=,JB09.1
+15,会陰裂傷第2度,S0,O701,RLAC,=,http://id.who.int/icd/entity/1177631035,=,JB09.1
+15,会陰裂傷第３度,L,O702,HM5D,=,http://id.who.int/icd/entity/849111492,=,JB09.2
+15,会陰裂傷第3度,S0,O702,HM5D,=,http://id.who.int/icd/entity/849111492,=,JB09.2
+15,会陰裂傷第４度,L,O703,VQD0,=,http://id.who.int/icd/entity/1473750098,=,JB09.3 
+15,会陰裂傷第4度,S0,O703,VQD0,=,http://id.who.int/icd/entity/1473750098,=,JB09.3 
+15,第4度会陰裂傷,S1,O703,VQD0,=,http://id.who.int/icd/entity/1473750098,=,JB09.3 
+15,分娩時会陰裂傷,L,O709,E0J1,=,http://id.who.int/icd/entity/554002939,=,JB09.Z 
+15,分娩時会陰裂創,S1,O709,E0J1,=,http://id.who.int/icd/entity/554002939,=,JB09.Z 
+15,分娩前子宮破裂,L,O710,M086,=,http://id.who.int/icd/entity/1065499694,=,JB0A.0 
+15,分娩開始前の子宮破裂,S1,O710,M086,=,http://id.who.int/icd/entity/10654996944,=,JB0A.0 
+15,分娩前の切迫子宮破裂,S1,O710,M086,=,http://id.who.int/icd/entity/10654996944,=,JB0A.0 
+15,子宮不全破裂,L,O711,G8ER,=,http://id.who.int/icd/entity/1523184060 & http://id.who.int/icd/entity/167867186 ,=, JB0A.1 & XK06
+15,子宮破裂,L,O711,P1D2,=,http://id.who.int/icd/entity/1523184060,=,JB0A.1 
+15,分娩中子宮破裂,L,O711,UBKN,=,http://id.who.int/icd/entity/1523184060,=,JB0A.1 
+15,分娩における子宮破裂,S2,O711,UBKN,=,http://id.who.int/icd/entity/1523184060,=,JB0A.1 
+15,分娩後子宮破裂,L,O711,US5Q,=,http://id.who.int/icd/entity/1523184060,=,JB0A.1 
+15,子宮不全内反症,L,O712,J1FP,=,http://id.who.int/icd/entity/778346821 &  http://id.who.int/icd/entity/167867186 ,=, JB0A.2 & XK06
+15,分娩後子宮内反症,L,O712,MQ1D,=,http://id.who.int/icd/entity/778346821,=,JB0A.2 
+15,子宮圧痕,L,O712,SHB9,<,http://id.who.int/icd/entity/778346821,<,JB0A.2 
+15,子宮頚管裂傷,L,O713,GPHG,=,http://id.who.int/icd/entity/1261399249,=,JB0A.3 
+15,子宮頸管裂傷,S1,O713,GPHG,=,http://id.who.int/icd/entity/1261399249,=,JB0A.3 
+15,頸管裂傷,S1,O713,GPHG,=,http://id.who.int/icd/entity/1261399249,=,JB0A.3 
+15,頚管裂傷,S1,O713,GPHG,=,http://id.who.int/icd/entity/1261399249,=,JB0A.3 
+15,頸管裂創,S1,O713,GPHG,=,http://id.who.int/icd/entity/1261399249,=,JB0A.3 
+15,頚管裂創,S1,O713,GPHG,=,http://id.who.int/icd/entity/1261399249,=,JB0A.3 
+15,分娩時頸管裂傷,S2,O713,GPHG,=,http://id.who.int/icd/entity/1261399249,=,JB0A.3 
+15,分娩時頚管裂傷,S2,O713,GPHG,=,http://id.who.int/icd/entity/1261399249,=,JB0A.3 
+15,子宮頚部環状剥離,L,O713,LD90,=,http://id.who.int/icd/entity/1275940064,<,JB0A.3 
+15,子宮頸部環状剥離,S1,O713,LD90,=,http://id.who.int/icd/entity/1275940064,<,JB0A.3 
+15,分娩時軟産道損傷,L,O713,QBG4,=,http://id.who.int/icd/entity/1261399249,=,JB0A.3 
+15,頚管破裂,L,O713,SEJ1,=,http://id.who.int/icd/entity/1261399249,=,JB0A.3 
+15,頸管破裂,S1,O713,SEJ1,=,http://id.who.int/icd/entity/1261399249,=,JB0A.3 
+15,高位腟裂傷,L,O714,C1M7,=,http://id.who.int/icd/entity/952237893,=,B0A.4 
+15,高位膣裂傷,S1,O714,C1M7,=,http://id.who.int/icd/entity/952237893,=,B0A.4 
+15,産科的膀胱損傷,L,O715,G225,=,http://id.who.int/icd/entity/616142181,=,JB0A.6 & XA77K2
+15,産科的尿道損傷,L,O715,KMK4,=,http://id.who.int/icd/entity/2129157066,=,JB0A.6 & XA5TA5
+15,産科的尾骨損傷,L,O716,ERKE,=,http://id.who.int/icd/entity/223887565,=,JB0A.7 & XA4V28
+15,産道血腫,L,O717,BC23,=,http://id.who.int/icd/entity/1193733958,=,JB0A.8 
+15,産科的会陰血腫,L,O717,EP2G,=,http://id.who.int/icd/entity/1193733958,=,JB0A.8 
+15,外陰血腫,L,O717,FPT5,=,http://id.who.int/icd/entity/2015526592,=,JB0A.8 & XA78U5
+15,巨大産道血腫,L,O717,LT2U,<,http://id.who.int/icd/entity/1282191290,<,JB0A.8 
+15,産科的骨盤血腫,L,O717,P4NR,=,http://id.who.int/icd/entity/1282191290,=,JB0A.8 
+15,骨盤の産科的血腫,S1,O717,P4NR,=,http://id.who.int/icd/entity/1282191290,=,JB0A.8 
+15,会陰部血腫,L,O717,PVFN,=,http://id.who.int/icd/entity/1193733958,=,JB0A.8 & XA53N9
+15,産科的外陰血腫,L,O717,Q1C3,=,http://id.who.int/icd/entity/2015526592,=,JB0A.8 & XA78U5
+15,産科的腟血腫,L,O717,U2HM,=,http://id.who.int/icd/entity/1480520814,=,JB0A.8 & XA1LK7
+15,産科的膣血腫,S1,O717,U2HM,=,http://id.who.int/icd/entity/1480520814,=,JB0A.8 & XA1LK7
+15,分娩時腟壁血腫形成,S2,O717,U2HM,=,http://id.who.int/icd/entity/1480520814,=,JB0A.8 & XA1LK7
+15,分娩時膣壁血腫形成,S2,O717,U2HM,=,http://id.who.int/icd/entity/1480520814,=,JB0A.8 & XA1LK7
+15,産科的外傷,L,O719,VDVN,=,http://id.who.int/icd/entity/1146004591,=,JB0A.Z
+15,胎盤遺残,L,O720,C9Q6,=,http://id.who.int/icd/entity/1244461000,<,JA43.0
+15,出血を伴う遺残胎盤,S1,O720,C9Q6,=,http://id.who.int/icd/entity/1244461000,<,JA43.0
+15,胎盤残留,S1,O720,C9Q6,=,http://id.who.int/icd/entity/1244461000,<,JA43.0
+15,嵌入胎盤,L,O720,FJEP,=,http://id.who.int/icd/entity/478014818,<,JA43.0
+15,嵌入胎盤・出血を伴う,S1,O720,FJEP,=,http://id.who.int/icd/entity/478014818,<,JA43.0
+15,癒着胎盤,L,O720,HTQ4,=,http://id.who.int/icd/entity/478014818,<,JA43.0 / JA8A.2
+15,付着胎盤,S1,O720,HTQ4,=,http://id.who.int/icd/entity/1244461000,<,JA43.0 / JA8A.2
+15,癒着胎盤・出血を伴う,S1,O720,HTQ4,=,http://id.who.int/icd/entity/478014818,<,JA43.0 / JA8A.2
+15,第３期出血,L,O720,KC8H,=,http://id.who.int/icd/entity/1040555026,=,JA43.0 
+15,第3期出血,S0,O720,KC8H,=,http://id.who.int/icd/entity/1040555026,=,JA43.0 
+15,第3期異常出血,S1,O720,KC8H,=,http://id.who.int/icd/entity/1040555026,=,JA43.0 
+15,穿通胎盤,L,O720,MSU7,=,http://id.who.int/icd/entity/1981794373 ,<,JA43.0 / JA8A.2  
+15,穿通胎盤・出血を伴う,S1,O720,MSU7,=,http://id.who.int/icd/entity/1981794373 ,<,JA43.0 / JA8A.2  
+15,胎盤嵌頓,L,O720,S8NG,=,http://id.who.int/icd/entity/1244461000,<,JA43.0 / JA8A.2   
+15,胎盤嵌頓・出血を伴う,S1,O720,S8NG,=,http://id.who.int/icd/entity/1244461000,<,JA43.0 / JA8A.2   
+15,全癒着胎盤,L,O720,V5S9,=,http://id.who.int/icd/entity/478014818 & http://id.who.int/icd/entity/1957947885 ,<,JA43.0 & XK2J / JA8A.2
+15,全癒着胎盤・出血を伴う,S1,O720,V5S9,=,http://id.who.int/icd/entity/478014818 & http://id.who.int/icd/entity/1957947885 ,<,JA43.0 & XK2J / JA8A.2
+15,子宮弛緩症,L,O721,DFR4,=,http://id.who.int/icd/entity/1531859332 / http://id.who.int/icd/entity/1073291850,=,JA43.1 / JB02.2
+15,分娩後弛緩,S1,O721,DFR4,=,http://id.who.int/icd/entity/1531859332 / http://id.who.int/icd/entity/1073291850,=,JA43.1 / JB02.2
+15,子宮弛緩(症),S1,O721,DFR4,=,http://id.who.int/icd/entity/1531859332 / http://id.who.int/icd/entity/1073291850,=,JA43.1 / JB02.2
+15,子宮弛緩,S1,O721,DFR4,=,http://id.who.int/icd/entity/1531859332 / http://id.who.int/icd/entity/1073291850,=,JA43.1 / JB02.2
+15,分娩後出血,L,O721,K79Q,=,http://id.who.int/icd/entity/1531859332,=,JA43.1 
+15,産後出血,S1,O721,K79Q,=,http://id.who.int/icd/entity/1531859332,=,JA43.1 
+15,分娩後異常出血,S1,O721,K79Q,=,http://id.who.int/icd/entity/1531859332,=,JA43.1 
+15,弛緩出血,L,O721,LM80,=,http://id.who.int/icd/entity/1531859332,=,JA43.1 
+15,弛緩性子宮出血,S1,O721,LM80,=,http://id.who.int/icd/entity/1531859332,=,JA43.1 
+15,産褥性子宮出血,S1,O721,LM80,=,http://id.who.int/icd/entity/1531859332,=,JA43.1 
+15,分娩後弛緩出血,S1,O721,LM80,=,http://id.who.int/icd/entity/1531859332,=,JA43.1 
+15,産後弛緩性出血,S1,O721,LM80,=,http://id.who.int/icd/entity/1531859332,=,JA43.1 
+15,卵膜残留,L,O722,K7LF,=,http://id.who.int/icd/entity/1339318856,<,JA43.2
+15,卵膜残留・出血を伴う,S1,O722,K7LF,=,http://id.who.int/icd/entity/1339318856,<,JA43.2
+15,卵膜遺残,S1,O722,K7LF,=,http://id.who.int/icd/entity/1339318856,<,JA43.2
+15,産褥晩期出血,L,O722,KR1C,=,http://id.who.int/icd/entity/803406203,=,JA43.2 
+15,晩期産褥出血,S1,O722,KR1C,=,http://id.who.int/icd/entity/803406203,=,JA43.2 
+15,胎盤部分残留,L,O722,NADB,=,http://id.who.int/icd/entity/1339318856,<,JA43.2
+15,胎盤部分残留・出血を伴う,S1,O722,NADB,=,http://id.who.int/icd/entity/1339318856,<,JA43.2
+15,部分癒着胎盤,L,O722,TFCM,=,http://id.who.int/icd/entity/1339318856,<,JA43.2
+15,部分癒着胎盤・出血を伴う,S1,O722,TFCM,=,http://id.who.int/icd/entity/1339318856,<,JA43.2
+15,分娩後凝固障害,L,O723,G6G1,=,http://id.who.int/icd/entity/1252576495,=,JA43.3
+15,分娩後線維素溶解,S2,O723,G6G1,=,http://id.who.int/icd/entity/643895159,=,JA43.3
+15,産科血液凝固異常,S2,O723,G6G1,=,http://id.who.int/icd/entity/1252576495,=,JA43.3
+15,分娩後ＤＩＣ,L,O723,JBLF,=,http://id.who.int/icd/entity/1252576495 / http://id.who.int/icd/entity/1622289887,<,JA43.3 / 3B20
+15,分娩後DIC,S0,O723,JBLF,=,http://id.who.int/icd/entity/1252576495 / http://id.who.int/icd/entity/1622289887,<,JA43.3 / 3B20
+15,産科DIC,S1,O723,JBLF,=,http://id.who.int/icd/entity/1252576495 / http://id.who.int/icd/entity/1622289887,<,JA43.3 / 3B20
+15,分娩後無フィブリノゲン血症,L,O723,VT9Q,=,http://id.who.int/icd/entity/1464033238,<,JA43.3
+15,胎盤遺残・出血を伴わない,L,O730,B613,=,http://id.who.int/icd/entity/587027601,=,JB0B.0 
+15,出血のない胎盤残留,S1,O730,B613,=,http://id.who.int/icd/entity/587027601,=,JB0B.0 
+15,嵌入胎盤・出血を伴わない,L,O730,C8CD,=,http://id.who.int/icd/entity/965904963,<,JB0B.0 
+15,胎盤嵌頓・出血を伴わない,L,O730,D2AD,=,http://id.who.int/icd/entity/587027601,=,JB0B.0 
+15,穿通胎盤・出血を伴わない,L,O730,ETNR,=,http://id.who.int/icd/entity/251571668,<,JB0B.0 / JA8A.2  
+15,癒着胎盤・出血を伴わない,L,O730,HJK8,=,http://id.who.int/icd/entity/27450834,<,JB0B.0 / JA8A.2
+15,全癒着胎盤・出血を伴わない,L,O730,M9F2,=,http://id.who.int/icd/entity/27450834 & http://id.who.int/icd/entity/1957947885,<,JB0B.0  & XK2J  / JA8A.2 
+15,部分癒着胎盤・出血を伴わない,L,O731,C80J,=,http://id.who.int/icd/entity/27450834 & http://id.who.int/icd/entity/167867186,<,JB0B.0  & XK06  / JA8A.2   
+15,胎盤部分残留・出血を伴わない,L,O731,HA9P,=,http://id.who.int/icd/entity/1203149061,=,JB0B.1 
+15,卵膜残留・出血を伴わない,L,O731,UJ2P,=,http://id.who.int/icd/entity/1203149061,=,JB0B.1 
+15,分娩における麻酔の循環器系合併症,L,O742,VD6R,=,http://id.who.int/icd/entity/140687546,=,JB0C.2 
+15,分娩における麻酔の中枢神経系合併症,L,O743,GUAV,=,http://id.who.int/icd/entity/1831433520,=,JB0C.3 
+15,分娩における局所麻酔に対する中毒反応,L,O744,VGVK,=,http://id.who.int/icd/entity/516417212,=,JB0C.4 
+15,分娩における挿管不成功または挿管困難,L,O747,CHTT,=,http://id.who.int/icd/entity/1785378373,=,JB0C.7 
+15,分娩における喉頭痙攣,L,O747,RCUD,<,http://id.who.int/icd/entity/1785378373 / http://id.who.int/icd/entity/1531260827,<,JB0C.7 / CA0H.4 
+15,分娩における麻酔合併症,L,O749,QURK,=,http://id.who.int/icd/entity/642165394,=,JB0C.Z 
+15,母体窮迫,L,O750,FNU3,=,http://id.who.int/icd/entity/92073296,=,JB0D.0 
+15,分娩時ショック,L,O751,N1DN,=,http://id.who.int/icd/entity/1614225606,=,JB0D.1 
+15,産科ショック,S2,O751,N1DN,=,http://id.who.int/icd/entity/1614225606,=,JB0D.1 
+15,分娩中または分娩に続発するショック,S2,O751,N1DN,=,http://id.who.int/icd/entity/1614225606,=,JB0D.1 
+15,分娩中の発熱,L,O752,NKM2,=,http://id.who.int/icd/entity/345665595,=,JB0D.2 
+15,分娩における発熱,S1,O752,NKM2,=,http://id.who.int/icd/entity/345665595,=,JB0D.2 
+15,分娩の敗血症,L,O753,PL4B,=,http://id.who.int/icd/entity/1003498312,=,JB0D.Y /  1G40
+15,人工破膜後遷延分娩,L,O755,CFQ8,=,http://id.who.int/icd/entity/1735713711,=,JB0D.4 
+15,人工破膜後の遷延分娩,S1,O755,CFQ8,=,http://id.who.int/icd/entity/1735713711,=,JB0D.4 
+15,既往帝切後分娩,L,O757,GDAS,=,http://id.who.int/icd/entity/1989312196,=,JB0D.6 
+15,既往帝王切開後の経膣分娩,S1,O757,GDAS,=,http://id.who.int/icd/entity/1989312196,=,JB0D.6 
+15,既往帝王切開後の経腟分娩,S1,O757,GDAS,=,http://id.who.int/icd/entity/1989312196,=,JB0D.6 
+15,過期産,L,O758,E8L8,=,http://id.who.int/icd/entity/299840850 & http://id.who.int/icd/entity/1498811339,=,JB0Y & XT6G
+15,異常分娩,L,O758,TR3B,=,http://id.who.int/icd/entity/299840850,=,JB0Z 
+15,自然頭位分娩,L,O800,TP3M,=,http://id.who.int/icd/entity/739441486,=,JB20.0
+15,自然骨盤位分娩,L,O801,BPHC,=,http://id.who.int/icd/entity/1230583516,=,JB20.1 
+15,単胎自然分娩,L,O809,EDK8,=,http://id.who.int/icd/entity/1902649856,=,JB20.Z / QA46.0
+15,自然分娩,L,O809,STAH,=,http://id.who.int/icd/entity/1902649856,=,JB20.Z 
+15,低位鉗子分娩,L,O810,QJGN,=,http://id.who.int/icd/entity/820655055,<,JB21 
+15,出口鉗子分娩,L,O810,UL8R,=,http://id.who.int/icd/entity/1103606780,<,JB21 
+15,中位鉗子分娩,L,O811,FK8J,=,http://id.who.int/icd/entity/1436679771,<,JB21 
+15,鉗子分娩,L,O813,H64F,=,http://id.who.int/icd/entity/337899414,=,JB21 
+15,高位鉗子分娩,L,O813,KD92,=,http://id.who.int/icd/entity/337899414,=,JB21 
+15,吸引分娩,L,O814,KMSN,=,http://id.who.int/icd/entity/933884070,<,JB21 
+15,真空娩出器使用分娩,S1,O814,KMSN,=,http://id.who.int/icd/entity/933884070,<,JB21 
+15,吸引器分娩,S1,O814,KMSN,=,http://id.who.int/icd/entity/933884070,<,JB21 
+15,鉗子分娩を伴う吸引分娩,L,O815,RCTF,=,http://id.who.int/icd/entity/1390558512,<,JB21 
+15,鉗子分娩を伴う吸引器分娩,S1,O815,RCTF,=,http://id.who.int/icd/entity/1390558512,<,JB21 
+15,選択的帝王切開,L,O820,QFE4,=,http://id.who.int/icd/entity/829264881,=,JB22.0 
+15,反復帝王切開,L,O820,SSCB,=,http://id.who.int/icd/entity/1636212839,<,JB22.0 
+15,緊急帝王切開,L,O821,B8J0,=,http://id.who.int/icd/entity/1411800677,=,JB22.1 
+15,帝王切開,L,O829,EUFA,=,http://id.who.int/icd/entity/1619967851,=,JB22.Z 
+15,帝王切開分娩,S1,O829,EUFA,=,http://id.who.int/icd/entity/1619967851,=,JB22.Z 
+15,骨盤位牽出術,L,O830,GBT9,=,http://id.who.int/icd/entity/764762994,=,JB23.0 
+15,骨盤位分娩,L,O831,Q7MP,=,http://id.who.int/icd/entity/1222547172,=,JB23.1
+15,分娩のための児破壊手術,L,O834,L9AQ,=,http://id.who.int/icd/entity/718706715,=,JB23.4 
+15,介助分娩,L,O839,KC9M,=,http://id.who.int/icd/entity/96826111,<,JB23.Z
+15,多胎自然分娩,L,O840,C9JF,=,http://id.who.int/icd/entity/384576048,=,JB24.0
+15,多胎全児帝王切開,L,O842,NHQ9,=,http://id.who.int/icd/entity/118142811,=,JB24.2
+15,多胎分娩,L,O849,DT9S,=,http://id.who.int/icd/entity/1982587243,=,JB24.Z
+15,三胎分娩,L,O849,EG17,=,"http://id.who.int/icd/entity/1982587243 / http://id.who.int/icd/entity/1291540889
+",=,JB24.Z / QA46.5
+15,四胎分娩,L,O849,FSC9,=,http://id.who.int/icd/entity/1982587243  / http://id.who.int/icd/entity/1445091553,=,JB24.Z / QA46.8 
+15,二卵性双胎分娩,L,O849,MU80,<,http://id.who.int/icd/entity/1982587243 / http://id.who.int/icd/entity/1824776872,<,JB24.Z  / QA46.2
+15,五胎分娩,L,O849,NL6P,=,http://id.who.int/icd/entity/1982587243 / http://id.who.int/icd/entity/1824776872,=,JB24.Z  / QA46.B
+15,一卵性双胎分娩,L,O849,P5FQ,<,http://id.who.int/icd/entity/1982587243 / http://id.who.int/icd/entity/1824776872,<,JB24.Z  / QA46.2
+15,産褥性子宮感染症,L,O85,L7AG,=,http://id.who.int/icd/entity/325070079,=,JB40.0
+15,産褥熱,L,O85,LUQB,=,http://id.who.int/icd/entity/325070079,=,JB40.0
+15,産褥腹膜炎,L,O85,QE9D,=,http://id.who.int/icd/entity/1097060209,<,JB40.0
+15,産褥骨盤腹膜炎,L,O85,QPBL,=,http://id.who.int/icd/entity/1097060209,<,JB40.0
+15,産褥敗血症,L,O85,R2QJ,=,http://id.who.int/icd/entity/325070079,=,JB40.0
+15,産褥重症感染,S2,O85,R2QJ,=,http://id.who.int/icd/entity/325070079,=,JB40.0
+15,帝王切開後子宮内膜炎,L,O85,R3AV,=,http://id.who.int/icd/entity/360314812 / http://id.who.int/icd/entity/280584458,<,JB40.0 / JB40.1
+15,産褥子宮内膜炎,L,O85,TPMQ,=,http://id.who.int/icd/entity/360314812,<,JB40.0
+15,産褥性子宮内膜炎,S1,O85,TPMQ,=,http://id.who.int/icd/entity/360314812,<,JB40.0
+15,会陰裂傷修復後感染症,L,O860,BHE0,=,http://id.who.int/icd/entity/1162946357,=,JB40.1 / NE81.20 & XA53N9
+15,産科的手術創の感染症,L,O860,G936,=,http://id.who.int/icd/entity/194200207,=,JB40.1
+15,会陰部縫合糸膿瘍,L,O860,PCG0,<,http://id.who.int/icd/entity/1162946357,<,JB40.1 / NE81.20 & XA53N9
+15,帝王切開創感染症,L,O860,U1N9,=,http://id.who.int/icd/entity/280584458,<,JB40.1
+15,分娩後子宮頚管炎,L,O861,DQPD,=,http://id.who.int/icd/entity/2053091267,<,JB40.2 
+15,分娩後子宮頸管炎,S1,O861,DQPD,=,http://id.who.int/icd/entity/2053091267,<,JB40.2 
+15,産褥性子宮傍結合織炎,L,O861,FQ1S,=,http://id.who.int/icd/entity/589586091,<,JB40.2 
+15,分娩後付属器炎,L,O861,KRD1,=,http://id.who.int/icd/entity/927908077,<,JB40.2 
+15,産褥性附属器炎,S1,O861,KRD1,=,http://id.who.int/icd/entity/927908077,<,JB40.2 
+15,産褥性付属器炎,S1,O861,KRD1,=,http://id.who.int/icd/entity/927908077,<,JB40.2 
+15,分娩後附属器炎,S1,O861,KRD1,=,http://id.who.int/icd/entity/927908077,<,JB40.2 
+15,分娩後腟炎,L,O861,N0F9,=,http://id.who.int/icd/entity/628622962,<,JB40.2 
+15,分娩後膣炎,S1,O861,N0F9,=,http://id.who.int/icd/entity/628622962,<,JB40.2 
+15,分娩後尿路感染症,L,O862,FSQQ,=,http://id.who.int/icd/entity/443932646,=,JB40.3 
+15,産褥尿路性器感染症,L,O863,EVKK,=,http://id.who.int/icd/entity/2134774384,<,JB40.Y 
+15,産褥性骨盤膀胱炎,L,O863,U9J9,=,http://id.who.int/icd/entity/2134774384,<,JB40.Y 
+15,産褥性発熱,L,O864,C1QJ,=,http://id.who.int/icd/entity/214991332,=,JB40.4
+15,分娩後発熱,S1,O864,C1QJ,=,http://id.who.int/icd/entity/214991332,=,JB40.Z 
+15,産褥感染症,L,O864,SBP4,=,http://id.who.int/icd/entity/1741519874,=,JB40.Z
+15,産褥性血栓性静脈炎,L,O870,NN8Q,=,http://id.who.int/icd/entity/392923664,=,JB41.0 
+15,分娩後骨盤血栓性静脈炎,L,O871,JSKQ,=,http://id.who.int/icd/entity/1850512975,<,JB41.1 
+15,分娩後深在静脈血栓症,L,O871,P3QD,=,http://id.who.int/icd/entity/1914718106,=,JB41.1
+15,産褥白股症,L,O871,Q47P,=,http://id.who.int/icd/entity/1538173611,<,JB41.1
+15,分娩後痔核,L,O872,K5BU,=,http://id.who.int/icd/entity/109909861,=,JB41.2
+15,産褥脳静脈洞血栓症,L,O873,JTCF,=,http://id.who.int/icd/entity/1305257104,<,JB41.3
+15,産褥陰部静脈瘤,L,O878,FU27,=,http://id.who.int/icd/entity/641405951,<,JB41.Y 
+15,産褥血栓症,L,O879,EL7M,=,http://id.who.int/icd/entity/594991991,<,JB41.Y 
+15,産科的血栓症,S2,O879,EL7M,=,http://id.who.int/icd/entity/594991991,<,JB41.Y 
+15,産褥静脈炎,L,O879,JRJ3,=,http://id.who.int/icd/entity/1652725968,<,JB41.Y 
+15,産褥静脈疾患,S2,O879,JRJ3,=,http://id.who.int/icd/entity/1652725968,<,JB41.Y 
+15,産科的空気塞栓症,L,O880,CLTL,=,http://id.who.int/icd/entity/1508858290,=,JB42.0
+15,羊水塞栓症,L,O881,M8RT,=,http://id.who.int/icd/entity/1017418792,=,JB42.1
+15,産科的塞栓症,L,O882,GESK,=,http://id.who.int/icd/entity/2146411734,=,JB42.Z 
+15,産科的敗血症性塞栓症,L,O883,K61K,=,http://id.who.int/icd/entity/689865867,<,JB42.2
+15,産科的敗血症性塞栓,S1,O883,K61K,=,http://id.who.int/icd/entity/689865867,<,JB42.2
+15,産科的膿血性塞栓症,L,O883,VS29,=,http://id.who.int/icd/entity/759302477,=,JB42.3 
+15,産科的脂肪塞栓症,L,O888,H5QM,=,http://id.who.int/icd/entity/717713722,<,JB42.Y 
+15,帝王切開創離開,L,O900,N3S1,=,http://id.who.int/icd/entity/1007212671,=,JB44.0
+15,会陰切開創離開,L,O901,B1M5,=,http://id.who.int/icd/entity/889616536,<,JB44.1 
+15,分娩時会陰側切開縫合部癒合不全,S2,O901,B1M5,=,http://id.who.int/icd/entity/889616536,<,JB44.1 
+15,会陰部裂傷縫合不全,S2,O901,B1M5,=,http://id.who.int/icd/entity/889616536,<,JB44.1 
+15,産科的会陰創の離開,S2,O901,B1M5,=,http://id.who.int/icd/entity/889616536,<,JB44.1 
+15,腟壁血腫縫合創離開,L,O901,PPDR,<,http://id.who.int/icd/entity/1497568747 / http://id.who.int/icd/entity/609865692,<,JB44.1 / GA14.3
+15,膣壁血腫縫合創離開,S1,O901,PPDR,<,http://id.who.int/icd/entity/1497568747 / http://id.who.int/icd/entity/609865692,<,JB44.1 / GA14.3
+15,二次性会陰裂傷,L,O901,S4VD,=,http://id.who.int/icd/entity/1497568747,=,JB44.1
+15,産科的創傷の血腫,L,O902,U51L,=,http://id.who.int/icd/entity/770589974,=,JB44.2 
+15,産褥性心筋症,L,O903,R85G,=,http://id.who.int/icd/entity/1218807936,=,JB44.3 / BC43.Y
+15,産褥心筋症,S1,O903,R85G,=,http://id.who.int/icd/entity/1218807936,=,JB44.3 / BC43.Y
+15,分娩後急性腎不全,L,O904,T1KE,=,http://id.who.int/icd/entity/994777876,=,JB44.4
+15,分娩後甲状腺炎,L,O905,ATB9,=,http://id.who.int/icd/entity/1577113218,=,JB44.5
+15,産後甲状腺炎,S1,O905,ATB9,=,http://id.who.int/icd/entity/1577113218,=,JB44.5
+15,後陣痛,L,O908,B28D,<,http://id.who.int/icd/entity/648899097 / http://id.who.int/icd/entity/524292134,<,JB44.Z / MD81.11
+15,胎盤ポリープ,L,O908,F1MT,=,http://id.who.int/icd/entity/1422038699,<,JB44.Y 
+15,産褥子宮退縮不全,L,O908,FPPU,=,http://id.who.int/icd/entity/1919275098,<,JB44.Y 
+15,産後子宮復古不全,S1,O908,FPPU,=,http://id.who.int/icd/entity/1919275098,<,JB44.Y 
+15,会陰切開部肉芽腫,L,O908,URND,<,http://id.who.int/icd/entity/648899097,<,JB44.Y
+15,産後回復不全,L,O909,BK81,<,http://id.who.int/icd/entity/648899097,<,JB44.Z 
+15,産後の肥立不良,S1,O909,BK81,<,http://id.who.int/icd/entity/648899097,<,JB44.Z 
+15,産後衰弱,S2,O909,BK81,<,http://id.who.int/icd/entity/648899097,<,JB44.Z 
+15,産褥性乳頭膿瘍,L,O910,H633,=,http://id.who.int/icd/entity/710635230,<,JB45.Y
+15,分娩に関連する乳頭感染症,L,O910,K4H6,=,http://id.who.int/icd/entity/552603904,=,JB45.Y & XA5MC5 
+15,分娩に関連する乳房感染症,L,O910,P49H,=,http://id.who.int/icd/entity/1139189645,=,JB45.Z
+15,妊娠性乳頭膿瘍,L,O910,RQCS,=,http://id.who.int/icd/entity/710635230,<,JB45.Y
+15,妊娠性乳房膿瘍,L,O911,BV6G,=,http://id.who.int/icd/entity/1169939818,=,JB45.0 
+15,産褥性乳房膿瘍,L,O911,FP4P,=,http://id.who.int/icd/entity/1832958825,<,JB45.0 
+15,産褥性化膿性乳腺炎,L,O911,HERQ,=,http://id.who.int/icd/entity/183090025,<,JB45.0 
+15,産褥性乳輪下膿瘍,L,O911,LC5Q,=,http://id.who.int/icd/entity/453847919,<,JB45.0 
+15,分娩に関連する乳房膿瘍,L,O911,SQ9L,=,http://id.who.int/icd/entity/1169939818,=,JB45.0 
+15,妊娠性化膿性乳腺炎,L,O911,TT2F,=,http://id.who.int/icd/entity/183090025,<,JB45.0 
+15,妊娠性乳輪下膿瘍,L,O911,U0K9,=,http://id.who.int/icd/entity/453847919,<,JB45.0 
+15,産褥性乳腺炎,L,O912,AR66,=,http://id.who.int/icd/entity/190543388,<,JB45.1 
+15,産後乳腺炎,S1,O912,AR66,=,http://id.who.int/icd/entity/190543388,<,JB45.1 
+15,産褥性実質性乳腺炎,L,O912,BK8L,=,http://id.who.int/icd/entity/416548345,<,JB45.1 
+15,妊娠性実質性乳腺炎,L,O912,BUTL,=,http://id.who.int/icd/entity/416548345,<,JB45.1 
+15,妊娠性乳房リンパ管炎,L,O912,N4EG,=,http://id.who.int/icd/entity/1833681764,<,JB45.1 
+15,妊娠性間質性乳腺炎,L,O912,RRJ5,=,http://id.who.int/icd/entity/1207151692,<,JB45.1 
+15,帝王切開後乳腺炎,L,O912,SC08,=,http://id.who.int/icd/entity/190543388 / http://id.who.int/icd/entity/1619967851,<,JB45.1  / JB22.Z
+15,妊娠性乳腺炎,L,O912,T3B1,=,http://id.who.int/icd/entity/823561621,=,JB45.1 
+15,産褥性間質性乳腺炎,L,O912,TUF7,=,http://id.who.int/icd/entity/1207151692,<,JB45.1 
+15,分娩に関連する非化膿性乳腺炎,L,O912,UTQQ,=,http://id.who.int/icd/entity/823561621,=,JB45.1 
+15,産褥性乳房リンパ管炎,L,O912,UU9J,=,http://id.who.int/icd/entity/314333701,<,JB45.1 
+15,分娩に関連する陥没乳頭,L,O920,EVVS,=,http://id.who.int/icd/entity/561492160,=,JB46.0 
+15,妊娠性陥没乳頭,L,O920,PMMG,=,http://id.who.int/icd/entity/561492160,=,JB46.0 
+15,産褥性陥没乳頭,L,O920,V8BF,=,http://id.who.int/icd/entity/561492160,=,JB46.0 
+15,分娩に関連する乳頭亀裂,L,O921,LC8H,=,http://id.who.int/icd/entity/1144814934,=,JB46.1 
+15,産褥性乳頭亀裂,L,O921,STJ9,=,http://id.who.int/icd/entity/1144814934,=,JB46.1 
+15,妊娠性乳頭亀裂,L,O921,SV3B,=,http://id.who.int/icd/entity/1144814934,=,JB46.1 
+15,乳頭潰瘍,L,O921,TK43,<,http://id.who.int/icd/entity/814820779 & http://id.who.int/icd/entity/2048843865,<,JB46.2 & XA5MC5
+15,乳房腫大,L,O922,B24R,=,http://id.who.int/icd/entity/998666508,<,JB46.2
+15,分娩後乳房萎縮,L,O922,NTNK,=,http://id.who.int/icd/entity/1798378181,<,JB46.2
+15,乳汁分泌不全,L,O923,BNM6,=,http://id.who.int/icd/entity/1440407615,=,JB46.3 
+15,乳汁分泌欠如,L,O923,KUFQ,=,http://id.who.int/icd/entity/1440407615,=,JB46.3 
+15,乳汁分泌歇如,S1,O923,KUFQ,=,http://id.who.int/icd/entity/1440407615,=,JB46.3 
+15,無乳症,S1,O923,KUFQ,=,http://id.who.int/icd/entity/1440407615,=,JB46.3 
+15,乳汁分泌過少症,L,O924,C25B,=,http://id.who.int/icd/entity/640971691,=,JB46.4
+15,選択的乳汁分泌抑制,L,O925,MGMG,=,http://id.who.int/icd/entity/1132445247,=,JB46.5 
+15,治療的乳汁分泌抑制,L,O925,S9Q8,=,http://id.who.int/icd/entity/1294866844,<,JB46.5
+15,産褥性乳汁分泌抑制,L,O925,SUU7,=,http://id.who.int/icd/entity/1132445247,=,JB46.5
+15,乳汁分泌抑制,L,O925,U79N,=,http://id.who.int/icd/entity/1132445247,=,JB46.5
+15,続発性乳汁分泌抑制,L,O925,UQCJ,=,http://id.who.int/icd/entity/302624815,<,JB46.5
+15,乳汁漏出症,L,O926,J27C,=,http://id.who.int/icd/entity/936570562,=,JB46.6
+15,乳漏症,S1,O926,J27C,=,http://id.who.int/icd/entity/936570562,=,JB46.6
+15,乳汁漏,S1,O926,J27C,=,http://id.who.int/icd/entity/936570562,=,JB46.6
+15,産褥性乳瘤,L,O927,AGVH,=,http://id.who.int/icd/entity/732500014,<,JB46.7 
+15,乳瘤,S1,O927,AGVH,=,http://id.who.int/icd/entity/732500014,<,JB46.7 
+15,乳房うっ滞,L,O927,B1NL,<,http://id.who.int/icd/entity/1385767764,<,JB46.7 
+15,血性乳汁,L,O927,CU9C,<,http://id.who.int/icd/entity/1385767764,<,JB46.7 
+15,乳汁うっ滞症,L,O927,D0G9,<,http://id.who.int/icd/entity/1385767764,<,JB46.7 
+15,乳汁分泌異常,L,O927,FPMB,<,http://id.who.int/icd/entity/1385767764,<,JB46.7 
+15,授乳困難,L,O927,L5LJ,<,http://id.who.int/icd/entity/1385767764,<,JB46.7 
+15,授乳異常,L,O927,MN36,<,http://id.who.int/icd/entity/1385767764,<,JB46.7 
+15,妊娠高血圧症候群後遺症,L,O94,J4NC,=,http://id.who.int/icd/entity/569289074 / http://id.who.int/icd/entity/2118553363,=,JB65 / JA23 
+15,妊婦梅毒,L,O981,C4KA,=,http://id.who.int/icd/entity/750696215,=,JB63.1 
+15,妊娠梅毒,S1,O981,C4KA,=,http://id.who.int/icd/entity/750696215,=,JB63.1 
+15,尖圭コンジローマ合併妊娠,L,O983,KUM6,=,http://id.who.int/icd/entity/1029188220 / http://id.who.int/icd/entity/641342831,=,JB63.3 / 1A95.Z
+15,クラミジア感染症合併妊娠,L,O983,UTBK,=,http://id.who.int/icd/entity/1029188220  / http://id.who.int/icd/entity/2063433826,<,JB63.3 / 1A81.1 
+15,Ｃ型肝炎合併妊娠,L,O984,HK3M,=,http://id.who.int/icd/entity/1320597992 / http://id.who.int/icd/entity/1615937473,=,JB63.4 / 1E51.1
+15,C型肝炎合併妊娠,S0,O984,HK3M,=,http://id.who.int/icd/entity/1320597992 / http://id.who.int/icd/entity/1615937473,=,JB63.4 / 1E51.1
+15,C型ウイルス肝炎合併妊娠,S1,O984,HK3M,=,http://id.who.int/icd/entity/1320597992 / http://id.who.int/icd/entity/1615937473,=,JB63.4 / 1E51.1
+15,Ｂ型肝炎合併妊娠,L,O984,QSBU,=,http://id.who.int/icd/entity/1320597992 / http://id.who.int/icd/entity/352087872,=,JB63.4 / 1E51.0Z
+15,B型肝炎合併妊娠,S0,O984,QSBU,=,http://id.who.int/icd/entity/1320597992 / http://id.who.int/icd/entity/352087872,=,JB63.4 / 1E51.0Z
+15,B型ウイルス肝炎合併妊娠,S1,O984,QSBU,=,http://id.who.int/icd/entity/1320597992 / http://id.who.int/icd/entity/352087872,=,JB63.4 / 1E51.0Z
+15,妊娠貧血症,L,O990,A8CK,=,http://id.who.int/icd/entity/1426960900,=,JB64.0
+15,妊婦貧血,S1,O990,A8CK,=,http://id.who.int/icd/entity/1426960900,=,JB64.0
+15,妊娠貧血(症),S1,O990,A8CK,=,http://id.who.int/icd/entity/1426960900,=,JB64.0
+15,妊娠貧血,S1,O990,A8CK,=,http://id.who.int/icd/entity/1426960900,=,JB64.0
+15,妊娠性葉酸欠乏性貧血,L,O990,BPC9,=,http://id.who.int/icd/entity/1426960900 / http://id.who.int/icd/entity/918183131,=,JB64.0 / 3A02.Z
+15,妊娠性葉酸歇乏性貧血,S1,O990,BPC9,=,http://id.who.int/icd/entity/1426960900 / http://id.who.int/icd/entity/918183131,=,JB64.0 / 3A02.Z
+15,妊娠性鉄欠乏性貧血,L,O990,HEAN,=,http://id.who.int/icd/entity/1426960900 / http://id.who.int/icd/entity/1577750667,=,JB64.0 / 3A00.Z
+15,妊娠性鉄歇乏性貧血,S1,O990,HEAN,=,http://id.who.int/icd/entity/1426960900 / http://id.who.int/icd/entity/1577750667,=,JB64.0 / 3A00.Z
+15,産褥期鉄欠乏性貧血,L,O990,KH81,=,http://id.who.int/icd/entity/1426960900 / http://id.who.int/icd/entity/1577750667,=,JB64.0 / 3A00.Z
+15,産褥期貧血,L,O990,TE9E,=,http://id.who.int/icd/entity/1830082093,<,JB64.0
+15,産褥貧血,S1,O990,TE9E,=,http://id.who.int/icd/entity/1830082093,<,JB64.0
+15,分娩後貧血,S1,O990,TE9E,=,http://id.who.int/icd/entity/1426960900,=,JB64.0
+15,抗リン脂質抗体症候群合併妊娠,L,O991,BA2M,=,http://id.who.int/icd/entity/809926550 / http://id.who.int/icd/entity/1173370808,=,JB64.1 / 4A45.Z
+15,特発性血小板減少性紫斑病合併妊娠,L,O991,PPDK,=,http://id.who.int/icd/entity/809926550 / http://id.who.int/icd/entity/364346400,=,JB64.1 / 3B64.10
+15,ITP合併妊娠,S1,O991,PPDK,=,http://id.who.int/icd/entity/809926550 / http://id.who.int/icd/entity/364346400,=,JB64.1 / 3B64.10
+15,産後一過性甲状腺機能異常,L,O992,CD3E,<,http://id.who.int/icd/entity/1156263785 / http://id.who.int/icd/entity/1722092627,<,JB64.2 / 5A00.Z
+15,出産後一過性甲状腺機能異常,S1,O992,CD3E,<,http://id.who.int/icd/entity/1156263785 / http://id.who.int/icd/entity/1722092627,<,JB64.2 / 5A00.Z
+15,分娩後甲状腺機能低下症,L,O992,GHJB,=,http://id.who.int/icd/entity/1156263785 / http://id.who.int/icd/entity/1722092627,=,JB64.2 / 5A00.Z
+15,産褥卵巣機能低下症,L,O992,PNQK,=,http://id.who.int/icd/entity/1156263785 / http://id.who.int/icd/entity/1801368748,=,JB64.2 / 5A80.Z
+15,分娩後卵巣機能低下,S1,O992,PNQK,=,http://id.who.int/icd/entity/1156263785 / http://id.who.int/icd/entity/1801368748,=,JB64.2 / 5A80.Z
+15,分娩後卵巣機能不全,S1,O992,PNQK,=,http://id.who.int/icd/entity/1156263785 / http://id.who.int/icd/entity/1801368748,=,JB64.2 / 5A80.Z
+15,産後脚気,L,O992,RDLC,=,http://id.who.int/icd/entity/1156263785 / http://id.who.int/icd/entity/632832064,=,JB64.2 / 5B5A.0Z
+15,分娩後甲状腺機能亢進症,L,O992,SRCD,=,http://id.who.int/icd/entity/1156263785 / http://id.who.int/icd/entity/1470387017,=,JB64.2 / 5A02.Z
+15,妊娠中うつ状態,L,O993,CP0U,=,http://id.who.int/icd/entity/1124422593 / http://id.who.int/icd/entity/1563440232,=,6E20 / 6A7Z
+15,妊娠中抑うつ,S1,O993,CP0U,=,http://id.who.int/icd/entity/1124422593 / http://id.who.int/icd/entity/1563440232,=,6E20 / 6A7Z
+15,てんかん合併妊娠,L,O993,M2ET,=,http://id.who.int/icd/entity/564191997 / http://id.who.int/icd/entity/1397288146,=,JB64.3 / 8A6Z
+15,妊娠期精神病,L,O993,PF8K,=,http://id.who.int/icd/entity/1124422593,=,6E2Z 
+15,妊娠期ニコチン依存症,L,O993,Q0UJ,=,http://id.who.int/icd/entity/1124422593  / http://id.who.int/icd/entity/1699574100,=,6E2Z / 6C4A.Z
+15,脳性麻痺合併妊娠,L,O993,RL7B,=,http://id.who.int/icd/entity/564191997 / http://id.who.int/icd/entity/76906748,=,JB64.3 / 8D2Z
+15,分娩時中枢神経系合併症,L,O993,SF6V,=,http://id.who.int/icd/entity/564191997 & http://id.who.int/icd/entity/974549086,=,JB64.3 & XA3JU6
+15,妊娠時舞踏病,L,O993,TC86,=,http://id.who.int/icd/entity/564191997 / http://id.who.int/icd/entity/1011947109,<,JB64.3 / 8A0Y 
+15,分娩時脳障害,L,O993,UP18,=,http://id.who.int/icd/entity/564191997 / http://id.who.int/icd/entity/151219786,<,JB64.3 / 8E4Y 
+15,産褥期心臓合併症,L,O994,BC1L,=,http://id.who.int/icd/entity/1380872553 / http://id.who.int/icd/entity/2135151223,=,JB64.4 /  BC4Z
+15,産褥中心臓合併症,S1,O994,BC1L,=,http://id.who.int/icd/entity/1380872553 / http://id.who.int/icd/entity/2135151223,=,JB64.4 /  BC4Z
+15,産褥時心臓合併症,S1,O994,BC1L,=,http://id.who.int/icd/entity/1380872553 / http://id.who.int/icd/entity/2135151223,=,JB64.4 /  BC4Z
+15,妊娠期心臓合併症,L,O994,BVEH,=,http://id.who.int/icd/entity/1380872553 / http://id.who.int/icd/entity/2135151223,=,JB64.4 /  BC4Z
+15,妊娠時心臓合併症,S1,O994,BVEH,=,http://id.who.int/icd/entity/1380872553 / http://id.who.int/icd/entity/2135151223,=,JB64.4 /  BC4Z
+15,妊娠中心臓合併症,S1,O994,BVEH,=,http://id.who.int/icd/entity/1380872553 / http://id.who.int/icd/entity/2135151223,=,JB64.4 /  BC4Z
+15,分娩時脳血管疾患合併症,L,O994,HM6U,=,http://id.who.int/icd/entity/824741370,=,JB64.4 / BD55 
+15,分娩時心臓合併症,L,O994,JHDM,=,http://id.who.int/icd/entity/1380872553 / http://id.who.int/icd/entity/2135151223,=,JB64.4 /  BC4Z
+15,妊娠期脳血管疾患合併症,L,O994,M2V0,=,http://id.who.int/icd/entity/824741370,=,JB64.4 / BD55 
+15,産褥期脳血管疾患合併症,L,O994,QU91,=,http://id.who.int/icd/entity/824741370,=,JB64.4 / BD55 
+15,気管支喘息合併妊娠,L,O995,CJBB,=,http://id.who.int/icd/entity/923122941 / http://id.who.int/icd/entity/577724120,=,JB64.5 / CA23.32
+15,妊娠中感冒,L,O995,JE2R,=,http://id.who.int/icd/entity/923122941 / http://id.who.int/icd/entity/2066255370,=,JB64.5 / CA00
+15,分娩時肺合併症,L,O995,NTK3,=,http://id.who.int/icd/entity/923122941,=,JB64.5
+15,妊娠中気管支炎,L,O995,T2D0,=,http://id.who.int/icd/entity/923122941 / http://id.who.int/icd/entity/11753425,=,JB64.5 / CA20.Z
+15,妊産婦便秘,L,O996,GL3D,=,http://id.who.int/icd/entity/1135143938 / http://id.who.int/icd/entity/502284069,=,JB64.6 / ME05.0
+15,潰瘍性大腸炎合併妊娠,L,O996,R679,=,http://id.who.int/icd/entity/1135143938  / http://id.who.int/icd/entity/268810206,=,JB64.6 / DD71.Z
+15,妊娠性痒疹,L,O997,A4U0,=,http://id.who.int/icd/entity/1401753686,=,JA65.11
+15,妊娠痒疹,S1,O997,A4U0,=,http://id.who.int/icd/entity/1401753686,=,JA65.11
+15,妊婦性皮膚炎,L,O997,JVAS,=,http://id.who.int/icd/entity/652419480 ,=,JB64.7 
+15,妊娠性肝斑,L,O997,NUP4,=,http://id.who.int/icd/entity/522040577,=,ED60.1
+15,妊婦性肝斑,S1,O997,NUP4,=,http://id.who.int/icd/entity/522040577,=,ED60.1
+15,妊娠湿疹,L,O997,SBU2,=,http://id.who.int/icd/entity/522040577,=,JA65.1
+15,妊婦湿疹,S1,O997,SBU2,=,http://id.who.int/icd/entity/522040577,=,JA65.1
+15,下垂体腺腫合併妊娠,L,O998,A11U,=,http://id.who.int/icd/entity/1298211163 / http://id.who.int/icd/entity/1290583069 & http://id.who.int/icd/entity/294069435 &  http://id.who.int/icd/entity/1224656480,=,JB64.Y / 2F37.Y & XA8J35 & XH94U0
+15,脳海綿状血管腫合併妊娠,L,O998,FSRT,=,http://id.who.int/icd/entity/1298211163 / http://id.who.int/icd/entity/220374232,<,JB64.Y / 2E81.0Y & XA9738 & XH1GU2
+15,妊娠中の耐糖能低下,L,O998,NEK7,=,http://id.who.int/icd/entity/1298211163  / http://id.who.int/icd/entity/1001802843,<,JB64.Y /  5A40.1
+15,先天性肺動脈狭窄合併妊娠,L,O998,Q2HH,=,http://id.who.int/icd/entity/1298211163  / http://id.who.int/icd/entity/953235173,=,JB64.Y / LA8B.1

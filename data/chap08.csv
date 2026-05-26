@@ -1,0 +1,508 @@
+ICD10 章,標準病名,代表・同義,ICD10コード,交換コード,関係,ICD11 Foundation URI,関係,MMS
+8,外耳道膿瘍,L,H600,M9NA,=,http://id.who.int/icd/entity/63405569,=,AA00 & XA3UC1
+8,耳せつ,S2,H600,M9NA,=,http://id.who.int/icd/entity/1081137172 &  http://id.who.int/icd/entity/768242906,=,1B75.0 &XA6ZY6
+8,耳介せつ,S2,H600,M9NA,=,http://id.who.int/icd/entity/1081137172  & http://id.who.int/icd/entity/2030796271,=,1B75.0 & XA4E71 
+8,耳介よう,S2,H600,M9NA,=,http://id.who.int/icd/entity/1456834066 & http://id.who.int/icd/entity/2030796271,=,1B75.1 & XA4E71 
+8,外耳道よう,S2,H600,M9NA,=,http://id.who.int/icd/entity/1456834066  &  http://id.who.int/icd/entity/1296498321,=,1B75.1 & XA3UC1
+8,耳膿瘍,S2,H600,M9NA,=,http://id.who.int/icd/entity/726212135,=,AA00 
+8,耳介膿瘍,S2,H600,M9NA,=,http://id.who.int/icd/entity/259296782,=,AA00 & XA4E71 
+8,外耳道せつ,S2,H600,M9NA,=,http://id.who.int/icd/entity/1081137172 &  http://id.who.int/icd/entity/1296498321,=,1B75.0 & XA3UC1
+8,外耳の膿瘍,S2,H600,M9NA,=,http://id.who.int/icd/entity/726212135,=,AA00 
+8,耳介蜂巣炎,L,H601,CCA5,=,http://id.who.int/icd/entity/484945214,=,AA01 & XA4E71
+8,耳介蜂窩織炎,S1,H601,CCA5,=,http://id.who.int/icd/entity/484945214,=,AA01 & XA4E71
+8,外耳道蜂巣炎,L,H601,KSDF,=,http://id.who.int/icd/entity/9391742,=,AA01 & XA3UC1
+8,外耳道蜂窩織炎,S1,H601,KSDF,=,http://id.who.int/icd/entity/9391742,=,AA01 & XA3UC1
+8,外耳の蜂巣炎,S1,H601,KSDF,=,http://id.who.int/icd/entity/1308808115,=,AA01
+8,壊死性外耳炎,L,H602,GB5A,=,http://id.who.int/icd/entity/984580942,=,AA02
+8,え死性外耳炎,S1,H602,GB5A,=,http://id.who.int/icd/entity/984580942,=,AA02
+8,緑膿菌性外耳炎,L,H602,L815,=,http://id.who.int/icd/entity/2035326404 & http://id.who.int/icd/entity/1811342866,=,AA0Z & XN5L6
+8,悪性外耳炎,L,H602,S74V,=,http://id.who.int/icd/entity/984580942,=,AA02
+8,悪性外耳道炎,S1,H602,S74V,=,http://id.who.int/icd/entity/984580942 & http://id.who.int/icd/entity/1296498321,=,AA02 & XA3UC1
+8,感染性外耳炎,L,H603,B3K1,=,http://id.who.int/icd/entity/2035326404,=,AA0Z
+8,スイマーズイヤー,S2,H603,B3K1,=,http://id.who.int/icd/entity/837295519,<,AA0Y 
+8,耳部感染症,S2,H603,B3K1,=, http://id.who.int/icd/entity/2035326404 ,=,AA0Z 
+8,外耳道感染症,S2,H603,B3K1,=,http://id.who.int/icd/entity/2035326404 & http://id.who.int/icd/entity/1296498321 ,=,AA0Z & XA3UC1
+8,びまん性外耳炎,L,H603,FU1H,=,http://id.who.int/icd/entity/1303990434 & http://id.who.int/icd/entity/1265853763,=,AA3Z & XK31
+8,びまん性外耳道炎,S1,H603,FU1H,=,http://id.who.int/icd/entity/1303990434 & http://id.who.int/icd/entity/1296498321 & http://id.who.int/icd/entity/1265853763 ,=,AA3Z  & XA3UC1 & XK31
+8,出血性外耳炎,L,H603,GBFA,=,http://id.who.int/icd/entity/1303990434 / http://id.who.int/icd/entity/940081636,=,AA3Y / MG27
+8,急性化膿性外耳炎,L,H603,V9NU,<,http://id.who.int/icd/entity/2035326404 & http://id.who.int/icd/entity/786106375,<,AA0Y & XT5R
+8,外耳道真珠腫,L,H604,C4NQ,=,http://id.who.int/icd/entity/738909516,=,AA40.2
+8,外耳道閉塞性角化症,L,H604,EER1,=,http://id.who.int/icd/entity/634950675 & http://id.who.int/icd/entity/1296498321 ,<,AA4Y & XA3UC1
+8,閉塞性角化症,S1,H604,EER1,=,http://id.who.int/icd/entity/634950675,<,AA4Y
+8,急性外耳炎,L,H605,BHUJ,=,http://id.who.int/icd/entity/1303990434 & http://id.who.int/icd/entity/786106375,=,AA3Z & XT5R
+8,急性外耳道炎,S1,H605,BHUJ,=,http://id.who.int/icd/entity/1303990434 & http://id.who.int/icd/entity/1296498321 & http://id.who.int/icd/entity/786106375,=,AA3Z  & XA3UC1 & XT5R
+8,急性光線性外耳炎,L,H605,BMD2,=,http://id.who.int/icd/entity/1229000922 / http://id.who.int/icd/entity/654408969,=,AA11 
+8,急性接触性外耳炎,L,H605,FG2K,=,http://id.who.int/icd/entity/1229000922 / http://id.who.int/icd/entity/1354031297,=,AA11 / EG40 
+8,化学性急性外耳炎,L,H605,GKJS,<,http://id.who.int/icd/entity/1229000922,<,AA11
+8,急性反応性外耳炎,L,H605,KP9Q,=,http://id.who.int/icd/entity/1229000922,=,AA11
+8,アレルギー性外耳道炎,L,H605,KQRD,=,http://id.who.int/icd/entity/94282662 & http://id.who.int/icd/entity/1296498321,=,EG40.0 & XA3UC1
+8,非感染性急性外耳炎,L,H605,RLD8,=,http://id.who.int/icd/entity/1229000922,=,AA11
+8,耳介周囲湿疹,L,H605,S2FC,<,http://id.who.int/icd/entity/1229000922 & http://id.who.int/icd/entity/1070102426 ,<,AA11 & XA9E26
+8,耳介耳周囲湿疹,S2,H605,S2FC,<,http://id.who.int/icd/entity/1229000922 & http://id.who.int/icd/entity/1070102426 ,<,AA11 & XA9E26
+8,耳介部皮膚炎,L,H605,SSTV,=,http://id.who.int/icd/entity/1229000922 & http://id.who.int/icd/entity/1070102426 ,=,AA11 & XA9E26
+8,耳介湿疹,S1,H605,SSTV,=, http://id.who.int/icd/entity/436033391 & http://id.who.int/icd/entity/1070102426 ,=,AA11 & XA9E26
+8,外耳湿疹,L,H605,TAGV,=,http://id.who.int/icd/entity/436033391,=,AA1Z
+8,外耳道湿疹,S1,H605,TAGV,=,http://id.who.int/icd/entity/436033391 & http://id.who.int/icd/entity/1296498321,=,AA1Z & XA3UC1 
+8,外耳道耳介湿疹,S1,H605,TAGV,=,http://id.who.int/icd/entity/436033391 & http://id.who.int/icd/entity/1296498321 & http://id.who.int/icd/entity/2030796271,=,AA1Z & XA3UC1 & XA4E71 
+8,急性湿疹性外耳炎,L,H605,VG44,=,http://id.who.int/icd/entity/1229000922  ,=,AA11
+8,慢性外耳炎,L,H608,GT97,=,http://id.who.int/icd/entity/634296561,=,AA13 
+8,外耳道肉芽腫,L,H609,CEAM,=,http://id.who.int/icd/entity/647260534 & http://id.who.int/icd/entity/1296498321 ,=,EE8Z & XA3UC1
+8,限局性外耳道炎,L,H609,LDLG,=,http://id.who.int/icd/entity/1303990434 & http://id.who.int/icd/entity/1296498321 & http://id.who.int/icd/entity/1303990434,=,AA3Z  & XA3UC1  & XK9A 
+8,外耳炎,L,H609,QPG2,=,http://id.who.int/icd/entity/1303990434,=,AA3Z 
+8,外耳道皮膚炎,S1,H609,QPG2,=,http://id.who.int/icd/entity/1303990434 &  http://id.who.int/icd/entity/1070102426,=,AA3Z & XA9E26
+8,外耳道炎,S1,H609,QPG2,=,http://id.who.int/icd/entity/1303990434 & http://id.who.int/icd/entity/1296498321 ,=,AA3Z & XA3UC1
+8,外耳道耳介炎,S2,H609,QPG2,=,http://id.who.int/icd/entity/1303990434 & http://id.who.int/icd/entity/1296498321 & http://id.who.int/icd/entity/2030796271,=,AA3Z  & XA3UC1 & XA4E71
+8,外耳道周囲炎,S2,H609,QPG2,<,http://id.who.int/icd/entity/1303990434 & http://id.who.int/icd/entity/1296498321 ,=,AA3Z & XA3UC1
+8,外耳道痛,L,H609,V571,=,http://id.who.int/icd/entity/1303990434 & http://id.who.int/icd/entity/1296498321   / http://id.who.int/icd/entity/661232217,=,AA3Z & XA3UC1 / MG3Z 
+8,外耳道軟骨炎,L,H610,AQF9,=,http://id.who.int/icd/entity/934401704,=,AA04
+8,外耳の軟骨膜炎,S2,H610,AQF9,=,http://id.who.int/icd/entity/934401704,=,AA04
+8,耳介軟骨膜炎,L,H610,S08P,=,http://id.who.int/icd/entity/934401704,=,AA04
+8,耳介周囲炎,S2,H610,S08P,<,http://id.who.int/icd/entity/934401704,<,AA04
+8,慢性結節性耳輪軟骨皮膚炎,S2,H610,S08P,=,http://id.who.int/icd/entity/553126222 ,=,AA12
+8,耳介瘻,L,H611,KD3L,=,http://id.who.int/icd/entity/1685830948 ,<,AA4Y
+8,耳介瘻孔,S1,H611,KD3L,=,http://id.who.int/icd/entity/1685830948 ,<,AA4Y
+8,耳介非感染性障害,S2,H611,KD3L,=,http://id.who.int/icd/entity/2031277350,=,AA4Z
+8,耳垢栓塞,L,H612,JM3P,=,http://id.who.int/icd/entity/643255245,=,AA42 
+8,耳垢栓,S1,H612,JM3P,=,http://id.who.int/icd/entity/643255245,=,AA42 
+8,耳垢栓塞(症),S1,H612,JM3P,=,http://id.who.int/icd/entity/643255245,=,AA42 
+8,耳垢症,S1,H612,JM3P,=,http://id.who.int/icd/entity/643255245,=,AA42 
+8,耳垢(症),S1,H612,JM3P,=,http://id.who.int/icd/entity/643255245,=,AA42 
+8,耳垢栓塞症,S1,H612,JM3P,=,http://id.who.int/icd/entity/643255245,=,AA42 
+8,耳垢,S1,H612,JM3P,=,http://id.who.int/icd/entity/643255245,=,AA42 
+8,みみあか,S1,H612,JM3P,=,http://id.who.int/icd/entity/643255245,=,AA42 
+8,複雑耳垢,L,H612,MV14,<,http://id.who.int/icd/entity/643255245,<,AA42 
+8,軟耳垢,L,H612,QA5V,=,http://id.who.int/icd/entity/643255245,=,AA42
+8,後天性外耳道狭窄,L,H613,U8EL,=,http://id.who.int/icd/entity/1125942873,=,AA40.1
+8,外傷性外耳道狭窄症,L,H613,V2R5,<,http://id.who.int/icd/entity/1125942873 ,<,AA40.1 
+8,耳瘻孔,L,H618,BDPJ,=,http://id.who.int/icd/entity/1685830948 ,<,AA4Y
+8,耳瘻,S1,H618,BDPJ,=,http://id.who.int/icd/entity/1685830948 ,<,AA4Y
+8,耳介部腫瘤,L,H618,E7J6,<,http://id.who.int/icd/entity/1392122674,<,AA41.Y
+8,耳介後部腫脹,L,H618,E7RK,<,http://id.who.int/icd/entity/1392122674,<,AA41.Y
+8,サーファーズイヤー,L,H618,KHT8,=,http://id.who.int/icd/entity/1204993220 ,<,AA4Y 
+8,サーファーズイア,S1,H618,KHT8,=,http://id.who.int/icd/entity/1204993220 ,<,AA4Y 
+8,サーファーズ・イア,S1,H618,KHT8,=,http://id.who.int/icd/entity/1204993220 ,<,AA4Y 
+8,外耳道外骨腫,S1,H618,KHT8,=,http://id.who.int/icd/entity/1305314739,=,AA40.0
+8,外耳道腫瘤,L,H618,M8AD,=,http://id.who.int/icd/entity/1773110354　,=,AA40.Y
+8,外耳道掻創,L,H618,MLU1,=,http://id.who.int/icd/entity/1212937040 & http://id.who.int/icd/entity/1296498321,=,ND56.0 & XA3UC1
+8,外耳道掻傷,S1,H618,MLU1,=,http://id.who.int/icd/entity/1212937040 & http://id.who.int/icd/entity/1296498321,=,ND56.0 & XA3UC1
+8,外耳道掻爬傷,S1,H618,MLU1,=,http://id.who.int/icd/entity/1212937040 & http://id.who.int/icd/entity/1296498321,=,ND56.0 & XA3UC1
+8,耳介後部腫瘤,L,H618,QSTN,<,http://id.who.int/icd/entity/1392122674,<,AA41.Y
+8,急性滲出性中耳炎,L,H650,FBTU,=,http://id.who.int/icd/entity/223283162 ,=,AA80 
+8,急性カタル性中耳炎,S1,H650,FBTU,=,http://id.who.int/icd/entity/223283162 ,=,AA80 
+8,急性非化膿性中耳炎,L,H651,DJ23,=,http://id.who.int/icd/entity/1745144396 ,=,AA81
+8,急性耳管鼓室カタル,S2,H651,DJ23,=,http://id.who.int/icd/entity/1745144396 & http://id.who.int/icd/entity/987893786 & http://id.who.int/icd/entity/1391287252),=,AA81  & XA7XY6  &  XA3KB2 
+8,亜急性ムコイド中耳炎,L,H651,EE8H,=,http://id.who.int/icd/entity/1868355332 ,<,AA81
+8,急性ムコイド中耳炎,L,H651,FGMS,=,http://id.who.int/icd/entity/223283162 ,=,AA80 
+8,急性アレルギー性中耳炎,L,H651,PSJT,=,http://id.who.int/icd/entity/325703106 ,<,AA81
+8,急性血性中耳炎,L,H651,RBFR,=,http://id.who.int/icd/entity/1282929571,<,AA81
+8,急性漿液ムチン性中耳炎,L,H651,S20F,=,http://id.who.int/icd/entity/420562692 & http://id.who.int/icd/entity/786106375 ,<,AA81 
+8,亜急性アレルギー性中耳炎,L,H651,SDTE,=,http://id.who.int/icd/entity/325703106 & http://id.who.int/icd/entity/2058324694,<,AA81 
+8,亜急性血性中耳炎,L,H651,TNQE,=,http://id.who.int/icd/entity/1282929571 & http://id.who.int/icd/entity/2058324694,<,AA81
+8,亜急性漿液ムチン性中耳炎,L,H651,UQKR,=,http://id.who.int/icd/entity/420562692 & http://id.who.int/icd/entity/2058324694,<,AA81 
+8,慢性漿液性中耳炎,L,H652,ALKN,=,http://id.who.int/icd/entity/1996795872,<,AA82
+8,慢性滲出性中耳炎,L,H652,MLSM,=,http://id.who.int/icd/entity/1996795872,<,AA82
+8,慢性中耳カタル,S1,H652,MLSM,=,http://id.who.int/icd/entity/612655644,<,AA82
+8,慢性カタル性中耳炎,S1,H652,MLSM,=,http://id.who.int/icd/entity/612655644,<,AA82
+8,慢性耳管鼓室カタル,L,H652,NLC9,=,http://id.who.int/icd/entity/612655644,<,AA82
+8,グルーイヤー,L,H653,CTG5,=,http://id.who.int/icd/entity/1461200242,<,AA82
+8,慢性ムコイド中耳炎,L,H653,GPMV,=,http://id.who.int/icd/entity/2044876583 ,<,AA82
+8,慢性粘液性中耳炎,S2,H653,GPMV,=,http://id.who.int/icd/entity/2044876583 ,<,AA82
+8,慢性ムチン性中耳炎,S2,H653,GPMV,=,http://id.who.int/icd/entity/2044876583,<,AA82
+8,慢性漏出性中耳炎,S2,H653,GPMV,=,http://id.who.int/icd/entity/1996795872,=,AA82
+8,慢性漿液ムチン性中耳炎,L,H654,A933,=,http://id.who.int/icd/entity/480877235,=,AA82
+8,好酸球性中耳炎,L,H654,HNJD,<,http://id.who.int/icd/entity/800153181,<,AA8Z 
+8,慢性アレルギー性中耳炎,L,H654,JJ0F,=,http://id.who.int/icd/entity/2130317284,<,AA8Z 
+8,慢性非化膿性中耳炎,L,H654,U0LK,=,http://id.who.int/icd/entity/168608947,<,AA8Z
+8,アレルギー性中耳炎,L,H659,D2LC,=,http://id.who.int/icd/entity/800153181  ,=,AA8Z
+8,非化膿性中耳炎,L,H659,EP5N,=,http://id.who.int/icd/entity/800153181  ,=,AA8Z
+8,ムコーズス中耳炎,L,H659,GLJ2,<,http://id.who.int/icd/entity/529326892,<,AB0Y & XN3PW / 1C41
+8,滲出性中耳炎,L,H659,LQPR,=,http://id.who.int/icd/entity/800153181 ,=,AA8Z
+8,耳カタル,S1,H659,LQPR,=,http://id.who.int/icd/entity/800153181 ,=,AA8Z
+8,湿性中耳炎,S1,H659,LQPR,=,http://id.who.int/icd/entity/800153181 ,=,AA8Z
+8,カタル性中耳炎,S1,H659,LQPR,=,http://id.who.int/icd/entity/800153181 ,=,AA8Z
+8,中耳カタル,S1,H659,LQPR,=,http://id.who.int/icd/entity/800153181 ,=,AA8Z
+8,中耳耳管カタル,S1,H659,LQPR,=,http://id.who.int/icd/entity/800153181 &  http://id.who.int/icd/entity/987893786 ,=,AA8Z & XA7XY6
+8,漿液性中耳炎,S1,H659,LQPR,=,http://id.who.int/icd/entity/800153181 ,=,AA8Z
+8,滲出性中耳カタル,S1,H659,LQPR,=,http://id.who.int/icd/entity/800153181 ,=,AA8Z
+8,漏出性中耳炎,S2,H659,LQPR,=,http://id.who.int/icd/entity/800153181 ,=,AA8Z
+8,漿液ムチン性中耳炎,S2,H659,LQPR,=,http://id.who.int/icd/entity/480877235,=,AA82
+8,耳管鼓室炎,L,H659,RDG9,=,http://id.who.int/icd/entity/1588903131,=, AB10.2
+8,ムコイド中耳炎,L,H659,S733,=,http://id.who.int/icd/entity/800153181 ,=,AA8Z
+8,中耳炎後遺症,L,H659,UA1T,=,http://id.who.int/icd/entity/800153181 & http://id.who.int/icd/entity/472249438,=,AA8Z & XT9C 
+8,水疱性中耳炎,L,H660,AKGH,=,http://id.who.int/icd/entity/2070250822 ,<,AB14 
+8,グラデニーゴ症候群,L,H660,GBDL,=,http://id.who.int/icd/entity/1906202113,<,9C81.2 
+8,GRADENIGO症候群,S1,H660,GBDL,=,http://id.who.int/icd/entity/1906202113,<,9C81.2 
+8,急性化膿性中耳炎,L,H660,V9VJ,=,http://id.who.int/icd/entity/214476774,=,AA90
+8,良性慢性化膿性中耳炎,L,H661,J5BD,=,http://id.who.int/icd/entity/1770220148,=,AA91.0 
+8,慢性耳管鼓室化膿性中耳炎,L,H661,SVPB,=,http://id.who.int/icd/entity/1770220148,=,AA91.0 
+8,慢性耳管鼓室疾患,S2,H661,SVPB,=,http://id.who.int/icd/entity/1770220148,=,AA91.0 
+8,慢性上鼓室乳突洞化膿性中耳炎,L,H662,BR5R,=,http://id.who.int/icd/entity/489568909,=,AA91.1
+8,慢性上鼓室乳突洞疾患,S2,H662,BR5R,=,http://id.who.int/icd/entity/489568909,=,AA91.1
+8,慢性上鼓室乳様突起洞化膿性中耳炎,S2,H662,BR5R,=,http://id.who.int/icd/entity/489568909,=,AA91.1
+8,上鼓室化膿症,L,H662,TVR0,=,http://id.who.int/icd/entity/489568909,=,AA91.1
+8,慢性化膿性中耳炎,L,H663,NN46,=,http://id.who.int/icd/entity/996997454 ,=,AA91.Z
+8,慢性化膿性穿孔性中耳炎,L,H663,SHQJ,<,http://id.who.int/icd/entity/2019948313,<,"AA91.2
+"
+8,化膿性中耳炎,L,H664,K24L,=,http://id.who.int/icd/entity/1528565412,=,AA9Z
+8,鼓室化膿症,S2,H664,K24L,=,http://id.who.int/icd/entity/1528565412 & http://id.who.int/icd/entity/1391287252,=,AA9Z & XA3KB2
+8,化膿性再発性中耳炎,S2,H664,K24L,=,http://id.who.int/icd/entity/1528565412 & http://id.who.int/icd/entity/1721353160,=,AA9Z & XT44 
+8,出血性中耳炎,L,H669,A68F,=,http://id.who.int/icd/entity/1079654421 /  http://id.who.int/icd/entity/940081636,=,AB0Z / MG27
+8,慢性中耳炎術後再燃,L,H669,AQCR,=,http://id.who.int/icd/entity/38010200 & http://id.who.int/icd/entity/182265087 & http://id.who.int/icd/entity/1721353160,=,AB01 & XY7V & XT44 
+8,慢性中耳炎術後増悪症,S2,H669,AQCR,<,http://id.who.int/icd/entity/38010200 & http://id.who.int/icd/entity/182265087 & http://id.who.int/icd/entity/1721353160,<,AB01 & XY7V & XT44 
+8,外傷性穿孔性中耳炎,L,H669,B25T,=,http://id.who.int/icd/entity/1079654421  / http://id.who.int/icd/entity/40189874 ,=,AB0Y / NA0A.2
+8,陳旧性中耳炎,L,H669,C2M1,<,http://id.who.int/icd/entity/1079654421 ,<,AB0Z
+8,中耳炎,L,H669,ESB5,=,http://id.who.int/icd/entity/1079654421 ,=,AB0Z 
+8,新生児中耳炎,L,H669,H3HQ,=,http://id.who.int/icd/entity/1079654421 & http://id.who.int/icd/entity/1352518340,=,AB0Z & XT16
+8,慢性穿孔性中耳炎,L,H669,HMRK,=,http://id.who.int/icd/entity/38010200 / http://id.who.int/icd/entity/194676178 ,=,AB01 / AB13.Z 
+8,外傷性中耳炎,L,H669,L3E8,<,http://id.who.int/icd/entity/1079654421,<,AB0Y
+8,中耳炎性顔面神経麻痺,L,H669,M4QQ,=,http://id.who.int/icd/entity/1079654421 / http://id.who.int/icd/entity/2004402146,=,AB0Y / 8B88.0
+8,再発性中耳炎,L,H669,QECF,=,http://id.who.int/icd/entity/1079654421  & http://id.who.int/icd/entity/1721353160,=,AB0Z & XT44 
+8,反復性中耳炎,S1,H669,QECF,=,http://id.who.int/icd/entity/1079654421  & http://id.who.int/icd/entity/1721353160,=,AB0Z & XT44 
+8,慢性中耳炎,L,H669,QJ82,=,http://id.who.int/icd/entity/38010200,=,AB01
+8,術後性慢性中耳炎,L,H669,RUAJ,=,http://id.who.int/icd/entity/38010200 & http://id.who.int/icd/entity/182265087,=,AB01 & XY7V 
+8,慢性中耳炎術後症,S1,H669,RUAJ,=,http://id.who.int/icd/entity/38010200 & http://id.who.int/icd/entity/182265087,=,AB01 & XY7V 
+8,鼓室内水腫,L,H669,SAFH,=,http://id.who.int/icd/entity/1079654421 & http://id.who.int/icd/entity/1391287252 / http://id.who.int/icd/entity/826220775,=, AB0Y &XA3KB2 / MG29.Z 
+8,慢性中耳炎急性増悪,L,H669,SRHN,<,http://id.who.int/icd/entity/38010200,<,AB01
+8,穿孔性中耳炎,L,H669,SSBK,<,http://id.who.int/icd/entity/1079654421 / http://id.who.int/icd/entity/194676178 ,<,AB0Y/ AB13.Z 
+8,単純性中耳炎,L,H669,STN3,<,http://id.who.int/icd/entity/1079654421,<,AB0Z
+8,急性中耳炎,L,H669,SUN4,=,http://id.who.int/icd/entity/476505279,=,AB00
+8,急性耳炎,S2,H669,SUN4,=,http://id.who.int/icd/entity/476505279,=,AB00
+8,術後性中耳炎,L,H669,U9GV,=,http://id.who.int/icd/entity/1079654421 & http://id.who.int/icd/entity/182265087 ,=,AB0Z & XY7V  
+8,成形術後中耳炎,S2,H669,U9GV,<,http://id.who.int/icd/entity/1079654421 & http://id.who.int/icd/entity/182265087 ,<,AB0Z & XY7V  
+8,既術性中耳炎,S2,H669,U9GV,=,http://id.who.int/icd/entity/1079654421 & http://id.who.int/icd/entity/182265087 ,=,AB0Z & XY7V  
+8,慢性中耳炎後遺症,L,H669,UB9N,=, http://id.who.int/icd/entity/38010200 & http://id.who.int/icd/entity/472249438,=,AB01 & XT9C
+8,耳管炎,L,H680,BRT8,=,http://id.who.int/icd/entity/1588903131,=,AB10.2
+8,耳管カタル,S1,H680,BRT8,=,http://id.who.int/icd/entity/2008557469,<,AB10.2
+8,欧氏管炎,S1,H680,BRT8,=,http://id.who.int/icd/entity/1588903131,=,AB10.2
+8,急性耳管炎,S1,H680,BRT8,=,http://id.who.int/icd/entity/1588903131 & http://id.who.int/icd/entity/786106375,=,AB10.2 & XT5R 
+8,急性耳管カタル,S1,H680,BRT8,=,http://id.who.int/icd/entity/2008557469 & http://id.who.int/icd/entity/786106375,<,AB10.2 & XT5R 
+8,鼻耳管炎,L,H680,DV7S,=,http://id.who.int/icd/entity/1588903131,=,AB10.2 
+8,慢性耳管炎,L,H680,J474,=,http://id.who.int/icd/entity/1588903131 & http://id.who.int/icd/entity/490003542,=,AB10.2 & XT8W
+8,急性扁桃耳管炎,L,H680,PPFH,<,http://id.who.int/icd/entity/1588903131  & http://id.who.int/icd/entity/786106375,<,AB10.2 & XT5R
+8,耳管圧迫,L,H681,BCEF,=,http://id.who.int/icd/entity/1006596431 ,=,AB10.3
+8,欧氏管圧迫症,S1,H681,BCEF,=,http://id.who.int/icd/entity/1006596431 ,=,AB10.3
+8,耳管狭窄症,L,H681,LU0N,=,http://id.who.int/icd/entity/1006596431 ,=,AB10.3
+8,耳管狭窄,S1,H681,LU0N,=,http://id.who.int/icd/entity/1006596431 ,=,AB10.3
+8,耳管鼓室症,S1,H681,LU0N,=,http://id.who.int/icd/entity/1006596431 ,=,AB10.3
+8,耳管狭窄(症),S1,H681,LU0N,=,http://id.who.int/icd/entity/1006596431,=,AB10.3
+8,欧氏管狭窄症,S1,H681,LU0N,=,http://id.who.int/icd/entity/1006596431 ,=,AB10.3
+8,耳管閉塞症,L,H681,NPM5,=,http://id.who.int/icd/entity/1006596431 ,=,AB10.3
+8,欧氏管閉塞症,S1,H681,NPM5,=,http://id.who.int/icd/entity/1006596431 ,=,AB10.3
+8,耳管開放症,L,H690,PRRB,=,http://id.who.int/icd/entity/1112306780,=,AB10.1
+8,耳管開放(症),S1,H690,PRRB,=,http://id.who.int/icd/entity/1112306780,=,AB10.1
+8,耳管開放,S1,H690,PRRB,=,http://id.who.int/icd/entity/1112306780,=,AB10.1
+8,耳管機能低下,L,H699,L519,=,http://id.who.int/icd/entity/645209058 ,=,AB10.Z 
+8,耳性気圧障害,S1,H699,L519,=,http://id.who.int/icd/entity/645209058 & http://id.who.int/icd/entity/2144490277 ,=,AB10.Y & XE5DF
+8,耳管機能不全,S1,H699,L519,=,http://id.who.int/icd/entity/645209058 ,=,AB10.Z 
+8,耳管筋麻痺,S2,H699,L519,<,http://id.who.int/icd/entity/645209058 ,<,AB10.Y
+8,乳様突起膿瘍,L,H700,GMQ5,=,http://id.who.int/icd/entity/737355413,<,AB11.0
+8,乳様突起蓄膿症,S1,H700,GMQ5,=,http://id.who.int/icd/entity/1539127142,<,AB11.0
+8,ベツオールド膿瘍,S1,H700,GMQ5,=,http://id.who.int/icd/entity/990969293,<,AB11.0
+8,フォンベツオールド膿瘍,S1,H700,GMQ5,=,http://id.who.int/icd/entity/990969293,<,AB11.0
+8,急性乳様突起炎,L,H700,LSDQ,=,http://id.who.int/icd/entity/995310870 ,=,AB11.0
+8,急性乳突炎,S1,H700,LSDQ,=,http://id.who.int/icd/entity/995310870 ,=,AB11.0
+8,慢性乳様突起炎,L,H701,CAAE,=,http://id.who.int/icd/entity/1578692740,=,AB11.1
+8,慢性乳突炎,S1,H701,CAAE,=,http://id.who.int/icd/entity/1578692740,=,AB11.1
+8,乳様突起カリエス,L,H701,EVMV,=,http://id.who.int/icd/entity/1870935966,<,AB11.1
+8,乳様突起瘻,L,H701,F826,=,http://id.who.int/icd/entity/1789925472,<,AB11.1
+8,耳介後部皮膚瘻,S2,H701,F826,=,http://id.who.int/icd/entity/1784013040,<,AB11.1
+8,錐体尖端炎,L,H702,RBUH,=,http://id.who.int/icd/entity/716546173,=,AB11.2
+8,錐体炎,S1,H702,RBUH,=,http://id.who.int/icd/entity/716546173,=,AB11.2
+8,錐体尖炎,S1,H702,RBUH,=,http://id.who.int/icd/entity/716546173,=,AB11.2
+8,乳様突起炎,L,H709,G631,=,http://id.who.int/icd/entity/1390851693,=,AB11.3
+8,乳突炎,S1,H709,G631,=,http://id.who.int/icd/entity/1390851693,=,AB11.3
+8,硬化性乳様突起炎,S2,H709,G631,<,http://id.who.int/icd/entity/444340411,<,AB11.Y 
+8,コレステリン肉芽腫,L,H71,C8Q6,=,http://id.who.int/icd/entity/2134365487,=,AB12
+8,コレステロール肉芽腫,S1,H71,C8Q6,=,http://id.who.int/icd/entity/2134365487,=,AB12
+8,真珠腫性中耳炎,L,H71,CQND,=,http://id.who.int/icd/entity/2134365487,=,AB12
+8,鼓室真珠腫症,L,H71,N99B,=,http://id.who.int/icd/entity/1009629364,=,AB12 & XA08X4
+8,コレステリン腫,L,H71,R17L,=,http://id.who.int/icd/entity/2134365487,=,AB12
+8,仮性真珠腫,L,H71,RHC2,=,http://id.who.int/icd/entity/200843960 ,=,AB12
+8,コレステリン中耳炎,L,H71,RPVA,=,http://id.who.int/icd/entity/2134365487,=,AB12
+8,真珠腫,L,H71,UPKQ,=,http://id.who.int/icd/entity/2134365487,=,AB12
+8,中耳真珠腫,S1,H71,UPKQ,=,http://id.who.int/icd/entity/2134365487,=,AB12
+8,真珠腫症,S1,H71,UPKQ,=,http://id.who.int/icd/entity/2134365487,=,AB12
+8,真珠腫(症),S1,H71,UPKQ,=,http://id.who.int/icd/entity/2134365487,=,AB12
+8,中心性鼓膜穿孔,L,H720,DFEN,=,http://id.who.int/icd/entity/640439721,=,AB13.0 
+8,鼓膜弛緩部穿孔,L,H721,CEDV,=,http://id.who.int/icd/entity/1130862653,=,AB13.1
+8,上鼓室穿孔,L,H721,U5CU,=,http://id.who.int/icd/entity/1130862653,=,AB13.1
+8,鼓膜全欠損,L,H728,DJ9R,=,http://id.who.int/icd/entity/1748399726,=,AB13.Y & XK63
+8,鼓膜全歇損,S1,H728,DJ9R,=,http://id.who.int/icd/entity/1748399726,=,AB13.Y & XK63
+8,多発性鼓膜穿孔,L,H728,NCD8,=,http://id.who.int/icd/entity/1253417995 ,<,AB13.Y 
+8,炎症後鼓膜穿孔,L,H729,GUVB,=,http://id.who.int/icd/entity/135175446,<,AB13.Y 
+8,鼓膜穿孔,L,H729,QTBB,=,http://id.who.int/icd/entity/194676178,=,AB13.Z
+8,穿孔鼓膜,S1,H729,QTBB,=,http://id.who.int/icd/entity/194676178,=,AB13.Z
+8,水疱性鼓膜炎,L,H730,N3B0,=,http://id.who.int/icd/entity/207025082 ,<,AB14 
+8,急性鼓膜炎,L,H730,P7L7,=,http://id.who.int/icd/entity/987012394,=,AB14 
+8,急性鼓室炎,L,H730,QQ05,=,http://id.who.int/icd/entity/987012394 & http://id.who.int/icd/entity/1391287252 ,=,AB14 & XA3KB2
+8,慢性鼓室炎,L,H731,U9UP,=,http://id.who.int/icd/entity/1604276412 & http://id.who.int/icd/entity/1391287252  ,=,AB15 & XA3KB2
+8,慢性鼓膜炎,L,H731,VJ5P,=,http://id.who.int/icd/entity/1604276412 ,=,AB15
+8,鼓膜出血,L,H738,DDMG,=,http://id.who.int/icd/entity/1360582250 /  http://id.who.int/icd/entity/940081636,=,AB1Y & XA08X4 / MG27 
+8,肉芽性鼓膜炎,L,H738,DRVR,<,http://id.who.int/icd/entity/383090792 / http://id.who.int/icd/entity/520429137,<,AB1Y & XA08X4 / 1C41
+8,鼓膜湿疹,L,H738,HHH6,=,http://id.who.int/icd/entity/1360582250 /  http://id.who.int/icd/entity/1887882424,=,AB1Y  & XA08X4  / EA8Z 
+8,上鼓室炎,L,H738,KM3Q,<,http://id.who.int/icd/entity/383090792 & http://id.who.int/icd/entity/1391287252,<,AB1Y  & XA3KB2 
+8,鼓膜炎,L,H738,MDRM,=,http://id.who.int/icd/entity/383090792,<,AB1Y & XA08X4
+8,鼓膜充血,L,H738,P3J4,=,http://id.who.int/icd/entity/1360582250  & http://id.who.int/icd/entity/347265434 /  http://id.who.int/icd/entity/1649907950,<,AB1Y & XA08X4 / MG4Y 
+8,鼓室炎,L,H738,UBHD,=,http://id.who.int/icd/entity/225078522,<,AB1Y & XA3KB2
+8,外耳道鼓膜損傷,L,H739,EH6H,=,http://id.who.int/icd/entity/452386362 & http://id.who.int/icd/entity/12964983216 & http://id.who.int/icd/entity/347265434 ,=,NA0Z & XA3UC1 & XA08X4
+8,鼓室硬化症,L,H740,GQGJ,=,http://id.who.int/icd/entity/28175464,=,AB16
+8,癒着性中耳炎,L,H741,GLEJ,=,http://id.who.int/icd/entity/1692803582 ,=,AB17
+8,癒着性慢性中耳炎,S2,H741,GLEJ,=,http://id.who.int/icd/entity/1692803582 ,=,AB17
+8,癒着性耳炎,S2,H741,GLEJ,≒,http://id.who.int/icd/entity/1692803582 ,=,AB17
+8,癒着性中耳疾患,S2,H741,GLEJ,=,http://id.who.int/icd/entity/1692803582 ,=,AB17
+8,鼓膜癒着症,L,H741,L0DA,=,http://id.who.int/icd/entity/1692803582 & http://id.who.int/icd/entity/347265434,=,AB17  & XA08X4
+8,外傷性耳小骨離断,L,H742,FSL4,<,http://id.who.int/icd/entity/1906410288 ,<,AB18 
+8,外傷性耳小骨骨折,S1,H742,FSL4,<,http://id.who.int/icd/entity/1906410288 ,<,AB18
+8,耳小骨連鎖離断,S2,H742,FSL4,=,http://id.who.int/icd/entity/273379587,=,AB18 
+8,耳小骨れんさ離断,S2,H742,FSL4,=,http://id.who.int/icd/entity/273379587,=,AB18 
+8,外傷性耳小骨脱臼,L,H742,USKF,<,http://id.who.int/icd/entity/997760203  ,<,AB18
+8,耳小骨固着,L,H743,A9QD,=,http://id.who.int/icd/entity/1158069354,<,AB19
+8,耳小骨部分欠損,L,H743,SL2B,=,http://id.who.int/icd/entity/783247469,<,AB19
+8,耳小骨部分歇損,S1,H743,SL2B,=,http://id.who.int/icd/entity/783247469,<,AB19
+8,中耳ポリープ,L,H744,V8HM,=,http://id.who.int/icd/entity/116272899,=,AB1A.Z
+8,茎状突起過長症,L,H748,KEK4,<,http://id.who.int/icd/entity/902999289,<,AB1Y 
+8,EAGLE症候群,S1,H748,KEK4,<,http://id.who.int/icd/entity/902999289,<,AB1Y 
+8,イーグル症候群,S1,H748,KEK4,<,http://id.who.int/icd/entity/902999289,<,AB1Y 
+8,過長茎状突起症,S1,H748,KEK4,<,http://id.who.int/icd/entity/902999289,<,AB1Y 
+8,過長茎状突起,S1,H748,KEK4,<,http://id.who.int/icd/entity/902999289,<,AB1Y 
+8,非閉塞性耳硬化症,L,H800,DQ28,=,http://id.who.int/icd/entity/876294903,<,AB33 
+8,閉鎖性耳硬化症,L,H801,RRD5,=,http://id.who.int/icd/entity/1366359907,<,AB33 
+8,蝸牛耳硬化症,L,H802,CC1H,=,http://id.who.int/icd/entity/635285404,<,AB33 
+8,迷路骨包耳硬化症,L,H802,K6UE,=,http://id.who.int/icd/entity/844933646 ,<,AB33
+8,耳硬化症,L,H809,TBTH,=,http://id.who.int/icd/entity/1242649410,=,AB33
+8,前庭型メニエール病,L,H810,GS5Q,<,http://id.who.int/icd/entity/683932278 ,<,AB31.0 
+8,前庭型MENIERE病,S1,H810,GS5Q,<,http://id.who.int/icd/entity/683932278 ,<,AB31.0 
+8,前庭型メニエル病,S1,H810,GS5Q,<,http://id.who.int/icd/entity/683932278 ,<,AB31.0 
+8,内リンパ水腫,L,H810,J0N6,=,http://id.who.int/icd/entity/683932278 ,=,AB31.0
+8,メニエール症候群,L,H810,NCVR,=,http://id.who.int/icd/entity/683932278 ,=,AB31.0
+8,メニエル症候群,S1,H810,NCVR,=,http://id.who.int/icd/entity/683932278 ,=,AB31.0
+8,仮性メニエール病,S1,H810,NCVR,<,http://id.who.int/icd/entity/683932278 ,<,AB31.0
+8,メニエル様症候群,S1,H810,NCVR,=,http://id.who.int/icd/entity/683932278 ,=,AB31.0
+8,MENIERE症候群,S1,H810,NCVR,=,http://id.who.int/icd/entity/683932278 ,=,AB31.0
+8,仮性MENIERE病,S1,H810,NCVR,<,http://id.who.int/icd/entity/683932278 ,<,AB31.0
+8,内耳性めまい,L,H810,Q70R,=,http://id.who.int/icd/entity/1550756489,=,AB34.1
+8,迷路性めまい,S1,H810,Q70R,=,http://id.who.int/icd/entity/1550756489,=,AB34.1
+8,メニエール病,L,H810,TUAC,=,http://id.who.int/icd/entity/683932278 ,=,AB31.0
+8,メニエル症,S1,H810,TUAC,=,http://id.who.int/icd/entity/683932278 ,=,AB31.0
+8,MENIERE症,S1,H810,TUAC,=,http://id.who.int/icd/entity/683932278 ,=,AB31.0
+8,MENIEREめまい,S1,H810,TUAC,=,http://id.who.int/icd/entity/683932278 ,=,AB31.0
+8,メニエール症,S1,H810,TUAC,=,http://id.who.int/icd/entity/683932278 ,=,AB31.0
+8,MENIERE病,S1,H810,TUAC,=,http://id.who.int/icd/entity/683932278 ,=,AB31.0
+8,メニエル眩暈,S1,H810,TUAC,=,http://id.who.int/icd/entity/683932278 ,=,AB31.0
+8,メニエールめまい,S1,H810,TUAC,=,http://id.who.int/icd/entity/683932278 ,=,AB31.0
+8,メニエル病,S1,H810,TUAC,=,http://id.who.int/icd/entity/683932278 ,=,AB31.0
+8,蝸牛型メニエール病,L,H810,UA58,<,http://id.who.int/icd/entity/683932278 ,<,AB31.0
+8,蝸牛型MENIERE病,S1,H810,UA58,<,http://id.who.int/icd/entity/683932278 ,<,AB31.0
+8,蝸牛型メニエル病,S1,H810,UA58,<,http://id.who.int/icd/entity/683932278 ,<,AB31.0
+8,遅発性内リンパ水腫,L,H810,VM8P,=,http://id.who.int/icd/entity/683932278 & http://id.who.int/icd/entity/1715724188,=,AB31.0 & XT64 
+8,体位性めまい,L,H811,L1KN,=,http://id.who.int/icd/entity/1300772836,=,AB31.2 
+8,良性発作性頭位めまい症,L,H811,RG72,=,http://id.who.int/icd/entity/1300772836,=,AB31.2 
+8,良性発作性頭位眩暈,S1,H811,RG72,=,http://id.who.int/icd/entity/1300772836,=,AB31.2 
+8,良性発作性頭位眩暈症,S1,H811,RG72,=,http://id.who.int/icd/entity/1300772836,=,AB31.2 
+8,良性発作性頭位眩暈(症),S1,H811,RG72,=,http://id.who.int/icd/entity/1300772836,=,AB31.2 
+8,発作性頭位めまい症,S2,H811,RG72,=,http://id.who.int/icd/entity/1300772836,=,AB31.2 
+8,良性発作性めまい,L,H811,U5VJ,=,http://id.who.int/icd/entity/1300772836 ,=,AB31.2 
+8,良性発作性眩暈症,S1,H811,U5VJ,=,http://id.who.int/icd/entity/1300772836,=,AB31.2 
+8,前庭神経炎,L,H812,FM7U,=,http://id.who.int/icd/entity/958752541,=,AB30.0
+8,レルモワイエ症候群,L,H813,FVSK,=,http://id.who.int/icd/entity/723510999,<,AB34.1 
+8,耳性めまい,L,H813,SKCG,=,http://id.who.int/icd/entity/1003847521 ,<,AB34.1 
+8,末梢性めまい症,L,H813,TDMV,=,http://id.who.int/icd/entity/1550756489 ,=,AB34.1
+8,末梢性眩暈症,S1,H813,TDMV,=,http://id.who.int/icd/entity/1550756489 ,=,AB34.1
+8,小脳血管性めまい,L,H814,CMKF,<,http://id.who.int/icd/entity/796932381 ,<,MB48.00
+8,中枢性めまい症,L,H814,D7EA,=,http://id.who.int/icd/entity/796932381 ,=,MB48.00
+8,中枢性眩暈症,S1,H814,D7EA,=,http://id.who.int/icd/entity/796932381 ,=,MB48.00
+8,中枢性平衡障害,S2,H814,D7EA,=,http://id.who.int/icd/entity/796932381 ,=,MB48.00
+8,中枢性眼振,L,H814,LSE0,=,http://id.who.int/icd/entity/796932381 ,=,MB48.00
+8,中枢性頭位眼振,L,H814,P32P,=,http://id.who.int/icd/entity/796932381 ,=,MB48.00
+8,頭位めまい症,L,H814,RQ8T,=,http://id.who.int/icd/entity/1300772836,=,AB31.2 
+8,頭位性眩暈症,S1,H814,RQ8T,=,http://id.who.int/icd/entity/1300772836,=,AB31.2 
+8,頭位眩暈症,S1,H814,RQ8T,=,http://id.who.int/icd/entity/1300772836,=,AB31.2 
+8,頭位変換性めまい,L,H814,S0EF,=,http://id.who.int/icd/entity/1300772836,=,AB31.2 
+8,ボニエ症候群,L,H818,BBBT,<,http://id.who.int/icd/entity/794468052,<,AB34.Z
+8,BONNIER症候群,S1,H818,BBBT,<,http://id.who.int/icd/entity/794468052,<,AB34.Z
+8,ダイテルス核症候群,S1,H818,BBBT,<,http://id.who.int/icd/entity/794468052,<,AB34.Z
+8,器質性めまい,L,H818,M45L,<,http://id.who.int/icd/entity/1398634694,<,MB48.0Z 
+8,器質性眩暈,S1,H818,M45L,<,http://id.who.int/icd/entity/1398634694,<,MB48.0Z 
+8,平衡異常,L,H819,BF9H,=,http://id.who.int/icd/entity/1817247302,=,MB48.1 
+8,痙性めまい,L,H819,C0CD,=,http://id.who.int/icd/entity/796932381,=,MB48.00
+8,痙性平衡障害,S2,H819,C0CD,=,http://id.who.int/icd/entity/796932381,=,MB48.00
+8,痙性聴平衡障害,S2,H819,C0CD,=,http://id.who.int/icd/entity/796932381,=,MB48.00
+8,めまい症候群,L,H819,EE57,=,http://id.who.int/icd/entity/794468052,=,AB34.Z
+8,回転症,S2,H819,EE57,=,http://id.who.int/icd/entity/794468052,=,AB34.Z
+8,前庭性運動失調症,L,H819,JU0S,=,http://id.who.int/icd/entity/794468052 / http://id.who.int/icd/entity/99719518,=,AB34.Z / MB45.0 
+8,前庭性運動失調(症),S1,H819,JU0S,=,http://id.who.int/icd/entity/794468052 / http://id.who.int/icd/entity/99719518,=,AB34.Z / MB45.0 
+8,前庭性失調症,S1,H819,JU0S,=,http://id.who.int/icd/entity/794468052 / http://id.who.int/icd/entity/99719518,=,AB34.Z / MB45.0 
+8,前庭性運動失調,S1,H819,JU0S,=,http://id.who.int/icd/entity/794468052 / http://id.who.int/icd/entity/99719518,=,AB34.Z / MB45.0 
+8,頭位眼振,L,H819,PUTM,=,http://id.who.int/icd/entity/796932381,=,MB48.00
+8,回転性眼振,S1,H819,PUTM,=,http://id.who.int/icd/entity/796932381,=,MB48.00
+8,回転性めまい,L,H819,R5VG,=,http://id.who.int/icd/entity/1398634694,=,MB48.0Z 
+8,前庭障害,L,H819,SRRD,=,http://id.who.int/icd/entity/794468052 ,=,AB34.Z
+8,前庭機能低下,S1,H819,SRRD,=,http://id.who.int/icd/entity/794468052 ,=,AB34.Z 
+8,前庭機能障害,S1,H819,SRRD,=,http://id.who.int/icd/entity/794468052 ,=,AB34.Z 
+8,前庭機能不全,S1,H819,SRRD,=,http://id.who.int/icd/entity/794468052 ,=,AB34.Z 
+8,三半規管機能低下,S1,H819,SRRD,=,http://id.who.int/icd/entity/794468052 ,=,AB34.Z 
+8,前庭機能低下症候群,S1,H819,SRRD,=,http://id.who.int/icd/entity/794468052 ,=,AB34.Z 
+8,半規管不全麻痺,S2,H819,SRRD,=,http://id.who.int/icd/entity/794468052 ,=,AB34.Z 
+8,末梢前庭障害,L,H819,UQ2K,<,http://id.who.int/icd/entity/794468052 ,<,AB34.Z
+8,前庭炎,L,H830,ATBG,=,http://id.who.int/icd/entity/2042672715,<,AB30.1
+8,急性迷路炎,L,H830,GVMM,=,http://id.who.int/icd/entity/901550793  & http://id.who.int/icd/entity/786106375,=,AB30.1 & XT5R
+8,中耳炎性内耳炎,L,H830,HT38,=,http://id.who.int/icd/entity/901550793  / http://id.who.int/icd/entity/1079654421,=,AB30.1 / AB0Z 
+8,細菌性内耳炎,L,H830,J4G4,=,http://id.who.int/icd/entity/1544416137 & http://id.who.int/icd/entity/83217129 ,<,AB30.1 & XN74M
+8,ウイルス性内耳炎,L,H830,V5D5,=,http://id.who.int/icd/entity/1544416137 / http://id.who.int/icd/entity/1136802325,<,AB30.1 / 1E1Z
+8,内耳炎,L,H830,VG45,=,http://id.who.int/icd/entity/901550793,=,AB30.1
+8,迷路炎,S1,H830,VG45,=,http://id.who.int/icd/entity/901550793,=,AB30.1
+8,迷路瘻,L,H831,L3J7,=,http://id.who.int/icd/entity/1358389085,=,AB35
+8,迷路瘻孔,S1,H831,L3J7,=,http://id.who.int/icd/entity/1358389085,=,AB35
+8,外リンパ瘻,L,H831,UR76,=,http://id.who.int/icd/entity/1358389085,=,AB35
+8,内耳窓破裂症,S1,H831,UR76,=,http://id.who.int/icd/entity/1358389085,=,AB35
+8,末梢迷路障害,L,H832,H9RM,=,http://id.who.int/icd/entity/609882020,=,AB36
+8,迷路機能損失,L,H832,K36N,=,http://id.who.int/icd/entity/609882020,=,AB36
+8,迷路機能廃絶,S1,H832,K36N,=,http://id.who.int/icd/entity/609882020,=,AB36
+8,迷路機能癈絶,S1,H832,K36N,=,http://id.who.int/icd/entity/609882020,=,AB36
+8,迷路過敏症,L,H832,MF30,=,http://id.who.int/icd/entity/341393329,<,AB36
+8,迷路機能異常,L,H832,U053,=,http://id.who.int/icd/entity/609882020 ,=,AB36
+8,迷路機能障害,S1,H832,U053,=,http://id.who.int/icd/entity/609882020 ,=,AB36
+8,痙性迷路障害,S2,H832,U053,<,http://id.who.int/icd/entity/609882020 ,<,AB36
+8,迷路機能低下症,L,H832,UF98,=,http://id.who.int/icd/entity/1808116960 ,<,AB36
+8,騒音性難聴,L,H833,SEM0,=,http://id.who.int/icd/entity/1091682870,=,AB37
+8,音響難聴,S1,H833,SEM0,=,http://id.who.int/icd/entity/1091682870,=,AB37
+8,音響外傷性難聴,S1,H833,SEM0,=,http://id.who.int/icd/entity/1091682870,=,AB37
+8,音響外傷,L,H833,V8F3,=,http://id.who.int/icd/entity/1091682870,=,AB37
+8,音響性外傷,S1,H833,V8F3,=,http://id.who.int/icd/entity/1091682870,=,AB37
+8,音響性内耳炎,S2,H833,V8F3,=,http://id.who.int/icd/entity/1091682870,=,AB37
+8,迷路うっ血,L,H838,NT86,=,http://id.who.int/icd/entity/1740274772,<,AB3Y & XA0L54
+8,迷路障害,L,H839,VFLJ,=,http://id.who.int/icd/entity/609882020 ,=,AB36
+8,蝸牛機能障害,S1,H839,VFLJ,=,http://id.who.int/icd/entity/609882020 & http://id.who.int/icd/entity/1597714010,=,AB36 & XA0JV0
+8,内耳機能障害,S2,H839,VFLJ,=,http://id.who.int/icd/entity/1111681557,=,AB3Z
+8,内耳障害,S2,H839,VFLJ,=,http://id.who.int/icd/entity/1111681557,=,AB3Z
+8,両側性伝音難聴,L,H900,QQDF,=,http://id.who.int/icd/entity/606147016  & http://id.who.int/icd/entity/627678743 ,=,AB51.0 & XK9J
+8,一側性伝音難聴,L,H901,QSS9,=,http://id.who.int/icd/entity/606147016 & http://id.who.int/icd/entity/1038788978,=,AB51.0 & XK70 
+8,伝音難聴,L,H902,QAEN,=,http://id.who.int/icd/entity/606147016 ,=,AB51.0 
+8,伝音性聴力障害,S1,H902,QAEN,=,http://id.who.int/icd/entity/606147016 ,=,AB51.0 
+8,伝音性難聴,S1,H902,QAEN,=,http://id.who.int/icd/entity/606147016 ,=,AB51.0 
+8,両側性高音障害漸傾型感音難聴,L,H903,FTC3,=,http://id.who.int/icd/entity/526692047 & http://id.who.int/icd/entity/627678743,<,AB52 & XK9J 
+8,両側高音障害漸傾型感音難聴,S1,H903,FTC3,=,http://id.who.int/icd/entity/526692047 & http://id.who.int/icd/entity/627678743,<,AB52 & XK9J 
+8,両側性高音障害急墜型感音難聴,L,H903,LNBH,<,http://id.who.int/icd/entity/526692047 & http://id.who.int/icd/entity/627678743 & http://id.who.int/icd/entity/1385443355 ,<,AB52 & XK9J & XT3Z 
+8,両側高音障害急墜型感音難聴,S1,H903,LNBH,<,http://id.who.int/icd/entity/526692047 & http://id.who.int/icd/entity/627678743 & http://id.who.int/icd/entity/1385443355 ,<,AB52 & XK9J & XT3Z 
+8,両側性感音難聴,L,H903,MMB7,=,http://id.who.int/icd/entity/1351369017 & http://id.who.int/icd/entity/627678743 ,=,AB51.1 & XK9J
+8,若年発症型両側性感音難聴,L,H903,N891,<,http://id.who.int/icd/entity/1351369017  & http://id.who.int/icd/entity/627678743 & http://id.who.int/icd/entity/275453639,<,AB51.1 & XK9J & XT7M 
+8,一側性感音難聴,L,H904,TH3N,=,http://id.who.int/icd/entity/1351369017 & http://id.who.int/icd/entity/1038788978,=, AB51.1 & XK70 
+8,中枢性難聴,L,H905,ACG9,=,http://id.who.int/icd/entity/1513090105,<,AB52 
+8,急性低音障害型感音難聴,L,H905,AP3K,=, http://id.who.int/icd/entity/1342663764 & http://id.who.int/icd/entity/786106375 ,<,AB51.1 & XT5R 
+8,感音難聴,L,H905,CQAQ,=,http://id.who.int/icd/entity/1351369017 ,=, AB51.1 
+8,感音性難聴,S1,H905,CQAQ,=,http://id.who.int/icd/entity/1351369017 ,=, AB51.1 
+8,先天性聾,L,H905,G3LF,=,http://id.who.int/icd/entity/1154032108,=,AB50.Z 
+8,先天聾,S1,H905,G3LF,=,http://id.who.int/icd/entity/1154032108,=,AB50.Z 
+8,先天性難聴,L,H905,GPV5,=,http://id.who.int/icd/entity/1154032108,=,AB50.Z 
+8,進行性難聴,L,H905,K8J6,=,http://id.who.int/icd/entity/1351369017 ,=, AB51.1 
+8,後迷路性難聴,L,H905,K95B,<,http://id.who.int/icd/entity/1351369017 / http://id.who.int/icd/entity/1359732999,<,AB51.1  / AB72.Z
+8,迷路性難聴,L,H905,M9NQ,=,http://id.who.int/icd/entity/1351369017 / http://id.who.int/icd/entity/1111681557 & http://id.who.int/icd/entity/2086586854,<,AB51.1  / AB3Z & XA0L54 
+8,内耳性難聴,S1,H905,M9NQ,=,http://id.who.int/icd/entity/1351369017 / http://id.who.int/icd/entity/1111681557,=, AB51.1  / AB3Z
+8,蝸牛神経性難聴,L,H905,N10A,=,http://id.who.int/icd/entity/1351369017 / http://id.who.int/icd/entity/1359732999,=,AB51.1  / AB72.Z
+8,神経性難聴,L,H905,QMH2,=,http://id.who.int/icd/entity/1351369017 / http://id.who.int/icd/entity/1359732999,=,AB51.1  / AB72.Z
+8,神経難聴,S1,H905,QMH2,=,http://id.who.int/icd/entity/1351369017 / http://id.who.int/icd/entity/1359732999,=,AB51.1  / AB72.Z
+8,皮質聾,L,H905,SQFN,=,http://id.who.int/icd/entity/1513090105,<,AB52 
+8,両側性混合性難聴,L,H906,HN1C,=,http://id.who.int/icd/entity/847531974  & http://id.who.int/icd/entity/62767874,=,AB51.2 & XK9J
+8,一側性混合性難聴,L,H907,FPA8,=,http://id.who.int/icd/entity/847531974  & http://id.who.int/icd/entity/1038788978,=,AB51.2 & XK70
+8,混合性難聴,L,H908,A4QT,=,http://id.who.int/icd/entity/847531974,=,AB51.2
+8,中毒性難聴,L,H910,CE4D,=,http://id.who.int/icd/entity/953801031 ,=,AB53
+8,聴器毒性難聴,S2,H910,CE4D,=,http://id.who.int/icd/entity/953801031 ,=,AB53
+8,薬物性難聴,S2,H910,CE4D,<,http://id.who.int/icd/entity/953801031 ,<,AB53
+8,薬物中毒性難聴,S2,H910,CE4D,<,http://id.who.int/icd/entity/953801031 ,<,AB53
+8,カナマイ難聴,L,H910,J9VM,=,http://id.who.int/icd/entity/953801031 / http://id.who.int/icd/entity/386454388 & http://id.who.int/icd/entity/1608924883,=,AB53 / NE60 & XM0C03
+8,ストマイ難聴,L,H910,P8BE,=,http://id.who.int/icd/entity/953801031 / http://id.who.int/icd/entity/386454388 & http://id.who.int/icd/entity/799568174,=,AB53 / NE60 & XM6T34 
+8,老年性難聴,L,H911,QKQ2,=,http://id.who.int/icd/entity/1569854675,=,AB54
+8,老人性難聴,S1,H911,QKQ2,=,http://id.who.int/icd/entity/1569854675,=,AB54 
+8,突発性難聴,L,H912,FLRN,=,http://id.who.int/icd/entity/692012078,=,AB55
+8,特発性難聴,S1,H912,FLRN,=,http://id.who.int/icd/entity/692012078,=,AB55
+8,特発性両側性感音難聴,L,H912,V2DF,=, http://id.who.int/icd/entity/1351369017 &  http://id.who.int/icd/entity/627678743 &  http://id.who.int/icd/entity/894194405,=,AB51.1 & XB5F & XK9J 
+8,聾唖,L,H913,HNE3,=,http://id.who.int/icd/entity/1282705848,<,AB5Y 
+8,後天性聾唖,L,H913,HP9L,<,http://id.who.int/icd/entity/1282705848,<,AB5Y 
+8,片側聾,L,H919,AQHP,=,http://id.who.int/icd/entity/947280473 & http://id.who.int/icd/entity/1038788978,=,AB52 &XK70 
+8,片耳聾,S1,H919,AQHP,=,http://id.who.int/icd/entity/947280473 & http://id.who.int/icd/entity/1038788978,=,AB52 &XK70 
+8,一側聾,S1,H919,AQHP,=,http://id.who.int/icd/entity/947280473 & http://id.who.int/icd/entity/1038788978,=,AB52 &XK70 
+8,難聴,L,H919,BQMV,=,http://id.who.int/icd/entity/947280473 ,=,AB52
+8,遺伝性難聴,L,H919,CHER,=,http://id.who.int/icd/entity/703718321 ,=,AB56 
+8,聾,L,H919,D10V,=,http://id.who.int/icd/entity/947280473 ,=,AB52
+8,職業性難聴,L,H919,FHUC,=,http://id.who.int/icd/entity/601591344 & http://id.who.int/icd/entity/630328761,=,AB5Z & XB17 
+8,高音障害型難聴,L,H919,H1SP,=,http://id.who.int/icd/entity/526692047 ,<,AB52
+8,高音性難聴,S1,H919,H1SP,=,http://id.who.int/icd/entity/526692047 ,<,AB52
+8,高度難聴,L,H919,JK5H,=,http://id.who.int/icd/entity/947280473 & http://id.who.int/icd/entity/1201187093 ,=,AB52 & XS25
+8,低音障害型難聴,L,H919,JU05,=,http://id.who.int/icd/entity/1342663764 ,<,AB52
+8,低音性難聴,S1,H919,JU05,=,http://id.who.int/icd/entity/1342663764 ,<,AB52
+8,職業性聴力損失,L,H919,L1CP,=,http://id.who.int/icd/entity/601591344 & http://id.who.int/icd/entity/630328761,=,AB5Z & XB17 
+8,聴覚障害,L,H919,NLRL,=,http://id.who.int/icd/entity/947280473 ,=,AB52
+8,聴力低下,S1,H919,NLRL,=,http://id.who.int/icd/entity/1346708662,<,AB52
+8,聴力障害,S1,H919,NLRL,=,http://id.who.int/icd/entity/947280473 ,=,AB52
+8,聴覚消失,L,H919,R5P4,=,http://id.who.int/icd/entity/947280473 ,=,AB52
+8,聴力喪失,S1,H919,R5P4,=,http://id.who.int/icd/entity/947280473 ,=,AB52
+8,聴力欠損,S2,H919,R5P4,=,http://id.who.int/icd/entity/947280473 ,=,AB52
+8,中途失聴,S2,H919,R5P4,=,http://id.who.int/icd/entity/947280473 ,=,AB52
+8,聴力歇損,S2,H919,R5P4,=,http://id.who.int/icd/entity/947280473 ,=,AB52
+8,中等度難聴,L,H919,TQPD,=,http://id.who.int/icd/entity/947280473 & http://id.who.int/icd/entity/1663264387,=,AB52 & XS0T
+8,軽度難聴,L,H919,TUUL,=,http://id.who.int/icd/entity/947280473 & http://id.who.int/icd/entity/562478860 ,=,AB52 & XS5W
+8,器質性難聴,L,H919,U55T,<,http://id.who.int/icd/entity/601591344,<,AB5Y 
+8,器質難聴,S1,H919,U55T,<,http://id.who.int/icd/entity/601591344,<,AB5Y 
+8,全聾,L,H919,VG2V,=,http://id.who.int/icd/entity/816490239 ,=,AB52 & XS2R
+8,反射性耳痛,L,H920,E59U,<,http://id.who.int/icd/entity/962492793  ,<,AB70.2
+8,歯性耳痛,L,H920,FRKE,<,http://id.who.int/icd/entity/962492793  ,<,AB70.2
+8,耳神経痛,L,H920,G8RS,=,http://id.who.int/icd/entity/962492793  ,=,AB70.2 
+8,耳部神経痛,S1,H920,G8RS,=,http://id.who.int/icd/entity/962492793  ,=,AB70.2 
+8,耳下部痛,L,H920,J48P,<,http://id.who.int/icd/entity/962492793  ,<,AB70.2
+8,耳下部神経痛,S2,H920,J48P,<,http://id.who.int/icd/entity/962492793  ,<,AB70.2
+8,耳痛症,L,H920,PFEL,=,http://id.who.int/icd/entity/962492793  ,=,AB70.2
+8,耳痛,S1,H920,PFEL,=,http://id.who.int/icd/entity/962492793  ,=,AB70.2
+8,耳部痛,S1,H920,PFEL,=,http://id.who.int/icd/entity/962492793  ,=,AB70.2
+8,耳痛(症),S1,H920,PFEL,=,http://id.who.int/icd/entity/962492793  ,=,AB70.2
+8,急性耳痛,L,H920,VFM8,=,http://id.who.int/icd/entity/962492793  & http://id.who.int/icd/entity/786106375,=,AB70.2 & XT5R
+8,持続性耳漏,L,H921,BVME,=,http://id.who.int/icd/entity/1544926445  & http://id.who.int/icd/entity/1313511357,=,AB70.0 &  XT6Z
+8,漿液性耳漏,L,H921,G82V,<,http://id.who.int/icd/entity/1544926445  ,<,AB70.0 
+8,耳漏,L,H921,HMFC,=,http://id.who.int/icd/entity/1544926445  ,=,AB70.0 
+8,耳だれ,S1,H921,HMFC,=,http://id.who.int/icd/entity/1544926445  ,=,AB70.0 
+8,耳膿漏,L,H921,JAST,<,http://id.who.int/icd/entity/1544926445  ,<,AB70.0 
+8,膿性耳漏,S1,H921,JAST,<,http://id.who.int/icd/entity/1544926445  ,<,AB70.0 
+8,中耳出血,L,H922,ADA8,=,http://id.who.int/icd/entity/683205650 & http://id.who.int/icd/entity/1902897114,=,AB70.1 & XA0G74
+8,中耳腔出血,S1,H922,ADA8,<,http://id.who.int/icd/entity/683205650 & http://id.who.int/icd/entity/1902897114,<,AB70.1 & XA0G74
+8,耳出血,L,H922,EE73,=,http://id.who.int/icd/entity/683205650,=,AB70.1 
+8,耳内出血,S2,H922,EE73,=,http://id.who.int/icd/entity/683205650,=,AB70.1 
+8,一過性虚血性難聴,L,H930,CNC8,=,http://id.who.int/icd/entity/806559954,<,AB7Y 
+8,自覚的耳鳴,L,H931,ASL9,=,http://id.who.int/icd/entity/1222542535 ,<,MC41
+8,頭部外傷性耳鳴,L,H931,BE2L,=,( http://id.who.int/icd/entity/1089305710 / http://id.who.int/icd/entity/452386362,=, MC41 / NA0Z
+8,無難聴性耳鳴,L,H931,DSV7,<,http://id.who.int/icd/entity/1089305710 ,<,MC41
+8,感音性耳鳴,L,H931,E98G,=,http://id.who.int/icd/entity/1089305710 / http://id.who.int/icd/entity/1351369017,=,MC41 / AB51.1
+8,頚性耳鳴,L,H931,MFTV,<,http://id.who.int/icd/entity/1089305710 ,<,MC41
+8,頸性耳鳴,S1,H931,MFTV,<,http://id.who.int/icd/entity/1089305710 ,<,MC41
+8,内耳性耳鳴症,L,H931,Q567,=,http://id.who.int/icd/entity/1089305710 / http://id.who.int/icd/entity/1111681557 ,=,MC41 / AB3Z
+8,耳鳴症,L,H931,U2AP,=,http://id.who.int/icd/entity/1089305710 ,=,MC41
+8,耳鳴(症),S1,H931,U2AP,=,http://id.who.int/icd/entity/1089305710 ,=,MC41
+8,耳鳴り症,S1,H931,U2AP,=,http://id.who.int/icd/entity/1089305710 ,=,MC41
+8,耳鳴り,S1,H931,U2AP,=,http://id.who.int/icd/entity/1089305710 ,=,MC41
+8,耳鳴,S1,H931,U2AP,=,http://id.who.int/icd/entity/1089305710 ,=,MC41
+8,無症候性耳鳴,L,H931,U4K4,<,http://id.who.int/icd/entity/1089305710 ,<,MC41 
+8,聴覚異常,L,H932,JQE3,=,http://id.who.int/icd/entity/876620947 ,=,AB7Y
+8,一時的いき値移動,L,H932,JU12,<,http://id.who.int/icd/entity/1778174695,<,AB7Y
+8,錯聴,L,H932,KRQJ,<,http://id.who.int/icd/entity/876620947 ,<,AB7Y
+8,聴覚補充現象,L,H932,NAAF,=,http://id.who.int/icd/entity/1461381295,<,AB7Y
+8,複聴,L,H932,R3SQ,=,http://id.who.int/icd/entity/152258734 ,<,AB7Y
+8,自声強調,L,H932,SHUT,<,http://id.who.int/icd/entity/876620947 ,<,AB7Y
+8,聴覚過敏,L,H932,V95P,=,http://id.who.int/icd/entity/652034206 ,<,AB7Y
+8,聴覚過敏症,S1,H932,V95P,=,http://id.who.int/icd/entity/652034206 ,<,AB7Y
+8,聴神経炎,L,H933,EJPS,=,http://id.who.int/icd/entity/332387707,=,AB72.0
+8,蝸牛神経障害,S2,H933,EJPS,=,http://id.who.int/icd/entity/1359732999,=,AB72.Z 
+8,蝸牛神経炎,S2,H933,EJPS,=,http://id.who.int/icd/entity/1359732999,=,AB72.Z 
+8,聴神経障害,L,H933,RA8B,=,http://id.who.int/icd/entity/1359732999,=,AB72.Z 
+8,第8脳神経障害,S1,H933,RA8B,=,http://id.who.int/icd/entity/1359732999,=,AB72.Z 
+8,内耳神経障害,S2,H933,RA8B,=,http://id.who.int/icd/entity/1359732999,=,AB72.Z 
+8,聴神経麻痺,S2,H933,RA8B,=,http://id.who.int/icd/entity/1359732999 / http://id.who.int/icd/entity/1866592137,=,AB72.Z/  8C1Z 
+8,聴神経萎縮,L,H933,UGMG,<,http://id.who.int/icd/entity/1359732999,<,AB72.Z
+8,耳内腫瘤,L,H938,AM13,=,http://id.who.int/icd/entity/1218729044 /  http://id.who.int/icd/entity/1844086508,=,AC0Y / 2F9Z
+8,耳茸,L,H938,EHUJ,=,http://id.who.int/icd/entity/1862905354,=,AB1A.0 
+8,耳ポリープ,S1,H938,EHUJ,=,http://id.who.int/icd/entity/1862905354,=,AB1A.0 
+8,耳萎縮,L,H938,PHK0,=,http://id.who.int/icd/entity/1167829701,=,AB73 
+8,反復性聴力障害,L,H939,HHQ0,=,http://id.who.int/icd/entity/947280473 & http://id.who.int/icd/entity/1721353160 ,=,AB52 & XT44
+8,耳疾患,L,H939,U78D,=,http://id.who.int/icd/entity/1218729044,=,AC0Z 
+8,耳部疾患,S1,H939,U78D,=,http://id.who.int/icd/entity/1218729044,=,AC0Z 
+8,再発性真珠腫症術後,L,H950,Q05K,=,http://id.who.int/icd/entity/36112441,=,AB90
+8,中耳腫瘍術後症,L,H958,FG5T,=,http://id.who.int/icd/entity/214644315 / http://id.who.int/icd/entity/2048798648 ,=,NE8Y  / 2F91.Y & XA0G74
+8,中耳真珠腫術後症,L,H958,U9QD,=,http://id.who.int/icd/entity/36112441,=,AB90
+8,鼓室形成術後後遺症,L,H959,VUCL,=,http://id.who.int/icd/entity/214644315 / http://id.who.int/icd/entity/1360582250,=,NE8Y & XA3KB2 & XT9C 

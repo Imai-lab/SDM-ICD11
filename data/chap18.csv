@@ -1,0 +1,1963 @@
+ICD10 章,標準病名,代表・同義,ICD10コード,交換コード,関係,ICD11 Foundation URI,関係,MMS
+18,頻脈性不整脈,L,R000,DCVC,=,http://id.who.int/icd/entity/449943282,=,MC81.Z
+18,呼吸性不整脈,L,R000,FT04,=,http://id.who.int/icd/entity/449943282,=,MC81.Z
+18,呼吸性洞性不整脈,S1,R000,FT04,=,http://id.who.int/icd/entity/449943282,=,MC81.Z
+18,頻脈症,L,R000,K67M,=,http://id.who.int/icd/entity/515681918,=,MC81.0
+18,頻脈,S1,R000,K67M,=,http://id.who.int/icd/entity/515681918,=,MC81.0
+18,頻脈(症),S1,R000,K67M,=,http://id.who.int/icd/entity/515681918,=,MC81.0
+18,頻拍症,L,R000,Q9EP,=,http://id.who.int/icd/entity/515681918,=,MC81.0
+18,頻拍(症),S1,R000,Q9EP,=,http://id.who.int/icd/entity/515681918,=,MC81.0
+18,頻拍,S1,R000,Q9EP,=,http://id.who.int/icd/entity/515681918,=,MC81.0
+18,洞頻脈,L,R000,QD4P,=,http://id.who.int/icd/entity/1079046206,<,MC81.0
+18,洞性頻脈,S1,R000,QD4P,=,http://id.who.int/icd/entity/1079046206,<,MC81.0
+18,徐脈性失神,L,R001,D72K,=,http://id.who.int/icd/entity/1840127321 ,<,MC81.1 
+18,徐脈,L,R001,DCR8,=,http://id.who.int/icd/entity/2079810536 ,=,MC81.1
+18,徐拍,S1,R001,DCR8,=,http://id.who.int/icd/entity/2079810536 ,=,MC81.1
+18,徐脈発作,L,R001,FLDK,=,http://id.who.int/icd/entity/1457291912,=,BC9Z
+18,徐脈性不整脈,L,R001,H1JN,=,http://id.who.int/icd/entity/1457291912,=,BC9Z
+18,洞徐脈,L,R001,SH0M,=,http://id.who.int/icd/entity/335965816 ,=,BC80.1
+18,洞性徐脈,S1,R001,SH0M,=,http://id.who.int/icd/entity/335965816 ,=,BC80.1
+18,動悸,L,R002,F6DU,=,http://id.who.int/icd/entity/257569559,=,MC81.2
+18,心悸亢進(症),S1,R002,F6DU,=,http://id.who.int/icd/entity/257569559,=,MC81.2
+18,心悸亢進,S1,R002,F6DU,=,http://id.who.int/icd/entity/257569559,=,MC81.2
+18,心悸亢進症,S1,R002,F6DU,=,http://id.who.int/icd/entity/257569559,=,MC81.2
+18,心下悸,L,R002,JHL5,,,,
+18,臍上悸,S1,R002,JHL5,,,,
+18,臍傍悸,L,R002,K7EA,,,,
+18,臍下悸,S1,R002,K7EA,,,,
+18,三段脈,L,R008,JM9S,=,http://id.who.int/icd/entity/2090425208,<,MC81.Y
+18,二段脈,L,R008,M1UG,=,http://id.who.int/icd/entity/1552273882,<,MC81.Y
+18,心拍異常,L,R008,UTUD,=,http://id.who.int/icd/entity/449943282 ,=,MC81.Z 
+18,心拍の異常,S1,R008,UTUD,=,http://id.who.int/icd/entity/449943282 ,=,MC81.Z 
+18,機能性収縮期雑音,L,R010,CPRE,<,http://id.who.int/icd/entity/1236434473,<,MC83.0
+18,機能性心雑音,L,R010,F9S7,=,http://id.who.int/icd/entity/1236434473 ,<,MC83.0
+18,生理的心雑音,S1,R010,F9S7,=,http://id.who.int/icd/entity/1236434473 ,<,MC83.0
+18,無害性心雑音,S1,R010,F9S7,=,http://id.who.int/icd/entity/2038535587,<,MC83.0
+18,拡張期雑音,L,R011,B6JA,<,http://id.who.int/icd/entity/2140822372 ,<,MC83.Z
+18,心雑音,L,R011,E5CJ,=,http://id.who.int/icd/entity/2140822372 ,=,MC83.Z
+18,器質性心雑音,L,R011,H3BV,=,http://id.who.int/icd/entity/2140822372 ,=,MC83.Z
+18,器質的心雑音,S1,R011,H3BV,=,http://id.who.int/icd/entity/2140822372 ,=,MC83.Z
+18,収縮期雑音,L,R011,SCH4,=,http://id.who.int/icd/entity/2140822372 ,=,MC83.Z
+18,連続性雑音,L,R011,SECK,<,http://id.who.int/icd/entity/2140822372 ,<,MC83.Z
+18,心濁音界縮小,L,R012,CL8Q,=,http://id.who.int/icd/entity/711397910 ,<,MC83.1 
+18,前胸部摩擦音,L,R012,EL0L,=,http://id.who.int/icd/entity/2053573781 ,<,MC83.1 
+18,心濁音界拡大,L,R012,UBFC,=,http://id.who.int/icd/entity/1604997463 ,<,MC83.1 
+18,耳介壊疽,L,R02,A0SG,=,http://id.who.int/icd/entity/188156827 & http://id.who.int/icd/entity/2030796271,=,MC85 & XA4E71
+18,手母指壊疽,L,R02,AM5R,=,http://id.who.int/icd/entity/188156827 & http://id.who.int/icd/entity/452671086,=,MC85 & XA8DJ6 
+18,手拇指壊疽,S1,R02,AM5R,=,http://id.who.int/icd/entity/188156827 & http://id.who.int/icd/entity/452671086,=,MC85 & XA8DJ6 
+18,手第1指壊疽,S1,R02,AM5R,=,http://id.who.int/icd/entity/188156827 & http://id.who.int/icd/entity/452671086,=,MC85 & XA8DJ6 
+18,壊疽,L,R02,ARDA,=,http://id.who.int/icd/entity/188156827,=,MC85
+18,脱疽,S1,R02,ARDA,=,http://id.who.int/icd/entity/188156827,=,MC85
+18,結節性壊死性皮膚炎,L,R02,D8H2,<,http://id.who.int/icd/entity/188156827,<,MC85 
+18,皮膚壊疽,L,R02,ECBQ,=,http://id.who.int/icd/entity/1159845363 ,=,MC85 & XA0364
+18,壊死潰瘍,L,R02,G68D,=,http://id.who.int/icd/entity/188156827,=,MC85 
+18,特発性壊疽,L,R02,GN9D,=,http://id.who.int/icd/entity/188156827 & http://id.who.int/icd/entity/894194405,=,MC85 & XB5F
+18,潰瘍性壊疽,L,R02,GR0M,=,http://id.who.int/icd/entity/188156827,=,MC85 
+18,腹壁壊疽,L,R02,J2L2,=,http://id.who.int/icd/entity/817763182 ,=,MC85 & XA6GV0
+18,腹部壊疽,S1,R02,J2L2,=,http://id.who.int/icd/entity/817763182 ,=,MC85&XA6GV0
+18,うっ血性壊疽,L,R02,JAS4,<,http://id.who.int/icd/entity/188156827,<,MC85 
+18,末梢壊死,L,R02,JVQP,<,http://id.who.int/icd/entity/188156827 ,<,MC85 
+18,下腿壊死,L,R02,K1PQ,=,http://id.who.int/icd/entity/267962890 & http://id.who.int/icd/entity/106050921,=,MC85 & XA3YG1
+18,血管神経性壊疽,L,R02,KMSC,<,http://id.who.int/icd/entity/188156827,<,MC85 
+18,水腫性壊疽,L,R02,L6F1,<,http://id.who.int/icd/entity/188156827 ,<,MC85
+18,足壊疽,L,R02,LQ50,=,http://id.who.int/icd/entity/267962890 & http://id.who.int/icd/entity/1896004518,=,MC85 & XA47V8
+18,神経原性壊疽,L,R02,M5DE,<,http://id.who.int/icd/entity/188156827,<,MC85 
+18,下肢趾脱疽,L,R02,MM1S,=,http://id.who.int/icd/entity/267962890 & http://id.who.int/icd/entity/1735902769,=,MC85&（XA45A6 or XA4LC9
+18,趾壊死,L,R02,PL62,=,http://id.who.int/icd/entity/267962890 & http://id.who.int/icd/entity/1735902769,=,MC85 & XA4LC9
+18,足指壊死,S1,R02,PL62,=,http://id.who.int/icd/entity/267962890 & http://id.who.int/icd/entity/1735902769,=,MC85 & XA4LC9
+18,足趾壊死,S1,R02,PL62,=,http://id.who.int/icd/entity/267962890 & http://id.who.int/icd/entity/1735902769,=,MC85 & XA4LC9
+18,壊死,L,R02,R5EA,=,http://id.who.int/icd/entity/188156827,=,MC85 
+18,下肢壊疽,L,R02,R6H1,=,http://id.who.int/icd/entity/267962890 ,=,MC85 & XA45A6
+18,足壊死,L,R02,RB16,=,http://id.who.int/icd/entity/267962890 & http://id.who.int/icd/entity/1896004518,=,MC85 & XA47V8
+18,足部壊死,S1,R02,RB16,=,http://id.who.int/icd/entity/267962890 & http://id.who.int/icd/entity/1896004518,=,MC85 & XA47V8
+18,手指脱疽,L,R02,RCPN,=,http://id.who.int/icd/entity/188156827 & http://id.who.int/icd/entity/822750113 ,=,MC85 & XA2593
+18,指脱疽,S1,R02,RCPN,=,http://id.who.int/icd/entity/188156827 & http://id.who.int/icd/entity/822750113 ,=,MC85 & XA2593
+18,会陰壊疽,L,R02,RD48,=,http://id.who.int/icd/entity/640421277 ,=,MC85 & XA53N9
+18,皮膚壊死,L,R02,S4LU,=,http://id.who.int/icd/entity/1159845363 ,=,"MC85 & XA0364
+"
+18,壊死性炎症,L,R02,V3T1,=,http://id.who.int/icd/entity/188156827,=,MC85 
+18,趾脱疽,L,R02,VEP0,=,http://id.who.int/icd/entity/267962890 & http://id.who.int/icd/entity/1735902769,=,MC85 & XA4LC9
+18,脊椎壊疽,L,R02,VJSS,=,http://id.who.int/icd/entity/695238047 ,=,MC85 & XA5J55
+18,下腿壊疽,L,R02,VTA8,=,http://id.who.int/icd/entity/267962890 & http://id.who.int/icd/entity/238202718 ,=,MC85 & XA5S78
+18,非特異的血圧上昇,L,R030,CR13,=,http://id.who.int/icd/entity/523963970,=,MC80.0Z
+18,白衣高血圧,L,R030,TG4K,=,http://id.who.int/icd/entity/461779987 ,=,MC80.00
+18,白衣性高血圧,S1,R030,TG4K,=,http://id.who.int/icd/entity/461779987 ,=,MC80.00
+18,非特異性低血圧症,L,R031,PJD7,=,http://id.who.int/icd/entity/2054210520 ,=,MC80.1 
+18,非特異的な血圧低下,S1,R031,PJD7,=,http://id.who.int/icd/entity/2054210520 ,=,MC80.1 
+18,非特異性低血圧,S1,R031,PJD7,=,http://id.who.int/icd/entity/2054210520 ,=,MC80.1 
+18,特発性鼻出血,L,R040,L3Q1,=,http://id.who.int/icd/entity/608337668 & http://id.who.int/icd/entity/894194405,=,MD20 & XB5F
+18,習慣性鼻出血,L,R040,MMKR,<,http://id.who.int/icd/entity/608337668,<,MD20
+18,鼻中隔出血,L,R040,PU0K,=,http://id.who.int/icd/entity/608337668,=,MD20
+18,鼻出血症,L,R040,R1T1,=,http://id.who.int/icd/entity/608337668,=,MD20
+18,鼻出血,S1,R040,R1T1,=,http://id.who.int/icd/entity/608337668,=,MD20
+18,鼻出血(症),S1,R040,R1T1,=,http://id.who.int/icd/entity/608337668,=,MD20
+18,鼻血,L,R040,SQ2H,=,http://id.who.int/icd/entity/608337668,=,MD20 
+18,咽喉出血,L,R041,GD9P,=,http://id.who.int/icd/entity/1091154582 ,=,MD21
+18,喉頭出血,L,R041,HBHF,=,http://id.who.int/icd/entity/1091154582 ,=,MD21
+18,声帯出血,L,R041,JDUH,=,http://id.who.int/icd/entity/1091154582 & http://id.who.int/icd/entity/641037459 ,<,MD21 & XA3299
+18,突発性咽頭出血,L,R041,MN5R,=,http://id.who.int/icd/entity/1091154582 & http://id.who.int/icd/entity/1385443355,=,MD21 & XT3Z
+18,咽頭出血,L,R041,VNBE,=,http://id.who.int/icd/entity/1091154582 ,=,MD21
+18,喀血,L,R042,BNNS,=,http://id.who.int/icd/entity/899998313 ,=,MD22
+18,血痰,L,R042,FLK0,=,http://id.who.int/icd/entity/899998313 ,=,MD22
+18,血液混入喀痰,S1,R042,FLK0,=,http://id.who.int/icd/entity/899998313 ,=,MD22
+18,気管内出血,L,R048,BUTH,=,http://id.who.int/icd/entity/2002615588 ,=,MD23 & XA26H1
+18,肺胞出血,L,R048,CB4D,=,http://id.who.int/icd/entity/2008581556,=,MD23 & XA5772
+18,肺胞内出血,S1,R048,CB4D,=,http://id.who.int/icd/entity/2008581556,=,MD23 & XA5772
+18,気管支出血,L,R048,GRKC,=,http://id.who.int/icd/entity/54016416 ,=,MD23 & XA61M6 
+18,上気道出血,L,R048,MAQ7,=,http://id.who.int/icd/entity/1042575386 ,=,MD23 & XA8Z63
+18,肺出血,L,R048,VJQR,=,http://id.who.int/icd/entity/54016416 ,=,MD23 & XA57M6
+18,気道出血,L,R049,SQD9,=,http://id.who.int/icd/entity/496129435 ,=,MD2Z
+18,湿性咳,L,R05,AEDT,<,http://id.who.int/icd/entity/2027526159 ,<,MD12 
+18,湿性せき,S1,R05,AEDT,<,http://id.who.int/icd/entity/2027526159 ,<,MD12 
+18,乾性咳,L,R05,B48F,<,http://id.who.int/icd/entity/2027526159 ,<,MD12 
+18,から咳,S1,R05,B48F,<,http://id.who.int/icd/entity/2027526159 ,<,MD12 
+18,乾性せき,S1,R05,B48F,<,http://id.who.int/icd/entity/2027526159 ,<,MD12 
+18,からせき,S1,R05,B48F,<,http://id.who.int/icd/entity/2027526159 ,<,MD12 
+18,アレルギー性咳嗽,L,R05,CM08,=,http://id.who.int/icd/entity/2027526159 & http://id.who.int/icd/entity/971190258,=,MD12 / 4A8Z 
+18,アレルギー咳嗽,S1,R05,CM08,=,http://id.who.int/icd/entity/2027526159 & http://id.who.int/icd/entity/971190258,=,MD12 / 4A8Z 
+18,アレルギー性咳,S1,R05,CM08,=,http://id.who.int/icd/entity/2027526159 & http://id.who.int/icd/entity/971190258,=,MD12 / 4A8Z 
+18,夜間咳,L,R05,E3R6,<,http://id.who.int/icd/entity/2027526159 ,<,MD12
+18,カタル性咳,L,R05,E6G8,<,http://id.who.int/icd/entity/2027526159 ,<,MD12 
+18,カタル性咳嗽,S1,R05,E6G8,<,http://id.who.int/icd/entity/2027526159 ,<,MD12 
+18,遷延性咳嗽,L,R05,P1UV,=,http://id.who.int/icd/entity/2027526159 & http://id.who.int/icd/entity/1313511357,=,MD12 & XT6Z 
+18,慢性咳嗽,L,R05,QUUA,=,http://id.who.int/icd/entity/1651982587 ,=,MD12 & XT8W
+18,アトピー咳嗽,L,R05,SQ59,<,http://id.who.int/icd/entity/2027526159 & http://id.who.int/icd/entity/971190258,<,MD12 / 4A8Y 
+18,アトピー性咳嗽,S1,R05,SQ59,<,http://id.who.int/icd/entity/2027526159 & http://id.who.int/icd/entity/971190258,<,MD12 / 4A8Y 
+18,咳,L,R05,TFVU,=,http://id.who.int/icd/entity/2027526159 ,=,MD12 
+18,せき,S1,R05,TFVU,=,http://id.who.int/icd/entity/2027526159 ,=,MD12 
+18,咳嗽,S1,R05,TFVU,=,http://id.who.int/icd/entity/2027526159 ,=,MD12 
+18,咳失神,L,R05,V5QH,=,http://id.who.int/icd/entity/1647642651 ,=,MD12 / MG45.Z
+18,咳嗽失神,S1,R05,V5QH,=,http://id.who.int/icd/entity/1647642651 ,=,MD12 / MG45.Z
+18,感染後咳嗽,L,R05,VQGJ,=,http://id.who.int/icd/entity/2027526159 / http://id.who.int/icd/entity/1435254666,=,MD12 / 1H0Z
+18,発作性呼吸困難,L,R060,A98A,=,http://id.who.int/icd/entity/960305085 ,=,MD11.5
+18,夜間呼吸困難,L,R060,BD09,=,http://id.who.int/icd/entity/1625623389 ,<,MD11.5
+18,呼吸困難発作,L,R060,NRPK,=,http://id.who.int/icd/entity/960305085 ,=,MD11.5
+18,労作時呼吸困難,L,R060,P8GD,=,http://id.who.int/icd/entity/1409318119 ,<,MD11.5
+18,労作性呼吸困難,S1,R060,P8GD,=,http://id.who.int/icd/entity/1409318119 ,<,MD11.5
+18,息切れ,L,R060,PBHP,=,http://id.who.int/icd/entity/960305085 ,=,MD11.5 
+18,呼吸促迫,L,R060,T837,=,http://id.who.int/icd/entity/960305085 ,=,MD11.5
+18,起坐呼吸,L,R060,UPN3,=,http://id.who.int/icd/entity/1076152687 ,<,MD11.5 
+18,起座呼吸,S1,R060,UPN3,=,http://id.who.int/icd/entity/1076152687 ,<,MD11.5 
+18,呼吸困難,L,R060,VLUA,=,http://id.who.int/icd/entity/960305085 ,=,MD11.5
+18,呼吸困難症,S1,R060,VLUA,=,http://id.who.int/icd/entity/960305085 ,=,MD11.5
+18,呼吸困難(症),S1,R060,VLUA,=,http://id.who.int/icd/entity/960305085 ,=,MD11.5
+18,肺性呼吸困難,L,R060,VQ4C,<,http://id.who.int/icd/entity/960305085 ,=,MD11.5
+18,ぜいぜい音,L,R061,LR5S,=,http://id.who.int/icd/entity/1551292969 ,=,MD11.B 
+18,喘鳴,L,R061,VJP8,=,http://id.who.int/icd/entity/1551292969 OR http://id.who.int/icd/entity/685476566 ,=,MD11.B or MD11.C
+18,チェーン・ストークス呼吸,L,R063,FJ0L,=,http://id.who.int/icd/entity/2084498182 ,<,MD11.Y
+18,CHEYNE-STOKES呼吸,S1,R063,FJ0L,=,http://id.who.int/icd/entity/2084498182 ,<,MD11.Y
+18,チェイン・ストークス呼吸,S1,R063,FJ0L,=,http://id.who.int/icd/entity/2084498182 ,<,MD11.Y
+18,シェーン・ストークス呼吸,S1,R063,FJ0L,=,http://id.who.int/icd/entity/2084498182 ,<,MD11.Y
+18,周期性呼吸,L,R063,V8U8,=,http://id.who.int/icd/entity/2084498182 ,<,MD11.Y
+18,過換気テタニー,L,R064,EM41,=,http://id.who.int/icd/entity/1048499416 ,=,MD11.7
+18,過換気症,L,R064,Q87R,=,http://id.who.int/icd/entity/1048499416 ,=,MD11.7
+18,過呼吸症,S2,R064,Q87R,=,http://id.who.int/icd/entity/1048499416 ,=,MD11.7
+18,換気亢進,S2,R064,Q87R,=,http://id.who.int/icd/entity/1048499416 ,=,MD11.7
+18,呼吸亢進,S2,R064,Q87R,=,http://id.who.int/icd/entity/1048499416 ,=,MD11.7
+18,いびき,L,R065,DAH6,=,http://id.who.int/icd/entity/1795485025 ,<,MD11.Y
+18,口呼吸,L,R065,VTCN,=,"http://id.who.int/icd/entity/1530206530
+",=,MD11.8Z
+18,しゃっくり,L,R066,CFC5,=,http://id.who.int/icd/entity/798509501,=,MD11.6
+18,吃逆,S1,R066,CFC5,=,http://id.who.int/icd/entity/798509501,=,MD11.6
+18,横隔膜痙攣症,L,R066,H8LE,=,http://id.who.int/icd/entity/798509501,=,MD11.6
+18,くしゃみ,L,R067,KF5H,=,"http://id.who.int/icd/entity/1255375913
+",=,MD11.A
+18,くしゃみ発作,S1,R067,KF5H,=,"http://id.who.int/icd/entity/1255375913
+",=,MD11.A
+18,あくび,L,R068,C6UD,=,http://id.who.int/icd/entity/1198766532,=,MD11.D 
+18,歇伸発作,S1,R068,C6UD,=,http://id.who.int/icd/entity/1198766532,=,MD11.D 
+18,欠伸発作,S1,R068,C6UD,=,http://id.who.int/icd/entity/1198766532,=,MD11.D 
+18,高炭酸ガス血症,L,R068,H8SR,<,http://id.who.int/icd/entity/170425778,<,MD11.Y 
+18,高二酸化炭素血症,S1,R068,H8SR,<,http://id.who.int/icd/entity/170425778,<,MD11.Y 
+18,高CO2血症,S1,R068,H8SR,<,http://id.who.int/icd/entity/170425778,<,MD11.Y 
+18,努力性呼吸,L,R068,MRJM,=,http://id.who.int/icd/entity/1048499416,=,MD11.7
+18,ＣＯ２ナルコーシス,L,R068,NSKG,=,http://id.who.int/icd/entity/1631686985,<,MD11.Y 
+18,CO2ナルコーシス,S0,R068,NSKG,=,http://id.who.int/icd/entity/1631686985,<,MD11.Y 
+18,ためいき,L,R068,NTNC,=,http://id.who.int/icd/entity/620989714,<,MD11.Y
+18,無呼吸発作,L,R068,PE6G,=,http://id.who.int/icd/entity/992235907,=,MD11.0 
+18,息とめ発作,S1,R068,PE6G,=,http://id.who.int/icd/entity/992235907,=,MD11.0 
+18,無呼吸,S1,R068,PE6G,=,http://id.who.int/icd/entity/992235907,=,MD11.0 
+18,呼吸麻痺,L,R068,PLKT,=,http://id.who.int/icd/entity/566418756,<,MD11.Y 
+18,窒息感,L,R068,RBUA,=,http://id.who.int/icd/entity/2072305549,<,MD11.Y
+18,異常呼吸,L,R068,SEN2,=,http://id.who.int/icd/entity/208980208,=,MD11.Z
+18,頻呼吸,L,R068,UJ51,=,http://id.who.int/icd/entity/85919676,<,MD11.Y 
+18,多呼吸,L,R068,VG87,=,http://id.who.int/icd/entity/85919676,<,MD11.Y 
+18,呼吸増加,S1,R068,VG87,=,http://id.who.int/icd/entity/85919676,<,MD11.Y 
+18,咽喉痛,L,R070,V3B6,=,http://id.who.int/icd/entity/633724732,=,MD36.0
+18,喉頭痛,L,R070,VGA4,=,http://id.who.int/icd/entity/633724732,=,MD36.0
+18,呼吸時の胸痛,L,R071,B9VT,=,http://id.who.int/icd/entity/1083052714,=,MD30.0
+18,前胸部痛,L,R072,F9H7,=,http://id.who.int/icd/entity/874725975,=,MC86
+18,胸壁痛,L,R073,GA8Q,=,http://id.who.int/icd/entity/1365807043 & http://id.who.int/icd/entity/1656376572,=,MD30.1 & XA55T2
+18,胸膜痛,L,R073,HN1D,=,http://id.who.int/icd/entity/761975813,=,MD30.1 & XA5TT2 
+18,肋間痛,L,R073,J5CM,=,http://id.who.int/icd/entity/1027978531,=,ME81.0
+18,側胸部痛,L,R073,JJCE,=,http://id.who.int/icd/entity/1365807043 & http://id.who.int/icd/entity/691256124,=,MD30.1 & XA7884
+18,肋軟骨部痛,L,R073,K97M,=,http://id.who.int/icd/entity/1279997497,=,MD30.1 & XA6958 
+18,前胸壁痛,L,R073,P271,=,http://id.who.int/icd/entity/1200840663,=,MD30.1 & XA00R3
+18,胸骨後面痛,L,R073,SQ7H,<,http://id.who.int/icd/entity/1365807043 & http://id.who.int/icd/entity/634489753,<,MD30.1 & XA6NB3
+18,胸骨後痛,S1,R073,SQ7H,<,http://id.who.int/icd/entity/1365807043 & http://id.who.int/icd/entity/634489753,<,MD30.1 & XA6NB3
+18,胸骨部痛,L,R073,V49L,=,http://id.who.int/icd/entity/1365807043 & http://id.who.int/icd/entity/634489753,=,MD30.1 & XA6NB3
+18,肋骨痛,L,R073,VHCL,=,http://id.who.int/icd/entity/1279997497,=,MD30.1 & XA5TK7 
+18,季肋部痛,L,R073,VQUU,=,http://id.who.int/icd/entity/1365807043 & http://id.who.int/icd/entity/1976688394,=,MD30.1 & XA3TD4
+18,胸痛,L,R074,DBQR,=,http://id.who.int/icd/entity/2125857013,=,ME84.1
+18,胸部痛,S1,R074,DBQR,=,http://id.who.int/icd/entity/2125857013,=,ME84.1
+18,反復性胸痛,L,R074,KDJL,=,http://id.who.int/icd/entity/2125857013 & http://id.who.int/icd/entity/1721353160,=,ME84.1 & XT44 
+18,胸内苦悶,L,R074,NPNK,=,http://id.who.int/icd/entity/718946808,=,BA40.Z
+18,窒息,L,R090,B0EA,=,http://id.who.int/icd/entity/2008663041,=,MD11.1
+18,仮死,L,R090,LATC,=,http://id.who.int/icd/entity/2008663041,=,MD11.1
+18,低酸素血症,L,R090,LCUN,=,http://id.who.int/icd/entity/474887737,<,MD11.1
+18,酸素欠乏,S2,R090,LCUN,=,http://id.who.int/icd/entity/2008663041,=,MD11.1
+18,酸素歇乏,S2,R090,LCUN,=,http://id.who.int/icd/entity/2008663041,=,MD11.1
+18,陳旧性胸膜炎,L,R091,CRL0,=,http://id.who.int/icd/entity/317852053 & http://id.who.int/icd/entity/472249438 ,=,MD31 & XT9C
+18,陳旧性肋膜炎,S1,R091,CRL0,=,http://id.who.int/icd/entity/317852053 & http://id.who.int/icd/entity/472249438 ,=,MD31 & XT9C
+18,遊走性胸膜炎,L,R091,F6R4,<,http://id.who.int/icd/entity/317852053 ,<,MD31
+18,急性胸膜炎,L,R091,GEM7,=,http://id.who.int/icd/entity/1650953671,=,MD31 & XT5R
+18,急性肋膜炎,S1,R091,GEM7,=,http://id.who.int/icd/entity/1650953671,=,MD31 & XT5R
+18,縦隔胸膜炎,L,R091,HGPU,=,http://id.who.int/icd/entity/317852053 & http://id.who.int/icd/entity/393131222,=,MD31 & XA7WA2 
+18,胸膜周囲炎,L,R091,HNH6,<,http://id.who.int/icd/entity/317852053 ,<,MD31
+18,癒着性胸膜炎,L,R091,JE8V,=,http://id.who.int/icd/entity/1820262011,<,MD31
+18,慢性胸膜炎,L,R091,LECK,=,http://id.who.int/icd/entity/1135670859,=,MD31 & XT8W
+18,慢性肋膜炎,S1,R091,LECK,=,http://id.who.int/icd/entity/1135670859,=,MD31 & XT8W
+18,横隔胸膜炎,L,R091,LFAC,=,http://id.who.int/icd/entity/317852053 & http://id.who.int/icd/entity/152505840,=,MD31 & XA2JL0
+18,特発性胸膜炎,L,R091,LFP4,=,http://id.who.int/icd/entity/317852053 & http://id.who.int/icd/entity/894194405,=,MD31 & XB5F
+18,胸膜炎,L,R091,LJ4F,=,http://id.who.int/icd/entity/317852053 ,=,MD31
+18,肋膜炎,S1,R091,LJ4F,=,http://id.who.int/icd/entity/317852053 ,=,MD31
+18,乾性胸膜炎,L,R091,M94J,=,http://id.who.int/icd/entity/317852053 ,=,MD31
+18,呼吸停止,L,R092,EM9T,=,http://id.who.int/icd/entity/1717524844,=,MD33
+18,心呼吸不全,L,R092,LE9A,=,http://id.who.int/icd/entity/2121132007,=,MC82.4
+18,過剰喀痰,L,R093,C3R7,=,http://id.who.int/icd/entity/854359897,<,MD10
+18,過多喀痰,S1,R093,C3R7,=,http://id.who.int/icd/entity/854359897,<,MD10
+18,喀痰,L,R093,KSAL,=,http://id.who.int/icd/entity/51680510,=,MD10
+18,痰,S1,R093,KSAL,=,http://id.who.int/icd/entity/51680510,=,MD10
+18,膿性痰,L,R093,L71H,<,http://id.who.int/icd/entity/51680510,<,MD10
+18,喀痰喀出困難,L,R093,ME8K,<,http://id.who.int/icd/entity/51680510,<,MD10
+18,喀痰困難症,S1,R093,ME8K,<,http://id.who.int/icd/entity/51680510,<,MD10
+18,喀痰排出困難,S1,R093,ME8K,<,http://id.who.int/icd/entity/51680510,<,MD10
+18,異常喀痰,L,R093,PRG3,=,http://id.who.int/icd/entity/51680510,=,MD10
+18,乾性ラ音,L,R098,BAR2,<,http://id.who.int/icd/entity/1428101439,<,MD32 
+18,ラ音,L,R098,FDH7,=,http://id.who.int/icd/entity/1428101439,=,MD32 
+18,動脈性雑音,L,R098,HBC3,=,http://id.who.int/icd/entity/299398182,<,MD3Y 
+18,胸部鼓音,L,R098,KPAN,=,http://id.who.int/icd/entity/1369607937,<,MD3Y
+18,鼻充血,L,R098,R14J,=,http://id.who.int/icd/entity/1251924794,=,MD11.9
+18,鼻粘膜充血,S1,R098,R14J,=,http://id.who.int/icd/entity/1251924794,=,MD11.9
+18,胸部不快感,L,R098,RN86,=,http://id.who.int/icd/entity/756584914,=,ME86.3
+18,前胸部異和感,S1,R098,RN86,=,http://id.who.int/icd/entity/756584914,=,ME86.3
+18,湿性ラ音,L,R098,SPA1,<,http://id.who.int/icd/entity/1428101439,<,MD32 
+18,胸部摩擦音,L,R098,TEJD,=,http://id.who.int/icd/entity/1369607937,<,MD3Y
+18,胸部音異常,L,R098,U0PE,=,http://id.who.int/icd/entity/1369607937,<,MD3Y
+18,脈拍微弱,L,R098,U1QG,=,http://id.who.int/icd/entity/255135906,<,MC8Y
+18,血圧異常,L,R098,U20L,=,http://id.who.int/icd/entity/1853670927,=,MC80.Z 
+18,血圧不安定,S1,R098,U20L,=,http://id.who.int/icd/entity/1853670927,=,MC80.Z 
+18,咽喉乾燥感,L,R098,VFJ9,=,http://id.who.int/icd/entity/1693692158,<,MD36.Y
+18,咽喉不利,S1,R098,VFJ9,=,http://id.who.int/icd/entity/1693692158,<,MD36.Y
+18,急性腹症,L,R100,JA53,=,http://id.who.int/icd/entity/245796173,=,MD81.3
+18,重症腹痛,S1,R100,JA53,=,http://id.who.int/icd/entity/245796173,=,MD81.3
+18,腹症,S1,R100,JA53,=,http://id.who.int/icd/entity/245796173,=,MD81.3
+18,腹部激痛,S2,R100,JA53,=,http://id.who.int/icd/entity/245796173,=,MD81.3
+18,消化不良症,L,R101,B6BE,=,http://id.who.int/icd/entity/869622187,=,MD92
+18,消化障害,S1,R101,B6BE,=,http://id.who.int/icd/entity/869622187,=,MD92
+18,消化機能不全,S1,R101,B6BE,=,http://id.who.int/icd/entity/1616929118,=,DD90.3
+18,消化機能低下,S1,R101,B6BE,=,http://id.who.int/icd/entity/1616929118,=,DD90.3
+18,消化不良,S1,R101,B6BE,=,http://id.who.int/icd/entity/869622187,=,MD92
+18,胃腸機能障害,S2,R101,B6BE,=,http://id.who.int/icd/entity/1616929118,=,DD90.3
+18,消化不良性下痢,L,R101,BGNV,=,http://id.who.int/icd/entity/869622187 / http://id.who.int/icd/entity/116759077,=,MD92 / ME05.1
+18,ディスペプシア,L,R101,D16P,=,http://id.who.int/icd/entity/869622187,=,MD92
+18,胃痛,L,R101,J4RR,=,http://id.who.int/icd/entity/1810710745,=,MD81.10
+18,上腹部痛,L,R101,J9K3,=,http://id.who.int/icd/entity/1810710745,=,MD81.10
+18,上腹部に限局した疼痛,S2,R101,J9K3,=,http://id.who.int/icd/entity/1810710745,=,MD81.10
+18,急性消化不良症,L,R101,MUS2,=,http://id.who.int/icd/entity/869622187 & http://id.who.int/icd/entity/786106375,=,MD92 & XT5R
+18,小児消化不良,S2,R101,MUS2,=,http://id.who.int/icd/entity/869622187 & http://id.who.int/icd/entity/1588782340,=,MD92 & XT2C
+18,心窩部痛,L,R101,UM9A,=,http://id.who.int/icd/entity/1810710745,=,MD81.10
+18,心下部緊張疼痛,S2,R101,UM9A,=,http://id.who.int/icd/entity/1810710745,=,MD81.10
+18,心下部痛,S2,R101,UM9A,=,http://id.who.int/icd/entity/1810710745,=,MD81.10
+18,坐骨部痛,L,R102,A254,=,http://id.who.int/icd/entity/524292134 & http://id.who.int/icd/entity/417496247,=,MD81.11 & XA5L47
+18,坐骨部疼痛,S1,R102,A254,=,http://id.who.int/icd/entity/524292134 & http://id.who.int/icd/entity/417496247,=,MD81.11 & XA5L47
+18,外陰部痛,L,R102,GVPA,=,http://id.who.int/icd/entity/524292134 & http://id.who.int/icd/entity/475546725,=,MD81.11& XA78U5
+18,腸骨部痛,L,R102,H95G,=,http://id.who.int/icd/entity/524292134 & http://id.who.int/icd/entity/264902775,=,MD81.11 & XA5FT5
+18,恥骨部痛,L,R102,PK6P,=,http://id.who.int/icd/entity/524292134 & http://id.who.int/icd/entity/1779639863,=,MD81.11 & XA82W3
+18,骨盤痛,L,R102,U80K,=,http://id.who.int/icd/entity/524292134,=,MD81.11 
+18,骨盤部疼痛,S1,R102,U80K,=,http://id.who.int/icd/entity/524292134,=,MD81.11 
+18,虫垂仙痛,L,R103,CRG9,=,http://id.who.int/icd/entity/1988785309,<,DB1Y
+18,虫垂疝痛,S1,R103,CRG9,=,http://id.who.int/icd/entity/1988785309,<,DB1Y
+18,持続性臍仙痛,L,R103,DQC8,<,http://id.who.int/icd/entity/2047598004 & http://id.who.int/icd/entity/1313511357,<,MD81.12 & XT6Z
+18,持続性臍疝痛,S1,R103,DQC8,<,http://id.who.int/icd/entity/2047598004 & http://id.who.int/icd/entity/1313511357,<,MD81.12 & XT6Z
+18,回盲部痛,L,R103,EDPK,=,http://id.who.int/icd/entity/117520712,=,MD81.12 & XA6J68
+18,下腹痛,L,R103,EL63,=,http://id.who.int/icd/entity/2047598004,=,MD81.12
+18,下腹部痛,S1,R103,EL63,=,http://id.who.int/icd/entity/2047598004,=,MD81.12
+18,臍下部痛,L,R103,F4AD,<,http://id.who.int/icd/entity/2047598004,<,MD81.12
+18,腸骨窩部痛,L,R103,HPP1,=,http://id.who.int/icd/entity/1306011315,=,"MD81.12 & XA0NH8
+"
+18,腸仙痛,L,R103,KFTU,=,http://id.who.int/icd/entity/1220889507,<,MD81.4
+18,腸疝痛,S1,R103,KFTU,=,http://id.who.int/icd/entity/1220889507,<,MD81.4
+18,鼡径部痛,L,R103,PFN8,=,http://id.who.int/icd/entity/121860522,=,MD81.12 & XA0GN7
+18,鼠径部痛,S1,R103,PFN8,=,http://id.who.int/icd/entity/121860522,=,MD81.12 & XA0GN7
+18,臍周囲痛,L,R103,Q75H,<,http://id.who.int/icd/entity/2047598004,<,MD81.12
+18,小腹急結,L,R103,R59Q,<,http://id.who.int/icd/entity/2047598004,<,MD81.12
+18,少腹急結,S1,R103,R59Q,<,http://id.who.int/icd/entity/2047598004,<,MD81.12
+18,反復性臍仙痛,L,R103,SPKA,<,http://id.who.int/icd/entity/2047598004 & http://id.who.int/icd/entity/1721353160,<,MD81.12 & XT44
+18,反復性臍疝痛,S1,R103,SPKA,<,http://id.who.int/icd/entity/2047598004 & http://id.who.int/icd/entity/1721353160,<,MD81.12 & XT44
+18,持続腹痛,L,R104,B0EF,=,http://id.who.int/icd/entity/166022696 & http://id.who.int/icd/entity/1313511357,=,MD81.4 & XT6Z
+18,反復性腹痛,L,R104,BA4B,=,http://id.who.int/icd/entity/166022696 & http://id.who.int/icd/entity/1721353160,=,MD81.4 & XT44
+18,難治性腹痛,S2,R104,BA4B,<,http://id.who.int/icd/entity/166022696,<,MD81.4
+18,腹部圧痛,L,R104,BLJG,=,http://id.who.int/icd/entity/553875709,=,MD81.0
+18,乳幼児仙痛,L,R104,GSV2,=,http://id.who.int/icd/entity/122891331,=,DD93.1 
+18,乳幼児疝痛,S1,R104,GSV2,=,http://id.who.int/icd/entity/122891331,=,DD93.1 
+18,仙痛,L,R104,HDQP,=,http://id.who.int/icd/entity/166022696,=,MD81.4 
+18,疝痛,S1,R104,HDQP,=,http://id.who.int/icd/entity/166022696,=,MD81.4 
+18,側腹部痛,L,R104,HH79,=,http://id.who.int/icd/entity/166022696,=,MD81.4 
+18,周期性腹痛,L,R104,LGHC,=,http://id.who.int/icd/entity/166022696,=,MD81.4
+18,腹壁痛,L,R104,PVVL,=,"http://id.who.int/icd/entity/166022696
+ & http://id.who.int/icd/entity/119571850 ",=,MD81.4 & XA3KX0
+18,小児仙痛,L,R104,S6MT,=,http://id.who.int/icd/entity/122891331,=,DD93.1 
+18,小児疝痛,S1,R104,S6MT,=,http://id.who.int/icd/entity/122891331,=,DD93.1 
+18,腹痛症,L,R104,SEFA,=,http://id.who.int/icd/entity/166022696,=,MD81.4 
+18,腹痛(症),S1,R104,SEFA,=,http://id.who.int/icd/entity/166022696,=,MD81.4 
+18,腹痛,S1,R104,SEFA,=,http://id.who.int/icd/entity/166022696,=,MD81.4 
+18,中枢性嘔吐症,L,R11,A74H,<,http://id.who.int/icd/entity/447658033,<,MD90.1
+18,嘔吐症,L,R11,CJ51,=,http://id.who.int/icd/entity/447658033,=,MD90.1
+18,嘔吐,S1,R11,CJ51,=,http://id.who.int/icd/entity/447658033,=,MD90.1
+18,嘔吐(症),S1,R11,CJ51,=,http://id.who.int/icd/entity/447658033,=,MD90.1
+18,食後悪心,L,R11,EQCP,<,http://id.who.int/icd/entity/596805318,<,MD90.0
+18,特発性嘔吐症,L,R11,ETUG,=,http://id.who.int/icd/entity/447658033 & http://id.who.int/icd/entity/894194405,=,MD90.1 & XB5F
+18,特発性嘔吐(症),S1,R11,ETUG,=,http://id.who.int/icd/entity/447658033 & http://id.who.int/icd/entity/894194405,=,MD90.1 & XB5F
+18,特発性嘔吐,S1,R11,ETUG,=,http://id.who.int/icd/entity/447658033 & http://id.who.int/icd/entity/894194405,=,MD90.1 & XB5F
+18,化学療法に伴う嘔吐症,L,R11,FB9M,=,http://id.who.int/icd/entity/447658033 / http://id.who.int/icd/entity/723423695,<,MD90.1 / QB9Y
+18,抗癌剤投与に伴う悪心嘔吐,S1,R11,FB9M,<,http://id.who.int/icd/entity/447658033,<,MD90.1
+18,抗がん剤投与に伴う悪心嘔吐,S1,R11,FB9M,<,http://id.who.int/icd/entity/447658033,<,MD90.1
+18,アセトン血性嘔吐症,L,R11,HRN7,=,http://id.who.int/icd/entity/1834652605,<,MD90.1 
+18,アセトン血性嘔吐,S1,R11,HRN7,=,http://id.who.int/icd/entity/1834652605,<,MD90.1 
+18,アセトン血性嘔吐(症),S1,R11,HRN7,=,http://id.who.int/icd/entity/1834652605,<,MD90.1 
+18,周期性嘔吐症候群,L,R11,JMA2,=,http://id.who.int/icd/entity/1834652605,<,MD90.1 
+18,周期性嘔吐症,S1,R11,JMA2,=,http://id.who.int/icd/entity/1834652605,<,MD90.1 
+18,周期性嘔吐(症),S1,R11,JMA2,=,http://id.who.int/icd/entity/1834652605,<,MD90.1 
+18,周期性嘔吐,S1,R11,JMA2,=,http://id.who.int/icd/entity/1834652605,<,MD90.1 
+18,習慣性嘔吐,L,R11,KVCB,=,http://id.who.int/icd/entity/1834652605,<,MD90.1 
+18,常習性嘔吐,S1,R11,KVCB,=,http://id.who.int/icd/entity/1834652605,<,MD90.1 
+18,反復性嘔吐,L,R11,N97G,=,http://id.who.int/icd/entity/1834652605,<,MD90.1 
+18,慢性嘔吐症,S1,R11,N97G,=,http://id.who.int/icd/entity/447658033 & http://id.who.int/icd/entity/490003542,=,MD90.1 & XT8W
+18,反芻,L,R11,NF02,=,http://id.who.int/icd/entity/653249814,<,MD90.1 
+18,頻回嘔吐症,S2,R11,NF02,=,http://id.who.int/icd/entity/1834652605,<,MD90.1 
+18,脳性嘔吐,L,R11,QBT4,<,http://id.who.int/icd/entity/447658033,<,MD90.1
+18,悪心,L,R11,R5JL,=,http://id.who.int/icd/entity/596805318,=,MD90.0
+18,むかつき,S1,R11,R5JL,=,http://id.who.int/icd/entity/596805318,=,MD90.0
+18,はきけ,S2,R11,R5JL,=,http://id.who.int/icd/entity/596805318,=,MD90.0
+18,吐き気,S2,R11,R5JL,=,http://id.who.int/icd/entity/596805318,=,MD90.0
+18,吐気,S2,R11,R5JL,=,http://id.who.int/icd/entity/596805318,=,MD90.0
+18,糞便性嘔吐,L,R11,RN3C,=,http://id.who.int/icd/entity/185363103,<,MD90.1 
+18,胆汁性嘔吐,L,R11,TVEM,=,http://id.who.int/icd/entity/1260034794,<,"MD90,1"
+18,嘔気,L,R11,UAVC,=,http://id.who.int/icd/entity/596805318,=,MD90.0
+18,胸やけ,L,R12,JGR0,=,http://id.who.int/icd/entity/1559380866,=,MD95
+18,胸焼け,S1,R12,JGR0,=,http://id.who.int/icd/entity/1559380866,=,MD95
+18,嚥下困難,L,R13,AD6D,=,http://id.who.int/icd/entity/968461848,=,MD93
+18,嚥下困難症,S1,R13,AD6D,=,http://id.who.int/icd/entity/968461848,=,MD93
+18,輪状咽頭筋機能不全,L,R13,D472,<,http://id.who.int/icd/entity/968461848,<,MD93
+18,輪状咽頭嚥下障害,S1,R13,D472,<,http://id.who.int/icd/entity/968461848,<,MD93
+18,輪状咽頭部嚥下困難症,S1,R13,D472,<,http://id.who.int/icd/entity/968461848,<,MD93
+18,輪状咽頭筋嚥下困難症,S1,R13,D472,<,http://id.who.int/icd/entity/968461848,<,MD93
+18,輪状咽頭機能不全,S1,R13,D472,<,http://id.who.int/icd/entity/968461848,<,MD93
+18,嚥下協調障害,L,R13,ESPA,=,http://id.who.int/icd/entity/968461848,=,MD93
+18,嚥下不能,L,R13,RAMU,=,http://id.who.int/icd/entity/968461848,=,MD93
+18,嚥下障害,L,R13,RHD7,=,http://id.who.int/icd/entity/968461848,=,MD93
+18,嚥下痛,L,R13,RVCV,<,http://id.who.int/icd/entity/968461848,<,MD93
+18,腹部膨満,L,R14,C2A1,=,http://id.who.int/icd/entity/898362405,=,ME01
+18,腹部膨隆,S1,R14,C2A1,=,http://id.who.int/icd/entity/898362405,=,ME01
+18,腹部膨満感,S1,R14,C2A1,=,http://id.who.int/icd/entity/898362405,=,ME01
+18,胃内ガス貯留,L,R14,DEG0,=,http://id.who.int/icd/entity/1110335761,<,ME08
+18,おくび,L,R14,H0QC,=,http://id.who.int/icd/entity/1093292760,=,MD91
+18,あい気,S1,R14,H0QC,=,http://id.who.int/icd/entity/1093292760,=,MD91
+18,げっぷ,S1,R14,H0QC,=,http://id.who.int/icd/entity/1093292760,=,MD91
+18,ガス痛,L,R14,HLMH,=,http://id.who.int/icd/entity/1110335761,<,ME08
+18,放屁,L,R14,SC0K,=,http://id.who.int/icd/entity/1540491307,<,ME08
+18,鼓腸,L,R14,VBHH,=,http://id.who.int/icd/entity/1540491307 ,<,ME08
+18,腸性鼓腸,S1,R14,VBHH,=,http://id.who.int/icd/entity/1540491307 ,<,ME08
+18,便失禁,L,R15,N1ES,=,http://id.who.int/icd/entity/790417430,=,ME07.Z
+18,遺糞,L,R15,Q52Q,=,http://id.who.int/icd/entity/790417430,=,ME07.Z 
+18,肝腫大,L,R160,EFBV,=,http://id.who.int/icd/entity/690435214,=,ME10.00
+18,肝腫脹,S1,R160,EFBV,=,http://id.who.int/icd/entity/690435214,=,ME10.00
+18,肝腫,S1,R160,EFBV,=,http://id.who.int/icd/entity/690435214,=,ME10.00
+18,脾腫,L,R161,J8GN,=,http://id.who.int/icd/entity/1282210072,=,ME10.01
+18,巨脾,S1,R161,J8GN,=,http://id.who.int/icd/entity/1282210072,=,ME10.01
+18,脾腫脹,S1,R161,J8GN,=,http://id.who.int/icd/entity/1282210072,=,ME10.01
+18,肝脾腫,L,R162,EMU2,=,http://id.who.int/icd/entity/952216039,=,ME10.02 
+18,潜在性黄疸,L,R17,RE8M,<,http://id.who.int/icd/entity/1056591229,<,ME10.1
+18,黄疸,L,R17,RNDC,=,http://id.who.int/icd/entity/1056591229,=,ME10.1
+18,早発性黄疸,L,R17,TCNF,=,http://id.who.int/icd/entity/1056591229 & http://id.who.int/icd/entity/378801232,=,ME10.1 & XT2Q 
+18,異常腹水,L,R18,A7MB,<,http://id.who.int/icd/entity/1133729855,<,ME04.Z
+18,血性腹水,L,R18,EFPU,=,http://id.who.int/icd/entity/1133729855,<,ME04.Y
+18,滲出性腹水,L,R18,GHUV,<,http://id.who.int/icd/entity/1133729855,<,ME04.Z
+18,濾出性腹水,L,R18,L1EQ,<,http://id.who.int/icd/entity/1133729855,<,ME04.Z
+18,難治性腹水,L,R18,L8C7,<,http://id.who.int/icd/entity/1133729855,<,ME04.Z 
+18,腹水症,L,R18,SQTN,=,http://id.who.int/icd/entity/1133729855,=,ME04.Z
+18,腹水(症),S1,R18,SQTN,=,http://id.who.int/icd/entity/1133729855,=,ME04.Z
+18,腹水,S1,R18,SQTN,=,http://id.who.int/icd/entity/1133729855,=,ME04.Z
+18,腹水貯留,S1,R18,SQTN,=,http://id.who.int/icd/entity/1133729855,=,ME04.Z
+18,膵性腹水,L,R18,U259,=,http://id.who.int/icd/entity/1133729855 & http://id.who.int/icd/entity/1726554290,=,ME04.Z & XA3QC5
+18,肝性腹水,L,R18,UBQ0,=,http://id.who.int/icd/entity/1133729855 / http://id.who.int/icd/entity/508643963,=,ME04.Y / DC3Z
+18,腹部腫脹,L,R190,CTFS,=,http://id.who.int/icd/entity/125974564 ,<,MD82
+18,腹部腫瘤,L,R190,D81E,=,http://id.who.int/icd/entity/125974564,<,MD82
+18,腹腔内腫瘤,L,R190,DGJ7,=,http://id.who.int/icd/entity/125974564,<,MD82
+18,臍部腫瘤,L,R190,JH6B,=,http://id.who.int/icd/entity/639858536 ,<,MD82
+18,臍腫瘤,S1,R190,JH6B,=,http://id.who.int/icd/entity/639858536 ,<,MD82
+18,上腹部腫瘤,L,R190,K49U,=,http://id.who.int/icd/entity/125974564 & http://id.who.int/icd/entity/1927061586,=,MD82 & XA0U66
+18,後腹膜腫瘤,L,R190,MLUD,=,http://id.who.int/icd/entity/125974564 ,=,MD82 & XA6S21
+18,腸間膜腫瘤,L,R190,R93L,=,http://id.who.int/icd/entity/125974564 & http://id.who.int/icd/entity/1699945558,=,MD82 & XA43V8
+18,回盲部腫瘤,L,R190,SFG5,=,http://id.who.int/icd/entity/125974564 & http://id.who.int/icd/entity/1717636182,=,MD82 & XA6J68
+18,下腹部腫瘤,L,R190,TK8C,=,http://id.who.int/icd/entity/125974564 & http://id.who.int/icd/entity/2105593940,=,MD82 & XA4TC0
+18,下腹部瘤,S1,R190,TK8C,=,http://id.who.int/icd/entity/125974564 & http://id.who.int/icd/entity/2105593940,=,MD82 & XA4TC0
+18,骨盤内腫瘤,L,R190,UGNH,=,http://id.who.int/icd/entity/1665392641 ,<,MD82
+18,腸音亢進,L,R191,C5BD,=,http://id.who.int/icd/entity/794938483,=,ME03.0
+18,異常腸音,L,R191,EDMM,=,http://id.who.int/icd/entity/48769702,=,ME03.Z
+18,腸音欠如,L,R191,LQPK,=,http://id.who.int/icd/entity/1833425233,=,ME03.1
+18,腸音歇如,S1,R191,LQPK,=,http://id.who.int/icd/entity/1833425233,=,ME03.1
+18,蠕動亢進,L,R192,MDT2,=,http://id.who.int/icd/entity/98838579,<,ME0A
+18,筋性防御,L,R193,DSK7,=,http://id.who.int/icd/entity/319731663,=,ME02
+18,筋防衛,S1,R193,DSK7,=,http://id.who.int/icd/entity/319731663,=,ME02
+18,腹部板状硬,L,R193,MVHP,=,http://id.who.int/icd/entity/319731663,=,ME02
+18,腹部硬直,S1,R193,MVHP,=,http://id.who.int/icd/entity/319731663,=,ME02
+18,排便習慣の変化,L,R194,F3UD,=,http://id.who.int/icd/entity/1625302107,=,ME05.Z
+18,大量便,L,R195,B5LK,=,http://id.who.int/icd/entity/95152591,<,ME0Y 
+18,緑色便,L,R195,E50J,<,http://id.who.int/icd/entity/1625551556,<,ME0Y 
+18,便潜血,L,R195,ENA4,=,http://id.who.int/icd/entity/1048974920,=,ME24.A6
+18,便色異常,L,R195,K7G8,=,http://id.who.int/icd/entity/1625551556,<,ME0Y 
+18,黒色便,L,R195,M3BC,=,http://id.who.int/icd/entity/262463613,=,ME24.A4
+18,タール便,S1,R195,M3BC,=,http://id.who.int/icd/entity/262463613,=,ME24.A4
+18,便異常,L,R195,PUT6,=,http://id.who.int/icd/entity/95152591,<,ME0Y 
+18,粘液便,L,R195,RL58,=,http://id.who.int/icd/entity/537983523,<,ME0Y 
+18,口臭,L,R196,DJK6,=,http://id.who.int/icd/entity/1896266034,=,MD94
+18,口腔内異常感症,L,R198,A7N6,=,http://id.who.int/icd/entity/1753785289 ,<,MD80.1
+18,小腹拘急,L,R198,CSVS,,,,
+18,心下痞,L,R198,D6D3,,,,
+18,口腔内感覚異常症,L,R198,E25F,=,http://id.who.int/icd/entity/1753785289 ,<,MD80.1
+18,つかえ感,L,R198,EE2H,=,http://id.who.int/icd/entity/968461848 ,=,MD93
+18,腹部不快感,L,R198,FEVP,=,http://id.who.int/icd/entity/657155598 ,<,ME1Y
+18,口内痛,L,R198,FS3P,=,http://id.who.int/icd/entity/1797733801 ,<,MD80.Y
+18,胃内停水,L,R198,G72J,,,,
+18,溜飲,S1,R198,G72J,,,,
+18,溜飲症,S1,R198,G72J,,,,
+18,小腹不仁,L,R198,H9PD,,,,
+18,臍下不仁,S1,R198,H9PD,,,,
+18,腹皮拘急,L,R198,J2H6,,,,
+18,摂食嚥下機能障害,L,R198,JN5F,=,http://id.who.int/icd/entity/968461848 ,=,MD93
+18,摂食嚥下障害,S1,R198,JN5F,=,http://id.who.int/icd/entity/968461848 ,=,MD93
+18,心下痞堅,L,R198,K6UK,,,,
+18,食道異物感,L,R198,K877,=,http://id.who.int/icd/entity/968461848 ,=,MD93
+18,口腔機能低下症,L,R198,N7DM,=,http://id.who.int/icd/entity/469219785 & http://id.who.int/icd/entity/899660487,=,ME1Y & XA5A87
+18,しぶり腹,L,R198,NMQG,=,http://id.who.int/icd/entity/1328152138,=,ME09
+18,口苦,L,R198,QL9D,<,http://id.who.int/icd/entity/1753785289 ,<,MD80.1
+18,口中不快,S1,R198,QL9D,=,http://id.who.int/icd/entity/1753785289 ,<,MD80.1
+18,心下急,L,R198,QPN1,,,,
+18,胸脇苦満,L,R198,R5KJ,,,,
+18,排便障害,L,R198,SQ4L,=,http://id.who.int/icd/entity/210393504,=,ME0B
+18,排便機能障害,S1,R198,SQ4L,=,http://id.who.int/icd/entity/502284069,=,ME05.0
+18,排便異常,S1,R198,SQ4L,=,http://id.who.int/icd/entity/502284069,=,ME05.0
+18,排便困難症,S1,R198,SQ4L,=,http://id.who.int/icd/entity/502284069,=,ME05.0
+18,心下痞硬,L,R198,TGKA,,,,
+18,心窩部振水音,L,R198,UHST,,,,
+18,心下部振水音,S1,R198,UHST,,,,
+18,小腹硬満,L,R198,V5PP,,,,
+18,下腹部圧痛,S1,R198,V5PP,=,http://id.who.int/icd/entity/553875709 & http://id.who.int/icd/entity/2105593940,=,MD81.0 & XA4TC0
+18,摂食機能障害,L,R198,V86D,=,http://id.who.int/icd/entity/968461848,=,MD93
+18,機能性摂食障害,S1,R198,V86D,=,http://id.who.int/icd/entity/968461848,=,MD93
+18,心窩部不快,L,R198,VL37,=,http://id.who.int/icd/entity/1810710745,=,MD81.10
+18,胃部停滞感,S1,R198,VL37,=,http://id.who.int/icd/entity/1559380866,=,MD95
+18,胃部水分停滞感,S1,R198,VL37,=,http://id.who.int/icd/entity/1559380866,=,MD95
+18,胃部圧重感,S1,R198,VL37,=,http://id.who.int/icd/entity/1559380866,=,MD95
+18,胃部重圧感,S1,R198,VL37,=,http://id.who.int/icd/entity/1559380866,=,MD95
+18,胃部重苦,S1,R198,VL37,=,http://id.who.int/icd/entity/1559380866,=,MD95
+18,胃部停滞膨満感,S1,R198,VL37,=,http://id.who.int/icd/entity/1559380866,=,MD95
+18,胃部のつかえ,S1,R198,VL37,=,http://id.who.int/icd/entity/1559380866,=,MD95
+18,無触覚症,L,R200,BEFV,=,http://id.who.int/icd/entity/1314811790,=,MB40.8
+18,体感消失,L,R200,BH3P,=,http://id.who.int/icd/entity/1314811790,=,MB40.8
+18,片側痛覚消失,L,R200,CV7Q,=,http://id.who.int/icd/entity/2067323956 ,=,MB40.8 & XK70
+18,半側痛覚消失,S1,R200,CV7Q,=,http://id.who.int/icd/entity/2067323956 ,=,MB40.8 & XK70
+18,ベルゲル感覚異常,L,R200,DA9D,=,http://id.who.int/icd/entity/1314811790,=,MB40.8
+18,無感覚症,L,R200,DTS1,=,http://id.who.int/icd/entity/1314811790,=,MB40.8
+18,無知覚,S1,R200,DTS1,=,http://id.who.int/icd/entity/1314811790,=,MB40.8
+18,知覚消失症,S1,R200,DTS1,=,http://id.who.int/icd/entity/1314811790,=,MB40.8
+18,半側温覚消失,L,R200,FEUJ,=,http://id.who.int/icd/entity/2067323956 ,=,MB40.8 & XK70
+18,局所知覚消失,L,R200,FGQL,=,http://id.who.int/icd/entity/1314811790 & http://id.who.int/icd/entity/108658876,=,MB40. 8 &XK9A
+18,先端失認症,L,R200,G3US,<,http://id.who.int/icd/entity/1853164458,<,MB40.9
+18,延髄性知覚消失,L,R200,HMUK,<,http://id.who.int/icd/entity/494503817 / http://id.who.int/icd/entity/1614716959,<,MB40.3 & XA17J6
+18,延髄性感覚消失,S1,R200,HMUK,<,http://id.who.int/icd/entity/494503817 / http://id.who.int/icd/entity/1614716959,<,MB40.3 & XA17J6
+18,脊髄性片側感覚消失,L,R200,LND5,=,http://id.who.int/icd/entity/494503817 & http://id.who.int/icd/entity/1038788978 / http://id.who.int/icd/entity/2131180445,=,MB40.Z & XK70 / ND51.2
+18,咽喉頭知覚麻痺,L,R200,MLC2,=,http://id.who.int/icd/entity/1260549458 & http://id.who.int/icd/entity/468902907,<,MB40.3 & XA2J67
+18,先端知覚麻痺,L,R200,MSFM,<,http://id.who.int/icd/entity/1853164458,<,MB40.9
+18,片側感覚消失,L,R200,NVDF,=,http://id.who.int/icd/entity/1853164458 & http://id.who.int/icd/entity/1038788978,=,MB40.9 & XK70
+18,半側感覚消失,S1,R200,NVDF,=,http://id.who.int/icd/entity/1853164458 & http://id.who.int/icd/entity/1038788978,=,MB40.9 & XK70
+18,有痛性感覚脱失,L,R200,QS79,<,http://id.who.int/icd/entity/1853164458,<,MB40.9
+18,先端知覚脱失,L,R200,RDUK,<,http://id.who.int/icd/entity/1853164458,<,MB40.9
+18,先端感覚脱失,S1,R200,RDUK,<,http://id.who.int/icd/entity/1853164458,<,MB40.9
+18,先端認知不能症,S1,R200,RDUK,<,http://id.who.int/icd/entity/1853164458,<,MB40.9
+18,先端感覚消失,S1,R200,RDUK,<,http://id.who.int/icd/entity/1853164458,<,MB40.9
+18,先端知覚消失,S1,R200,RDUK,<,http://id.who.int/icd/entity/1853164458,<,MB40.9
+18,片側対性知覚麻痺,L,R201,A4HM,=,http://id.who.int/icd/entity/2067323956 ,=,MB40.8 & XK70
+18,半側対性知覚麻痺,S1,R201,A4HM,=,http://id.who.int/icd/entity/2067323956 ,=,MB40.8 & XK70
+18,片側温覚消失,L,R201,A8BP,=,http://id.who.int/icd/entity/2067323956 ,=,MB40.8 & XK70
+18,片側痛覚鈍麻,L,R201,B7GB,=,http://id.who.int/icd/entity/2067323956 ,=,MB40.8 & XK70
+18,半側痛覚鈍麻,S1,R201,B7GB,=,http://id.who.int/icd/entity/2067323956 ,=,MB40.8 & XK70
+18,片側痛覚減退症,S1,R201,B7GB,=,http://id.who.int/icd/entity/2067323956 ,=,MB40.8 & XK70
+18,片側知覚不全,L,R201,DRV5,=,http://id.who.int/icd/entity/2067323956 ,=,MB40.8 & XK70
+18,半側知覚不全,S1,R201,DRV5,=,http://id.who.int/icd/entity/2067323956 ,=,MB40.8 & XK70
+18,対性知覚麻痺,L,R201,EKRD,=,http://id.who.int/icd/entity/1314811790,=,MB40.8
+18,オトガイ部知覚低下,L,R201,F87B,=,http://id.who.int/icd/entity/1260549458,<,MB40.3
+18,知覚鈍麻,L,R201,FC6M,=,http://id.who.int/icd/entity/1260549458,<,MB40.3
+18,片側感覚鈍麻,L,R201,G1JM,=,http://id.who.int/icd/entity/784044037,=,MB40.3 & XK70
+18,半側感覚鈍麻,S1,R201,G1JM,=,http://id.who.int/icd/entity/784044037,=,MB40.3 & XK70
+18,半身知覚鈍麻,S1,R201,G1JM,=,http://id.who.int/icd/entity/784044037,=,MB40.3 & XK70
+18,下肢知覚低下,L,R201,N4UJ,=,http://id.who.int/icd/entity/784044037 & http://id.who.int/icd/entity/2093217246 ,<,MB40.3 & XA45A6
+18,触覚鈍麻,L,R201,PCHA,=,http://id.who.int/icd/entity/1260549458,<,MB40.3
+18,知覚神経麻痺,L,R201,RDB1,=,http://id.who.int/icd/entity/1049159712,=,MB40.3
+18,全知覚鈍麻,L,R201,T1QQ,=,"http://id.who.int/icd/entity/1260549458 & http://id.who.int/icd/entity/1957947885
+",<,MB40.3 & XK2J
+18,大脳性半身知覚鈍麻,L,R201,V6L8,<,http://id.who.int/icd/entity/784044037,<,MB40.3
+18,蟻走感,L,R202,A702,=,http://id.who.int/icd/entity/349850811,<,MB27.26
+18,肛門部違和感,L,R202,AL6P,=,http://id.who.int/icd/entity/1467981209 & http://id.who.int/icd/entity/687060814,=,MB40.6 & XA4B34
+18,肛門部異常感,S1,R202,AL6P,=,http://id.who.int/icd/entity/1467981209 & http://id.who.int/icd/entity/687060814,=,MB40.6 & XA4B34
+18,夜間異常知覚症,L,R202,BQ8G,<,http://id.who.int/icd/entity/1049159712,<,MB40.3
+18,異常知覚,L,R202,C7T9,=,http://id.who.int/icd/entity/1049159712,=,MB40.3
+18,下腿知覚異常,L,R202,CC9M,=,http://id.who.int/icd/entity/1099683690 & http://id.who.int/icd/entity/106050921 ,=,MB40.4 & XA3YG1
+18,手知覚異常,L,R202,FDVL,=,http://id.who.int/icd/entity/1099683690 & http://id.who.int/icd/entity/430791912,=,MB40.4 & XA5R12
+18,手指知覚異常,L,R202,HM03,=,http://id.who.int/icd/entity/1099683690 & http://id.who.int/icd/entity/822750113,=,MB40.4 & XA2593
+18,指知覚異常,S1,R202,HM03,=,http://id.who.int/icd/entity/1099683690 & http://id.who.int/icd/entity/822750113,=,MB40.4 & XA2593
+18,手背知覚異常,L,R202,HS0R,=,http://id.who.int/icd/entity/1099683690 & http://id.who.int/icd/entity/2088002216,=,MB40.4 & XA30Z6
+18,異常触覚,L,R202,JPGJ,=,http://id.who.int/icd/entity/1049159712,=,MB40.3
+18,異触覚症,S1,R202,JPGJ,=,http://id.who.int/icd/entity/1049159712,=,MB40.3
+18,趾知覚異常,L,R202,KMC6,=,http://id.who.int/icd/entity/1099683690 & http://id.who.int/icd/entity/1735902769,=, MB40.4 & XA4LC9
+18,皮膚感覚異常,L,R202,M9EV,=,http://id.who.int/icd/entity/1049159712,=,MB40.3
+18,チクチク感,L,R202,NLQP,=,http://id.who.int/icd/entity/1049159712,=,MB40.3 
+18,オトガイ神経知覚異常,L,R202,P1CD,=,http://id.who.int/icd/entity/1260549458,<,MB40.3
+18,下肢知覚異常,L,R202,PV3N,=,http://id.who.int/icd/entity/1049159712 & http://id.who.int/icd/entity/2093217246,=,MB40.3 & XA45A6
+18,感覚異常症,L,R202,S592,=,http://id.who.int/icd/entity/1049159712,=,MB40.3 
+18,異感覚症,S1,R202,S592,=,http://id.who.int/icd/entity/1049159712,=,MB40.3 
+18,ピリピリ感,L,R202,T03B,=,http://id.who.int/icd/entity/1049159712 ,=,MB40.3 
+18,温度感覚異常,L,R202,UAB6,=,http://id.who.int/icd/entity/1049159712 ,=,MB40.3 
+18,片側感覚異常,L,R202,V551,=,http://id.who.int/icd/entity/784044037,=,MB40.3 & XK70
+18,半身知覚異常,S1,R202,V551,=,http://id.who.int/icd/entity/784044037,=,MB40.3 & XK70
+18,足底部知覚異常,L,R202,VRMC,=,http://id.who.int/icd/entity/1099683690 & http://id.who.int/icd/entity/1797255514,=,MB40.4 & XA1XM4 
+18,皮膚知覚過敏,L,R203,CERB,=,http://id.who.int/icd/entity/1243986145,=,MB40.5
+18,知覚神経過敏(症),S1,R203,CERB,=,http://id.who.int/icd/entity/1243986145,=,MB40.5
+18,知覚神経過敏症,S1,R203,CERB,=,http://id.who.int/icd/entity/1243986145,=,MB40.5
+18,知覚神経過敏,S1,R203,CERB,=,http://id.who.int/icd/entity/1243986145,=,MB40.5
+18,感覚過敏,S1,R203,CERB,=,http://id.who.int/icd/entity/1243986145,=,MB40.5
+18,知覚過敏,S1,R203,CERB,=,http://id.who.int/icd/entity/1243986145,=,MB40.5
+18,皮膚感覚過敏,S1,R203,CERB,=,http://id.who.int/icd/entity/1243986145,=,MB40.5
+18,片側痛覚過敏,L,R203,F5G2,=,http://id.who.int/icd/entity/1243986145 & http://id.who.int/icd/entity/1038788978,=,MB40.5 & XK70 
+18,温度感覚過敏,L,R203,KS2V,=,http://id.who.int/icd/entity/1243986145,=,MB40.5
+18,温痛覚過敏,L,R203,QRHE,=,http://id.who.int/icd/entity/1243986145,=,MB40.5
+18,片側知覚過敏,L,R203,R73E,=,http://id.who.int/icd/entity/1243986145 & http://id.who.int/icd/entity/1038788978,=,MB40.5 & XK70 
+18,半側知覚過敏,S1,R203,R73E,=,http://id.who.int/icd/entity/1243986145 & http://id.who.int/icd/entity/1038788978,=,MB40.5 & XK70 
+18,上肢知覚異常,L,R208,A9K0,=,http://id.who.int/icd/entity/1049159712 & http://id.who.int/icd/entity/986233688 ,=,MB40.3 & XA4BA8
+18,上肢感覚障害,S1,R208,A9K0,=,http://id.who.int/icd/entity/1049159712 & http://id.who.int/icd/entity/986233688 ,=,MB40.3 & XA4BA8
+18,四肢端しびれ,L,R208,BD4E,=,http://id.who.int/icd/entity/1099683690,=,MB40.4
+18,半身知覚障害,L,R208,C5B8,=,http://id.who.int/icd/entity/784044037,=,MB40.3 & XK70
+18,腰足知覚障害,L,R208,DCEL,=,http://id.who.int/icd/entity/1049159712 & http://id.who.int/icd/entity/2093217246,=,MB40.3 & XA45A6
+18,体感異常,L,R208,ELSR,=,http://id.who.int/icd/entity/431731224,=,MB27.25 
+18,四肢知覚異常,L,R208,FB75,=,http://id.who.int/icd/entity/1049159712 & http://id.who.int/icd/entity/1810600222 ,=,MB40.3 & XA6AS2
+18,しびれ感,L,R208,G2M0,≒,http://id.who.int/icd/entity/1049159712 ,≒,MB40.3
+18,しびれ,S1,R208,G2M0,≒,http://id.who.int/icd/entity/1049159712 ,≒,MB40.3
+18,皮膚知覚障害,L,R208,H69J,=,http://id.who.int/icd/entity/1049159712,=,MB40.3
+18,皮膚感覚障害,S1,R208,H69J,=,http://id.who.int/icd/entity/1049159712,=,MB40.3
+18,手指先しびれ,L,R208,JBR7,=,http://id.who.int/icd/entity/1099683690 &  http://id.who.int/icd/entity/309316639 ,=,MB40.4 & XA7GT9
+18,湯あたり,L,R208,LSKA,=,http://id.who.int/icd/entity/1699744436,<,NF01
+18,全身のしびれ感,L,R208,LTDT,≒,http://id.who.int/icd/entity/1049159712 & http://id.who.int/icd/entity/1479602347,≒,MB40.3 & XK63
+18,下肢しびれ,L,R208,MBJK,≒,http://id.who.int/icd/entity/1049159712 & http://id.who.int/icd/entity/2093217246 ,≒,MB40.3 & XA45A6
+18,四肢末梢知覚異常,L,R208,MNUG,=,http://id.who.int/icd/entity/1049159712 & http://id.who.int/icd/entity/822750113 & http://id.who.int/icd/entity/1735902769,=,MB40.3 & XA6AS2
+18,感覚運動障害,L,R208,Q58B,=,http://id.who.int/icd/entity/494503817 / http://id.who.int/icd/entity/384289569,=,MB40.Z / 8A0Z 
+18,上肢しびれ,L,R208,Q5SP,≒,http://id.who.int/icd/entity/1049159712 & http://id.who.int/icd/entity/986233688 ,≒,MB40.3 & XA4BA8
+18,下肢冷感,L,R208,QS32,<,http://id.who.int/icd/entity/1049159712 & http://id.who.int/icd/entity/2093217246,<,MB40.3 & XA45A6
+18,半身しびれ,L,R208,R4JP,≒,http://id.who.int/icd/entity/1049159712 & http://id.who.int/icd/entity/1038788978 ,≒,MB40.3 & XK70
+18,知覚機能障害,L,R208,SKU7,=,http://id.who.int/icd/entity/494503817,=,MB40.Z
+18,こわばり,L,R208,SPD2,=,http://id.who.int/icd/entity/494503817,=,MB40.Z
+18,知覚障害,L,R208,U1NC,=,http://id.who.int/icd/entity/494503817,=,MB40.Z
+18,感覚障害,S1,R208,U1NC,=,http://id.who.int/icd/entity/494503817,=,MB40.Z
+18,知覚異常,S1,R208,U1NC,=,http://id.who.int/icd/entity/494503817,=,MB40.Z
+18,こわばり感,L,R208,VR1E,=,http://id.who.int/icd/entity/494503817,=,MB40.Z
+18,四肢しびれ,L,R208,VV67,≒,http://id.who.int/icd/entity/1049159712 & http://id.who.int/icd/entity/1810600222 ,≒,MB40.3 & XA6AS2
+18,上下肢しびれ,S1,R208,VV67,≒,http://id.who.int/icd/entity/1049159712 & http://id.who.int/icd/entity/1810600222 ,≒,MB40.3 & XA6AS2
+18,発疹,L,R21,A8NR,=,http://id.who.int/icd/entity/1672472938 ,=,ME66.6Z
+18,皮疹,S1,R21,A8NR,=,http://id.who.int/icd/entity/1672472938 ,=,ME66.6Z
+18,四肢発疹,L,R21,B98R,=,http://id.who.int/icd/entity/1672472938 & http://id.who.int/icd/entity/1810600222 ,=,ME66.6Z & XA6AS2 
+18,落屑性皮疹,L,R21,DG09,=,http://id.who.int/icd/entity/317520014,=,ME62.7
+18,全身発疹,L,R21,GN44,=,http://id.who.int/icd/entity/1256786790,=,ME66.61
+18,全身性発疹,S1,R21,GN44,=,http://id.who.int/icd/entity/1256786790,=,ME66.61
+18,反応性発疹症,L,R21,HC3D,<,http://id.who.int/icd/entity/408835699,<,ME62.Y
+18,発熱発疹,L,R21,K88D,<,http://id.who.int/icd/entity/408835699,<,ME62.Y
+18,風疹様発疹,L,R21,K8MH,<,http://id.who.int/icd/entity/408835699,<,ME62.Y
+18,斑状丘疹性皮疹,L,R21,M8H0,=,http://id.who.int/icd/entity/1238846563,<,ME62.3
+18,発赤,L,R21,NLP9,=,http://id.who.int/icd/entity/1672472938 ,=,ME66.6Z
+18,急性発疹症,L,R21,NTB5,=,http://id.who.int/icd/entity/408835699,=,ME62
+18,下腿発赤,L,R21,PTGG,=,http://id.who.int/icd/entity/800313204 & http://id.who.int/icd/entity/106050921,=,ME64.0  & XA3YG1 
+18,特発性発疹,L,R21,TGFJ,=,http://id.who.int/icd/entity/1672472938 & http://id.who.int/icd/entity/894194405,=,ME66.6Z & XB5F
+18,斑状皮疹,L,R21,VFNF,<,http://id.who.int/icd/entity/408835699,<,ME62.Y
+18,耳下腺腫脹,L,R220,ADTK,=,http://id.who.int/icd/entity/603422881 & http://id.who.int/icd/entity/1079013045,=,ME61 & XA07S5
+18,頭部腫脹,L,R220,ARMP,=,http://id.who.int/icd/entity/603422881 ,=,ME61 & XA20Q1
+18,鼻部皮下腫瘤,L,R220,B126,=,http://id.who.int/icd/entity/603422881 & http://id.who.int/icd/entity/1082634473,=,ME61 & XA3H13
+18,耳腫瘤,L,R220,BC8L,=,http://id.who.int/icd/entity/603422881 & http://id.who.int/icd/entity/1070102426,=,ME61 & XA9E26 
+18,頭頂部腫瘤,L,R220,C11V,=,http://id.who.int/icd/entity/603422881 & http://id.who.int/icd/entity/1116521274,=,ME61 & XA4W34
+18,耳後部腫脹,L,R220,DBSE,=,http://id.who.int/icd/entity/603422881 & http://id.who.int/icd/entity/1847793967,=,ME61 & XA3S47
+18,顎下部腫脹,L,R220,G27U,=,http://id.who.int/icd/entity/1186745653 & http://id.who.int/icd/entity/1690079375,=,ME61 & XA0MP5
+18,上顎腫瘤,L,R220,GB34,=,http://id.who.int/icd/entity/603422881 & http://id.who.int/icd/entity/2046762409,<,ME61 & XA5KE9
+18,下顎部腫脹,L,R220,GMR5,=,http://id.who.int/icd/entity/1186745653 & http://id.who.int/icd/entity/1690079375,=,ME61 & XA0MP5
+18,顎部腫瘤,L,R220,HVGC,=,http://id.who.int/icd/entity/1186745653 & http://id.who.int/icd/entity/1690079375,=,ME61 & XA0MP5
+18,耳後部腫瘤,L,R220,J4E3,=,http://id.who.int/icd/entity/603422881 & http://id.who.int/icd/entity/1847793967,=,ME61 & XA3S47
+18,耳介周辺腫脹,L,R220,J6RM,=,http://id.who.int/icd/entity/603422881 & http://id.who.int/icd/entity/2030796271,=,ME61 & XA4E71
+18,下顎部皮下腫瘤,L,R220,L37F,=,http://id.who.int/icd/entity/1186745653 & http://id.who.int/icd/entity/1690079375,=,ME61 & XA0MP5
+18,耳介前部腫脹,L,R220,RJD6,=,http://id.who.int/icd/entity/603422881 & http://id.who.int/icd/entity/1976884722,=,ME61 & XA0SU2
+18,耳前部腫瘤,L,R220,RPHB,=,http://id.who.int/icd/entity/603422881 & http://id.who.int/icd/entity/1976884722,=,ME61 & XA0SU2
+18,顔面腫瘤,L,R220,SLDH,=,http://id.who.int/icd/entity/603422881 & http://id.who.int/icd/entity/968129184,=,ME61 & XA86S4
+18,頬部腫瘤,L,R220,SUP3,=,http://id.who.int/icd/entity/603422881 & http://id.who.int/icd/entity/1286369458,=,ME61 & XA7MK8
+18,顔面腫脹,L,R220,T05D,=,http://id.who.int/icd/entity/603422881 & http://id.who.int/icd/entity/968129184,=,ME61 & XA86S4
+18,顔面部腫脹,S1,R220,T05D,=,http://id.who.int/icd/entity/603422881 & http://id.who.int/icd/entity/968129184,=,ME61 & XA86S4
+18,頭部腫瘤,L,R220,TPNJ,=,http://id.who.int/icd/entity/603422881,=,ME61 & XA20Q1 
+18,頬部腫脹,L,R220,UA4C,=,http://id.who.int/icd/entity/603422881 & http://id.who.int/icd/entity/1286369458,=,ME61& XA7MK8
+18,後頭部腫瘤,L,R220,VB9E,=,http://id.who.int/icd/entity/603422881 & http://id.who.int/icd/entity/891825585,=,ME61 & XA7JE5 
+18,項部腫脹,L,R221,BTAF,=,http://id.who.int/icd/entity/1186745653 & http://id.who.int/icd/entity/391324778,=,ME61 & XA1M78
+18,側頚部腫瘤,L,R221,C4SU,=,http://id.who.int/icd/entity/1186745653 & http://id.who.int/icd/entity/1921653290,=,ME61 & XA2ZF0
+18,側頸部腫瘤,S1,R221,C4SU,=,http://id.who.int/icd/entity/1186745653 & http://id.who.int/icd/entity/1921653290,=,ME61 &  XA2ZF0
+18,頚部皮下腫瘤,L,R221,H608,=,http://id.who.int/icd/entity/1186745653,=,ME61 & XA7AA6
+18,頸部皮下腫瘤,S1,R221,H608,=,http://id.who.int/icd/entity/1186745653,=,ME61 & XA7AA6
+18,下顎下部腫瘤,L,R221,J4AD,=,http://id.who.int/icd/entity/1186745653 & http://id.who.int/icd/entity/1690079375 ,=,ME61& XA0MP5
+18,頚部腫瘤,L,R221,NGEN,=,http://id.who.int/icd/entity/1186745653,=,ME61 & XA7AA6
+18,頸部腫瘤,S1,R221,NGEN,=,http://id.who.int/icd/entity/1186745653,=,ME61 & XA7AA6
+18,下顎部腫瘤,L,R221,P2SE,=,http://id.who.int/icd/entity/1186745653 & http://id.who.int/icd/entity/1690079375,=,ME61& XA0MP5
+18,顎下部腫瘤,L,R221,PVNP,=,http://id.who.int/icd/entity/1186745653 & http://id.who.int/icd/entity/1690079375,=,ME61& XA0MP5
+18,項部皮下腫瘤,L,R221,QJR5,=,http://id.who.int/icd/entity/1186745653 & http://id.who.int/icd/entity/391324778,=,ME61& XA1M78
+18,項部腫瘤,L,R221,QKPA,=,http://id.who.int/icd/entity/1186745653 & http://id.who.int/icd/entity/391324778,=,ME61& XA1M78
+18,頚部腫脹,L,R221,ULNE,=,http://id.who.int/icd/entity/1186745653,=,ME61 & XA7AA6
+18,頸部腫脹,S1,R221,ULNE,=,http://id.who.int/icd/entity/1186745653 ,=,ME61 & XA7AA6
+18,後頚部腫瘤,L,R221,VFV5,=,http://id.who.int/icd/entity/1186745653 & http://id.who.int/icd/entity/391324778,=,ME61& XA1M78
+18,後頸部腫瘤,S1,R221,VFV5,=,http://id.who.int/icd/entity/1186745653 & http://id.who.int/icd/entity/391324778,=,ME61& XA1M78
+18,側頚部腫脹,L,R221,VTRC,=,http://id.who.int/icd/entity/1186745653 & http://id.who.int/icd/entity/1921653290,=,ME61& XA2ZF0
+18,側頸部腫脹,S1,R221,VTRC,=,http://id.who.int/icd/entity/1186745653 & http://id.who.int/icd/entity/1921653290,=,ME61 & XA2ZF0
+18,背部腫脹,L,R222,BKL1,=,http://id.who.int/icd/entity/839982538 & http://id.who.int/icd/entity/1187030,=,ME61 & XA2P90
+18,胸腔内腫瘤,L,R222,BP3U,=,http://id.who.int/icd/entity/839982538 & http://id.who.int/icd/entity/685877085,=,ME61 & XA1XJ5 
+18,胸郭内腫瘤,S1,R222,BP3U,=,http://id.who.int/icd/entity/839982538 & http://id.who.int/icd/entity/685877085,=,ME61 & XA1XJ5 
+18,腹壁腫瘤,L,R222,C4TU,=,http://id.who.int/icd/entity/839982538 & http://id.who.int/icd/entity/119571850,=,ME61 & XA3KX0
+18,背部腫瘤,L,R222,DR6D,=,http://id.who.int/icd/entity/839982538 & http://id.who.int/icd/entity/1187030,=,ME61 & XA2P90
+18,胸部腫脹,L,R222,EN2C,=,http://id.who.int/icd/entity/839982538 & http://id.who.int/icd/entity/650081113,=,ME61 & XA5D93
+18,胸壁腫瘤,L,R222,GKT0,=,http://id.who.int/icd/entity/839982538 & http://id.who.int/icd/entity/1656376572,=,ME61 & XA55T2
+18,肛門部腫瘤,L,R222,GMR4,=,http://id.who.int/icd/entity/839982538 & http://id.who.int/icd/entity/687060814,=,ME61& XA4B34
+18,腹壁瘤水腫,L,R222,GV6C,=,http://id.who.int/icd/entity/839982538 & http://id.who.int/icd/entity/119571850,=,ME61 & XA3KX0
+18,腰部腫瘤,L,R222,JG4S,=,http://id.who.int/icd/entity/839982538 & http://id.who.int/icd/entity/929081680,=,ME61 & XA0D60
+18,鼡径部腫瘤,L,R222,KKF6,=,http://id.who.int/icd/entity/839982538 & http://id.who.int/icd/entity/1206407267,=,ME61 & XA0GN7
+18,鼠径部腫瘤,S1,R222,KKF6,=,http://id.who.int/icd/entity/839982538 & http://id.who.int/icd/entity/1206407267,=,ME61 & XA0GN7
+18,前胸部腫脹,L,R222,NG8Q,=,http://id.who.int/icd/entity/839982538 & http://id.who.int/icd/entity/108895453,=,ME61 & XA00R3
+18,股部腫脹,L,R222,NM1D,=,http://id.who.int/icd/entity/839982538 & http://id.who.int/icd/entity/1169905822　,=,ME61 & XA2XG2
+18,鼡径部腫脹,L,R222,NT0A,=,http://id.who.int/icd/entity/839982538 & http://id.who.int/icd/entity/1206407267,=,ME61 & XA0GN7
+18,鼠径部腫脹,S1,R222,NT0A,=,http://id.who.int/icd/entity/839982538 & http://id.who.int/icd/entity/1206407267,=,ME61 & XA0GN7
+18,胸部腫瘤,L,R222,P972,=,http://id.who.int/icd/entity/839982538 & http://id.who.int/icd/entity/650081113,=,ME61 & XA5D93
+18,胸部瘤,S1,R222,P972,=,http://id.who.int/icd/entity/839982538 & http://id.who.int/icd/entity/650081113,=,ME61 & XA5D93
+18,殿部腫脹,L,R222,Q50F,=,http://id.who.int/icd/entity/615793612 & http://id.who.int/icd/entity/1894266247,=,ME61 & XA3VA7
+18,腋窩腫瘤,L,R222,QBJE,=,http://id.who.int/icd/entity/1465569376 & http://id.who.int/icd/entity/1494375321,=,ME61& XA17J1
+18,腋窩部腫瘤,S1,R222,QBJE,=,http://id.who.int/icd/entity/1465569376 & http://id.who.int/icd/entity/1494375321,=,ME61& XA17J1
+18,腋窩腫脹,L,R222,SAL5,=,http://id.who.int/icd/entity/1465569376 & http://id.who.int/icd/entity/1494375321,=,ME61& XA17J1
+18,前胸部腫瘤,L,R222,U6RE,=,http://id.who.int/icd/entity/839982538 & http://id.who.int/icd/entity/108895453,=,ME61 & XA00R3
+18,背部皮下腫瘤,L,R222,VN87,=,http://id.who.int/icd/entity/839982538 & http://id.who.int/icd/entity/1187030,=,ME61 & XA2P90
+18,腹壁皮下腫瘤,L,R222,VRU9,=,http://id.who.int/icd/entity/839982538 & http://id.who.int/icd/entity/119571850,=,ME61& XA3KX0
+18,手指腫脹,L,R223,C9RF,=,http://id.who.int/icd/entity/1465569376 & http://id.who.int/icd/entity/822750113,=,ME61& XA2593
+18,手背腫脹,L,R223,CH3B,=,http://id.who.int/icd/entity/1465569376 & http://id.who.int/icd/entity/2088002216,=,ME61& XA30Z6
+18,手背腫瘤,L,R223,D45A,=,http://id.who.int/icd/entity/1465569376 & http://id.who.int/icd/entity/2088002216,=,ME61& XA30Z6
+18,上腕腫瘤,L,R223,MCK5,=,http://id.who.int/icd/entity/1465569376 & http://id.who.int/icd/entity/312192089,=,ME61 & XA6809
+18,上腕部腫瘤,S1,R223,MCK5,=,http://id.who.int/icd/entity/1465569376 & http://id.who.int/icd/entity/312192089,=,ME61 & XA6809
+18,母指腫瘤,L,R223,MEF0,=,http://id.who.int/icd/entity/1465569376 & http://id.who.int/icd/entity/452671086,=,ME61& XA8DJ6
+18,第1指腫瘤,S1,R223,MEF0,=,http://id.who.int/icd/entity/1465569376 & http://id.who.int/icd/entity/452671086,=,ME61& XA8DJ6
+18,上肢腫脹,L,R223,MFA9,=,http://id.who.int/icd/entity/1465569376,=,ME61& XA4BA8
+18,前腕部腫瘤,L,R223,Q8G5,=,http://id.who.int/icd/entity/1465569376 & http://id.who.int/icd/entity/1477228030,=,ME61& XA7WB0
+18,手掌腫瘤,L,R223,QC7Q,=,http://id.who.int/icd/entity/1465569376 & http://id.who.int/icd/entity/243611688,=,ME61 & XA3NY8
+18,上肢瘤,L,R223,QHRP,=,http://id.who.int/icd/entity/1465569376,=,ME61 & XA4BA8
+18,手掌腫脹,L,R223,RDNC,=,http://id.who.int/icd/entity/1465569376 & http://id.who.int/icd/entity/243611688,=,ME61& XA3NY8
+18,上腕部腫脹,L,R223,T6PQ,=,http://id.who.int/icd/entity/1465569376 & http://id.who.int/icd/entity/312192089,=,ME61& XA6809
+18,手掌部皮下腫瘤,L,R223,U2KL,=,http://id.who.int/icd/entity/1465569376 & http://id.who.int/icd/entity/243611688,=,ME61& XA3NY8
+18,前腕腫脹,L,R223,U5SC,=,http://id.who.int/icd/entity/1465569376 & http://id.who.int/icd/entity/1477228030,=,ME61& XA7WB0
+18,前腕部腫脹,S1,R223,U5SC,=,http://id.who.int/icd/entity/1465569376 & http://id.who.int/icd/entity/1477228030,=,ME61& XA7WB0
+18,手指腫瘤,L,R223,U81L,=,http://id.who.int/icd/entity/1465569376 & http://id.who.int/icd/entity/822750113,=,ME61& XA2593
+18,足母趾腫瘤,L,R224,ADBD,=,http://id.who.int/icd/entity/615793612 & http://id.who.int/icd/entity/1003902257,=,ME61& XA2RP7
+18,母趾腫瘤,S1,R224,ADBD,=,http://id.who.int/icd/entity/615793612 & http://id.who.int/icd/entity/1003902257,=,ME61& XA2RP7
+18,第1足指腫瘤,S1,R224,ADBD,=,http://id.who.int/icd/entity/615793612 & http://id.who.int/icd/entity/1003902257,=,ME61& XA2RP7
+18,第1趾腫瘤,S1,R224,ADBD,=,http://id.who.int/icd/entity/615793612 & http://id.who.int/icd/entity/1003902257,=,ME61& XA2RP7
+18,足背部腫瘤,L,R224,C1PS,=,http://id.who.int/icd/entity/615793612 & http://id.who.int/icd/entity/2084017562,=,ME61& XA8BE2
+18,足底部腫脹,L,R224,DBK6,=,http://id.who.int/icd/entity/615793612 & http://id.who.int/icd/entity/1797255514,=,ME61& XA1XM4
+18,足関節部軟部腫瘤,L,R224,DL7B,=,http://id.who.int/icd/entity/615793612 & http://id.who.int/icd/entity/1106248434,=,ME61 & XA67V4
+18,下肢腫脹,L,R224,E2NS,=,http://id.who.int/icd/entity/615793612,=,ME61& XA45A6
+18,足底部腫瘤,L,R224,HJRQ,=,http://id.who.int/icd/entity/615793612 & http://id.who.int/icd/entity/1797255514,=,ME61 & XA1XM4
+18,足部腫脹,L,R224,LJUA,=,http://id.who.int/icd/entity/615793612 & http://id.who.int/icd/entity/1896004518,=,ME61& XA47V8
+18,下腿腫脹,L,R224,M4BD,=,http://id.who.int/icd/entity/615793612 &  http://id.who.int/icd/entity/106050921,=,ME61& XA3YG1
+18,下腿部腫脹,S1,R224,M4BD,=,http://id.who.int/icd/entity/615793612 &  http://id.who.int/icd/entity/106050921,=,ME61& XA3YG1
+18,大腿腫瘤,L,R224,NL9G,=,http://id.who.int/icd/entity/615793612 & http://id.who.int/icd/entity/238202718,=,ME61& XA5S78
+18,足背腫脹,L,R224,PM5D,=,http://id.who.int/icd/entity/615793612 & http://id.who.int/icd/entity/2084017562,=,ME61& XA8BE2
+18,足背部腫脹,S1,R224,PM5D,=,http://id.who.int/icd/entity/615793612 & http://id.who.int/icd/entity/2084017562,=,ME61& XA8BE2
+18,膝部皮下腫瘤,L,R224,PUQP,=,http://id.who.int/icd/entity/615793612 & http://id.who.int/icd/entity/1670056745,=,ME61& XA8KL5
+18,下腿皮下腫瘤,L,R224,R0D2,=,http://id.who.int/icd/entity/615793612 &  http://id.who.int/icd/entity/106050921,=,ME61& XA3YG1
+18,下腿腫瘤,L,R224,RJNE,=,http://id.who.int/icd/entity/615793612 &  http://id.who.int/icd/entity/106050921,=,ME61& XA3YG1
+18,膝部腫脹,L,R224,RQ4A,=,http://id.who.int/icd/entity/615793612 & http://id.who.int/icd/entity/1670056745,=,ME61& XA8KL5
+18,大腿部腫脹,L,R224,UKEG,=,http://id.who.int/icd/entity/615793612 & http://id.who.int/icd/entity/238202718,=,ME61& XA5S78
+18,多発性皮下腫瘤,L,R227,TGKS,=,http://id.who.int/icd/entity/1343820597,<,ME61
+18,限局性皮下腫脹,L,R229,EAP3,=,http://id.who.int/icd/entity/1531077719 ,=,ME61 
+18,化膿性腫瘤,L,R229,ERMR,<,http://id.who.int/icd/entity/1531077719,<,ME61
+18,皮膚限局腫脹,L,R229,GE4R,=,http://id.who.int/icd/entity/1531077719 ,=,ME61 
+18,腫瘤,L,R229,JCN8,=,http://id.who.int/icd/entity/1531077719,=,ME61
+18,皮膚腫瘤,L,R229,JMHV,=,http://id.who.int/icd/entity/1531077719 ,=,ME61
+18,限局性表在性腫脹,L,R229,M33R,=,http://id.who.int/icd/entity/1531077719 ,=,ME61 
+18,皮下結節,L,R229,R19V,=,http://id.who.int/icd/entity/1531077719,=,ME61
+18,皮膚結節,L,R229,UP8Q,=,http://id.who.int/icd/entity/1531077719,=,ME61
+18,有痛性皮下結節,L,R229,VAUJ,=,http://id.who.int/icd/entity/1531077719 / http://id.who.int/icd/entity/661232217,=,ME61 / MG3Z
+18,皮下腫瘤,L,R229,VQTP,=,http://id.who.int/icd/entity/1531077719,=,ME61
+18,チアノーゼ,L,R230,M4GL,=,http://id.who.int/icd/entity/1057966112,=,ME64.1
+18,サイアノーシス,S1,R230,M4GL,=,http://id.who.int/icd/entity/1057966112,=,ME64.1
+18,青色症,S1,R230,M4GL,=,http://id.who.int/icd/entity/1057966112,=,ME64.1
+18,チアノーゼ発作,L,R230,QVT0,=,http://id.who.int/icd/entity/1057966112,=,ME64.1
+18,蒼白,L,R231,HA7G,=,http://id.who.int/icd/entity/1514440118,=,ME64.2
+18,顔面蒼白,L,R231,LUML,=,http://id.who.int/icd/entity/1514440118 & http://id.who.int/icd/entity/968129184,=,ME64.2 & XA86S4
+18,ほてり,L,R232,BS47,=,http://id.who.int/icd/entity/787076427,=,ME64.4
+18,熱感,S1,R232,BS47,=,http://id.who.int/icd/entity/787076427,=,ME64.4
+18,あから顔,L,R232,C6EL,=,http://id.who.int/icd/entity/787076427 & http://id.who.int/icd/entity/968129184,=,ME64.4 & XA86S4
+18,紅潮,L,R232,LE84,=,http://id.who.int/icd/entity/787076427,=,ME64.4
+18,顔面紅潮,L,R232,S49D,=,http://id.who.int/icd/entity/787076427 & http://id.who.int/icd/entity/968129184,=,ME64.4 & XA86S4
+18,顔面発赤,S1,R232,S49D,=,http://id.who.int/icd/entity/787076427,=,ME64.4
+18,過度紅潮,S2,R232,S49D,=,http://id.who.int/icd/entity/787076427,=,ME64.4
+18,のぼせ,L,R232,UQHQ,=,http://id.who.int/icd/entity/787076427,=,ME64.4
+18,のぼせ症,S1,R232,UQHQ,=,http://id.who.int/icd/entity/787076427,=,ME64.4
+18,特発性斑状出血,L,R233,AMTJ,=,http://id.who.int/icd/entity/262492020 & http://id.who.int/icd/entity/894194405,=,ME64.3 & XB5F 
+18,自発性斑状出血,S1,R233,AMTJ,=,http://id.who.int/icd/entity/262492020,=,ME64.3
+18,ブラックヒール,L,R233,B292,=,http://id.who.int/icd/entity/231211206 ,<,EH92.Y
+18,踵部出血斑,S1,R233,B292,=,http://id.who.int/icd/entity/231211206 ,<,EH92.Y
+18,ブラック・ヒール,S1,R233,B292,=,http://id.who.int/icd/entity/231211206 ,<,EH92.Y
+18,腰部皮下出血,L,R233,CLFB,=,http://id.who.int/icd/entity/262492020 & http://id.who.int/icd/entity/929081680,=,ME64.3 & XA0D60
+18,下肢出血斑,L,R233,H6BE,=,http://id.who.int/icd/entity/262492020 & http://id.who.int/icd/entity/2093217246,=,ME64.3 & XA45A6 
+18,斑状出血,L,R233,K65D,=,http://id.who.int/icd/entity/1332805370,=,EF3Z 
+18,出血斑,S1,R233,K65D,=,http://id.who.int/icd/entity/1332805370,=,EF3Z 
+18,皮下出血斑,S1,R233,K65D,=,http://id.who.int/icd/entity/1332805370,=,EF3Z 
+18,広汎性皮下出血,L,R233,MGGK,=,http://id.who.int/icd/entity/262492020 & http://id.who.int/icd/entity/1265853763 ,=,ME64.3 & XK31
+18,皮下出血,L,R233,N4C8,=,http://id.who.int/icd/entity/262492020 ,=,ME64.3
+18,表皮内出血,S1,R233,N4C8,=,http://id.who.int/icd/entity/262492020 ,=,ME64.3
+18,皮膚出血,S1,R233,N4C8,=,http://id.who.int/icd/entity/262492020 ,=,ME64.3
+18,四肢出血斑,L,R233,N84R,=,http://id.who.int/icd/entity/262492020 & http://id.who.int/icd/entity/1810600222,=,ME64.3 & XA6AS2 
+18,点状出血,L,R233,NKQB,=,http://id.who.int/icd/entity/262492020 ,=,ME64.3
+18,大腿部皮下出血,L,R233,STDD,=,http://id.who.int/icd/entity/262492020 & http://id.who.int/icd/entity/238202718,=,ME64.3 & XA5S78 
+18,樹枝状皮斑,L,R234,AS5F,<,http://id.who.int/icd/entity/1237292304,<,EF50
+18,下肢硬結,L,R234,B7FU,=,http://id.who.int/icd/entity/444787370 & http://id.who.int/icd/entity/2093217246 ,<,ME66.1 & XA45A6 
+18,軟皮症,L,R234,C7T3,<,http://id.who.int/icd/entity/944540491,<,ME66.1
+18,錯角化症,L,R234,CACA,<,http://id.who.int/icd/entity/1831523271,<,ME60.3
+18,硬結,L,R234,J4MS,=,http://id.who.int/icd/entity/444787370,<,ME66.1
+18,肛囲硬結,L,R234,JVK9,=,http://id.who.int/icd/entity/444787370 & http://id.who.int/icd/entity/687060814,<,ME66. 1 & XA4B34 
+18,胸部硬結,L,R234,P6EA,=,http://id.who.int/icd/entity/444787370 & http://id.who.int/icd/entity/338111831,<,ME66.1 & XA8EK1 
+18,皮膚落屑,L,R234,Q819,=,http://id.who.int/icd/entity/1085812235,<,ME66.1
+18,鼡径部硬結,L,R234,QL4F,=,http://id.who.int/icd/entity/444787370 & http://id.who.int/icd/entity/1206407267,<,ME66.1 & XA0GN7
+18,鼠径部硬結,S1,R234,QL4F,=,http://id.who.int/icd/entity/444787370 & http://id.who.int/icd/entity/1206407267,<,ME66.1 & XA0GN7
+18,鱗屑,L,R234,R2ST,=,http://id.who.int/icd/entity/1085812235,<,ME66.1
+18,皮下硬結,L,R234,S2GC,=,http://id.who.int/icd/entity/444787370,<,ME66.1 
+18,皮膚硬結,L,R234,TL54,=,http://id.who.int/icd/entity/444787370,<,ME66.1 
+18,板状硬結,L,R234,VL0J,<,http://id.who.int/icd/entity/444787370,<,ME66.1
+18,丘疹,L,R238,EVF0,=,http://id.who.int/icd/entity/1338054937 ,<,ME67
+18,丘疹症,S1,R238,EVF0,=,http://id.who.int/icd/entity/1338054937 ,<,ME67
+18,ブレブ,L,R238,MD2U,<,http://id.who.int/icd/entity/1040820675,<,ME66.Y
+18,ブラ,L,R238,PUVE,=,http://id.who.int/icd/entity/834615738 ,<,ME67
+18,大理石様皮膚,L,R238,RDTB,=,http://id.who.int/icd/entity/1137009245,<,ME66.Y
+18,大理石紋様皮斑,S1,R238,RDTB,=,http://id.who.int/icd/entity/1137009245,<,ME66.Y
+18,大理石様皮斑,S1,R238,RDTB,=,http://id.who.int/icd/entity/1137009245,<,ME66.Y
+18,紅色丘疹,L,R238,U90T,<,http://id.who.int/icd/entity/1338054937 ,<,ME67
+18,さめはだ,L,R238,UP2S,<,http://id.who.int/icd/entity/565518224,<,ME66.1
+18,痂皮,L,R238,V8KF,=,http://id.who.int/icd/entity/944540491,<,ME66.1
+18,異常頭部運動,L,R250,D2S3,=,http://id.who.int/icd/entity/412021217,=,MB46.1
+18,半側振戦,L,R251,C2R5,=,http://id.who.int/icd/entity/2014328334 ,<,8A04.Y & XK70 
+18,手指振戦,L,R251,C82N,=,http://id.who.int/icd/entity/2110078069 & http://id.who.int/icd/entity/822750113 ,<,8A04.Y & XA2593
+18,頭部振戦,L,R251,FDQ5,=,http://id.who.int/icd/entity/2110078069 & http://id.who.int/icd/entity/1357976561 ,<,8A04.Y & XA20Q1
+18,静止時振戦,L,R251,NRNR,<, http://id.who.int/icd/entity/154193612 ,=,8A04.2
+18,ふるえ,L,R251,PEDU,=,http://id.who.int/icd/entity/2110078069 ,<,8A04.Y 
+18,細動性振戦,L,R251,QHKQ,<,http://id.who.int/icd/entity/2110078069 ,<,8A04.Y 
+18,持続性振戦,L,R251,QMVB,=,http://id.who.int/icd/entity/2110078069 & http://id.who.int/icd/entity/1313511357 ,<,8A04.Y & XT6Z
+18,振戦発作,L,R251,S0NH,=,http://id.who.int/icd/entity/2110078069 ,<,8A04.Y
+18,振戦,L,R251,SM4R,=,http://id.who.int/icd/entity/2110078069 ,<,8A04.Y
+18,振戦(症),S1,R251,SM4R,=,http://id.who.int/icd/entity/2110078069 ,<,8A04.Y
+18,振戦症,S1,R251,SM4R,=,http://id.who.int/icd/entity/2110078069 ,<,8A04.Y
+18,一側上肢振戦,L,R251,UUQD,=,http://id.who.int/icd/entity/2110078069 & http://id.who.int/icd/entity/986233688 & http://id.who.int/icd/entity/1038788978,<,8A04.Y & XA4BA8 & XK70 
+18,一側上肢振戦症,S1,R251,UUQD,=,http://id.who.int/icd/entity/2110078069 & http://id.who.int/icd/entity/986233688 & http://id.who.int/icd/entity/1038788978,<,8A04.Y & XA4BA8 & XK70 
+18,間欠性振戦,L,R251,V225,=,http://id.who.int/icd/entity/2110078069 & http://id.who.int/icd/entity/1281193286 ,<,8A04.Y  & XT5G
+18,間歇性振戦,S1,R251,V225,=,http://id.who.int/icd/entity/2110078069 & http://id.who.int/icd/entity/1281193286 ,<,8A04.Y  & XT5G
+18,四肢振戦,L,R251,VAN5,=,http://id.who.int/icd/entity/2110078069 & http://id.who.int/icd/entity/1810600222 ,<,8A04.Y & XA6AS2
+18,四肢筋痙攣,L,R252,C2J1,=,http://id.who.int/icd/entity/2144425357 & http://id.who.int/icd/entity/1810600222,<,MB47.3 & XA6AS2
+18,筋痙直,L,R252,DK57,=,http://id.who.int/icd/entity/1608141147 ,<,MB47.3
+18,四肢痙攣,L,R252,FL8T,=,http://id.who.int/icd/entity/157838476 & http://id.who.int/icd/entity/1810600222,=,MB47.3 & XA6AS2
+18,四肢痙攣発作,L,R252,G6RP,=,http://id.who.int/icd/entity/157838476 & http://id.who.int/icd/entity/1810600222,=,MB47.3 & XA6AS2
+18,間代強直性痙攣,L,R252,J45C,=,http://id.who.int/icd/entity/1091709256,=,8A68.4
+18,こむら返り,L,R252,JTUA,=,http://id.who.int/icd/entity/454698268 & http://id.who.int/icd/entity/175764786 ,<,MB47.3 & XA4K86
+18,牙関緊急,L,R252,KJ63,=,http://id.who.int/icd/entity/1793762788,=,1C13
+18,不随意痙攣性運動,L,R252,NCLA,=,http://id.who.int/icd/entity/682424259 ,=,MB46.Z
+18,筋痙縮,L,R252,NVR5,=,http://id.who.int/icd/entity/1608141147 ,<,MB47.3
+18,スパスムス,S1,R252,NVR5,=,http://id.who.int/icd/entity/1608141147 ,<,MB47.3
+18,痙縮,S1,R252,NVR5,=,http://id.who.int/icd/entity/1608141147 ,<,MB47.3
+18,下肢痙攣,L,R252,RPBA,=,http://id.who.int/icd/entity/157838476 & http://id.who.int/icd/entity/2093217246,=,MB47.3 & XA45A6
+18,有痛性筋痙攣,L,R252,RPLJ,=,http://id.who.int/icd/entity/454698268 ,<,MB47.3
+18,有痛性痙攣,S1,R252,RPLJ,=,http://id.who.int/icd/entity/454698268 ,<,MB47.3
+18,痙攣,L,R252,RQ7T,=,http://id.who.int/icd/entity/157838476 ,=,MB47.3 
+18,けいれん,S1,R252,RQ7T,=,http://id.who.int/icd/entity/157838476 ,=,MB47.3 
+18,痙攣症,S1,R252,RQ7T,=,http://id.who.int/icd/entity/157838476 ,=,MB47.3 
+18,痙攣(症),S1,R252,RQ7T,=,http://id.who.int/icd/entity/157838476 ,=,MB47.3 
+18,上肢痙縮,L,R252,T16F,=,http://id.who.int/icd/entity/1608141147 & http://id.who.int/icd/entity/986233688,<,MB47.3 & XA4BA8
+18,下肢痙縮,L,R252,T9FF,=,http://id.who.int/icd/entity/1608141147 & http://id.who.int/icd/entity/986233688,<,MB47.3 & XA45A6
+18,急性痙攣,L,R252,T9VQ,=,http://id.who.int/icd/entity/157838476  & http://id.who.int/icd/entity/786106375,=,MB47.3  & XT5R
+18,線維束性攣縮,L,R253,NVVN,=,http://id.who.int/icd/entity/1814274334　,=,MB47.5
+18,束収縮,S1,R253,NVVN,=,http://id.who.int/icd/entity/1814274334　,=,MB47.5
+18,一側性アテトーシス,L,R258,J4RJ,=,http://id.who.int/icd/entity/1593147896 ,<,MB46.2 
+18,異常不随意運動,L,R258,K5KB,=,http://id.who.int/icd/entity/682424259 ,=,MB46.Z
+18,オプソクローヌス,L,R258,PMKJ,=,http://id.who.int/icd/entity/583573463 ,<,9C85.02 
+18,眼球クローヌス,S1,R258,PMKJ,=,http://id.who.int/icd/entity/583573463 ,<,9C85.02 
+18,不随意運動症,L,R258,PS0N,=,http://id.who.int/icd/entity/682424259 ,=,MB46.Z
+18,不随意運動,S1,R258,PS0N,=,http://id.who.int/icd/entity/682424259 ,=,MB46.Z
+18,不随意運動(症),S1,R258,PS0N,=,http://id.who.int/icd/entity/682424259 ,=,MB46.Z
+18,反射性痙攣,L,R258,QGSQ,=,http://id.who.int/icd/entity/1126446478 ,<,MB46.Y
+18,アテトーシス,L,R258,SRUQ,=,http://id.who.int/icd/entity/1038838282 ,=,MB46.2
+18,アテトーゼ,S1,R258,SRUQ,=,http://id.who.int/icd/entity/1038838282 ,=,MB46.2
+18,よろめき歩行,L,R260,A0MP,≒,http://id.who.int/icd/entity/420041183,=,MB44.0
+18,小脳性歩行失調,L,R260,AE6G,=,http://id.who.int/icd/entity/420041183 / http://id.who.int/icd/entity/204947892 &  http://id.who.int/icd/entity/976604742,<,"MB44.0 / 8E7Y & XA1CW2
+"
+18,失調性歩行,L,R260,RSQ8,=,http://id.who.int/icd/entity/420041183,=,MB44.0
+18,歩行失調症,S1,R260,RSQ8,=,http://id.who.int/icd/entity/420041183,=,MB44.0
+18,歩行失調(症),S1,R260,RSQ8,=,http://id.who.int/icd/entity/420041183,=,MB44.0
+18,歩行失調,S1,R260,RSQ8,=,http://id.who.int/icd/entity/420041183,=,MB44.0
+18,麻痺性歩行,L,R261,C8C4,=,http://id.who.int/icd/entity/2084740171,=,MB44.1
+18,痙性歩行,L,R261,M0E4,=,http://id.who.int/icd/entity/2084740171,=,MB44.1
+18,内転歩行,L,R262,AUF2,<,http://id.who.int/icd/entity/149933236,<,MB44.2 
+18,うちわ歩行,L,R262,DK9M,<,http://id.who.int/icd/entity/149933236,<,MB44.2 
+18,内旋歩行,S1,R262,DK9M,<,http://id.who.int/icd/entity/149933236,<,MB44.2 
+18,小刻み歩行,L,R262,DRC0,<,http://id.who.int/icd/entity/967166961 ,<,MB44.Z
+18,そとわ歩行,L,R262,GNM1,<,http://id.who.int/icd/entity/149933236,<,MB44.2 
+18,外旋歩行,S1,R262,GNM1,<,http://id.who.int/icd/entity/149933236,<,MB44.2 
+18,歩行困難,L,R262,PJJ3,=,http://id.who.int/icd/entity/149933236,=,MB44.2
+18,歩行障害,L,R262,R1F4,=,http://id.who.int/icd/entity/1227110345 ,<,MB44.Z
+18,足歩行障害,S1,R262,R1F4,=,http://id.who.int/icd/entity/1227110345 ,<,MB44.Z
+18,内反歩行,L,R262,RCC2,<,http://id.who.int/icd/entity/149933236,<,MB44.2 
+18,跛行,L,R262,UJBF,<,http://id.who.int/icd/entity/149933236,<,MB44.2 
+18,歩容異常,L,R268,CGFH,=,http://id.who.int/icd/entity/967166961,<,MB44.Z
+18,運動器不安定症,L,R268,FMNE,=,http://id.who.int/icd/entity/1543612222,=,MB44.Z
+18,足どり不安定,L,R268,HU7G,=,http://id.who.int/icd/entity/1136827051,<,MB44.Z 
+18,歩行異常,L,R268,JV2N,=,http://id.who.int/icd/entity/967166961,<,MB44.Z
+18,遅発性ジスキネジア,L,R270,CP37,=,http://id.who.int/icd/entity/44142106,<,8A02.10 
+18,急性運動失調,L,R270,JTMG,=,http://id.who.int/icd/entity/99719518 & http://id.who.int/icd/entity/786106375,=,MB45.0 & XT5R
+18,急性運動失調症,S1,R270,JTMG,=,http://id.who.int/icd/entity/99719518 & http://id.who.int/icd/entity/786106375,=,MB45.0 & XT5R
+18,運動失調,L,R270,VNHQ,=,http://id.who.int/icd/entity/99719518,=,MB45.0
+18,運動失調(症),S1,R270,VNHQ,=,http://id.who.int/icd/entity/99719518,=,MB45.0
+18,アタキシー,S1,R270,VNHQ,=,http://id.who.int/icd/entity/99719518,=,MB45.0
+18,運動失調症,S1,R270,VNHQ,=,http://id.who.int/icd/entity/99719518,=,MB45.0
+18,羽ばたき振戦,L,R278,AA3F,=,http://id.who.int/icd/entity/343686120 ,=,MB46.0 
+18,運動調節障害,L,R278,CV92,=,http://id.who.int/icd/entity/961178280 ,=,MB45.Z
+18,協調運動障害,L,R278,TQEN,=,http://id.who.int/icd/entity/961178280 ,=,MB45.Z
+18,共調運動障害,S1,R278,TQEN,=,http://id.who.int/icd/entity/961178280 ,=,MB45.Z
+18,中枢性共調障害,S2,R278,TQEN,=,http://id.who.int/icd/entity/961178280 ,=,MB45.Z
+18,首下がり症候群,L,R278,UP6J,=,"http://id.who.int/icd/entity/325289630 
+",=,MB45.3
+18,仮性テタニー,L,R290,EUCC,<,http://id.who.int/icd/entity/1468891747 ,<,MB47.D
+18,テタニー,L,R290,R3UP,=,http://id.who.int/icd/entity/1468891747 ,=,MB47.D
+18,髄膜症,L,R291,J64Q,=,http://id.who.int/icd/entity/851857399 ,=,MB47.6
+18,メニンギスムス,S1,R291,J64Q,=,http://id.who.int/icd/entity/851857399 ,=,MB47.6
+18,反射欠如,L,R292,AALR,=,http://id.who.int/icd/entity/2078632555 ,<,MB47.0 
+18,反射歇如,S1,R292,AALR,=,http://id.who.int/icd/entity/2078632555 ,<,MB47.0 
+18,反射亢進,L,R292,KJQT,=,http://id.who.int/icd/entity/514864448 ,<,MB47.0 
+18,反射減退,L,R292,LCFD,=,http://id.who.int/icd/entity/542512904 ,<,MB47.0 
+18,異常反射,L,R292,UL5A,=,http://id.who.int/icd/entity/1181425418 ,=,MB47.0
+18,姿勢異常,L,R293,LRBJ,=,http://id.who.int/icd/entity/589353628,=,MB47.1
+18,股関節部クリック,L,R294,AAFP,=,http://id.who.int/icd/entity/1355694344 ,=,ME80
+18,脳機能低下,L,R298,AULP,=, http://id.who.int/icd/entity/1117250696,<,MB47.Y 
+18,脳機能不全,S1,R298,AULP,<, http://id.who.int/icd/entity/1117250696,<,MB47.Y 
+18,四肢運動障害,L,R298,CS4Q,=,http://id.who.int/icd/entity/99719518 & http://id.who.int/icd/entity/1810600222,=,MB45.0 & XA6AS2
+18,除脳硬直,L,R298,ET84,=,http://id.who.int/icd/entity/32523750 ,<,MB20.1
+18,頚部硬直,L,R298,FDDU,=,http://id.who.int/icd/entity/2048332953 & http://id.who.int/icd/entity/956558826,=,MB47.3 & XA7AA6
+18,頸部硬直,S1,R298,FDDU,=,http://id.who.int/icd/entity/2048332953 & http://id.who.int/icd/entity/956558826,=,MB47.3 & XA7AA6
+18,四肢脱力,L,R298,FNK2,<,http://id.who.int/icd/entity/560509568 & http://id.who.int/icd/entity/1810600222,<,MB47.Y & XA6AS2
+18,上肢筋力低下,L,R298,GKSD,=,http://id.who.int/icd/entity/560509568 & http://id.who.int/icd/entity/986233688,=,MB47.Y  & XA4BA8
+18,特殊運動障害,L,R298,H074,<,http://id.who.int/icd/entity/99719518 ,<,MB45.0 
+18,四肢筋力低下,L,R298,HPJL,<,http://id.who.int/icd/entity/560509568 & http://id.who.int/icd/entity/1810600222,<,MB47.Y & XA6AS2
+18,筋力低下,L,R298,KR1E,<,http://id.who.int/icd/entity/560509568 ,<,MB47.Y 
+18,筋力減退,S1,R298,KR1E,<,http://id.who.int/icd/entity/560509568 ,<,MB47.Y 
+18,項部硬直,L,R298,L7PQ,=,http://id.who.int/icd/entity/2048332953 & http://id.who.int/icd/entity/391324778,<,MB47.3 & XA1M78
+18,除皮質硬直,L,R298,MQSJ,=,http://id.who.int/icd/entity/1690011760 ,<,MB20.1
+18,筋脱力,L,R298,NU8T,<,http://id.who.int/icd/entity/560509568 ,<,MB47.Y 
+18,下腿脱力,L,R298,QM0A,<,http://id.who.int/icd/entity/560509568  & http://id.who.int/icd/entity/106050921,<,MB47.Y & XA3YG1
+18,下肢脱力感,L,R298,SRF1,=,http://id.who.int/icd/entity/560509568 & http://id.who.int/icd/entity/2093217246,<,MB47.Y & XA45A6
+18,四肢脱力感,L,R298,T6MK,=,http://id.who.int/icd/entity/560509568 &  http://id.who.int/icd/entity/1810600222,=,MB47.Y & XA6AS2
+18,成長痛,L,R298,T847,=,http://id.who.int/icd/entity/1219078201 /  http://id.who.int/icd/entity/661232217,<,ME8Y  / MG3Z
+18,頚部痙直,L,R298,TE5M,=,http://id.who.int/icd/entity/1608141147 & http://id.who.int/icd/entity/956558826,=,MB47.3 & XA7AA6
+18,頸部痙直,S1,R298,TE5M,=,http://id.who.int/icd/entity/1608141147 & http://id.who.int/icd/entity/956558826,=,MB47.3 & XA7AA6
+18,脱力感,L,R298,UK64,<,http://id.who.int/icd/entity/560509568 ,<,MB47.Y 
+18,上肢脱力,L,R298,US34,=,http://id.who.int/icd/entity/560509568  & http://id.who.int/icd/entity/986233688,=,FB32.Y & XA4BA8
+18,有痛性排尿困難,L,R300,SMT2,=,http://id.who.int/icd/entity/781372207,=,MF50.7 
+18,尿テネスムス,L,R301,CF2D,=,http://id.who.int/icd/entity/1272514235,=,MF50.8
+18,膀胱テネスムス,S1,R301,CF2D,=,http://id.who.int/icd/entity/1272514235,=,MF50.8
+18,膀胱しぶり,S1,R301,CF2D,=,http://id.who.int/icd/entity/1272514235,=,MF50.8
+18,排尿痛,L,R309,STMC,=,http://id.who.int/icd/entity/492941605,<,MF50.Y 
+18,排尿に関連する疼痛,S2,R309,STMC,=,http://id.who.int/icd/entity/492941605,<,MF50.Y 
+18,アレルギー性血尿,L,R31,ATDK,<,http://id.who.int/icd/entity/2016050353 & http://id.who.int/icd/entity/971190258 ,<,MF50.4Z / 4A8Z
+18,器質性性器出血,L,R31,GQP2,=,http://id.who.int/icd/entity/2016050353,=,MF50.4Z
+18,性器出血,L,R31,GR5P,=,http://id.who.int/icd/entity/2016050353,=,MF50.4Z
+18,血尿,L,R31,K27P,=,http://id.who.int/icd/entity/2016050353,=,MF50.4Z
+18,大血尿,S1,R31,K27P,=,http://id.who.int/icd/entity/2016050353,=,MF50.4Z
+18,血尿(症),S1,R31,K27P,=,http://id.who.int/icd/entity/2016050353,=,MF50.4Z
+18,血尿症,S1,R31,K27P,=,http://id.who.int/icd/entity/2016050353,=,MF50.4Z
+18,無症候性血尿,L,R31,K9F9,=,http://id.who.int/icd/entity/2016050353 & http://id.who.int/icd/entity/1512990933,=,MF50.4Z & XT3B 
+18,肉眼的血尿,L,R31,PCV4,=,http://id.who.int/icd/entity/839024767 ,=,MF50.40 
+18,腎後性血尿,L,R31,R4BA,=,http://id.who.int/icd/entity/2016050353 / http://id.who.int/icd/entity/658360080,=,MF50.4Z  / GB4Z 
+18,機能性性器出血,L,R31,TE93,=,http://id.who.int/icd/entity/2016050353,=,MF50.4Z
+18,顕微鏡的血尿,L,R31,U1J2,=,http://id.who.int/icd/entity/978078836 ,=,MF50.41
+18,潜血尿,S1,R31,U1J2,=,http://id.who.int/icd/entity/978078836 ,=,MF50.41
+18,尿潜血,S1,R31,U1J2,=,http://id.who.int/icd/entity/978078836 ,=,MF50.41
+18,腎血尿,L,R31,VF2K,<,http://id.who.int/icd/entity/2016050353,<,MF50.4Z
+18,遺尿症,L,R32,CPUV,=,http://id.who.int/icd/entity/1157749237 ,=,6C00.Z 
+18,遺尿,S1,R32,CPUV,=,http://id.who.int/icd/entity/1157749237 ,=,6C00.Z 
+18,遺尿(症),S1,R32,CPUV,=,http://id.who.int/icd/entity/1157749237 ,=,6C00.Z 
+18,夜間遺尿,L,R32,D9ML,=,http://id.who.int/icd/entity/1048673005 ,=,6C00.0
+18,尿失禁症,L,R32,E9JK,=,http://id.who.int/icd/entity/766129123 ,=,MF50.2Z
+18,尿失禁(症),S1,R32,E9JK,=,http://id.who.int/icd/entity/766129123 ,=,MF50.2Z
+18,不随意性排尿,S1,R32,E9JK,=,http://id.who.int/icd/entity/766129123 ,=,MF50.2Z
+18,尿失禁,S1,R32,E9JK,=,http://id.who.int/icd/entity/766129123 ,=,MF50.2Z
+18,不随意排尿,S1,R32,E9JK,=,http://id.who.int/icd/entity/766129123 ,=,MF50.2Z
+18,失禁,S1,R32,E9JK,=,http://id.who.int/icd/entity/766129123 ,=,MF50.2Z
+18,小児夜尿症,L,R32,MJ4E,=,http://id.who.int/icd/entity/1048673005 & http://id.who.int/icd/entity/1088785230,=,6C00.0 & XT50
+18,尿うっ滞,L,R33,AVJU,=,http://id.who.int/icd/entity/1775034842,=,MF50.3
+18,尿閉,L,R33,BN6S,=,http://id.who.int/icd/entity/1775034842,=,MF50.3
+18,完全尿閉,L,R33,J1F5,=,http://id.who.int/icd/entity/1775034842,<,MF50.3
+18,膀胱タンポナーデ,L,R33,LUES,<,http://id.who.int/icd/entity/1775034842,<,MF50.3
+18,不完全尿閉,L,R33,MTGD,=,http://id.who.int/icd/entity/1775034842,<,MF50.3
+18,仮性無尿,L,R34,AL5M,<,http://id.who.int/icd/entity/248693056,<,MF51
+18,乏尿,L,R34,ARH1,=,http://id.who.int/icd/entity/723491972,<,MF51
+18,尿量減少,S1,R34,ARH1,=,http://id.who.int/icd/entity/723491972,<,MF51
+18,尿利減少,S2,R34,ARH1,=,http://id.who.int/icd/entity/723491972,<,MF51
+18,真性無尿,L,R34,GUFD,=,http://id.who.int/icd/entity/248693056,<,MF51
+18,小便不利,L,R34,HV81,=,http://id.who.int/icd/entity/438465102,=,MF51
+18,無尿,L,R34,LE2E,=,http://id.who.int/icd/entity/248693056,<,MF51
+18,無尿(症),S1,R34,LE2E,=,http://id.who.int/icd/entity/248693056,<,MF51
+18,無尿症,S1,R34,LE2E,=,http://id.who.int/icd/entity/248693056,<,MF51
+18,反射性無尿,L,R34,SKR0,<,http://id.who.int/icd/entity/248693056,<,MF51
+18,頻尿症,L,R35,D1MD,=,http://id.who.int/icd/entity/403610249,=,MF50.0
+18,頻尿(症),S1,R35,D1MD,=,http://id.who.int/icd/entity/403610249,=,MF50.0
+18,尿意頻数,S1,R35,D1MD,=,http://id.who.int/icd/entity/403610249,=,MF50.0
+18,頻尿,S1,R35,D1MD,=,http://id.who.int/icd/entity/403610249,=,MF50.0
+18,特発性多尿症,L,R35,F62J,=,http://id.who.int/icd/entity/2137636828 & http://id.who.int/icd/entity/894194405,=,MF55 & XB5F
+18,夜間頻尿症,L,R35,H8SD,=,http://id.who.int/icd/entity/1186744862,<,MF55
+18,多尿,L,R35,Q89U,=,http://id.who.int/icd/entity/2137636828,=,MF55
+18,夜間多尿,L,R35,S674,=,http://id.who.int/icd/entity/1186744862,<,MF55
+18,夜間多尿症,S1,R35,S674,=,http://id.who.int/icd/entity/1186744862,<,MF55
+18,夜間多尿(症),S1,R35,S674,=,http://id.who.int/icd/entity/1186744862,<,MF55
+18,尿道漏,L,R36,N4KF,=,http://id.who.int/icd/entity/197455653,=,MF58
+18,尿道性分泌物,L,R36,PJ3E,=,http://id.who.int/icd/entity/197455653,=,MF58
+18,陰茎分泌物,L,R36,QDKV,=,http://id.who.int/icd/entity/197455653,=,MF58
+18,尿溢出,L,R390,GQPR,=,http://id.who.int/icd/entity/1201119570,=,MF50.5
+18,尿線微弱,L,R391,MBFB,=,http://id.who.int/icd/entity/246655356,=,MF50.61
+18,排尿困難,L,R391,NRJD,=,http://id.who.int/icd/entity/781372207,=,MF50.7 
+18,遅延性排尿,L,R391,ULUH,=,http://id.who.int/icd/entity/1323766251 ,=,MF50.60
+18,排尿障害,L,R391,VBRR,=,http://id.who.int/icd/entity/781372207,=,MF50.7 
+18,尿線断裂,L,R391,VV5J,=,http://id.who.int/icd/entity/735659214 ,=,MF50.62
+18,腎前性尿毒症,L,R392,CD3M,=,http://id.who.int/icd/entity/1450261561,=,MF53
+18,腎外性尿毒症,L,R392,E0FC,=,http://id.who.int/icd/entity/1450261561,=,MF53
+18,排尿時灼熱感,L,R398,E3BN,=,http://id.who.int/icd/entity/781372207 ,=,MF50.7
+18,膀胱痛,L,R398,M089,=,http://id.who.int/icd/entity/615316952,=,MF52
+18,尿道痛,L,R398,QRAA,=,http://id.who.int/icd/entity/492941605,<,MF50.Y 
+18,残尿感,L,R398,V3J0,=,http://id.who.int/icd/entity/1085073291,=,MF50.64
+18,嗜眠,L,R400,B1VJ,≒,http://id.who.int/icd/entity/1109546957 ,=,MG22
+18,嗜眠状態,S1,R400,B1VJ,≒,http://id.who.int/icd/entity/1109546957 ,=,MG22
+18,傾眠症,L,R400,EC20,=,http://id.who.int/icd/entity/1590960826,=,MG42 
+18,傾眠(症),S1,R400,EC20,=,http://id.who.int/icd/entity/1590960826,=,MG42 
+18,傾眠状態,S1,R400,EC20,=,http://id.who.int/icd/entity/1590960826,=,MG42 
+18,傾眠(状態),S1,R400,EC20,=,http://id.who.int/icd/entity/1590960826,=,MG42 
+18,もうろう状態,L,R401,G2EC,=,http://id.who.int/icd/entity/1000337196 ,=,MB20.2
+18,昏迷,L,R401,GF0D,=,http://id.who.int/icd/entity/1000337196 ,=,MB20.0
+18,昏迷状態,S1,R401,GF0D,=,http://id.who.int/icd/entity/1000337196 ,=,MB20.0
+18,意識混濁,L,R401,LA79,=,http://id.who.int/icd/entity/1505501372 ,=,MB20.2
+18,意識混濁状態,S1,R401,LA79,=,http://id.who.int/icd/entity/1505501372 ,=,MB20.2
+18,半昏睡,L,R401,QKHN,=,http://id.who.int/icd/entity/1000337196 ,=,MB20.0 
+18,遷延性意識障害,L,R402,C8NG,=,http://id.who.int/icd/entity/1328725971,=,MB20.1
+18,昏睡,L,R402,CHE7,=,http://id.who.int/icd/entity/1328725971,=,MB20.1
+18,植物状態,L,R402,DG2M,=,http://id.who.int/icd/entity/1328725971,=,MB20.1
+18,代謝性昏睡,L,R402,ECBH,<,http://id.who.int/icd/entity/1328725971,<,MB20.1
+18,部分的意識喪失,L,R402,N0L3,=,http://id.who.int/icd/entity/1328725971 ,=,MB20.1 
+18,意識不明,L,R402,PERC,=,http://id.who.int/icd/entity/1328725971,=,MB20.1
+18,深昏睡,L,R402,PJ89,=,http://id.who.int/icd/entity/1328725971,=,MB20.1
+18,意識障害,L,R402,PKAU,=,http://id.who.int/icd/entity/81068077,=,8E2Z
+18,急性意識障害,L,R402,S9BR,=,http://id.who.int/icd/entity/1328725971 & http://id.who.int/icd/entity/786106375,=,MB20.1 & XT5R
+18,一過性意識障害,L,R402,T6FA,=,http://id.who.int/icd/entity/1328725971,=,MB20.1
+18,意識消失,L,R402,VTDD,=,http://id.who.int/icd/entity/1328725971,=,MB20.1
+18,意識不明状態,S1,R402,VTDD,=,http://id.who.int/icd/entity/1328725971,=,MB20.1
+18,意識喪失,S1,R402,VTDD,=,http://id.who.int/icd/entity/1328725971,=,MB20.1
+18,錯乱状態,L,R410,BHSR,=,http://id.who.int/icd/entity/1110239801,=,MB21.4
+18,精神錯乱状態,S1,R410,BHSR,=,http://id.who.int/icd/entity/1110239801,=,MB21.4
+18,錯乱,S1,R410,BHSR,=,http://id.who.int/icd/entity/1110239801,=,MB21.4
+18,見当識障害,L,R410,DH2N,=,http://id.who.int/icd/entity/1110239801,=,MB21.4 
+18,失見当識,S1,R410,DH2N,=,http://id.who.int/icd/entity/1110239801,=,MB21.4 
+18,指南力障害,S1,R410,DH2N,=,http://id.who.int/icd/entity/1110239801,=,MB21.4 
+18,見当識喪失,S1,R410,DH2N,=,http://id.who.int/icd/entity/1110239801,=,MB21.4 
+18,錯乱発作,L,R410,EGRM,<,http://id.who.int/icd/entity/1110239801,<,MB21.4
+18,前向性健忘,L,R411,K13H,=,http://id.who.int/icd/entity/661071789,=,MB21.10
+18,逆向性健忘,L,R412,VN31,=,http://id.who.int/icd/entity/1405777748,=,MB21.11
+18,記憶障害,L,R413,BR4V,=,http://id.who.int/icd/entity/67207871,=,MB21.1Z
+18,外傷性健忘,L,R413,DB6D,=,http://id.who.int/icd/entity/67207871 & http://id.who.int/icd/entity/1036139204,=,MB21.1Z & XB2G
+18,外傷後健忘症,S1,R413,DB6D,=,http://id.who.int/icd/entity/67207871 & http://id.who.int/icd/entity/1036139204,=,MB21.1Z & XB2G
+18,外傷後健忘(症),S1,R413,DB6D,=,http://id.who.int/icd/entity/67207871 & http://id.who.int/icd/entity/1036139204,=,MB21.1Z & XB2G
+18,外傷後健忘,S1,R413,DB6D,=,http://id.who.int/icd/entity/67207871 & http://id.who.int/icd/entity/1036139204,=,MB21.1Z & XB2G
+18,記銘力低下,L,R413,JE03,=,http://id.who.int/icd/entity/67207871,=,MB21.1Z
+18,記銘減弱,S1,R413,JE03,=,http://id.who.int/icd/entity/67207871,=,MB21.1Z
+18,記銘力障害,S1,R413,JE03,=,http://id.who.int/icd/entity/67207871,=,MB21.1Z
+18,記憶錯誤,L,R413,JRC7,=,http://id.who.int/icd/entity/37120445,<,MB21.1Y 
+18,記憶減退,L,R413,L7H1,=,http://id.who.int/icd/entity/67207871,=,MB21.1Z
+18,動脈硬化性記憶障害,L,R413,S2GD,=,http://id.who.int/icd/entity/67207871 / http://id.who.int/icd/entity/109367356,=,MB21.1Z / BD40.Z
+18,記憶喪失,L,R413,TQES,=,http://id.who.int/icd/entity/67207871,=,MB21.1Z
+18,健忘症,L,R413,VS03,=,http://id.who.int/icd/entity/67207871,=,MB21.1Z 
+18,健忘,S1,R413,VS03,=,http://id.who.int/icd/entity/67207871,=,MB21.1Z 
+18,健忘(症),S1,R413,VS03,=,http://id.who.int/icd/entity/67207871,=,MB21.1Z 
+18,病態失認,L,R418,CCL1,=,http://id.who.int/icd/entity/833222383,=,MB21.2
+18,めまい,L,R42,BP8M,=,http://id.who.int/icd/entity/1574003304,=,MB48.Z
+18,めまい(症),S1,R42,BP8M,=,http://id.who.int/icd/entity/1574003304,=,MB48.Z
+18,眩暈(症),S1,R42,BP8M,=,http://id.who.int/icd/entity/1574003304,=,MB48.Z
+18,眩暈,S1,R42,BP8M,=,http://id.who.int/icd/entity/1574003304,=,MB48.Z
+18,めまい症,L,R42,E6FP,=,http://id.who.int/icd/entity/1574003304,=,MB48.Z
+18,眩暈症,S1,R42,E6FP,=,http://id.who.int/icd/entity/1574003304,=,MB48.Z
+18,よろめき感,L,R42,EBAA,=,http://id.who.int/icd/entity/1574003304,=,MB48.Z
+18,めまい発作,L,R42,EH9S,=,http://id.who.int/icd/entity/1574003304,=,MB48.Z
+18,めまい感,L,R42,GUPD,=,http://id.who.int/icd/entity/1574003304,=,MB48.Z
+18,頚性めまい,L,R42,K6Q5,=,http://id.who.int/icd/entity/1574003304,=,MB48.Z
+18,頸性めまい,S1,R42,K6Q5,=,http://id.who.int/icd/entity/1574003304,=,MB48.Z
+18,平衡障害,L,R42,L5NU,=,http://id.who.int/icd/entity/1817247302,=,MB48.1
+18,平衡機能障害,S1,R42,L5NU,=,http://id.who.int/icd/entity/1817247302,=,MB48.1
+18,平衡感覚障害,S1,R42,L5NU,=,http://id.who.int/icd/entity/1817247302,=,MB48.1
+18,平衡機能失調,S1,R42,L5NU,=,http://id.who.int/icd/entity/1817247302,=,MB48.1
+18,突発性めまい,L,R42,QV0P,<,http://id.who.int/icd/entity/1574003304,<,MB48.Z
+18,突発性眩暈,S1,R42,QV0P,<,http://id.who.int/icd/entity/1574003304,<,MB48.Z
+18,夜間めまい,L,R42,TG70,<,http://id.who.int/icd/entity/1574003304,<,MB48.Z
+18,嗅覚脱失,L,R430,EJMK,=,http://id.who.int/icd/entity/1599308422,=,MB41.0
+18,嗅覚脱失症,S1,R430,EJMK,=,http://id.who.int/icd/entity/1599308422,=,MB41.0
+18,嗅覚脱失(症),S1,R430,EJMK,=,http://id.who.int/icd/entity/1599308422,=,MB41.0
+18,嗅覚消失,S1,R430,EJMK,=,http://id.who.int/icd/entity/1599308422,=,MB41.0
+18,末梢神経性嗅覚障害,L,R430,FV8R,=,http://id.who.int/icd/entity/1944522457 / http://id.who.int/icd/entity/58868923,=,MB41.0 / 8C0Z
+18,末梢性嗅覚障害,S1,R430,FV8R,=,http://id.who.int/icd/entity/1944522457 / http://id.who.int/icd/entity/58868923,=,MB41.0 / 8C0Z
+18,混合性嗅覚障害,L,R430,STTS,=,http://id.who.int/icd/entity/367468500,=,MB41.Z
+18,呼吸性嗅覚障害,L,R430,TV5R,=,http://id.who.int/icd/entity/367468500,=,MB41.Z
+18,無嗅覚症,L,R430,V8GA,=,http://id.who.int/icd/entity/1599308422,=,MB41.0
+18,無嗅覚,S1,R430,V8GA,=,http://id.who.int/icd/entity/1599308422,=,MB41.0
+18,無嗅症,S1,R430,V8GA,=,http://id.who.int/icd/entity/1599308422,=,MB41.0
+18,嗅粘膜性嗅覚障害,L,R430,VRJB,<,http://id.who.int/icd/entity/367468500,<,MB41.Z
+18,嗅上皮性嗅覚障害,S1,R430,VRJB,<,http://id.who.int/icd/entity/367468500,<,MB41.Z
+18,嗅覚過敏,L,R431,AVMS,=,http://id.who.int/icd/entity/974671636,=,MB41.1
+18,嗅覚過敏症,S1,R431,AVMS,=,http://id.who.int/icd/entity/974671636,=,MB41.1
+18,錯嗅,L,R431,B26H,=,http://id.who.int/icd/entity/974671636,=,MB41.1
+18,嗅覚錯誤症,S1,R431,B26H,=,http://id.who.int/icd/entity/974671636,=,MB41.1
+18,中枢性嗅覚障害,L,R431,BU61,=,http://id.who.int/icd/entity/974671636,=,MB41.1 
+18,嗅覚異常,L,R431,D9GP,=,http://id.who.int/icd/entity/974671636,=,MB41.1
+18,嗅覚減弱,L,R431,J3JR,=,http://id.who.int/icd/entity/1944522457,=,MB41.3
+18,嗅覚減退症,S1,R431,J3JR,=,http://id.who.int/icd/entity/1944522457,=,MB41.3
+18,嗅盲,L,R431,J74K,=,http://id.who.int/icd/entity/974671636,=,MB41.1
+18,突発性嗅覚障害,L,R431,JQF1,<,http://id.who.int/icd/entity/974671636,<,MB41.1
+18,嗅覚障害,L,R431,KBED,=,http://id.who.int/icd/entity/974671636,=,MB41.1
+18,錯味,L,R432,ADRN,=,http://id.who.int/icd/entity/1320493037,=,MB41.2
+18,味覚錯誤,S1,R432,ADRN,=,http://id.who.int/icd/entity/1320493037,=,MB41.2
+18,味覚減退症,L,R432,CRNF,=,http://id.who.int/icd/entity/1320493037,=,MB41.2
+18,味覚鈍麻,S1,R432,CRNF,=,http://id.who.int/icd/entity/1320493037,=,MB41.2
+18,味覚障害,L,R432,HKRS,=,http://id.who.int/icd/entity/1320493037,=,MB41.2 
+18,味覚消失,L,R432,LTBN,=,http://id.who.int/icd/entity/1320493037,=,MB41.2
+18,味盲,S1,R432,LTBN,=,http://id.who.int/icd/entity/1320493037,=,MB41.2
+18,味覚異常,L,R432,SM1V,=,http://id.who.int/icd/entity/1320493037,=,MB41.2
+18,嗅覚味覚障害,L,R438,DG2K,=,http://id.who.int/icd/entity/367468500,=,MB41.Z
+18,味覚嗅覚障害,S1,R438,DG2K,=,http://id.who.int/icd/entity/367468500,=,MB41.Z
+18,幻聴,L,R440,ELEU,=,http://id.who.int/icd/entity/1680536520,=,MB27.20 
+18,幻視,L,R441,UE11,=,http://id.who.int/icd/entity/23150162,=,MB27.27
+18,幻覚,L,R443,EJ07,=,http://id.who.int/icd/entity/665363966,=,MB27.2Z
+18,耳閉感,L,R448,E77M,=,http://id.who.int/icd/entity/742767859 ,=,MC40
+18,外耳道異物感,L,R448,HU82,<,http://id.who.int/icd/entity/1711901760 & http://id.who.int/icd/entity/1296498321,<,MB27.Z & XA3UC1
+18,鼻閉感,L,R448,JB0D,<,http://id.who.int/icd/entity/1711901760 & http://id.who.int/icd/entity/1082634473,<,MB27.Z & XA3H13
+18,鼻閉塞感,S1,R448,JB0D,<,http://id.who.int/icd/entity/1711901760 & http://id.who.int/icd/entity/1082634473,<,MB27.Z & XA3H13
+18,頚部異物感,L,R448,KM6E,<,http://id.who.int/icd/entity/1711901760 & http://id.who.int/icd/entity/956558826 ,<,MB27.Z & XA7AA6
+18,頸部異物感,S1,R448,KM6E,<,http://id.who.int/icd/entity/1711901760 & http://id.who.int/icd/entity/956558826 ,<,MB27.Z & XA7AA6
+18,咽頭灼熱感,L,R448,M7RK,<,http://id.who.int/icd/entity/1711901760 & http://id.who.int/icd/entity/899820155,<,MB27.Z & XA93V5
+18,鼻閉,L,R448,U0GH,=,http://id.who.int/icd/entity/1251924794,=,MD11.9
+18,鼻づまり,S1,R448,U0GH,=,http://id.who.int/icd/entity/1251924794,=,MD11.9
+18,鼻閉症,S1,R448,U0GH,=,http://id.who.int/icd/entity/1251924794,=,MD11.9
+18,知覚麻痺,L,R448,V1L0,=,http://id.who.int/icd/entity/1711901760,=,MB27.Z
+18,咽頭絞扼感,L,R448,VM3J,<,http://id.who.int/icd/entity/1711901760 & http://id.who.int/icd/entity/899820155,<,MB27.Z & XA93V5
+18,神経過敏,L,R450,BJ8N,=,http://id.who.int/icd/entity/2027043655,=,MB24.3
+18,神経性緊張,L,R450,T11E,=,http://id.who.int/icd/entity/2027043655,=,MB24.3
+18,神経質,L,R450,T6UL,=,http://id.who.int/icd/entity/2027043655,=,MB24.3
+18,不穏状態,L,R451,M1ED,=,http://id.who.int/icd/entity/496629459,=,MB24.F
+18,情緒不安定状態,L,R451,M766,=,http://id.who.int/icd/entity/496629459,=,MB24.F
+18,情緒不安,S1,R451,M766,=,http://id.who.int/icd/entity/496629459,=,MB24.F
+18,興奮状態,L,R451,Q1H9,=,http://id.who.int/icd/entity/496629459,=,MB24.F
+18,興奮,S1,R451,Q1H9,=,http://id.who.int/icd/entity/496629459,=,MB24.F
+18,激越,L,R451,T4DV,=,http://id.who.int/icd/entity/496629459,=,MB24.F 
+18,心配,L,R452,NKA1,=,http://id.who.int/icd/entity/2143265241,=,MB24.H 
+18,落ち込み,L,R452,S8BB,=,http://id.who.int/icd/entity/1093742821,=,MB24.5
+18,感情鈍麻,L,R453,BUEK,=,http://id.who.int/icd/entity/1243987221 ,=,MB24.61 
+18,アパシー,S1,R453,BUEK,=,http://id.who.int/icd/entity/209677240,=,MB24.4 
+18,易怒性,L,R454,DR9D,=,http://id.who.int/icd/entity/2140272684 ,=,MB24.C
+18,怒り,S1,R454,DR9D,=,http://id.who.int/icd/entity/1552396120,=,MB24.1
+18,過敏症,L,R454,FRAM,=,http://id.who.int/icd/entity/2140272684 ,=,MB24.C
+18,易刺激性,L,R454,L71J,=,http://id.who.int/icd/entity/2140272684 ,=,MB24.C
+18,気うつ,L,R454,NFAK,=,http://id.who.int/icd/entity/1093742821,=,MB24.5
+18,気鬱,S1,R454,NFAK,=,http://id.who.int/icd/entity/1093742821,=,MB24.5
+18,気欝,S1,R454,NFAK,=,http://id.who.int/icd/entity/1093742821,=,MB24.5
+18,敵意,L,R455,VBLD,=,http://id.who.int/icd/entity/450508218,=,MB28.4 
+18,暴力行為,L,R456,H5BN,=,http://id.who.int/icd/entity/1853318471,<,MB23.0
+18,情緒性ショック,L,R457,VBKE,<,http://id.who.int/icd/entity/54673878,<,MB24.Y 
+18,衝動,L,R458,GBT6,=,http://id.who.int/icd/entity/932178015,=,MB28.5
+18,自殺傾向,L,R458,JV1H,=,http://id.who.int/icd/entity/778734771,=,MB26.A
+18,情緒障害,L,R458,LEA9,=,http://id.who.int/icd/entity/54673878,=,MB24.Z
+18,精神運動興奮状態,L,R458,NDJU,=,http://id.who.int/icd/entity/1014897080,=,MB23.M
+18,個人衛生の著しいレベル低下,L,R460,N5J4,=,http://id.who.int/icd/entity/2035653497,=,MB23.J
+18,奇異な外観,L,R461,R713,=,http://id.who.int/icd/entity/471750381,=,MB23.F
+18,異常行動,L,R462,NUNC,=,http://id.who.int/icd/entity/1756562962,=,MB23.6
+18,活動過剰,L,R463,QVFU,=,http://id.who.int/icd/entity/234408840,=,MB22.5
+18,反応性低下,L,R464,A2DG,=,http://id.who.int/icd/entity/2115393556,=,MB23.N
+18,行動緩慢,L,R464,A4U7,=,http://id.who.int/icd/entity/2115393556,=,MB23.N
+18,活動低下状態,L,R464,KU38,=,http://id.who.int/icd/entity/2115393556,=,MB23.N
+18,不登校,L,R468,C901,<,http://id.who.int/icd/entity/1597934337,<,MB2Y 
+18,登校拒否(症),S1,R468,C901,<,http://id.who.int/icd/entity/1597934337,<,MB2Y 
+18,登校拒否症,S1,R468,C901,<,http://id.who.int/icd/entity/1597934337,<,MB2Y 
+18,不機嫌,L,R468,FQKF,=,http://id.who.int/icd/entity/2140272684,=,MB24.C 
+18,健忘性失語症,L,R470,B6N3,=,http://id.who.int/icd/entity/990710491,<,MA80.0
+18,健忘失語,S1,R470,B6N3,=,http://id.who.int/icd/entity/990710491,<,MA80.0
+18,表現的失語症,L,R470,C2M4,=,http://id.who.int/icd/entity/751108224,<,MA80.0
+18,非流暢性失語,L,R470,D8DD,=,http://id.who.int/icd/entity/751108224,<,MA80.0
+18,皮質下感覚性失語症,L,R470,D9ES,<,http://id.who.int/icd/entity/1167055901,<,MA80.0
+18,皮質感覚性失語症,S1,R470,D9ES,=,http://id.who.int/icd/entity/1410943204,<,MA80.0
+18,皮質下運動性失語症,L,R470,EKF9,<,http://id.who.int/icd/entity/751108224,<,MA80.0
+18,BROCA失語症,S1,R470,EKF9,=,http://id.who.int/icd/entity/1410943204,<,MA80.0
+18,ブローカ失語症,S1,R470,EKF9,=,http://id.who.int/icd/entity/1410943204,<,MA80.0
+18,不全失語症,L,R470,FB9F,=,http://id.who.int/icd/entity/1705858040,=,MA80.1 
+18,単語失語症,L,R470,FLF8,=,http://id.who.int/icd/entity/990710491,<,MA80.0
+18,無動性無言症,L,R470,FNA6,=,http://id.who.int/icd/entity/1282135070,<,MB21.Y
+18,無動性無言,S1,R470,FNA6,=,http://id.who.int/icd/entity/1282135070,<,MB21.Y
+18,無動性無言(症),S1,R470,FNA6,=,http://id.who.int/icd/entity/1282135070,<,MB21.Y
+18,皮質運動性失語症,L,R470,FRNV,=,http://id.who.int/icd/entity/1410943204,<,MA80.0
+18,無言症,L,R470,GMTR,=,http://id.who.int/icd/entity/1275861519,=,MB23.D
+18,運動性失語症,L,R470,H1J5,=,http://id.who.int/icd/entity/751108224,<,MA80.1 
+18,運動性失語(症),S1,R470,H1J5,=,http://id.who.int/icd/entity/751108224,<,MA80.1 
+18,運動性失語,S1,R470,H1J5,=,http://id.who.int/icd/entity/751108224,<,MA80.1 
+18,超皮質健忘性失語症,L,R470,K6HM,<,http://id.who.int/icd/entity/990710491 & http://id.who.int/icd/entity/1201187093,<,MA80.0
+18,失名詞症,L,R470,L59J,=,http://id.who.int/icd/entity/2077101698,<,MB4B.4 
+18,名詞失語症,S1,R470,L59J,=,http://id.who.int/icd/entity/2077101698,<,MB4B.4 
+18,伝導性失語症,L,R470,LA66,=,http://id.who.int/icd/entity/1819410551,<,MA80.0
+18,伝導性失語(症),S1,R470,LA66,=,http://id.who.int/icd/entity/1819410551,<,MA80.0
+18,伝導性失語,S1,R470,LA66,=,http://id.who.int/icd/entity/1819410551,<,MA80.0
+18,全失語症,L,R470,MMSR,=,http://id.who.int/icd/entity/734499693,<,MA80.0
+18,全失語,S1,R470,MMSR,=,http://id.who.int/icd/entity/734499693,<,MA80.0
+18,全失語(症),S1,R470,MMSR,=,http://id.who.int/icd/entity/734499693,<,MA80.0
+18,失語症,L,R470,MVTU,=,http://id.who.int/icd/entity/1167055901,=,MA80.0
+18,失語,S1,R470,MVTU,=,http://id.who.int/icd/entity/1167055901,=,MA80.0
+18,失語(症),S1,R470,MVTU,=,http://id.who.int/icd/entity/1167055901,=,MA80.0
+18,流暢性失語,L,R470,SEME,<,http://id.who.int/icd/entity/1167055901,<,MA80.0
+18,文意失語症,L,R470,SPD1,<,http://id.who.int/icd/entity/1167055901,<,MA80.0
+18,超皮質性失語,L,R470,VN77,<,http://id.who.int/icd/entity/1410943204,<,MA80.0
+18,運動障害性構音障害,L,R471,AKDS,=,http://id.who.int/icd/entity/15113838 ,=,MA80.2Z
+18,麻痺性構音障害,S1,R471,AKDS,=,http://id.who.int/icd/entity/15113838,=,MA80.2Z
+18,構音障害,L,R471,AUKS,=,http://id.who.int/icd/entity/15113838,=,MA80.2Z
+18,失連句症,L,R471,AV2C,,,,
+18,固縮性構音障害,L,R471,C3TB,<,http://id.who.int/icd/entity/15113838,<,MA80.2Y
+18,聴覚性構音障害,L,R471,DV5H,<,http://id.who.int/icd/entity/15113838 ,<,MA80.2Y
+18,器質性構音障害,L,R471,GTU8,<,http://id.who.int/icd/entity/15113838 ,<,MA80.2Y
+18,器質的構音障害,S1,R471,GTU8,<,http://id.who.int/icd/entity/15113838 ,<,MA80.2Y
+18,小脳性構音障害,L,R471,JP2R,<,http://id.who.int/icd/entity/15113838 ,<,MA80.2Y
+18,構語障害,L,R471,K5DJ,=,http://id.who.int/icd/entity/15113838,=,MA80.2Z 
+18,失構語症,S1,R471,K5DJ,=,http://id.who.int/icd/entity/1167055901,=,MA80.0 
+18,発語障害,L,R471,MNDF,=,http://id.who.int/icd/entity/1809393168,=,MA81 
+18,言語理解障害,L,R471,Q1NV,=,http://id.who.int/icd/entity/312794303,=,MA80.Z
+18,痙縮性構音障害,L,R471,RF3P,<,http://id.who.int/icd/entity/15113838 ,<,MA80.2Y
+18,不明瞭言語,L,R478,Q8FU,=,http://id.who.int/icd/entity/15113838,=,MA80.2Z 
+18,失読症,L,R480,CHTC,=,http://id.who.int/icd/entity/724140102,=,MB4B.0 
+18,失読(症),S1,R480,CHTC,=,http://id.who.int/icd/entity/724140102,=,MB4B.0 
+18,失読,S1,R480,CHTC,=,http://id.who.int/icd/entity/724140102,=,MB4B.0 
+18,読字障害,L,R480,NTSL,=,http://id.who.int/icd/entity/724140102,=,MB4B.0 
+18,空間識障害,L,R481,A503,=,http://id.who.int/icd/entity/756147896,<,MB4B.1 
+18,失認,L,R481,B15Q,=,http://id.who.int/icd/entity/1315065296,=,MB4B.1
+18,失認症,S1,R481,B15Q,=,http://id.who.int/icd/entity/1315065296,=,MB4B.1
+18,聴覚失認,L,R481,BLFL,=,http://id.who.int/icd/entity/1315065296,=,MB4B.1 
+18,言語失認,L,R481,DHPR,=,http://id.who.int/icd/entity/995495019,<,MB4B.1 
+18,視覚失認,L,R481,FP55,=,http://id.who.int/icd/entity/1315065296,=,MB4B.1 
+18,相貌失認,L,R481,MRQV,=,http://id.who.int/icd/entity/1315065296,=,MB4B.1 
+18,半側空間失認,L,R481,QLS5,=,http://id.who.int/icd/entity/1853164458,=,MB40.9
+18,身体失認,L,R481,SCRU,=,http://id.who.int/icd/entity/615692343,=,MB40.0
+18,左右識別不能症,L,R481,VHPG,<,http://id.who.int/icd/entity/1315065296,<,MB4B.1 
+18,肢運動失行症,L,R482,B12M,=,http://id.who.int/icd/entity/836539267 & http://id.who.int/icd/entity/2093217246 ,=,MB4A & XA45A6
+18,着衣失行,L,R482,DBRP,=,http://id.who.int/icd/entity/986651951,=,MB4A
+18,顔面失行症,L,R482,DT1V,=,http://id.who.int/icd/entity/986651951,=,MB4A
+18,皮質性失行症,L,R482,ERP1,=,http://id.who.int/icd/entity/773390315,<,MB4A
+18,運動失行,L,R482,G12L,=,http://id.who.int/icd/entity/986651951,=,MB4A
+18,運動失行症,S1,R482,G12L,=,http://id.who.int/icd/entity/986651951,=,MB4A
+18,失行,L,R482,K62T,=,http://id.who.int/icd/entity/986651951,=,MB4A
+18,失行症,S1,R482,K62T,=,http://id.who.int/icd/entity/986651951,=,MB4A
+18,観念失行,L,R482,LMR0,=,http://id.who.int/icd/entity/541312183,<,MB4A
+18,観念失行症,S1,R482,LMR0,=,http://id.who.int/icd/entity/541312183,<,MB4A
+18,感覚性失行症,L,R482,M0HB,=,http://id.who.int/icd/entity/1876243328,<,MB4A
+18,開眼失行,L,R482,RG50,=,http://id.who.int/icd/entity/986651951,=,MB4A
+18,開瞼失行,S1,R482,RG50,=,http://id.who.int/icd/entity/986651951,=,MB4A
+18,構成失行,L,R482,UPKK,<,http://id.who.int/icd/entity/986651951,<,MB4A
+18,構成失行症,S1,R482,UPKK,<,http://id.who.int/icd/entity/986651951,<,MB4A
+18,健忘性失行症,L,R482,UQTL,<,http://id.who.int/icd/entity/986651951,<,MB4A
+18,観念運動失行,L,R482,VAHL,=,http://id.who.int/icd/entity/986651951,=,MB4A
+18,企図失行症,S1,R482,VAHL,=,http://id.who.int/icd/entity/986651951,=,MB4A
+18,失文法,L,R488,B320,=,http://id.who.int/icd/entity/776258015,<,MA80.0
+18,失象徴,L,R488,GNN2,=,http://id.who.int/icd/entity/789429706,<,MB4B.Y 
+18,失算症,L,R488,HBL6,=,http://id.who.int/icd/entity/1954421964,=,MB4B.2
+18,失算,S1,R488,HBL6,=,http://id.who.int/icd/entity/1954421964,=,MB4B.2
+18,失書,L,R488,K43L,=,http://id.who.int/icd/entity/1372096058,=,MB4B.3
+18,失書症,S1,R488,K43L,=,http://id.who.int/icd/entity/1372096058,=,MB4B.3
+18,嗄声,L,R490,ECUJ,=,http://id.who.int/icd/entity/741286458,=,MA82.10
+18,かすれ声,S1,R490,ECUJ,=,http://id.who.int/icd/entity/741286458,=,MA82.10
+18,発声異常,L,R490,H4BT,=,http://id.who.int/icd/entity/936462533,=,MA82.1Z 
+18,発音障害,L,R490,SSVR,=,http://id.who.int/icd/entity/936462533,=,MA82.1Z 
+18,発声障害,L,R490,TE89,=,http://id.who.int/icd/entity/936462533,=,MA82.1Z 
+18,発声困難,L,R490,TG5F,=,http://id.who.int/icd/entity/936462533,=,MA82.1Z 
+18,発声困難症,S1,R490,TG5F,=,http://id.who.int/icd/entity/936462533,=,MA82.1Z 
+18,麻痺性失声症,L,R491,B47G,<,http://id.who.int/icd/entity/1385858385,<,MA82.0
+18,痙性失声症,L,R491,LGF8,<,http://id.who.int/icd/entity/1385858385,<,MA82.0
+18,失声症,L,R491,MVAE,=,http://id.who.int/icd/entity/1385858385,=,MA82.0 
+18,発声不能症,S1,R491,MVAE,=,http://id.who.int/icd/entity/1385858385,=,MA82.0 
+18,閉鼻声,L,R492,AJE9,=,http://id.who.int/icd/entity/1503668635,<,MA82.2
+18,開鼻声,L,R492,CLTN,=,http://id.who.int/icd/entity/1576552245,<,MA82.2
+18,高鼻声,L,R492,FPG3,=,http://id.who.int/icd/entity/1576552245,<,MA82.2
+18,低鼻声,L,R492,QCG4,=,http://id.who.int/icd/entity/1503668635,<,MA82.2
+18,鼻声,L,R492,U3EK,=,http://id.who.int/icd/entity/641193392,=,MA82.2
+18,音声衰弱症,L,R498,BLNG,=,http://id.who.int/icd/entity/2111910240,<,MA82.Y 
+18,音声障害,L,R498,F916,=,http://id.who.int/icd/entity/176555113,=,MA82.Z
+18,変声,L,R498,H5DH,=,http://id.who.int/icd/entity/142538691,<,MA82.Y 
+18,声変わり,S1,R498,H5DH,=,http://id.who.int/icd/entity/142538691,<,MA82.Y 
+18,薬物熱,L,R502,LS73,=,http://id.who.int/icd/entity/1596497122,<,MG26
+18,薬剤熱,S1,R502,LS73,=,http://id.who.int/icd/entity/1596497122,<,MG26
+18,薬物性発熱,S1,R502,LS73,=,http://id.who.int/icd/entity/1596497122,<,MG26
+18,薬剤性発熱,S1,R502,LS73,=,http://id.who.int/icd/entity/1596497122,<,MG26
+18,持続熱,L,R508,BP7S,=,http://id.who.int/icd/entity/339741622,=,MG26 & XT6Z
+18,稽留熱,L,R508,K7VJ,=,http://id.who.int/icd/entity/339741622,=,MG26 & XT6Z
+18,悪寒発熱,L,R508,T76R,=,http://id.who.int/icd/entity/1614642919,<,MG26
+18,高熱,L,R509,E6MA,=,http://id.who.int/icd/entity/915343154,=,MG26
+18,高体温,S1,R509,E6MA,=,http://id.who.int/icd/entity/915343154,=,MG26
+18,突発性発熱,L,R509,F1B1,<,http://id.who.int/icd/entity/915343154,<,MG26
+18,本態性高体温症,L,R509,FA3R,=,http://id.who.int/icd/entity/915343154,=,MG26
+18,弛張熱,L,R509,GJP4,=,http://id.who.int/icd/entity/339741622,=,MG26 & XT6Z
+18,発熱,L,R509,LLLJ,=,http://id.who.int/icd/entity/915343154,=,MG26
+18,術後発熱,L,R509,MR21,=,http://id.who.int/icd/entity/915343154 & http://id.who.int/icd/entity/182265087,=,MG26 & XY7V 
+18,往来寒熱,L,R509,N0R0,=,http://id.who.int/icd/entity/1614642919,<,MG26
+18,飢餓熱,L,R509,NRLN,=,http://id.who.int/icd/entity/915343154,=,MG26
+18,悪性高熱症,L,R509,PF9M,=,http://id.who.int/icd/entity/915343154,=,MG26
+18,慢性微熱,L,R509,R8JN,=,http://id.who.int/icd/entity/915343154 & http://id.who.int/icd/entity/490003542,=,MG26 & XT8W 
+18,超高熱,L,R509,TGB3,=,http://id.who.int/icd/entity/915343154,=,MG26
+18,夏期熱,L,R509,TPKS,=,http://id.who.int/icd/entity/915343154,=,MG26
+18,微熱,L,R509,UP9H,=,http://id.who.int/icd/entity/915343154,=,MG26
+18,軽熱,S1,R509,UP9H,=,http://id.who.int/icd/entity/915343154,=,MG26
+18,不明熱,L,R509,VGTC,=,http://id.who.int/icd/entity/915343154,=,MG26
+18,FUO,S1,R509,VGTC,=,http://id.who.int/icd/entity/915343154,=,MG26
+18,原因不明発熱,S1,R509,VGTC,=,http://id.who.int/icd/entity/915343154,=,MG26
+18,神経痛性頭痛,L,R51,DVE3,=,http://id.who.int/icd/entity/28995849,=,8A84.Y 
+18,頭痛,L,R51,EL9D,=,http://id.who.int/icd/entity/1405405864,=,MB4D
+18,頭部痛,S1,R51,EL9D,=,http://id.who.int/icd/entity/1405405864,=,MB4D
+18,神経性頭痛,S2,R51,EL9D,=,http://id.who.int/icd/entity/1350703173,=,8A83
+18,前頭部痛,L,R51,F3DT,=,http://id.who.int/icd/entity/1405405864 & http://id.who.int/icd/entity/1992376390,=,MB4D & XA0WK0
+18,精神疾患による頭痛,L,R51,FJUL,<,http://id.who.int/icd/entity/296971178 ,<,8A84.Y 
+18,一次性頭痛,L,R51,HS52,=,http://id.who.int/icd/entity/1350703173,=,8A83
+18,後頭部痛,L,R51,JCAD,=,http://id.who.int/icd/entity/1405405864 & http://id.who.int/icd/entity/891825585,=,MB4D & XA7JE5
+18,牽引性頭痛,L,R51,KS0P,=,http://id.who.int/icd/entity/1350703173,=,8A83
+18,頭頚部痛,L,R51,LBME,=,http://id.who.int/icd/entity/1405405864 & http://id.who.int/icd/entity/223243926,=,MB4D & XA1RS6 
+18,頭頸部痛,S1,R51,LBME,=,http://id.who.int/icd/entity/1405405864 & http://id.who.int/icd/entity/223243926,=,MB4D & XA1RS6 
+18,頭頂部痛,L,R51,LPJ7,=,http://id.who.int/icd/entity/1405405864 & http://id.who.int/icd/entity/1116521274,=,MB4D & XA4W34 
+18,顔面痛,L,R51,N28F,=,http://id.who.int/icd/entity/1076016228,=,MB4D & XA86S4 
+18,顔面部痛,S1,R51,N28F,=,http://id.who.int/icd/entity/1076016228,=,MB4D & XA86S4 
+18,口腔内灼熱症候群,L,R51,NBPV,=,http://id.who.int/icd/entity/618998878,=,DA0F.0 
+18,口腔熱感,S1,R51,NBPV,=,http://id.who.int/icd/entity/618998878,=,DA0F.0 
+18,口腔灼熱症候群,S1,R51,NBPV,=,http://id.who.int/icd/entity/618998878,=,DA0F.0 
+18,側頭部痛,L,R51,QCR5,=,http://id.who.int/icd/entity/1405405864 & http://id.who.int/icd/entity/1642669190,=,MB4D &  XA9DZ0
+18,頭重感,L,R51,RD3C,=,http://id.who.int/icd/entity/1405405864,=,MB4D
+18,頭重,S1,R51,RD3C,=,http://id.who.int/icd/entity/1405405864,=,MB4D
+18,炎症性頭痛,L,R51,RQ7V,<,http://id.who.int/icd/entity/296971178,<,8A84.Y 
+18,頬部痛,L,R51,STB5,=,http://id.who.int/icd/entity/1405405864 & http://id.who.int/icd/entity/1286369458,=,MB4D & XA7MK8 
+18,頬部疼痛,S1,R51,STB5,=,http://id.who.int/icd/entity/1405405864 & http://id.who.int/icd/entity/1286369458,=,MB4D & XA7MK8 
+18,発作性頭痛,L,R51,T87Q,=,http://id.who.int/icd/entity/28995849,=,8A8Y
+18,歯性顔面痛,L,R51,VG5N,<,http://id.who.int/icd/entity/296971178,<,8A84.Y 
+18,習慣性頭痛,L,R51,VQGK,=,http://id.who.int/icd/entity/28995849,=,8A8Y
+18,常習性頭痛,S1,R51,VQGK,=,http://id.who.int/icd/entity/28995849,=,8A8Y
+18,慢性頭痛,S1,R51,VQGK,=,http://id.who.int/icd/entity/28995849 & http://id.who.int/icd/entity/490003542 ,=,8A8Z & XT8W 
+18,急性疼痛,L,R520,VJCS,=,http://id.who.int/icd/entity/1404135736,=,MG31.Z
+18,難治性疼痛,L,R521,V80E,<,http://id.who.int/icd/entity/1581976053,<,MG30.Z
+18,頑痛,S1,R521,V80E,<,http://id.who.int/icd/entity/1581976053,<,MG30.Z
+18,頑痛症,S1,R521,V80E,<,http://id.who.int/icd/entity/1581976053,<,MG30.Z
+18,頑痛(症),S1,R521,V80E,<,http://id.who.int/icd/entity/1581976053,<,MG30.Z
+18,慢性難治性疼痛,S1,R521,V80E,<,http://id.who.int/icd/entity/1581976053,<,MG30.Z
+18,突出痛,L,R522,A6P0,<,http://id.who.int/icd/entity/1581976053,<,MG30.Z
+18,癌性突出痛,L,R522,AJKM,=,http://id.who.int/icd/entity/785363034 ,=,MG30.1Z
+18,がん性突出痛,S1,R522,AJKM,=,http://id.who.int/icd/entity/785363034 ,=,MG30.1Z
+18,癌性持続痛,L,R522,DM58,=,http://id.who.int/icd/entity/785363034 ,=,MG30.1Z
+18,がん性持続痛,S1,R522,DM58,=,http://id.who.int/icd/entity/785363034 ,=,MG30.1Z
+18,癌性疼痛,L,R522,GBJG,=,http://id.who.int/icd/entity/785363034 ,=,MG30.1Z
+18,がん性疼痛,S1,R522,GBJG,=,http://id.who.int/icd/entity/785363034 ,=,MG30.1Z
+18,持続痛,L,R522,SHDQ,=,http://id.who.int/icd/entity/1581976053,=,MG30.Z
+18,身体痛,L,R522,UKBT,=,http://id.who.int/icd/entity/1581976053,=,MG30.Z
+18,慢性疼痛,L,R522,VR25,=,http://id.who.int/icd/entity/1581976053,=,MG30.Z
+18,皮膚疼痛症,L,R529,ATA5,=,http://id.who.int/icd/entity/661232217 & http://id.who.int/icd/entity/123461884,=,MG3Z & XA0364 
+18,全身痛,L,R529,BCR3,=,http://id.who.int/icd/entity/661232217,=,MG3Z
+18,全身性疼痛,S1,R529,BCR3,=,http://id.who.int/icd/entity/661232217,=,MG3Z
+18,鈍痛,L,R529,FBJV,<,http://id.who.int/icd/entity/661232217,<,MG3Z
+18,放散痛,L,R529,PNMJ,<,http://id.who.int/icd/entity/661232217,<,MG3Z
+18,疼痛,L,R529,QDKE,=,http://id.who.int/icd/entity/661232217,=,MG3Z
+18,圧痛,L,R529,T9CN,<,http://id.who.int/icd/entity/661232217,<,MG3Z
+18,疲労感,L,R53,AB04,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,疲労,S1,R53,AB04,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,倦怠感,L,R53,ATAP,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,倦怠,S1,R53,ATAP,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,全身性身体消耗,L,R53,CFHF,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,無力症,L,R53,FLAM,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,無気力,S1,R53,FLAM,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,神経性弱質,L,R53,L51F,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,下肢倦怠感,L,R53,LBCG,=,http://id.who.int/icd/entity/1109546957 & http://id.who.int/icd/entity/2093217246 ,=,MG22 & XA45A
+18,衰弱,L,R53,M7EJ,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,心身過労状態,L,R53,NJLR,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,虚弱,L,R53,P674,=,http://id.who.int/icd/entity/557006377,<,MG4Y
+18,虚弱体質,S1,R53,P674,=,http://id.who.int/icd/entity/557006377,<,MG4Y
+18,体質虚弱,S1,R53,P674,=,http://id.who.int/icd/entity/557006377,<,MG4Y
+18,腺病質,S2,R53,P674,=,http://id.who.int/icd/entity/557006377,<,MG4Y
+18,全身倦怠感,L,R53,PDDH,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,疲労倦怠,S1,R53,PDDH,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,疲労けん怠,S1,R53,PDDH,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,全身倦怠(感),S1,R53,PDDH,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,疲労けん怠感,S1,R53,PDDH,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,全身倦怠,S1,R53,PDDH,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,疲労倦怠感,S1,R53,PDDH,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,体力低下,L,R53,RQGM,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,体力減退,S1,R53,RQGM,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,病後の体力低下,S1,R53,RQGM,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,全身衰弱,S1,R53,RQGM,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,病後の衰弱,S1,R53,RQGM,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,体力減衰,S1,R53,RQGM,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,術後の衰弱,S1,R53,RQGM,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,慢性弱質,L,R53,RVVB,=,http://id.who.int/icd/entity/1109546957 & http://id.who.int/icd/entity/490003542,=,MG22 & XT8W 
+18,全身違和感,L,R53,SHHJ,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,易疲労感,L,R53,TV7Q,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,易疲労,S1,R53,TV7Q,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,易疲労(感),S1,R53,TV7Q,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,気虚,L,R53,UCF8,=,http://id.who.int/icd/entity/1109546957,=,MG22
+18,老年性振戦,L,R54,CP0N,=,http://id.who.int/icd/entity/835503193 / http://id.who.int/icd/entity/645263329,=,MG2A / 8A04.1
+18,老人性振戦,S1,R54,CP0N,=,http://id.who.int/icd/entity/835503193 / http://id.who.int/icd/entity/645263329,=,MG2A / 8A04.1
+18,老人性弱質,L,R54,EL14,=,http://id.who.int/icd/entity/835503193,=,MG2A
+18,老化,L,R54,FEE8,=,http://id.who.int/icd/entity/835503193,=,MG2A
+18,老人性無力症,L,R54,K520,=,http://id.who.int/icd/entity/835503193,=,MG2A
+18,老衰,L,R54,P6P8,=,http://id.who.int/icd/entity/835503193,=,MG2A
+18,老人性萎縮,L,R54,Q7K3,=,http://id.who.int/icd/entity/835503193,=,MG2A
+18,老令,L,R54,RA8F,=,http://id.who.int/icd/entity/835503193,=,MG2A
+18,フレイル,L,R54,U19L,=,http://id.who.int/icd/entity/835503193,=,MG2A
+18,血管迷走神経性失神,L,R55,ANQE,=,http://id.who.int/icd/entity/1418136013,=,MG45.Z
+18,虚脱,L,R55,B3RG,=,http://id.who.int/icd/entity/1418136013,=,MG45.Z
+18,卒倒,L,R55,EK1Q,=,http://id.who.int/icd/entity/1418136013,=,MG45.Z
+18,排尿性失神,L,R55,EL44,=,http://id.who.int/icd/entity/1418136013,=,MG45.Z
+18,心臓性失神,L,R55,HD7M,=,http://id.who.int/icd/entity/433311545,=,MG45.0
+18,単純性失神,L,R55,HH54,=,http://id.who.int/icd/entity/1418136013,=,MG45.Z
+18,労作性失神,L,R55,LHQ2,<,http://id.who.int/icd/entity/1418136013,<,MG45.Y
+18,失神,L,R55,MVUU,=,http://id.who.int/icd/entity/1418136013,=,MG45.Z
+18,失神発作,S1,R55,MVUU,=,http://id.who.int/icd/entity/1418136013,=,MG45.Z
+18,意識障害発作,S1,R55,MVUU,=,http://id.who.int/icd/entity/1418136013,=,MG45.Z
+18,意識消失発作,S1,R55,MVUU,=,http://id.who.int/icd/entity/1418136013,=,MG45.Z
+18,意識喪失発作,S1,R55,MVUU,=,http://id.who.int/icd/entity/1418136013,=,MG45.Z
+18,気絶,S1,R55,MVUU,=,http://id.who.int/icd/entity/1418136013,=,MG45.Z
+18,眼前暗黒,L,R55,T25Q,=,http://id.who.int/icd/entity/1418136013,=,MG45.Z
+18,熱性痙攣,L,R560,GQ99,=,http://id.who.int/icd/entity/1766832202,=,8A63.0Z
+18,有熱時痙攣,S1,R560,GQ99,=,http://id.who.int/icd/entity/1766832202,=,8A63.0Z
+18,有熱時けいれん,S1,R560,GQ99,=,http://id.who.int/icd/entity/1766832202,=,8A63.0Z
+18,痙攣発作,L,R568,AR95,=,http://id.who.int/icd/entity/1889822561,<,8A68.Z 
+18,けいれん発作,S1,R568,AR95,=,http://id.who.int/icd/entity/1889822561,<,8A68.Z
+18,泣き入りひきつけ,L,R568,BG80,=,http://id.who.int/icd/entity/1889822561,<,8A68.Z
+18,ひきつけ,L,R568,D2L9,=,http://id.who.int/icd/entity/1889822561,<,8A68.Z
+18,一過性痙攣発作,L,R568,GE5F,<,http://id.who.int/icd/entity/1889822561,<,8A68.Z
+18,てんかん様発作,L,R568,HP3L,=,http://id.who.int/icd/entity/1397288146,=,8A6Z
+18,全身痙攣,L,R568,KEML,=,http://id.who.int/icd/entity/1889822561,<,8A68.Z 
+18,テタニー様発作,L,R568,L3L5,=,http://id.who.int/icd/entity/1530032727,=,5B5K.10
+18,乳児痙攣,L,R568,LSND,=,http://id.who.int/icd/entity/2083324835,=,KB06 
+18,症候性痙攣発作,L,R568,MVBQ,<,http://id.who.int/icd/entity/1889822561,<,8A68.Z 
+18,幼児痙攣,L,R568,NH2G,<,http://id.who.int/icd/entity/1889822561 & http://id.who.int/icd/entity/1588782340,<,8A68.Z & XT2C
+18,無熱性痙攣,L,R568,QGDB,<,http://id.who.int/icd/entity/1889822561,<,8A68.Z 
+18,強直性痙攣,L,R568,R84S,=,http://id.who.int/icd/entity/515072580,=,8A68.6 
+18,持続性痙攣,S1,R568,R84S,=,http://id.who.int/icd/entity/1889822561 & http://id.who.int/icd/entity/1313511357 ,<,8A68.Z & XT6Z
+18,間代性痙攣,L,R568,SN6V,=,http://id.who.int/icd/entity/194300196,<,8A68.Y 
+18,小児痙攣性疾患,L,R568,V7N0,<,http://id.who.int/icd/entity/1889822561 ,<,8A68.Z 
+18,痙攣重積発作,L,R568,V951,=,http://id.who.int/icd/entity/1988362682,=,8A67 
+18,全身痙攣発作,L,R568,VTS8,=,http://id.who.int/icd/entity/1889822561,<,8A68.Z 
+18,心原性ショック,L,R570,CLJA,=,http://id.who.int/icd/entity/1974956233,=,MG40.0 
+18,出血性ショック,L,R571,JH2P,=,http://id.who.int/icd/entity/284999005,=,MG40.1
+18,大量出血ショック,S1,R571,JH2P,=,http://id.who.int/icd/entity/284999005,=,MG40.1
+18,失血性ショック,S1,R571,JH2P,=,http://id.who.int/icd/entity/284999005,=,MG40.1
+18,循環血液量減少性ショック,L,R571,RTM9,=,http://id.who.int/icd/entity/284999005,=,MG40.1
+18,ハイポボレミックショック,S1,R571,RTM9,=,http://id.who.int/icd/entity/284999005,=,MG40.1
+18,デンタルショック,L,R578,H91E,<,http://id.who.int/icd/entity/1164022950,<,MG40.Z
+18,疼痛性ショック,L,R578,J7M8,<,http://id.who.int/icd/entity/1164022950,<,MG40.Z
+18,エンドトキシン性ショック,L,R578,MH4S,=,http://id.who.int/icd/entity/1683090852,=,1G41
+18,末梢循環不全,L,R579,BK2D,=,http://id.who.int/icd/entity/1164022950,=,MG40.Z
+18,ショック,L,R579,D937,=,http://id.who.int/icd/entity/1164022950,=,MG40.Z
+18,ショック状態,S1,R579,D937,=,http://id.who.int/icd/entity/1164022950,=,MG40.Z
+18,急性ショック,L,R579,E7VJ,=,http://id.who.int/icd/entity/1164022950 & http://id.who.int/icd/entity/786106375 ,=,MG40.Z & XT5R 
+18,一次性ショック,L,R579,FJCP,=,http://id.who.int/icd/entity/1164022950,=,MG40.Z
+18,二次性ショック,L,R579,LFGN,<,http://id.who.int/icd/entity/1164022950,<,MG40.Z
+18,急性循環不全,L,R579,U8NG,=,http://id.who.int/icd/entity/1164022950 & http://id.who.int/icd/entity/786106375 ,=,MG40.Z & XT5R 
+18,循環虚脱,S1,R579,U8NG,=,http://id.who.int/icd/entity/1164022950,=,MG40.Z
+18,一過性ショック,L,R579,UDDL,<,http://id.who.int/icd/entity/1164022950,<,MG40.Z
+18,実質性臓器出血,L,R58,AU1U,=,http://id.who.int/icd/entity/940081636,=,MG27
+18,急性大量出血,L,R58,CT9V,=,http://id.who.int/icd/entity/940081636 & http://id.who.int/icd/entity/1201187093 & http://id.who.int/icd/entity/786106375,=,MG27 & XS25 & XT5R
+18,出血,L,R58,FG3N,=,http://id.who.int/icd/entity/940081636,=,MG27
+18,小動脈出血,L,R58,GPPS,=,http://id.who.int/icd/entity/940081636,=,MG27
+18,局所出血,L,R58,GSJV,=,http://id.who.int/icd/entity/940081636 & http://id.who.int/icd/entity/266800054,=,MG27 & XS0E
+18,静脈出血,L,R58,HALA,=,http://id.who.int/icd/entity/940081636 & http://id.who.int/icd/entity/832846369,=,MG27 & XA5J49
+18,多量出血,L,R58,NPDE,=,http://id.who.int/icd/entity/940081636 & http://id.who.int/icd/entity/1201187093,=,MG27 & XS25 
+18,内出血,L,R58,V3N7,=,http://id.who.int/icd/entity/940081636,=,MG27
+18,動脈性出血,L,R58,VR9N,=,http://id.who.int/icd/entity/940081636,=,MG27 
+18,肺門リンパ節腫脹,L,R590,A058,=,http://id.who.int/icd/entity/1082378606,=,MA01.0 & XA5MW1
+18,肺門リンパ腺腫脹,S1,R590,A058,=,http://id.who.int/icd/entity/1082378606,=,MA01.0 & XA5MW1
+18,肺門部リンパ節腫大,S1,R590,A058,=,http://id.who.int/icd/entity/1082378606,=,MA01.0 & XA5MW1
+18,両側肺門リンパ節腫脹,L,R590,B1NV,=,http://id.who.int/icd/entity/1082378606 & http://id.who.int/icd/entity/627678743,=,MA01.0 & XA5MW1 & XK9J 
+18,頚部リンパ節腫脹,L,R590,BR1F,=,http://id.who.int/icd/entity/1221395809 ,=,MA01.0 & XA5XT7
+18,頸部リンパ節肥大,S1,R590,BR1F,=,http://id.who.int/icd/entity/1221395809 ,=,MA01.0 & XA5XT7
+18,頚部リンパ節肥大,S1,R590,BR1F,=,http://id.who.int/icd/entity/1221395809 ,=,MA01.0 & XA5XT7
+18,頚部リンパ節腫瘤,S1,R590,BR1F,=,http://id.who.int/icd/entity/1221395809 ,=,MA01.0 & XA5XT7
+18,頸部リンパ節腫瘤,S1,R590,BR1F,=,http://id.who.int/icd/entity/1221395809 ,=,MA01.0 & XA5XT7
+18,頸部リンパ節腫大,S1,R590,BR1F,=,http://id.who.int/icd/entity/1221395809 ,=,MA01.0 & XA5XT7
+18,頚部リンパ節腫大,S1,R590,BR1F,=,http://id.who.int/icd/entity/1221395809 ,=,MA01.0 & XA5XT7
+18,頸部リンパ節腫脹,S1,R590,BR1F,=,http://id.who.int/icd/entity/1221395809 ,=,MA01.0 & XA5XT7
+18,顎下リンパ節腫脹,L,R590,C7P7,=,http://id.who.int/icd/entity/667642868 & http://id.who.int/icd/entity/1755610480,=,MA01.0 & XA9E80
+18,顎下リンパ腺腫脹,S1,R590,C7P7,=,http://id.who.int/icd/entity/2059719014 & http://id.who.int/icd/entity/849425461,=,MA01.0 & XA9E80
+18,鎖骨上リンパ節腫脹,L,R590,FJ3K,=,http://id.who.int/icd/entity/667642868 & http://id.who.int/icd/entity/1186749817,=,MA01.0 & XA00M7
+18,鎖骨上窩リンパ節腫脹,S1,R590,FJ3K,=,http://id.who.int/icd/entity/667642868 & http://id.who.int/icd/entity/1186749817,=,MA01.0 & XA00M7
+18,下顎リンパ節腫脹,L,R590,GN81,=,http://id.who.int/icd/entity/667642868 & http://id.who.int/icd/entity/377415607,=,MA01.0 & XA8DW7
+18,鼡径部リンパ節腫脹,L,R590,HUQE,=,http://id.who.int/icd/entity/1145607841 ,=,MA01.0 & XA0GN7
+18,鼠径部リンパ節腫脹,S1,R590,HUQE,=,http://id.who.int/icd/entity/1145607841 ,=,MA01.0 & XA0GN7
+18,腸間膜リンパ節腫脹,L,R590,HV3L,=,http://id.who.int/icd/entity/1751407439,=,MA01.0 & XA26J2
+18,腸間膜リンパ節腫大,S1,R590,HV3L,=,http://id.who.int/icd/entity/1751407439,=,MA01.0 & XA26J2
+18,縦隔リンパ節腫脹,L,R590,K8SN,=,http://id.who.int/icd/entity/1082378606 ,=,MA01.0 & XA61B8
+18,縦隔リンパ節腫大,S1,R590,K8SN,=,http://id.who.int/icd/entity/1082378606 ,=,MA01.0 & XA61B8
+18,限局性リンパ節腫大,L,R590,L2VT,=,http://id.who.int/icd/entity/667642868,=,MA01.0 
+18,肘リンパ節腫脹,L,R590,LRP4,=,http://id.who.int/icd/entity/667642868 & http://id.who.int/icd/entity/67319680,=,MA01.0 & XA3H20
+18,腋窩リンパ節腫脹,L,R590,MB4B,=,http://id.who.int/icd/entity/1997596692,=,MA01.0 & XA90B2
+18,後頭部リンパ節腫脹,L,R590,P80D,=,http://id.who.int/icd/entity/2059719014,=,MA01.0 & XA6H69 
+18,耳後部リンパ節腫脹,L,R590,UVPC,=,http://id.who.int/icd/entity/667642868 & http://id.who.int/icd/entity/1847793967,=,MA01.0 & XA3S47
+18,耳後部リンパ腺腫脹,S1,R590,UVPC,=,http://id.who.int/icd/entity/667642868 & http://id.who.int/icd/entity/1847793967,=,MA01.0 & XA3S47
+18,リンパ節症,L,R591,D38F,=,http://id.who.int/icd/entity/1564691570,=,MA01.Z 
+18,全身性リンパ節腫脹,S1,R591,D38F,=,http://id.who.int/icd/entity/1115727458,=,MA01.1 
+18,全身性リンパ節腫大,S1,R591,D38F,=,http://id.who.int/icd/entity/1115727458,=,MA01.1 
+18,リンパ節腫大,L,R599,FGPK,=,http://id.who.int/icd/entity/1564691570,=,MA01.Z 
+18,リンパ節肥大,S1,R599,FGPK,=,http://id.who.int/icd/entity/1564691570,=,MA01.Z 
+18,リンパ腺腫脹,S1,R599,FGPK,=,http://id.who.int/icd/entity/1564691570,=,MA01.Z 
+18,リンパ節腫脹,S1,R599,FGPK,=,http://id.who.int/icd/entity/1564691570,=,MA01.Z 
+18,リンパ腺肥大,S1,R599,FGPK,=,http://id.who.int/icd/entity/1564691570,=,MA01.Z 
+18,下腿浮腫,L,R600,A2RK,=,http://id.who.int/icd/entity/243933420 & http://id.who.int/icd/entity/106050921 ,=,MG29.01 & XA3YG1 
+18,足部浮腫,L,R600,AKQ5,=,http://id.who.int/icd/entity/243933420 & http://id.who.int/icd/entity/1896004518  ,=,MG29.01 & XA47V8
+18,下肢浮腫,L,R600,GAC8,=,http://id.who.int/icd/entity/243933420,=,MG29.01
+18,四肢浮腫,L,R600,JH8H,=,http://id.who.int/icd/entity/2128635100 & http://id.who.int/icd/entity/1810600222,=,MG29.0Y & XA6AS2
+18,下腹部浮腫,L,R600,K67P,=,http://id.who.int/icd/entity/2128635100 & http://id.who.int/icd/entity/2105593940,=,MG29.0Y & XA4TC0
+18,末梢性浮腫,L,R600,MHM2,<,http://id.who.int/icd/entity/2128635100 ,<,MG29.0Y
+18,上肢浮腫,L,R600,QPBU,=,http://id.who.int/icd/entity/2128635100 & http://id.who.int/icd/entity/986233688,=,MG29.0Y & XA4BA8
+18,限局性浮腫,L,R600,T0R2,=,http://id.who.int/icd/entity/2128635100,=,MG29.0
+18,上腕浮腫,L,R600,T44F,=,http://id.who.int/icd/entity/2128635100 & http://id.who.int/icd/entity/312192089,=,MG29.0Y & XA6809
+18,下半身浮腫,L,R600,V7UP,<,http://id.who.int/icd/entity/2128635100,<,MG29.0Y
+18,顔面浮腫,L,R600,VDPP,=,http://id.who.int/icd/entity/2128635100 & http://id.who.int/icd/entity/968129184,=,MG29.0Y & XA86S4
+18,全身性浮腫,L,R601,G4MK,=,http://id.who.int/icd/entity/464234830,=,MG29.1
+18,急性水症,S2,R601,G4MK,=,http://id.who.int/icd/entity/464234830 & http://id.who.int/icd/entity/786106375,=,MG29.1Y & XT5R
+18,高度浮腫,L,R601,K1LS,=,http://id.who.int/icd/entity/464234830,=,MG29.1
+18,一過性浮腫,L,R609,DFDG,<,http://id.who.int/icd/entity/826220775,<,MG29.Z
+18,肝性浮腫,L,R609,E188,=,http://id.who.int/icd/entity/826220775 / http://id.who.int/icd/entity/1784240230,=,MG29.Z / DB9Z
+18,特発性浮腫,L,R609,EL00,=,http://id.who.int/icd/entity/826220775 & http://id.who.int/icd/entity/894194405,=,MG29.Z & XB5F
+18,特発性水腫,S1,R609,EL00,=,http://id.who.int/icd/entity/826220775 & http://id.who.int/icd/entity/894194405,=,MG29.Z & XB5F
+18,突発性浮腫,S2,R609,EL00,<,http://id.who.int/icd/entity/826220775,<,MG29.Z
+18,浮腫,L,R609,EN5Q,=,http://id.who.int/icd/entity/826220775,=,MG29.Z
+18,むくみ,S1,R609,EN5Q,=,http://id.who.int/icd/entity/826220775,=,MG29.Z
+18,水腫,S1,R609,EN5Q,=,http://id.who.int/icd/entity/826220775,=,MG29.Z
+18,麻痺側浮腫,L,R609,GT35,<,http://id.who.int/icd/entity/826220775,<,MG29.Z
+18,内分泌性浮腫,L,R609,LD07,=,http://id.who.int/icd/entity/826220775 / http://id.who.int/icd/entity/461716838,<,MG29.Z / 5B3Z
+18,中毒性浮腫,L,R609,V4R4,<,http://id.who.int/icd/entity/826220775,<,MG29.Z
+18,腎性浮腫,L,R609,VC82,=,http://id.who.int/icd/entity/826220775 / http://id.who.int/icd/entity/1914766361,=,MG29.Z / GC2Z & XA6KU8
+18,顔面多汗症,L,R610,BBJH,=,http://id.who.int/icd/entity/955461299 & http://id.who.int/icd/entity/968129184,=,EE00.02 & XA86S4
+18,手掌多汗症,L,R610,J8MP,=,http://id.who.int/icd/entity/1127732084,=,EE00.00 & XA3NY8
+18,掌蹠多汗症,L,R610,L1PK,=,http://id.who.int/icd/entity/1901346771 ,=,EE00.00
+18,手掌足底多汗症,S1,R610,L1PK,=,http://id.who.int/icd/entity/1901346771,=,EE00.00
+18,原発性局所性多汗症,L,R610,NSBQ,=,http://id.who.int/icd/entity/1645784155 ,=,EE00.0Z 
+18,原発性限局性発汗過多症,S1,R610,NSBQ,=,http://id.who.int/icd/entity/1645784155 ,=,EE00.0Z 
+18,原発性局所多汗症,S1,R610,NSBQ,=,http://id.who.int/icd/entity/1645784155 ,=,EE00.0Z 
+18,腋窩多汗症,L,R610,SMHE,=,http://id.who.int/icd/entity/1434444894,=,EE00.01
+18,原発性掌蹠多汗症,L,R610,SRE7,=,http://id.who.int/icd/entity/1901346771,=,EE00.00 
+18,原発性手掌足底多汗症,S1,R610,SRE7,=,http://id.who.int/icd/entity/1901346771,=,EE00.00 
+18,局所性多汗症,L,R610,TPAD,=,http://id.who.int/icd/entity/1645784155 ,=,EE00.0Z 
+18,限局性発汗過多症,S1,R610,TPAD,=,http://id.who.int/icd/entity/1645784155 ,=,EE00.0Z 
+18,局所多汗症,S1,R610,TPAD,=,http://id.who.int/icd/entity/1645784155 ,=,EE00.0Z 
+18,足底多汗症,L,R610,UNG1,=,http://id.who.int/icd/entity/1282122610,=,EE00.00 & XA1XM4
+18,足蹠多汗症,S1,R610,UNG1,=,http://id.who.int/icd/entity/1282122610,=,EE00.00 & XA1XM4
+18,原発性腋窩多汗症,L,R610,V606,=,http://id.who.int/icd/entity/1434444894,=,EE00.01
+18,全身性多汗症,L,R611,PBBV,=,http://id.who.int/icd/entity/122905039,=,EE00.1
+18,全身性発汗過多症,S1,R611,PBBV,=,http://id.who.int/icd/entity/122905039,=,EE00.1
+18,原発性全身性多汗症,L,R611,UN8T,=,http://id.who.int/icd/entity/122905039,=,EE00.1
+18,原発性全身性発汗過多症,S1,R611,UN8T,=,http://id.who.int/icd/entity/122905039,=,EE00.1
+18,多汗症,L,R619,MH5G,=,http://id.who.int/icd/entity/1416949107,=,EE00.Z
+18,発汗過剰,S1,R619,MH5G,≒,http://id.who.int/icd/entity/1416949107,=,EE00.Z
+18,発汗過多症,S1,R619,MH5G,≒,http://id.who.int/icd/entity/1416949107,=,EE00.Z
+18,寝汗,L,R619,QP56,=,http://id.who.int/icd/entity/1850199177,<,EE00.Z 
+18,盗汗,S1,R619,QP56,=,http://id.who.int/icd/entity/1850199177,<,EE00.Z 
+18,夜間発汗,S1,R619,QP56,=,http://id.who.int/icd/entity/1850199177,<,EE00.Z 
+18,異常発汗,L,R619,SJ82,=,http://id.who.int/icd/entity/666962606,<,EE0Y
+18,発汗異常,S1,R619,SJ82,=,http://id.who.int/icd/entity/666962606,<,EE0Y
+18,発汗異常症,S1,R619,SJ82,=,http://id.who.int/icd/entity/666962606,<,EE0Y
+18,歩行遅延,L,R620,AR69,=,http://id.who.int/icd/entity/1283047912,<,MG44.10
+18,発達遅滞,L,R620,FN8Q,=,http://id.who.int/icd/entity/1671367781,=,MG44.10
+18,言語遅延,L,R620,MDCD,=,http://id.who.int/icd/entity/1542231115,<,MG44.10
+18,標準発達遅延,L,R620,Q11M,=,http://id.who.int/icd/entity/1671367781,=,MG44.10
+18,不育症,L,R628,BSL5,=,http://id.who.int/icd/entity/551140748,=,MG44.1Z
+18,成長障害,L,R628,C7S5,=,http://id.who.int/icd/entity/551140748,=,MG44.1Z
+18,発育不全,L,R628,DNUJ,=,http://id.who.int/icd/entity/551140748,=,MG44.1Z
+18,発育障害,S1,R628,DNUJ,=,http://id.who.int/icd/entity/551140748,=,MG44.1Z
+18,発育不良,S1,R628,DNUJ,=,http://id.who.int/icd/entity/551140748,=,MG44.1Z
+18,身体発育遅滞,L,R628,ELVS,=,http://id.who.int/icd/entity/551140748,=,MG44.1Z
+18,身体発育遅延,S1,R628,ELVS,=,http://id.who.int/icd/entity/551140748,=,MG44.1Z
+18,発達性異常,L,R628,HUSF,=,http://id.who.int/icd/entity/551140748,=,MG44.1Z
+18,骨発達障害,L,R628,J612,=,http://id.who.int/icd/entity/551140748,=,MG44.1Z 
+18,発育増加異常,L,R628,K87N,=,http://id.who.int/icd/entity/551140748,=,MG44.1Z
+18,身長発育不全,L,R628,LC1C,=,http://id.who.int/icd/entity/551140748,=,MG44.1Z
+18,低体重,L,R628,NAGN,=,http://id.who.int/icd/entity/1232517390,=,MG44.11
+18,体重増加不全,L,R628,PH92,=,http://id.who.int/icd/entity/1232517390,=,MG44.11
+18,体重増加不良,S1,R628,PH92,=,http://id.who.int/icd/entity/1232517390,=,MG44.11
+18,幼稚症,L,R628,R127,=,http://id.who.int/icd/entity/551140748,=,MG44.1Z
+18,発育異常,L,R629,AN5N,=,http://id.who.int/icd/entity/551140748,=,MG44.1Z
+18,身体標準発育不足,L,R629,D3RR,=,http://id.who.int/icd/entity/551140748,=,MG44.1Z
+18,発育遅延,L,R629,U3C8,=,http://id.who.int/icd/entity/551140748,=,MG44.1Z
+18,食欲不振,L,R630,D5G1,=,http://id.who.int/icd/entity/2137507044,=,MG43.7 
+18,食欲減退,S2,R630,D5G1,=,http://id.who.int/icd/entity/2119032619,=,MG43.8
+18,口渇症,L,R631,K2JL,=,http://id.who.int/icd/entity/439093618,=,MG43.0
+18,口渇,S1,R631,K2JL,=,http://id.who.int/icd/entity/439093618,=,MG43.0
+18,口渇の作用,S1,R631,K2JL,=,http://id.who.int/icd/entity/1982170402,=,NF07.1
+18,頻渇多飲症,S1,R631,K2JL,=,http://id.who.int/icd/entity/439093618,=,MG43.0
+18,多飲症,L,R631,RVMH,=,http://id.who.int/icd/entity/439093618,=,MG43.0
+18,過食症,L,R632,DTRM,=,http://id.who.int/icd/entity/1587408889,=,MG43.9
+18,多食症,S1,R632,DTRM,=,http://id.who.int/icd/entity/1587408889,=,MG43.9
+18,栄養過剰,L,R632,MAPF,=,http://id.who.int/icd/entity/1853970831,=,MG43.1
+18,経口摂取困難,L,R633,R2FN,=,http://id.who.int/icd/entity/197825563,=,MG43.3Z
+18,体重減少,L,R634,KLMN,=,http://id.who.int/icd/entity/2015627151,=,MG43.5 
+18,異常体重減少,L,R634,LCCV,=,http://id.who.int/icd/entity/2015627151,=,MG43.5 
+18,やせ,L,R634,VSSQ,=,http://id.who.int/icd/entity/2015627151 ,=,MG43.5 
+18,異常体重増加,L,R635,GUSF,=,http://id.who.int/icd/entity/493865499,=,MG43.6 
+18,体重増加,L,R635,GUSV,=,http://id.who.int/icd/entity/493865499,=,MG43.6 
+18,偏食,L,R638,VA4H,<,http://id.who.int/icd/entity/1167224858,<,MG43.Y
+18,悪液質,L,R64,FQS1,=,http://id.who.int/icd/entity/914154382,=,MG20.Z
+18,全身性炎症反応症候群,L,R659,DKKL,=,http://id.who.int/icd/entity/973161881,=,MG46 
+18,SIRS,S1,R659,DKKL,=,http://id.who.int/icd/entity/973161881,=,MG46 
+18,全身性炎症性反応症候群,S1,R659,DKKL,=,http://id.who.int/icd/entity/973161881,=,MG46 
+18,乳児の過度の啼泣,L,R681,RLUD,=,http://id.who.int/icd/entity/1851132850,=,MG44.0 
+18,過敏性乳児,L,R681,SJRD,=,http://id.who.int/icd/entity/1851132850,=,MG44.0 
+18,口乾,L,R682,K06M,<,http://id.who.int/icd/entity/430383563 & http://id.who.int/icd/entity/1337584902,<,MD80.1 & XA8182
+18,口唇乾燥,L,R682,KR6S,=,http://id.who.int/icd/entity/738887534,<,MD80.1 & XA8JD4
+18,口内乾燥,L,R682,R1KE,<,http://id.who.int/icd/entity/430383563 & http://id.who.int/icd/entity/1337584902,<,MD80.1 & XA8182
+18,口内乾燥感,S1,R682,R1KE,<,http://id.who.int/icd/entity/430383563 & http://id.who.int/icd/entity/1337584902,<,MD80.1 & XA8182
+18,ばち爪,L,R683,NR8N,=,http://id.who.int/icd/entity/2142279385,<,EE10.0
+18,ばち状爪,S1,R683,NR8N,=,http://id.who.int/icd/entity/2142279385,<,EE10.0
+18,ばち指,L,R683,UCVJ,=,http://id.who.int/icd/entity/2142279385,<,EE10.0
+18,太鼓ばち指,S1,R683,UCVJ,=,http://id.who.int/icd/entity/2142279385,<,EE10.0
+18,気滞,L,R688,B0JK,=,http://id.who.int/icd/entity/218337279,=,SE91
+18,水毒,L,R688,GL4R,=,http://id.who.int/icd/entity/59596855,=,SF11
+18,水滞,S1,R688,GL4R,=,http://id.who.int/icd/entity/59596855,=,SF11
+18,気逆,L,R688,K3HF,=,http://id.who.int/icd/entity/828599543,=,SE92
+18,冷え症,L,R688,LE41,=,http://id.who.int/icd/entity/1535874374,=,SE73
+18,冷症,S1,R688,LE41,=,http://id.who.int/icd/entity/1535874374,=,SE73
+18,多臓器不全,L,R688,MGC8,=,http://id.who.int/icd/entity/243925837,=,MG4A
+18,エンドトキシン血症,L,R688,Q2DB,=,http://id.who.int/icd/entity/622600769 & http://id.who.int/icd/entity/180747195,=,1G40 & XN5PZ 
+18,悪寒戦慄,L,R688,QG6S,=,http://id.who.int/icd/entity/1495646237,=,MG21
+18,悪寒,L,R688,R4LU,=,http://id.who.int/icd/entity/1495646237,=,MG21
+18,乳幼児突発性危急事態,L,R688,RMBK,=,http://id.who.int/icd/entity/2130900368,<,MG44.Y
+18,ALTE,S1,R688,RMBK,=,http://id.who.int/icd/entity/2130900368,<,MG44.Y
+18,気血両虚,L,R688,U7AN,=,http://id.who.int/icd/entity/1235397351 / http://id.who.int/icd/entity/2135055784,=,SE90 / SF00
+18,口腔機能発達不全症,L,R688,UKMK,<,http://id.who.int/icd/entity/1478037730,<,ME86.Z
+18,お血,L,R688,VH1J,=,http://id.who.int/icd/entity/1004763328,=,SF01 
+18,診断不明疾患,L,R69,BAVB,=,http://id.who.int/icd/entity/1525902245,=,MG48
+18,赤沈促進,L,R700,FFMA,=,http://id.who.int/icd/entity/1861896171,=,MA1A.0
+18,赤血球沈降速度促進,S1,R700,FFMA,=,http://id.who.int/icd/entity/1861896171,=,MA1A.0
+18,過粘稠度症候群,L,R701,C4M3,=,http://id.who.int/icd/entity/196184703,=,MA1A.1
+18,過粘稠血症候群,S1,R701,C4M3,=,http://id.who.int/icd/entity/196184703,=,MA1A.1
+18,過粘稠症候群,S1,R701,C4M3,=,http://id.who.int/icd/entity/196184703,=,MA1A.1
+18,血漿粘度異常,L,R701,V4TN,=,http://id.who.int/icd/entity/196184703,=,MA1A.1
+18,赤血球大小不同症,L,R71,FN5B,=,http://id.who.int/icd/entity/1437360243,<,MA16.0Y
+18,異常赤血球,L,R71,MEUQ,=,http://id.who.int/icd/entity/61973866,=,MA16.0Z
+18,変形赤血球症,L,R71,QR3N,=,http://id.who.int/icd/entity/893641272,<,MA16.0Y
+18,異常白血球分化,L,R72,L401,=,http://id.who.int/icd/entity/1998386581,=,MA16.1Z 
+18,白血球の異常,L,R72,U40S,=,http://id.who.int/icd/entity/1998386581,=,MA16.1Z 
+18,境界型糖尿病,L,R730,ATBA,=,http://id.who.int/icd/entity/1583355636,=,5A40.Z 
+18,境界域糖尿病,S1,R730,ATBA,=,http://id.who.int/icd/entity/1583355636,=,5A40.Z 
+18,糖尿病境界型,S1,R730,ATBA,=,http://id.who.int/icd/entity/1583355636,=,5A40.Z 
+18,境界型糖代謝異常,S1,R730,ATBA,=,http://id.who.int/icd/entity/1583355636,=,5A40.Z 
+18,潜在性糖尿病,L,R730,B1FR,=,http://id.who.int/icd/entity/1583355636,=,5A40.Z 
+18,耐糖能異常,L,R730,BH5E,=,http://id.who.int/icd/entity/1583355636,=,5A40.Z 
+18,IGT,S1,R730,BH5E,=,http://id.who.int/icd/entity/1583355636,=,5A40.Z 
+18,グルコース耐性異常,S1,R730,BH5E,=,http://id.who.int/icd/entity/1583355636,=,5A40.Z 
+18,耐糖能障害,S2,R730,BH5E,=,http://id.who.int/icd/entity/1583355636,=,5A40.Z 
+18,前糖尿病,L,R730,EKHT,=,http://id.who.int/icd/entity/1583355636,=,5A40.Z
+18,前糖尿症,S1,R730,EKHT,=,http://id.who.int/icd/entity/1583355636,=,5A40.Z
+18,ぶどう糖負荷試験異常,L,R730,J6BK,=,http://id.who.int/icd/entity/1583355636,=,5A40.Z
+18,ブドウ糖負荷試験異常,S1,R730,J6BK,=,http://id.who.int/icd/entity/1583355636,=,5A40.Z
+18,GTT異常,S1,R730,J6BK,=,http://id.who.int/icd/entity/1583355636,=,5A40.Z
+18,化学的糖尿病,L,R730,TLJM,=,http://id.who.int/icd/entity/388963453,=,5A13.4
+18,高血糖症,L,R739,AJFN,=,http://id.who.int/icd/entity/307705857,=,MA18.0Z
+18,高血糖(症),S1,R739,AJFN,=,http://id.who.int/icd/entity/307705857,=,MA18.0Z
+18,血糖高値,S1,R739,AJFN,=,http://id.who.int/icd/entity/307705857,=,MA18.0Z
+18,高血糖,S1,R739,AJFN,=,http://id.who.int/icd/entity/307705857,=,MA18.0Z
+18,血糖値上昇,S1,R739,AJFN,=,http://id.who.int/icd/entity/307705857,=,MA18.0Z
+18,トランスアミナーゼ値上昇,L,R740,B5RE,=,http://id.who.int/icd/entity/386729123,<,MA10.0
+18,高ＬＤＨ血症,L,R740,LSGC,=,http://id.who.int/icd/entity/1409586837,=,MA10.0
+18,高LDH血症,S0,R740,LSGC,=,http://id.who.int/icd/entity/1409586837,=,MA10.0
+18,乳酸脱水素酵素値上昇,S1,R740,LSGC,=,http://id.who.int/icd/entity/1409586837,=,MA10.0
+18,高クレアチンキナーゼ血症,L,R748,BPHU,<,http://id.who.int/icd/entity/1518538819,<,MA10.1
+18,高CK血症,S1,R748,BPHU,<,http://id.who.int/icd/entity/1518538819,<,MA10.1
+18,高CPK血症,S1,R748,BPHU,<,http://id.who.int/icd/entity/1518538819,<,MA10.1
+18,リパーゼ値異常,L,R748,DS1M,=,http://id.who.int/icd/entity/689836871,<,MA10.1
+18,高アルカリホスファターゼ血症,L,R748,JVDA,=,http://id.who.int/icd/entity/2092178842,<,MA10.1
+18,アルカリホスファターゼ値異常,L,R748,NJB8,=,http://id.who.int/icd/entity/738426455,<,MA10.1
+18,マクロアミラーゼ血症,L,R748,SDPS,=,http://id.who.int/icd/entity/1290599454,<,MA10.1
+18,高アミラーゼ血症,L,R748,TA13,=,http://id.who.int/icd/entity/1290599454,<,MA10.1
+18,アミラーゼ値異常,S2,R748,TA13,=,http://id.who.int/icd/entity/1290599454,<,MA10.1
+18,酸ホスファターゼ値異常,L,R748,UQSF,=,http://id.who.int/icd/entity/1286518012,<,MA10.1
+18,血清酵素値異常,L,R749,J7U1,=,http://id.who.int/icd/entity/1070128599 ,=,MA10.2
+18,ＡＩＤＳ検査陽性,L,R75,BM8T,=,http://id.who.int/icd/entity/82994689 ,=,MA14.0
+18,AIDS検査陽性,S0,R75,BM8T,=,http://id.who.int/icd/entity/82994689 ,=,MA14.0
+18,エイズ検査陽性,S1,R75,BM8T,=,http://id.who.int/icd/entity/82994689 ,=,MA14.0
+18,ＨＩＶ検査陽性,L,R75,VUS4,=,http://id.who.int/icd/entity/82994689 ,=,MA14.0
+18,HIV検査陽性,S0,R75,VUS4,=,http://id.who.int/icd/entity/82994689 ,=,MA14.0
+18,HIV抗体陽性,S1,R75,VUS4,=,http://id.who.int/icd/entity/82994689 ,=,MA14.0
+18,抗体価上昇,L,R760,A106,=,http://id.who.int/icd/entity/1232862764 ,=,MA14.1C
+18,ツベルクリン反応偽陽性,L,R761,A352,=,http://id.who.int/icd/entity/741356478,=,MA14.10 
+18,ツベルクリン反応陽性,L,R761,H7PP,=,http://id.who.int/icd/entity/2020600412 ,<,MA14.10
+18,強陽性ツベルクリン反応,L,R761,P479,=,http://id.who.int/icd/entity/2020600412 ,<,MA14.10
+18,強陽性ツ反応,S1,R761,P479,=,http://id.who.int/icd/entity/2020600412 ,<,MA14.10
+18,非特異性ツベルクリン反応,L,R761,P8SM,=,http://id.who.int/icd/entity/741356478,=,MA14.10 
+18,ツベルクリン反応陰性化,L,R761,V5SD,=,http://id.who.int/icd/entity/741356478,=,MA14.10 
+18,梅毒血清反応偽陽性,L,R762,E8P2,=,http://id.who.int/icd/entity/1486709569 ,=,MA14.16
+18,血清梅毒反応偽陽性,S1,R762,E8P2,=,http://id.who.int/icd/entity/1486709569 ,=,MA14.16
+18,ワッセルマン反応偽陽性,L,R762,EK16,=,http://id.who.int/icd/entity/1486709569 ,=,MA14.16
+18,WASSERMANN反応偽陽性,S1,R762,EK16,=,http://id.who.int/icd/entity/1486709569 ,=,MA14.16
+18,梅毒反応生物学的偽陽性,L,R762,NDTQ,=,http://id.who.int/icd/entity/1486709569 ,=,MA14.16
+18,ＥＤＴＡ依存性偽性血小板減少症,L,R768,BR0M,<,http://id.who.int/icd/entity/1885288190 & http://id.who.int/icd/entity/866096676,<,MA14.1 & EDTA
+18,EDTA依存性偽性血小板減少症,S0,R768,BR0M,<,http://id.who.int/icd/entity/1885288190 & http://id.who.int/icd/entity/866096676,<,MA14.1 & EDTA
+18,ＨＢｃ抗体検査陽性,L,R768,DFEE,<,http://id.who.int/icd/entity/1885288190 ,<,MA14.1 
+18,HBC抗体検査陽性,S0,R768,DFEE,<,http://id.who.int/icd/entity/1885288190 ,<,MA14.1 
+18,免疫グロブリン値上昇,L,R768,E71K,<,http://id.who.int/icd/entity/1885288190 & http://id.who.int/icd/entity/1224917928,<,MA14.1 & XM1RS8
+18,ＨＢｓ抗原検査陽性,L,R768,FBGL,<,http://id.who.int/icd/entity/1885288190 ,<,MA14.1 
+18,HBS抗原検査陽性,S0,R768,FBGL,<,http://id.who.int/icd/entity/1885288190 ,<,MA14.1 
+18,HB抗原検査陽性,S2,R768,FBGL,<,http://id.who.int/icd/entity/1885288190 ,<,MA14.1 
+18,ＨＢｅ抗原検査陽性,L,R768,HM4V,<,http://id.who.int/icd/entity/1885288190 ,<,MA14.1 
+18,HBE抗原検査陽性,S0,R768,HM4V,<,http://id.who.int/icd/entity/1885288190 ,<,MA14.1 
+18,リウマチ反応陽性,L,R768,HS8U,<,http://id.who.int/icd/entity/1885288190 ,<,MA14.1 
+18,抗核抗体陽性,L,R768,LQ2E,=,http://id.who.int/icd/entity/1987530229,=,MA14.14 
+18,低補体血症,L,R768,NTD4,<,http://id.who.int/icd/entity/1885288190 ,<,MA14.1 
+18,ＨＢｓ抗体検査陽性,L,R768,RR76,<,http://id.who.int/icd/entity/1885288190 ,<,MA14.1 
+18,HBS抗体検査陽性,S0,R768,RR76,<,http://id.who.int/icd/entity/1885288190 ,<,MA14.1 
+18,ＨＣＶ抗体検査陽性,L,R768,VPS1,<,http://id.who.int/icd/entity/1885288190 ,<,MA14.1 
+18,HCV抗体検査陽性,S0,R768,VPS1,<,http://id.who.int/icd/entity/1885288190 ,<,MA14.1 
+18,高アルブミン血症,L,R770,BD9E,=,http://id.who.int/icd/entity/1434662571,=,MA19.0
+18,高ＩｇＧ血症,L,R771,C65P,<,http://id.who.int/icd/entity/1993720074,<,MA19.2
+18,高IGG血症,S0,R771,C65P,<,http://id.who.int/icd/entity/1993720074,<,MA19.2
+18,高ＩｇＭ血症,L,R771,F8UN,<,http://id.who.int/icd/entity/1993720074,<,MA19.2 
+18,高IGM血症,S0,R771,F8UN,<,http://id.who.int/icd/entity/1993720074,<,MA19.2 
+18,高ＩｇＡ血症,L,R771,F92B,<,http://id.who.int/icd/entity/1993720074,<,MA19.2
+18,高IGA血症,S0,R771,F92B,<,http://id.who.int/icd/entity/1993720074,<,MA19.2
+18,低グロブリン血症,L,R771,G5S9,<,http://id.who.int/icd/entity/818477887,<,MA19.2
+18,高ＩｇＤ血症,L,R771,G9DA,<,http://id.who.int/icd/entity/1993720074,<,MA19.2
+18,高IGD血症,S0,R771,G9DA,<,http://id.who.int/icd/entity/1993720074,<,MA19.2
+18,免疫グロブリン異常症,L,R771,MK3B,=,http://id.who.int/icd/entity/818477887,=,MA19.2
+18,高ＩｇＥ血症,L,R771,MQDK,<,http://id.who.int/icd/entity/1993720074,<,MA19.2
+18,高IGE血症,S0,R771,MQDK,<,http://id.who.int/icd/entity/1993720074,<,MA19.2
+18,高グロブリン血症,L,R771,SG3D,=,http://id.who.int/icd/entity/1993720074,<,MA19.2 
+18,グロブリン過剰血症,S1,R771,SG3D,=,http://id.who.int/icd/entity/1993720074,<,MA19.2 
+18,グロブリン血症,S1,R771,SG3D,=,http://id.who.int/icd/entity/1993720074,<,MA19.2 
+18,過グロブリン血症,S1,R771,SG3D,=,http://id.who.int/icd/entity/1993720074,<,MA19.2 
+18,ＡＦＰ高値,L,R772,RT1N,=,http://id.who.int/icd/entity/1147513794,=,MA19.1
+18,AFP高値,S0,R772,RT1N,=,http://id.who.int/icd/entity/1147513794,=,MA19.1
+18,高AFP血症,S1,R772,RT1N,=,http://id.who.int/icd/entity/1147513794,=,MA19.1
+18,アルファフェトプロテインの異常,S1,R772,RT1N,=,http://id.who.int/icd/entity/1147513794,=,MA19.1
+18,ＣＥＡ高値,L,R778,C8LB,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,CEA高値,S0,R778,C8LB,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,高CEA血症,S1,R778,C8LB,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,ＣＹＦＲＡ高値,L,R778,DCJS,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,CYFRA高値,S0,R778,DCJS,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,高CYFRA血症,S1,R778,DCJS,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,ＣＡ１９－９高値,L,R778,E5UL,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,CA19-9高値,S0,R778,E5UL,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,高CA19-9血症,S1,R778,E5UL,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,ＰＳＡ高値,L,R778,HKUS,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,PSA高値,S0,R778,HKUS,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,高PSA血症,S1,R778,HKUS,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,ＣＡ１２５高値,L,R778,JSGT,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,CA125高値,S0,R778,JSGT,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,高CA125血症,S1,R778,JSGT,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,ＮＳＥ高値,L,R778,M7JN,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,NSE高値,S0,R778,M7JN,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,高NSE血症,S1,R778,M7JN,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,ＣＡ１５－３高値,L,R778,N7VF,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,CA15-3高値,S0,R778,N7VF,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,高CA15-3血症,S1,R778,N7VF,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,ＳＣＣ高値,L,R778,NVMN,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,SCC高値,S0,R778,NVMN,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,高SCC血症,S1,R778,NVMN,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,ＰＩＶＫＡ－ＩＩ高値,L,R778,SH4M,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,PIVKA-II高値,S0,R778,SH4M,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,高PIVKA-II血症,S1,R778,SH4M,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,ＳＬＸ高値,L,R778,UD4H,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,SLX高値,S0,R778,UD4H,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,高SLX血症,S1,R778,UD4H,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,低レニン血症,L,R778,V7V6,<,http://id.who.int/icd/entity/1518538819,<,MA10.1
+18,高線維素血症,L,R779,C925,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,線維素過剰血症,S1,R779,C925,<,http://id.who.int/icd/entity/353696620,<,MA19.Y
+18,血中アルコール値上昇,L,R780,CALF,=,http://id.who.int/icd/entity/517309608,<,MA13.1
+18,血中のアルコールの検出,S2,R780,CALF,=,http://id.who.int/icd/entity/453502231,=,MA13.1
+18,血中のアヘン薬物の検出,L,R781,VDCG,=,http://id.who.int/icd/entity/2118920323,=,MA12.0
+18,血中のコカインの検出,L,R782,HA8E,=,http://id.who.int/icd/entity/182548604,=,MA12.1
+18,血中の幻覚剤の検出,L,R783,NA8H,=,http://id.who.int/icd/entity/1873458666,=,MA12.2
+18,血中の向精神薬の検出,L,R785,S57U,=,http://id.who.int/icd/entity/2031086568,=,MA12.3 
+18,血中のステロイド物質の検出,L,R786,QBS2,=,http://id.who.int/icd/entity/228768535 ,=,MA12.4
+18,血中の重金属の異常値,L,R787,KAT1,=,http://id.who.int/icd/entity/1760130691,=,MA13.0
+18,血中鉄異常,L,R790,C40D,=,http://id.who.int/icd/entity/1740612496  ,<,MA18.1
+18,鉄血中値異常,S1,R790,C40D,=,http://id.who.int/icd/entity/1740612496  ,<,MA18.1
+18,血中マグネシウム異常,L,R790,CE3E,=,http://id.who.int/icd/entity/409040927 ,<,MA18.1
+18,マグネシウム血中値異常,S1,R790,CE3E,=,http://id.who.int/icd/entity/409040927 ,<,MA18.1
+18,血中銅異常,L,R790,JG75,=,http://id.who.int/icd/entity/90227854 ,<,MA18.1
+18,銅血中値異常,S1,R790,JG75,=,http://id.who.int/icd/entity/90227854,<,MA18.1
+18,血中コバルト異常,L,R790,NEJF,=,http://id.who.int/icd/entity/1529556077 ,<,MA18.1
+18,血中ミネラル異常,L,R790,TN4P,=,http://id.who.int/icd/entity/134163862,=,MA18.1
+18,血中亜鉛異常,L,R790,U8FP,=,http://id.who.int/icd/entity/145482153,<,MA18.1
+18,低炭酸ガス血症,L,R798,B5N9,<,http://id.who.int/icd/entity/1084917859 ,<,MA18.2
+18,アセトン血症,L,R798,DMPP,=,http://id.who.int/icd/entity/336242200 ,<,MA18.Y 
+18,高乳酸血症,L,R798,FRTR,<,http://id.who.int/icd/entity/221651900,<,MA18.Y
+18,血液ガス値異常,L,R798,KS2D,=,http://id.who.int/icd/entity/1084917859,=,MA18.2
+18,血中ガス値異常,S1,R798,KS2D,=,http://id.who.int/icd/entity/1084917859,=,MA18.2
+18,高尿酸尿症,L,R798,LRPG,=,http://id.who.int/icd/entity/356149556,<,5C55.Y 
+18,高窒素血症,L,R798,N568,=,http://id.who.int/icd/entity/1961174109 ,<,MA18.Y
+18,窒素過剰血症,S1,R798,N568,=,http://id.who.int/icd/entity/1961174109 ,<,MA18.Y
+18,遺伝性乳癌卵巣癌症候群,L,R798,N9J1,=,http://id.who.int/icd/entity/1258896144 ,=,2C65
+18,遺伝性乳がん卵巣がん症候群,S1,R798,N9J1,=,http://id.who.int/icd/entity/1258896144 ,=,2C65
+18,HBOC,S1,R798,N9J1,=,http://id.who.int/icd/entity/1258896144 ,=,2C65
+18,高ビリルビン血症,L,R798,RR3A,=,http://id.who.int/icd/entity/1500742669,<,5C58.0Y
+18,ビリルビン血症,S1,R798,RR3A,=,http://id.who.int/icd/entity/1056591229,=,ME10.1
+18,一過性蛋白尿,L,R80,ADUS,<,http://id.who.int/icd/entity/930895737,<,MF96.Z
+18,ベンス・ジョーンズ蛋白尿症,L,R80,C2LT,=,http://id.who.int/icd/entity/696187905,=,MF96.1
+18,BENCE JONES蛋白尿症,S1,R80,C2LT,=,http://id.who.int/icd/entity/696187905,=,MF96.1
+18,アルブミン尿,L,R80,DJB4,=,http://id.who.int/icd/entity/930895737,=,MF96.Z
+18,新生児蛋白尿症,L,R80,JJV6,=,http://id.who.int/icd/entity/930895737 & http://id.who.int/icd/entity/1352518340,=,MF96.Z & XT16
+18,無症候性蛋白尿,L,R80,NMDC,=,http://id.who.int/icd/entity/930895737 & http://id.who.int/icd/entity/1512990933,=,MF96.Z & XT3B
+18,蛋白尿,L,R80,NP7L,=,http://id.who.int/icd/entity/930895737 ,=,MF96.Z
+18,たんぱく尿,S1,R80,NP7L,=,http://id.who.int/icd/entity/930895737 ,=,MF96.Z
+18,尿蛋白陽性,S1,R80,NP7L,=,http://id.who.int/icd/entity/930895737 ,=,MF96.Z
+18,機能性蛋白尿,L,R80,UFFK,=,http://id.who.int/icd/entity/930895737,=,MF96.Z
+18,高血糖性糖尿,L,R81,BQEC,=,http://id.who.int/icd/entity/1406987921 / http://id.who.int/icd/entity/307705857 ,=,MF93 / MA18.0Z
+18,五炭糖尿症,L,R81,CA7R,<,http://id.who.int/icd/entity/1406987921,<,MF93
+18,糖尿,L,R81,DV8B,=,http://id.who.int/icd/entity/1406987921,=,MF93
+18,尿糖,S1,R81,DV8B,=,http://id.who.int/icd/entity/1406987921,=,MF93
+18,糖尿(症),S1,R81,DV8B,=,http://id.who.int/icd/entity/1406987921,=,MF93
+18,糖尿症,S1,R81,DV8B,=,http://id.who.int/icd/entity/1406987921,=,MF93
+18,食事性糖尿,L,R81,E7NQ,<,http://id.who.int/icd/entity/1406987921,<,MF93
+18,食餌性糖尿,S1,R81,E7NQ,<,http://id.who.int/icd/entity/1406987921,<,MF93
+18,一過性糖尿,L,R81,EFQB,<,http://id.who.int/icd/entity/1406987921,<,MF93
+18,正常血糖性糖尿,L,R81,FNAL,<,http://id.who.int/icd/entity/1406987921,<,MF93
+18,情動性糖尿,L,R81,G3A1,<,http://id.who.int/icd/entity/1406987921,<,MF93
+18,神経性糖尿,S1,R81,G3A1,<,http://id.who.int/icd/entity/1406987921,<,MF93
+18,血乳び尿症,L,R820,CR5A,<,http://id.who.int/icd/entity/2095915189,<,MF92
+18,血乳糜尿症,S1,R820,CR5A,<,http://id.who.int/icd/entity/2095915189,<,MF92
+18,脂肪尿症,L,R820,NDPA,=,http://id.who.int/icd/entity/2095915189,=,MF92
+18,脂肪尿,S1,R820,NDPA,=,http://id.who.int/icd/entity/2095915189,=,MF92
+18,脂肪尿(症),S1,R820,NDPA,=,http://id.who.int/icd/entity/2095915189,=,MF92
+18,乳び尿,L,R820,P7J2,=,http://id.who.int/icd/entity/2095915189,=,MF92
+18,乳糜尿症,S1,R820,P7J2,=,http://id.who.int/icd/entity/2095915189,=,MF92
+18,乳糜尿,S1,R820,P7J2,=,http://id.who.int/icd/entity/2095915189,=,MF92
+18,乳糜尿(症),S1,R820,P7J2,=,http://id.who.int/icd/entity/2095915189,=,MF92
+18,急性発作性ミオグロビン尿症,L,R821,DJ4N,=,http://id.who.int/icd/entity/430370081 & http://id.who.int/icd/entity/786106375,=,MF95 & XT5R 
+18,ミオグロビン尿,L,R821,FLJP,=,http://id.who.int/icd/entity/430370081,=,MF95 
+18,ミオグロビン尿症,S1,R821,FLJP,=,http://id.who.int/icd/entity/430370081,=,MF95 
+18,ビリルビン尿,L,R822,M22B,=,http://id.who.int/icd/entity/1829486048,=,MF91
+18,ビリルビン尿症,S1,R822,M22B,=,http://id.who.int/icd/entity/1829486048,=,MF91
+18,ビリルビン尿(症),S1,R822,M22B,=,http://id.who.int/icd/entity/1829486048,=,MF91
+18,胆汁色素尿,S1,R822,M22B,=,http://id.who.int/icd/entity/1829486048,=,MF91
+18,黄疸尿,S1,R822,M22B,=,http://id.who.int/icd/entity/1829486048,=,MF91
+18,ヘモグロビン尿症,L,R823,NE7M,=,http://id.who.int/icd/entity/138440778,=,MF94
+18,血色素尿症,S1,R823,NE7M,=,http://id.who.int/icd/entity/138440778,=,MF94
+18,ヘモグロビン尿(症),S1,R823,NE7M,=,http://id.who.int/icd/entity/138440778,=,MF94
+18,ヘモグロビン尿,S1,R823,NE7M,=,http://id.who.int/icd/entity/138440778,=,MF94
+18,特発性血色素尿症,L,R823,PQA5,=,http://id.who.int/icd/entity/138440778 & http://id.who.int/icd/entity/894194405,=,MF94 & XB5F
+18,メトヘモグロビン尿症,L,R823,TRKJ,=,http://id.who.int/icd/entity/856346223,<,MF9Y
+18,ケトン尿症,L,R824,P4D3,=,http://id.who.int/icd/entity/2075059166,=,MF90
+18,アセトン尿症,L,R824,VK24,=,http://id.who.int/icd/entity/2075059166,=,MF90
+18,アセトン尿,S1,R824,VK24,=,http://id.who.int/icd/entity/2075059166,=,MF90
+18,尿中ステロイド上昇,L,R825,KHAF,=,http://id.who.int/icd/entity/206313225,=,MF99 & XM8JY6
+18,尿中カテコラミン上昇,L,R825,LHCV,=,http://id.who.int/icd/entity/2110388186,<,MF99
+18,尿中インドール酢酸上昇,L,R825,PM07,=,http://id.who.int/icd/entity/1939000454,<,MF99
+18,尿中１７－ケトステロイド上昇,L,R825,S788,=,http://id.who.int/icd/entity/1288967650,<,MF99
+18,尿中17-ケトステロイド上昇,S0,R825,S788,=,http://id.who.int/icd/entity/1288967650,<,MF99
+18,尿中重金属値上昇,L,R826,M6FC,=,http://id.who.int/icd/entity/1943045224,<,MF9A 
+18,尿培養所見陽性,L,R827,M72J,=,http://id.who.int/icd/entity/251900705,=,MF9B
+18,尿の微生物学的検査における異常所見,S2,R827,M72J,=,http://id.who.int/icd/entity/251900705,=,MF9B
+18,円柱尿,L,R828,SFEK,=,http://id.who.int/icd/entity/315455711,<,MF9Y
+18,コレステロール尿症,L,R829,ATC9,<,http://id.who.int/icd/entity/388066295 ,<,MF9Y
+18,高しゅう酸尿症,L,R829,FETL,<,http://id.who.int/icd/entity/388066295 ,<,MF9Y
+18,高蓚酸尿症,S1,R829,FETL,<,http://id.who.int/icd/entity/388066295 ,<,MF9Y
+18,尿細胞数増加,L,R829,FQAL,=,http://id.who.int/icd/entity/315455711 ,<,MF9Y
+18,高張尿,L,R829,FSTN,<,http://id.who.int/icd/entity/388066295 ,<,MF9Y
+18,高アミラーゼ尿症,L,R829,GFMP,<,http://id.who.int/icd/entity/388066295 ,<,MF9Y
+18,結晶尿,L,R829,HFM3,=,http://id.who.int/icd/entity/1830003538 ,<,MF9Y
+18,馬尿酸尿症,L,R829,J41C,<,http://id.who.int/icd/entity/388066295 ,<,MF9Y
+18,希釈尿,L,R829,M8F8,<,http://id.who.int/icd/entity/388066295 ,<,MF9Y
+18,濃縮尿,L,R829,MKG5,<,http://id.who.int/icd/entity/388066295 ,<,MF9Y
+18,尿中円柱,L,R829,N1UP,=,http://id.who.int/icd/entity/315455711 ,<,MF9Y
+18,尿円柱陽性,S1,R829,N1UP,=,http://id.who.int/icd/entity/315455711 ,<,MF9Y
+18,高窒素尿症,L,R829,N3P4,<,http://id.who.int/icd/entity/388066295 ,<,MF9Y
+18,窒素過剰尿症,S1,R829,N3P4,<,http://id.who.int/icd/entity/388066295 ,<,MF9Y
+18,ヒストン尿症,L,R829,NR8C,<,http://id.who.int/icd/entity/388066295 ,<,MF9Y
+18,メラニン尿,L,R829,P7D9,=,http://id.who.int/icd/entity/311373887 ,<,MF9Y
+18,混濁尿,L,R829,QMES,<,http://id.who.int/icd/entity/388066295 ,<,MF9Y
+18,尿混濁,S1,R829,QMES,<,http://id.who.int/icd/entity/388066295 ,<,MF9Y
+18,塩類尿,L,R829,U30U,<,http://id.who.int/icd/entity/388066295 ,<,MF9Y
+18,低張尿,L,R829,VMGR,<,http://id.who.int/icd/entity/388066295 ,<,MF9Y
+18,尿酸塩尿,L,R829,VRL8,=,http://id.who.int/icd/entity/1125538370,<,MF9Y
+18,尿酸塩尿症,S1,R829,VRL8,=,http://id.who.int/icd/entity/1125538370,<,MF9Y
+18,髄液ＬＤＨ上昇,L,R830,D7Q6,<,http://id.who.int/icd/entity/1612048438 ,<,MB70.0 
+18,髄液LDH上昇,S0,R830,D7Q6,<,http://id.who.int/icd/entity/1612048438 ,<,MB70.0 
+18,脳脊髄液酵素異常,L,R830,RCPK,=,http://id.who.int/icd/entity/1612048438 ,=,MB70.0 
+18,脳脊髄液ホルモンの異常値,L,R831,LSEP,=,http://id.who.int/icd/entity/90056096 ,=,MB70.1
+18,髄液糖値上昇,L,R833,K95L,=,http://id.who.int/icd/entity/347650251,=,MB70.3
+18,髄液糖値低下,L,R833,SERK,=,http://id.who.int/icd/entity/347650251,=,MB70.3
+18,髄液結核菌陽性,L,R835,C6NS,=,http://id.who.int/icd/entity/1689921314 & http://id.who.int/icd/entity/43213186,<,MB70.5 & XN1N2
+18,髄液細菌培養陽性,L,R835,MQ35,=,http://id.who.int/icd/entity/1689921314 & http://id.who.int/icd/entity/83217129 ,<,MB70.5 & XN74M
+18,髄液クリプトコッカス陽性,L,R835,PFCN,=,http://id.who.int/icd/entity/1689921314 & http://id.who.int/icd/entity/222722214,<,MB70.5 & XN69C
+18,髄液クリプトコックス陽性,S1,R835,PFCN,=,http://id.who.int/icd/entity/1689921314 & http://id.who.int/icd/entity/222722214,<,MB70.5 & XN69C
+18,髄液ウイルス陽性,L,R835,UGSK,=,http://id.who.int/icd/entity/1689921314 & http://id.who.int/icd/entity/1208497819 ,<,MB70.5 & XN3BH
+18,髄液細胞数増加,L,R836,KFR2,<,http://id.who.int/icd/entity/1991292468,<,MB70.6
+18,髄液好中球数増加,L,R836,QL2N,<,http://id.who.int/icd/entity/1991292468 & http://id.who.int/icd/entity/53850604 ,<,MB70.6 & XA8C44
+18,血性髄液,L,R838,E7NS,<,http://id.who.int/icd/entity/1855090404,<,MB70.8
+18,髄液混濁,L,R838,HFGC,<,http://id.who.int/icd/entity/1855090404,<,MB70.8
+18,髄液蛋白細胞数解離,L,R838,J7PK,<,http://id.who.int/icd/entity/1855090404,<,MB70.8
+18,髄液グロブリン反応陽性,L,R838,JARV,<,http://id.who.int/icd/entity/1855090404,<,MB70.8
+18,髄液線維素網析出,L,R838,Q14E,<,http://id.who.int/icd/entity/1855090404,<,MB70.8
+18,髄液蛋白増加,L,R838,U6T3,<,http://id.who.int/icd/entity/1855090404,<,MB70.8
+18,脳脊髄液圧上昇,L,R839,VTF5,<,http://id.who.int/icd/entity/1111127034,<,MB70.Z 
+18,胸水ＬＤＨ上昇,L,R840,FSRB,<,http://id.who.int/icd/entity/1533843828 ,<,MD40.0 
+18,胸水LDH上昇,S0,R840,FSRB,<,http://id.who.int/icd/entity/1533843828 ,<,MD40.0 
+18,胸水糖値上昇,L,R843,BVMM,<,http://id.who.int/icd/entity/801229195 ,<,MD40.3
+18,胸水糖値低下,L,R843,URQF,<,http://id.who.int/icd/entity/801229195 ,<,MD40.3
+18,胸水結核菌陽性,L,R845,ABGS,=,http://id.who.int/icd/entity/962893707 & http://id.who.int/icd/entity/43213186,=,MD40.5Y & XN1N2
+18,胸水細菌培養陽性,L,R845,EAQV,<,http://id.who.int/icd/entity/962893707,<,MD40.5Y
+18,胸水真菌陽性,L,R845,H1C6,<,http://id.who.int/icd/entity/962893707,<,MD40.5Y
+18,胸水細胞診陽性,L,R846,L6VK,<,http://id.who.int/icd/entity/1305069430 ,<,MD40.6
+18,喀痰検査異常,L,R848,A90R,=,http://id.who.int/icd/entity/896020072 ,<,MD40.Y
+18,胸水蛋白増加,L,R848,D172,<,http://id.who.int/icd/entity/1783597013 ,<,MD40.Y
+18,胸水蛋白量増加,S1,R848,D172,<,http://id.who.int/icd/entity/1783597013 ,<,MD40.Y
+18,胸水線維素網析出,L,R848,FBHL,<,http://id.who.int/icd/entity/1783597013 ,<,MD40.Y
+18,咽頭擦過検査異常,L,R848,FKBU,=,http://id.who.int/icd/entity/259117810 ,<,MD40.Y
+18,胸水検査異常,L,R848,FUQ8,=,http://id.who.int/icd/entity/1783597013 ,<,MD40.Y
+18,気管支肺胞洗浄液異常,L,R848,K6RH,=,http://id.who.int/icd/entity/812991352 ,<,MD40.Y
+18,胸水腫瘍マーカー高値,L,R848,KT7F,<,http://id.who.int/icd/entity/1783597013 ,<,MD40.Y
+18,鼻汁検査異常,L,R848,MBRJ,=,http://id.who.int/icd/entity/1511482961 ,<,MD40.Y
+18,腹水細胞診陽性,L,R856,S8M2,<,http://id.who.int/icd/entity/1362169845 ,<,ME20.6
+18,腹水腫瘍マーカー高値,L,R858,AJVV,<,http://id.who.int/icd/entity/271834261 ,<,ME20.Y
+18,精液異常,L,R869,FAH6,=,http://id.who.int/icd/entity/512302497 ,<,MF7Y & XM0RZ0 
+18,精子異常,L,R869,Q4DV,=,http://id.who.int/icd/entity/544161769 ,<,MF7Y & XA2470
+18,子宮頚部細胞診・軽度扁平上皮内病変,L,R876,BVNC,=,http://id.who.int/icd/entity/1322223068 & http://id.who.int/icd/entity/1303207091,=,MF66.0 & XH4611 
+18,子宮頸部細胞診・軽度扁平上皮内病変,S1,R876,BVNC,=,http://id.who.int/icd/entity/1322223068 & http://id.who.int/icd/entity/1303207091,=,MF66.0 & XH4611 
+18,LSIL,S1,R876,BVNC,=,http://id.who.int/icd/entity/1322223068 & http://id.who.int/icd/entity/1303207091,=,MF66.0 & XH4611 
+18,腟スメア細胞診陽性,L,R876,GH3V,=,http://id.who.int/icd/entity/1280206666 & http://id.who.int/icd/entity/1145498957 ,=,MF66.Z & XA1LK7
+18,膣スメア細胞診陽性,S1,R876,GH3V,=,http://id.who.int/icd/entity/1280206666 & http://id.who.int/icd/entity/1145498957 ,=,MF66.Z & XA1LK7
+18,子宮頚部細胞診・意義不明な異型扁平上皮細胞,L,R876,HTKR,<,http://id.who.int/icd/entity/1322223068 ,<,MF66.0 
+18,ASC-US,S1,R876,HTKR,<,http://id.who.int/icd/entity/1322223068 ,<,MF66.0 
+18,子宮頸部細胞診・意義不明な異型扁平上皮細胞,S1,R876,HTKR,<,http://id.who.int/icd/entity/1322223068 ,<,MF66.0 
+18,子宮頚部細胞診・ＨＳＩＬを除外できない異型扁平上皮細胞,L,R876,SUC7,<,http://id.who.int/icd/entity/1322223068 ,<,MF66.0 
+18,子宮頚部細胞診・HSILを除外できない異型扁平上皮細胞,S0,R876,SUC7,<,http://id.who.int/icd/entity/1322223068 ,<,MF66.0 
+18,子宮頸部細胞診・HSILを除外できない異型扁平上皮細胞,S1,R876,SUC7,<,http://id.who.int/icd/entity/1322223068 ,<,MF66.0 
+18,ASC-H,S1,R876,SUC7,<,http://id.who.int/icd/entity/1322223068 ,<,MF66.0 
+18,子宮頚部細胞診・高度扁平上皮内病変,L,R876,VG7S,=,http://id.who.int/icd/entity/1322223068 & http://id.who.int/icd/entity/759415942,=,MF66.0 & XH3EA2
+18,HSIL,S1,R876,VG7S,=,http://id.who.int/icd/entity/1322223068 & http://id.who.int/icd/entity/759415942,=,MF66.0 & XH3EA2
+18,子宮頸部細胞診・高度扁平上皮内病変,S1,R876,VG7S,=,http://id.who.int/icd/entity/1322223068 & http://id.who.int/icd/entity/759415942 ,=,MF66.0 & XH3EA2
+18,パパニコロウ試験陽性,L,R896,QLS9,=,http://id.who.int/icd/entity/1322223068 ,=,MF66.0
+18,乳頭分泌物細胞診陽性,L,R896,T209,=,http://id.who.int/icd/entity/506625143 / http://id.who.int/icd/entity/1071313093,<,MG66 / MF3Y
+18,頭蓋内占拠性病変,L,R900,AE9F,=,http://id.who.int/icd/entity/1904765755 ,=,MB71.0 
+18,肺腫瘤,L,R91,D778,=,http://id.who.int/icd/entity/1977090654 ,<,MD41
+18,肺野円形陰影,L,R91,EDVB,<,http://id.who.int/icd/entity/825306359 & http://id.who.int/icd/entity/1992239052 ,<,MD41 & XA90M2 
+18,コイン状陰影,L,R91,FN91,=,http://id.who.int/icd/entity/704121178 ,<,MD41
+18,肺部異常陰影,L,R91,JLS8,=,http://id.who.int/icd/entity/825306359,<,MD41 
+18,肺腫瘤陰影,L,R91,KP5B,=,http://id.who.int/icd/entity/1977090654 ,<,MD41
+18,下肺野陰影,L,R91,L10V,<,http://id.who.int/icd/entity/825306359 & http://id.who.int/icd/entity/1992239052 ,<,MD41 & XA57M6
+18,肺野異常陰影,L,R91,LD2A,=,http://id.who.int/icd/entity/825306359 & http://id.who.int/icd/entity/1992239052 ,=,MD41 & XA57M6
+18,肺野不明影,S2,R91,LD2A,=,http://id.who.int/icd/entity/825306359 & http://id.who.int/icd/entity/1992239052 ,=,MD41 & XA57M6
+18,肺野疑問影,S2,R91,LD2A,=,http://id.who.int/icd/entity/825306359 & http://id.who.int/icd/entity/1992239052 ,=,MD41 & XA57M6
+18,胸部異常陰影,L,R91,N9AJ,=,http://id.who.int/icd/entity/825306359,<,MD41 
+18,肺陰影,S2,R91,N9AJ,=,http://id.who.int/icd/entity/825306359,<,MD41 
+18,肺の画像診断における異常所見,S2,R91,N9AJ,=,http://id.who.int/icd/entity/68789898,=,MD41 
+18,肺門部異常陰影,L,R91,S8BQ,=,http://id.who.int/icd/entity/825306359 & http://id.who.int/icd/entity/1441195961,<,MD41 & XA9TC5
+18,肺門部不明影,S1,R91,S8BQ,=,http://id.who.int/icd/entity/825306359 & http://id.who.int/icd/entity/1441195961,<,MD41 & XA9TC5
+18,乳房微細石灰化,L,R92,QJ2S,<,http://id.who.int/icd/entity/1890907767,<,MG00
+18,乳房微小石灰化,S1,R92,QJ2S,<,http://id.who.int/icd/entity/1890907767,<,MG00
+18,乳腺微小石灰化,S1,R92,QJ2S,<,http://id.who.int/icd/entity/1890907767,<,MG00
+18,乳腺石灰化,S1,R92,QJ2S,<,http://id.who.int/icd/entity/1890907767,<,MG00
+18,乳房石灰化,S1,R92,QJ2S,<,http://id.who.int/icd/entity/1890907767,<,MG00
+18,心超音波検査異常,L,R931,FCHS,=,http://id.who.int/icd/entity/356779665,=,MC90
+18,異常心陰影,L,R931,MFQR,=,http://id.who.int/icd/entity/736482719,<,MC90
+18,心臓異常陰影,L,R931,SPVC,=,http://id.who.int/icd/entity/736482719,<,MC90
+18,門脈ガス血症,L,R932,Q5QK,<,http://id.who.int/icd/entity/1642681966,<,ME21
+18,膵腫大,L,R933,PG5S,<,http://id.who.int/icd/entity/77765628,<,ME22
+18,膵肥大,S1,R933,PG5S,<,http://id.who.int/icd/entity/77765628,<,ME22
+18,キライディティ症候群,L,R933,VGMJ,<,http://id.who.int/icd/entity/77765628,<,ME22
+18,CHILAIDITI症候群,S1,R933,VGMJ,<,http://id.who.int/icd/entity/77765628,<,ME22
+18,無造影腎,L,R934,B24N,<,http://id.who.int/icd/entity/2001471600,<,MG01
+18,骨髄浮腫,L,R937,PRVU,<,http://id.who.int/icd/entity/65099921,<,ME92.Z
+18,縦隔偏位,L,R938,JVQV,=,http://id.who.int/icd/entity/1737588425,<,MG70
+18,異常脳波,L,R940,AJ11,=,http://id.who.int/icd/entity/217164034,<,MB72
+18,EEG異常,S1,R940,AJ11,=,http://id.who.int/icd/entity/217164034,<,MB72
+18,脳波異常,S1,R940,AJ11,=,http://id.who.int/icd/entity/217164034,<,MB72
+18,筋電図異常,L,R941,AQ5L,=,http://id.who.int/icd/entity/304235274,<,MB72
+18,EMG異常,S1,R941,AQ5L,=,http://id.who.int/icd/entity/304235274,<,MB72
+18,網電図異常,L,R941,GBTP,=,http://id.who.int/icd/entity/907894842,<,MB72
+18,ERG異常,S1,R941,GBTP,=,http://id.who.int/icd/entity/907894842,<,MB72
+18,眼電図異常,L,R941,HEKC,=,http://id.who.int/icd/entity/48814780,<,MB72
+18,EOG異常,S1,R941,HEKC,=,http://id.who.int/icd/entity/48814780,<,MB72
+18,視覚誘発電位異常,L,R941,MEHR,=,http://id.who.int/icd/entity/1454418577,<,MB72
+18,VEP異常,S1,R941,MEHR,=,http://id.who.int/icd/entity/1454418577,<,MB72
+18,神経刺激反応異常,L,R941,QJ41,=,http://id.who.int/icd/entity/1750501593,<,MB72
+18,混合性換気障害,L,R942,AQ80,<,http://id.who.int/icd/entity/1519396656,<,MD42
+18,拘束性換気障害,L,R942,C1QN,<,http://id.who.int/icd/entity/1519396656,<,MD42
+18,閉塞性換気障害,L,R942,CVMD,<,http://id.who.int/icd/entity/1051898733,<,MD42
+18,肺換気量減少,L,R942,DL6G,=,http://id.who.int/icd/entity/1051898733,<,MD42
+18,１秒量低下,L,R942,H085,<,http://id.who.int/icd/entity/1051898733,<,MD42
+18,1秒量低下,S0,R942,H085,<,http://id.who.int/icd/entity/1051898733,<,MD42
+18,換気量減少,L,R942,H430,=,http://id.who.int/icd/entity/1051898733,<,MD42
+18,換気量低下,S1,R942,H430,=,http://id.who.int/icd/entity/1051898733,<,MD42
+18,肺活量減少,L,R942,LJE6,=,http://id.who.int/icd/entity/461369007,<,MD42
+18,肺活量低下,S1,R942,LJE6,=,http://id.who.int/icd/entity/461369007,<,MD42
+18,呼吸機能検査異常,L,R942,PQFM,=,http://id.who.int/icd/entity/1095887296,=,MD42
+18,異常呼吸機能,S1,R942,PQFM,=,http://id.who.int/icd/entity/1095887296,=,MD42
+18,１秒率低下,L,R942,RBH6,<,http://id.who.int/icd/entity/1051898733,<,MD42
+18,1秒率低下,S0,R942,RBH6,<,http://id.who.int/icd/entity/1051898733,<,MD42
+18,肺機能検査異常,L,R942,UHL3,=,http://id.who.int/icd/entity/1519396656,<,MD42
+18,肺機能検査の異常所見,S1,R942,UHL3,=,http://id.who.int/icd/entity/1519396656,<,MD42
+18,肺換気不全,L,R942,VJAT,=,http://id.who.int/icd/entity/1051898733,<,MD42
+18,早期再分極症候群,L,R943,CKMK,=,http://id.who.int/icd/entity/2074158666,=,BC65.3
+18,ベクトル心電図異常,L,R943,FQPN,=,http://id.who.int/icd/entity/678901441,<,MC91
+18,心電図異常,L,R943,HUS5,=,http://id.who.int/icd/entity/318933767,<,MC91
+18,ECG異常,S1,R943,HUS5,=,http://id.who.int/icd/entity/318933767,<,MC91
+18,EKG異常,S1,R943,HUS5,=,http://id.who.int/icd/entity/318933767,<,MC91
+18,心電図左軸偏位,L,R943,QE93,<,http://id.who.int/icd/entity/318933767,<,MC91
+18,左軸偏位,S1,R943,QE93,<,http://id.who.int/icd/entity/318933767,<,MC91
+18,心音図異常,L,R943,TJEQ,=,http://id.who.int/icd/entity/426431739,<,MC91
+18,心電図右軸偏位,L,R943,U42Q,<,http://id.who.int/icd/entity/318933767,<,MC91
+18,右軸偏位,S1,R943,U42Q,<,http://id.who.int/icd/entity/318933767,<,MC91
+18,糸球体ろ過値低下,L,R944,B6AA,<,http://id.who.int/icd/entity/1278572846,<,MG02 
+18,腎機能検査異常,L,R944,CGC5,=,http://id.who.int/icd/entity/1278572846,=,MG02 
+18,腎機能検査の異常所見,S1,R944,CGC5,=,http://id.who.int/icd/entity/1278572846,=,MG02
+18,腎血流量低下,L,R944,KK70,<,http://id.who.int/icd/entity/1278572846,<,MG02 
+18,クレアチニンクリアランス低下,L,R944,LENH,<,http://id.who.int/icd/entity/1278572846,<,MG02 
+18,肝機能検査異常,L,R945,BNVC,=,http://id.who.int/icd/entity/696169660 ,<,ME23
+18,肝機能検査の異常所見,S1,R945,BNVC,=,http://id.who.int/icd/entity/696169660,<,ME23
+18,甲状腺機能検査異常,L,R946,FQBS,=,http://id.who.int/icd/entity/1574167621,=,MA50
+18,甲状腺機能検査の異常所見,S1,R946,FQBS,=,http://id.who.int/icd/entity/1574167621,=,MA50
+18,高ＴＳＨ血症,L,R946,R6G2,<,http://id.who.int/icd/entity/1574167621,<,MA50
+18,高TSH血症,S0,R946,R6G2,<,http://id.who.int/icd/entity/1574167621,<,MA50
+18,TSH高値,S1,R946,R6G2,<,http://id.who.int/icd/entity/1574167621,<,MA50
+18,TSH値上昇,S1,R946,R6G2,<,http://id.who.int/icd/entity/1574167621,<,MA50
+18,ＡＤＨ異常,L,R947,A17S,<,http://id.who.int/icd/entity/949496273,<,MA51
+18,ADH異常,S0,R947,A17S,<,http://id.who.int/icd/entity/949496273,<,MA51
+18,膀胱機能検査異常,L,R948,BSFP,=,http://id.who.int/icd/entity/425831670,=,MG72 & XA77K2
+18,脾機能検査異常,L,R948,FGL4,=,http://id.who.int/icd/entity/389715882,=,MG72 & XA7FU9
+18,基礎代謝率異常,L,R948,J7G1,=,http://id.who.int/icd/entity/679235278,<,MG72
+18,BMR異常,S1,R948,J7G1,=,http://id.who.int/icd/entity/679235278,<,MG72
+18,非特異的ＳＴ－Ｔ変化,L,R948,U388,<,http://id.who.int/icd/entity/1173437587,<,MG72
+18,非特異的ST-T変化,S0,R948,U388,<,http://id.who.int/icd/entity/1173437587,<,MG72
+18,乳児突然死症候群,L,R959,B178,=,http://id.who.int/icd/entity/56255971 ,=,MH11.Z
+18,SIDS,S1,R959,B178,=,http://id.who.int/icd/entity/56255971 ,=,MH11.Z
+18,乳幼児突然死症候群,S1,R959,B178,=,http://id.who.int/icd/entity/56255971 ,=,MH11.Z
+18,突然死,L,R960,MH2G,=,http://id.who.int/icd/entity/1443484410 ,=,MH12.0
+18,即死,L,R960,T2N4,=,http://id.who.int/icd/entity/1443484410 ,=,MH12.0
+18,瞬間死,S1,R960,T2N4,=,http://id.who.int/icd/entity/1443484410 ,=,MH12.0
+18,致死性失神,L,R960,U7BP,=,http://id.who.int/icd/entity/1443484410 ,=,MH12.0
+18,発見死体,L,R98,NNTF,=,http://id.who.int/icd/entity/1876291018,=,MH13
+18,立合者のいない死亡,S1,R98,NNTF,=,http://id.who.int/icd/entity/1876291018,=,MH13
+18,原因不明の死亡,L,R99,L0F1,=,http://id.who.int/icd/entity/178135136 ,=,MH14
+18,死亡,S2,R99,L0F1,=,http://id.who.int/icd/entity/178135136,=,MH14

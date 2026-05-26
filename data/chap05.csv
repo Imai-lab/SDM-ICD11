@@ -1,0 +1,1800 @@
+ICD10 章,標準病名,代表・同義,ICD10コード,交換コード,関係,ICD11 Foundation URI,関係,MMS
+5,急性発症の血管性認知症,L,F010,GJBP,=,http://id.who.int/icd/entity/1365258270 & http://id.who.int/icd/entity/1385443355,=,6D81 & XT3Z
+5,ＣＡＲＡＳＩＬ,L,F011,ESGR,=,http://id.who.int/icd/entity/984450655,=,8B22.C1
+5,皮質認知症,L,F011,RG8F,=,http://id.who.int/icd/entity/645643099,<,6D81
+5,ＣＡＤＡＳＩＬ,L,F011,T756,=,http://id.who.int/icd/entity/1621899838,=,8B22.C0
+5,多発梗塞性認知症,L,F011,TK8A,=,http://id.who.int/icd/entity/645643099,<,6D81
+5,皮質下認知症,L,F012,CLFQ,=,http://id.who.int/icd/entity/2078986772,<,6D81
+5,血管性認知症,L,F019,D5F4,=,http://id.who.int/icd/entity/1365258270,=,6D81
+5,動脈硬化性認知症,S1,F019,D5F4,=,http://id.who.int/icd/entity/1365258270,=,6D81
+5,老年期認知症妄想型,L,F03,CC70,=,http://id.who.int/icd/entity/759326836 / http://id.who.int/icd/entity/932028588　,<,6D8Z / MB26.0Z
+5,初老期認知症,L,F03,DSMU,=,http://id.who.int/icd/entity/133826396,<,6D8Z
+5,初老期痴呆,S1,F03,DSMU,=,http://id.who.int/icd/entity/133826396,<,6D8Z
+5,二次性認知症,L,F03,F20B,<,http://id.who.int/icd/entity/546689346,<,6D8Z 
+5,老年期認知症,L,F03,MSD4,=,http://id.who.int/icd/entity/1038351310,<,6D8Z
+5,老年認知症,S1,F03,MSD4,=,http://id.who.int/icd/entity/1038351310,<,6D8Z
+5,初老期精神病,L,F03,P04F,=,http://id.who.int/icd/entity/2084912553,<,6D8Z
+5,初老期精神障害,S1,F03,P04F,=,http://id.who.int/icd/entity/2084912553,<,6D8Z
+5,老年精神病,L,F03,PP2M,=,http://id.who.int/icd/entity/546689346,=,6D8Z
+5,老年期妄想状態,L,F03,PTGJ,=,http://id.who.int/icd/entity/932028588 & http://id.who.int/icd/entity/1276541597,=,MB26.0Z & XT13
+5,初老期妄想状態,L,F03,RC2N,=,http://id.who.int/icd/entity/932028588 & http://id.who.int/icd/entity/1733780743,=,MB26.0Z & XT19
+5,老年期うつ病,L,F03,RPRU,=,http://id.who.int/icd/entity/546689346,=,6D8Z 
+5,原発性認知症,L,F03,S5RU,=,http://id.who.int/icd/entity/1722135299,<,6D8Y
+5,原発性変性認知症,S1,F03,S5RU,=,http://id.who.int/icd/entity/1722135299,<,6D8Y
+5,原発性変性痴呆,S1,F03,S5RU,,,,
+5,脳器質性認知症,S2,F03,S5RU,<,http://id.who.int/icd/entity/546689346,<,6D8Y
+5,脳器質性痴呆,S2,F03,S5RU,,,,
+5,老年期認知症抑うつ型,L,F03,USUQ,<,http://id.who.int/icd/entity/546689346,<,6D8Z
+5,老年期痴呆抑うつ型,S1,F03,USUQ,,,,
+5,抑うつ型老年期痴呆,S1,F03,USUQ,,,,
+5,抑うつ型老年期認知症,S1,F03,USUQ,,,,
+5,認知症,L,F03,V828,=,http://id.who.int/icd/entity/546689346,<,6D8Z
+5,非アルコール性コルサコフ精神病,L,F04,GLNN,=,http://id.who.int/icd/entity/862469859,=,6D72.0 
+5,非アルコール性KORSAKOFF精神病,S1,F04,GLNN,=,http://id.who.int/icd/entity/862469859,=,6D72.0 
+5,非アルコール性コルサコフ症候群,L,F04,N9TN,=,http://id.who.int/icd/entity/862469859,=,6D72.0 
+5,非アルコール性KORSAKOFF症候群,S1,F04,N9TN,=,http://id.who.int/icd/entity/862469859,=,6D72.0 
+5,器質性健忘症候群・精神作用物質によらないもの,L,F04,R20S,<,http://id.who.int/icd/entity/862469859,<,6D72.0 
+5,認知症に重ならないせん妄,L,F050,LVR2,<,http://id.who.int/icd/entity/897917531,<,6D70.Z
+5,認知症に重なったせん妄,L,F051,LVRQ,=,http://id.who.int/icd/entity/897917531 / http://id.who.int/icd/entity/546689346,=,6D70.Z / 6D8Z
+5,急性感染症性精神病,L,F058,AHBS,=,http://id.who.int/icd/entity/302122526  & http://id.who.int/icd/entity/786106375 / http://id.who.int/icd/entity/1435254666,=,6E6Z & XT5R / 1H0Z
+5,急性錯乱状態,L,F058,BRFB,=,http://id.who.int/icd/entity/897917531,<,6D70.Z
+5,亜急性脳症候群,L,F058,CG6T,=,http://id.who.int/icd/entity/302122526  & http://id.who.int/icd/entity/2058324694 / http://id.who.int/icd/entity/1435254666,=,6E6Z & XT1L  / 1H0Z
+5,非アルコール性急性錯乱状態,L,F058,ERN8,<,http://id.who.int/icd/entity/1603403079,<,6D70.Z
+5,急性器質性反応,L,F058,KAV9,=,"
+http://id.who.int/icd/entity/302122526 & http://id.who.int/icd/entity/786106375",<,6E6Z & XT5R 
+5,亜急性器質性反応,L,F058,L3S1,=,http://id.who.int/icd/entity/302122526 & http://id.who.int/icd/entity/2058324694,<,6E6Z & XT1L
+5,急性器質精神症候群,L,F058,N2HS,=,http://id.who.int/icd/entity/302122526 & http://id.who.int/icd/entity/786106375,<,6E6Z & XT5R 
+5,急性脳症候群,L,F058,N61C,=,http://id.who.int/icd/entity/302122526  & http://id.who.int/icd/entity/786106375  / http://id.who.int/icd/entity/1435254666,=,6E6Z & XT5R / 1H0Z
+5,亜急性感染症性精神病,L,F058,QNSL,=,http://id.who.int/icd/entity/302122526  & http://id.who.int/icd/entity/2058324694 / http://id.who.int/icd/entity/1435254666,=,6E6Z & XT1L / 1H0Z
+5,亜急性器質精神症候群,L,F058,UJ1N,=,http://id.who.int/icd/entity/302122526 & http://id.who.int/icd/entity/2058324694,<,6E6Z & XT1L
+5,老人性夜間せん妄,L,F059,G08N,<,http://id.who.int/icd/entity/897917531 & http://id.who.int/icd/entity/1276541597,<,6D70 & XT13
+5,夜間せん妄,L,F059,P8CP,<,http://id.who.int/icd/entity/897917531,<,6D70
+5,せん妄,L,F059,SB9U,=,http://id.who.int/icd/entity/897917531,=,6D70
+5,非アルコール性器質性幻覚状態,L,F060,KGT6,=,http://id.who.int/icd/entity/2018051983,=,6E61.0
+5,器質性幻覚症,L,F060,SSQE,=,http://id.who.int/icd/entity/2018051983,=,6E61.0
+5,器質性緊張病性障害,L,F061,FE0L,=,http://id.who.int/icd/entity/289492002 or http://id.who.int/icd/entity/518306574,=,6A41 OR 6E69
+5,器質性の妄想状態および幻覚妄想状態,L,F062,P1JN,=,http://id.who.int/icd/entity/200321643,=,6E61.2
+5,器質性妄想性障害,L,F062,QQMH,=,http://id.who.int/icd/entity/566524918,=,6E61.1
+5,動脈硬化性うつ病,L,F063,DKMT,=,http://id.who.int/icd/entity/241382885  / http://id.who.int/icd/entity/109367356,=,6E62
+5,器質性混合性感情障害,L,F063,EPF3,=,http://id.who.int/icd/entity/1899175158,=,6E62.2
+5,器質性躁病性障害,L,F063,FQH6,=,http://id.who.int/icd/entity/880462195,=,6E62.1
+5,器質性うつ病性障害,L,F063,HE0C,=,http://id.who.int/icd/entity/241382885,=,6E62.0
+5,器質性双極性障害,L,F063,LCJL,=,http://id.who.int/icd/entity/216291184,=,6E62
+5,感染症後うつ病,L,F063,LJFC,=,http://id.who.int/icd/entity/241382885 / http://id.who.int/icd/entity/1435254666 ,=,6E62.0 / 1H0Z
+5,器質性気分障害,L,F063,MQ7N,=,http://id.who.int/icd/entity/216291184,=,6E62
+5,多幸症,L,F068,N9VU,=,http://id.who.int/icd/entity/451608306,=,MB24.9
+5,子宮全摘術後愁訴,L,F069,FM3V,,http://id.who.int/icd/entity/260602177  /  http://id.who.int/icd/entity/313875936  & http://id.who.int/icd/entity/648738923 ,,MF3Y / QF01.10 & XA99N3 
+5,子宮全剔術後愁訴,S1,F069,FM3V,,http://id.who.int/icd/entity/260602177  /  http://id.who.int/icd/entity/313875936  & http://id.who.int/icd/entity/648738923 ,,MF3Y / QF01.10 & XA99N3 
+5,動脈硬化性精神障害,L,F069,R87U,=,http://id.who.int/icd/entity/302122526 / http://id.who.int/icd/entity/109367356,=,"6E6Z / BD40.Z
+"
+5,動脈硬化性精神病,S1,F069,R87U,,,,
+5,脳動脈硬化性精神病,S1,F069,R87U,,,,
+5,脳動脈硬化性精神障害,S1,F069,R87U,,,,
+5,ロボトミー症候群,L,F070,A9TE,=,http://id.who.int/icd/entity/1324394161 / http://id.who.int/icd/entity/1318533336,<,’6E68 / PK80
+5,白質切裁術後症候群,S1,F070,A9TE,=,http://id.who.int/icd/entity/1324394161 / http://id.who.int/icd/entity/1318533336,<,’6E68 / PK80
+5,発動性障害,L,F070,N8J6,=,http://id.who.int/icd/entity/302122526,=,6E6Z
+5,発動性欠乏,S1,F070,N8J6,=,http://id.who.int/icd/entity/302122526,=,6E6Z
+5,自発性欠乏,S1,F070,N8J6,=,http://id.who.int/icd/entity/302122526,=,6E6Z
+5,初老期性パーソナリティ障害,L,F070,R8HG,=,http://id.who.int/icd/entity/941859884 & http://id.who.int/icd/entity/1733780743 ,=,6D10.Z & XT19
+5,初老期性人格障害,S1,F070,R8HG,=,http://id.who.int/icd/entity/941859884 & http://id.who.int/icd/entity/1733780743 ,=,6D10.Z & XT19
+5,器質性偽遅滞性人格,L,F070,TQ6T,=,http://id.who.int/icd/entity/1324394161,=,6E68
+5,器質性偽遅滞性パーソナリティー,S1,F070,TQ6T,=,http://id.who.int/icd/entity/1324394161,=,6E68
+5,辺縁系てんかん人格症候群,L,F070,UR0E,<,http://id.who.int/icd/entity/1324394161 / http://id.who.int/icd/entity/836532562,<,6E68  /  8A60.
+5,脳炎後症候群,L,F071,H0LJ,=,http://id.who.int/icd/entity/302122526 / http://id.who.int/icd/entity/62637936 ,=,6E6Z / 1D00.Z
+5,脳振盪後症候群,L,F072,JJUG,=,http://id.who.int/icd/entity/1968656997 / http://id.who.int/icd/entity/1560768871 ,=,6D71 / NA07.0Z
+5,非精神病性外傷後脳症候群,L,F072,L8LD,=,http://id.who.int/icd/entity/1968656997 / http://id.who.int/icd/entity/1560768871 ,=,6D71 / NA07.0Z
+5,脳局所性精神症候群,L,F078,B6RE,=,http://id.who.int/icd/entity/302122526 / http://id.who.int/icd/entity/1818120156,=,6E6Z / NA07.4Z
+5,間脳症,L,F078,D6HL,=,http://id.who.int/icd/entity/879659089,<,5A61.Y
+5,側頭葉症候群,L,F078,GM61,=,http://id.who.int/icd/entity/302122526 / http://id.who.int/icd/entity/1818120156 & http://id.who.int/icd/entity/1220842694,=,6E6Z  / NA07.4Z & XA97T4
+5,器質性人格行動障害,L,F078,J620,=,http://id.who.int/icd/entity/1324394161,=,6E68
+5,右半球器質性感情障害,L,F078,NM26,=,http://id.who.int/icd/entity/216291184 / http://id.who.int/icd/entity/1818120156  & ( http://id.who.int/icd/entity/1405562973 & http://id.who.int/icd/entity/876572005 ),=,6E62 / NA07.4Z & (XA8GR3 & XK9K)
+5,クリューバー・ビューシー症候群,L,F078,NTD3,=,http://id.who.int/icd/entity/302122526 /  http://id.who.int/icd/entity/1818120156 & http://id.who.int/icd/entity/1220842694 & http://id.who.int/icd/entity/627678743,=,6E6Z / NA07.4Z  &XA97T4 & XK9J
+5,失語・失行・失認症候群,L,F078,QKR7,<,http://id.who.int/icd/entity/302122526,<,6E6Z
+5,器質性精神症状群,L,F079,RL0C,=,http://id.who.int/icd/entity/302122526,=,6E6Z
+5,器質精神症候群,S1,F079,RL0C,=,http://id.who.int/icd/entity/302122526,=,6E6Z
+5,器質性精神病,L,F09,JUT5,=,http://id.who.int/icd/entity/302122526,=,6E6Z
+5,症状精神病,L,F09,M9KG,=,http://id.who.int/icd/entity/696956921,=,6E61
+5,病的酩酊,L,F100,A4UA,=,http://id.who.int/icd/entity/1339202943,=,6C40.3
+5,宿酔,L,F100,FAB0,=,http://id.who.int/icd/entity/1466202482,=,MG49 
+5,急性アルコール中毒,L,F100,GP7D,=,http://id.who.int/icd/entity/1339202943,=,6C40.3
+5,単純酩酊,L,F100,H4HU,=,http://id.who.int/icd/entity/1339202943,=,6C40.3
+5,アルコール中毒せん妄,L,F100,UT1U,=,http://id.who.int/icd/entity/1217486356,=,6C40.5
+5,複雑酩酊,L,F100,VM7A,=,http://id.who.int/icd/entity/1339202943,=,6C40.3
+5,アルコール乱用,L,F101,H4VK,=,http://id.who.int/icd/entity/714690795,=,6C40.1Z
+5,アルコール依存症,L,F102,HQV9,=,http://id.who.int/icd/entity/1580466198,=,6C40.2Z 
+5,アルコール離脱状態,L,F103,L95F,=,http://id.who.int/icd/entity/998231424,=,6C40.4Z 
+5,アルコール離脱せん妄,L,F104,AMMU,=,http://id.who.int/icd/entity/1217486356,=,6C40.5 
+5,アルコール性妄想,L,F105,FTL4,=,http://id.who.int/icd/entity/1767310182,=,6C40.61
+5,アルコール性嫉妬,L,F105,H2C6,=,http://id.who.int/icd/entity/1484332320,<,6C40.6Z
+5,アルコール幻覚症,L,F105,SLAB,=,http://id.who.int/icd/entity/226414625,=,6C40.60
+5,アルコール性精神病,L,F105,VE9J,=,http://id.who.int/icd/entity/769299330,=,6C40.6Z
+5,アルコール性コルサコフ症候群,L,F106,DBDF,=,http://id.who.int/icd/entity/428071867 / http://id.who.int/icd/entity/1580466198,=,5B5A.11 / 6C40.2Z 
+5,アルコール性多発性神経炎性精神病,L,F106,P4TH,=,http://id.who.int/icd/entity/769299330 / http://id.who.int/icd/entity/597341977,=,6C40.6Z  / 8D44.0 
+5,アルコール性躁病,L,F107,HD8T,=,http://id.who.int/icd/entity/769299330,=,6C40.6Z 
+5,慢性アルコール性脳症候群,L,F107,K4R9,=,http://id.who.int/icd/entity/1619582852,=,6D84.0
+5,アルコール性持続性認知障害,L,F107,LLKF,<,http://id.who.int/icd/entity/1619582852 & http://id.who.int/icd/entity/1313511357,<,6D84.0 &  XT6Z
+5,アルコール性フラッシュバック,L,F107,P0CB,<,http://id.who.int/icd/entity/769299330 / http://id.who.int/icd/entity/991786158,<,6C40.6Z / 6B4Z 
+5,アルコール性遅発性精神病性障害,L,F107,P8L1,=,http://id.who.int/icd/entity/1619582852,=,6D84.0 
+5,アルコール性遅発性パーソナリティ障害,L,F107,PHT6,=,http://id.who.int/icd/entity/941859884 & http://id.who.int/icd/entity/1393648567 / http://id.who.int/icd/entity/769299330 ,=,6D10.Z & XT3R / 6C40.6Z
+5,アルコール性認知症,L,F107,PMMA,=,http://id.who.int/icd/entity/1619582852,=,6D84.0 
+5,うつ状態アルコール中毒,L,F107,RGH8,=,http://id.who.int/icd/entity/1676588433 / http://id.who.int/icd/entity/1563440232,=,6C40.Z / 6A7Z
+5,アルコール性脳症候群,L,F107,SRNU,=,http://id.who.int/icd/entity/1619582852,=,6D84.0 
+5,アルコール性残遺性感情障害,L,F107,UU07,=,http://id.who.int/icd/entity/1619582852,=,6D84.0 
+5,アヘン類使用による急性精神・行動障害,L,F110,QK0J,=,http://id.who.int/icd/entity/824335105 / http://id.who.int/icd/entity/1120716949,=,6C43.3 / 6C43.2Z
+5,モルヒネ乱用,L,F111,L6UM,=,http://id.who.int/icd/entity/506198470,<,6C43.Y 
+5,モルヒネ依存,L,F112,J0B4,=,http://id.who.int/icd/entity/337142707,=,6C43.2Z & XM1KZ5
+5,モルヒネ型薬物依存,L,F112,MJ3D,=,http://id.who.int/icd/entity/337142707,=,6C43.2Z & XM1KZ5
+5,アヘン中毒,L,F112,MNKE,=,http://id.who.int/icd/entity/1120716949,=,6C43.2Z 
+5,麻薬中毒,L,F112,SRKK,=,http://id.who.int/icd/entity/1395283456,=,6C43.3 
+5,メサドン中毒,L,F112,ULPK,=,http://id.who.int/icd/entity/243729592,=,6C43.3 & XM7XP1 
+5,大麻類使用による急性精神・行動障害,L,F120,G697,=,http://id.who.int/icd/entity/816184127 / http://id.who.int/icd/entity/1129015467,=,6C41.6 / 6C41.2Z  
+5,マリファナ依存,L,F122,NFRG,=,http://id.who.int/icd/entity/1129015467,=,6C41.2Z
+5,大麻類使用による健忘症候群,L,F126,HUCU,=,http://id.who.int/icd/entity/973846324 & http://id.who.int/icd/entity/273853705,=,6D72.12 & XM9S25
+5,大麻類使用による残遺性および遅発性精神病性障害,L,F127,ECK9,=,http://id.who.int/icd/entity/816184127 /  http://id.who.int/icd/entity/1035710165,=,6C41.6 / 6D84.1
+5,鎮静薬による急性精神・行動障害,L,F130,JCMU,=,http://id.who.int/icd/entity/744305598 / http://id.who.int/icd/entity/1605607466 ,=,6C44.6 / 6C44.2Z 
+5,精神安定薬乱用,L,F131,J0EP,=,http://id.who.int/icd/entity/1045880363,<,6C44.1Z
+5,精神安定薬依存,L,F132,ARSJ,=,http://id.who.int/icd/entity/1605607466 & http://id.who.int/icd/entity/827775794,=,6C44.2Z & XM6WP4
+5,ベンゾジアゼピン依存症,L,F132,QSAH,=,http://id.who.int/icd/entity/1605607466 & http://id.who.int/icd/entity/771629025,=,6C44.2Z & XM9X46 
+5,バルビタール酸依存,L,F132,VJQA,=,http://id.who.int/icd/entity/1605607466 & http://id.who.int/icd/entity/2000022550,=,6C44.2Z & XM2B90
+5,睡眠薬依存,L,F132,VPML,=,http://id.who.int/icd/entity/1605607466 & http://id.who.int/icd/entity/827775794,=,6C44.2Z & XM6WP4
+5,コカイン使用による急性精神・行動障害,L,F140,J8PM,=,http://id.who.int/icd/entity/388252416 / http://id.who.int/icd/entity/1691013484 ,=,6C45.6Z / 6C45.2Z
+5,コカイン乱用,L,F141,AB0S,=,http://id.who.int/icd/entity/275218837,=,6C45.1Z 
+5,コカイン依存,L,F142,BS1K,=,http://id.who.int/icd/entity/1691013484,=,6C45.2Z
+5,アンフェタミン乱用,L,F151,TF55,=,http://id.who.int/icd/entity/879494155,=,6C46.1Z & XM48Z9
+5,カフェイン中毒,L,F152,CC38,=,http://id.who.int/icd/entity/1648213213,=,6C48.2 
+5,アンフェタミン中毒,L,F152,K94M,=,http://id.who.int/icd/entity/1072097337,=,6C46.3 & XM48Z9
+5,覚醒剤依存症,L,F152,VKLC,=,http://id.who.int/icd/entity/2016549355,=,6C46.2Z
+5,カフェイン依存,L,F152a,KPTS,=,http://id.who.int/icd/entity/1648213213,=,6C48.2 
+5,アンフェタミン依存,L,F152b,J0MP,=,http://id.who.int/icd/entity/2016549355 & http://id.who.int/icd/entity/467420099,=,6C46.2Z & XM48Z9
+5,精神刺激薬依存,L,F152c,NJ6L,=,http://id.who.int/icd/entity/2016549355,=,6C46.2Z
+5,覚醒剤精神病,L,F155,TQMR,=,http://id.who.int/icd/entity/199002751,=,6C46.6Z
+5,覚醒剤中毒後遺症,L,F157,JEL0,=,http://id.who.int/icd/entity/199002751 & http://id.who.int/icd/entity/472249438,=,6C46.6Z & XT9C 
+5,ＬＳＤ使用による急性精神・行動障害,L,F160,FM7P,=,http://id.who.int/icd/entity/1265787402 & http://id.who.int/icd/entity/661865379 / http://id.who.int/icd/entity/2041952725,<,6C49.6 & XM4SV9 / 6C49.2Z 
+5,幻覚薬使用による急性精神・行動障害,L,F160,L5CS,=,http://id.who.int/icd/entity/1265787402 & http://id.who.int/icd/entity/2007279937 / http://id.who.int/icd/entity/2041952725,=,6C49.6 & XM4SV9 / 6C49.2Z 
+5,ＬＳＤ反応,L,F160,RU6N,=,http://id.who.int/icd/entity/1750279358,=,6C49.3
+5,幻覚薬乱用,L,F161,VH93,=,http://id.who.int/icd/entity/219736364,=,6C49.1Z
+5,幻覚薬依存,L,F162,Q4DC,=,http://id.who.int/icd/entity/2041952725,=,6C49.2Z
+5,タバコ使用による急性精神・行動障害,L,F170,SUN9,=,http://id.who.int/icd/entity/268445189 & http://id.who.int/icd/entity/786106375,=,6C4A.Z & XT5R
+5,ニコチン依存症,L,F172,N4AS,=,http://id.who.int/icd/entity/1699574100,=,6C4A.2Z 
+5,揮発性溶剤使用による急性精神・行動障害,L,F180,E74A,=,http://id.who.int/icd/entity/1478963582 / http://id.who.int/icd/entity/734634730 ,=,6C4B.6 / 6C4B.2Z
+5,有機溶剤吸引,L,F181,V5TQ,=,http://id.who.int/icd/entity/893652479,=,6C4B.0 
+5,エーテル中毒症,L,F182,CSCD,=,http://id.who.int/icd/entity/976174979 & http://id.who.int/icd/entity/91264813,=,6C4B.3  & XM4VX3
+5,シンナー嗜癖,L,F182,KEHG,<,http://id.who.int/icd/entity/734634730 / http://id.who.int/icd/entity/1056866525,<,6C4B.2Z / PH56
+5,アブシント血症,L,F182,LAU4,<,http://id.who.int/icd/entity/734634730 / http://id.who.int/icd/entity/1625812450 ,<,6C4E.Z  / PH56
+5,アブシント中毒症,L,F182,LS16,<,http://id.who.int/icd/entity/734634730 / http://id.who.int/icd/entity/1625812450  ,<,6C4E.Z  / PH56
+5,シンナー中毒,L,F182,N607,<,http://id.who.int/icd/entity/976174979 / http://id.who.int/icd/entity/1056866525 ,<,6C4B.3  / PH56
+5,詳細不明精神作用物質使用による急性精神・行動障害,L,F190,K8EF,=,http://id.who.int/icd/entity/595694101,=,6C4G.7
+5,多剤精神作用物質使用による急性精神・行動障害,L,F190,VE32,=,http://id.who.int/icd/entity/538219245,=,6C4F.7
+5,薬物誤用,L,F191,ND21,=,http://id.who.int/icd/entity/590211325,=,6C4Z 　
+5,薬物依存,L,F192,E9BJ,=,http://id.who.int/icd/entity/2143971168,=,6C4G.2Z
+5,非麻薬性鎮痛剤依存症,L,F192,JU7G,=,http://id.who.int/icd/entity/1959496054,=,6C4H.11 
+5,薬物禁断症候群,L,F193,H69Q,=,http://id.who.int/icd/entity/219731531,=,6C4G.4Z 
+5,中毒性精神病,L,F195,B88G,=,http://id.who.int/icd/entity/595694101 / http://id.who.int/icd/entity/1870346724,=,6C4G.6 / 6C4G.3
+5,薬物精神病,S1,F195,B88G,<,http://id.who.int/icd/entity/590211325,<,6C4Z
+5,健忘症候群,L,F196,C27K,=,http://id.who.int/icd/entity/862469859,=,6D72.0 
+5,薬物嗜癖抑うつ状態,L,F197,V10M,=,http://id.who.int/icd/entity/1934475925 / http://id.who.int/icd/entity/1093742821 ,=,6C4E.2Z  / MB24.5
+5,妄想型統合失調症,L,F200,J69C,=,http://id.who.int/icd/entity/1683919430 / http://id.who.int/icd/entity/521257551,=,6A20.Z / 6A25.0
+5,妄想型精神分裂病,S1,F200,J69C,=,http://id.who.int/icd/entity/1683919430 / http://id.who.int/icd/entity/521257551,=,6A20.Z / 6A25.0
+5,パラフレニー型分裂病,S1,F200,J69C,=,http://id.who.int/icd/entity/1683919430,=,6A20.Z
+5,パラフレニー型統合失調症,S1,F200,J69C,=,http://id.who.int/icd/entity/1683919430,=,6A20.Z
+5,妄想型分裂病,S1,F200,J69C,=,http://id.who.int/icd/entity/1683919430,=,6A20.Z
+5,破瓜型統合失調症,L,F201,SLS6,=,http://id.who.int/icd/entity/1683919430 / http://id.who.int/icd/entity/1893759206,=,6A20.Z / 6A25.0 
+5,破瓜病,S1,F201,SLS6,=,http://id.who.int/icd/entity/1683919430 / http://id.who.int/icd/entity/1893759206,=,6A20.Z / 6A25.0 
+5,解体型分裂病,S1,F201,SLS6,=,http://id.who.int/icd/entity/1683919430 / http://id.who.int/icd/entity/1893759206,=,6A20.Z / 6A25.0 
+5,破瓜型精神分裂病,S1,F201,SLS6,=,http://id.who.int/icd/entity/1683919430 / http://id.who.int/icd/entity/1893759206,=,6A20.Z / 6A25.0 
+5,破瓜型分裂病,S1,F201,SLS6,=,http://id.who.int/icd/entity/1683919430 / http://id.who.int/icd/entity/1893759206,=,6A20.Z / 6A25.0 
+5,解体型統合失調症,S1,F201,SLS6,=,http://id.who.int/icd/entity/1683919430 / http://id.who.int/icd/entity/1893759206,=,6A20.Z / 6A25.0 
+5,緊張型統合失調症,L,F202,D2L6,=,http://id.who.int/icd/entity/1683919430 / http://id.who.int/icd/entity/736393417,=,6A20.Z / 6A25.4 
+5,緊張病性昏迷,S1,F202,D2L6,=,http://id.who.int/icd/entity/486722075,=,6A4Z
+5,緊張病,S1,F202,D2L6,=,http://id.who.int/icd/entity/486722075,=,6A4Z
+5,型分類困難な統合失調症,L,F203,ATM5,<,http://id.who.int/icd/entity/1683919430,<,6A20.Z
+5,統合失調症後抑うつ,L,F204,GKUP,=,http://id.who.int/icd/entity/1683919430 / http://id.who.int/icd/entity/797284789 ,=,6A20.Z / 6A25.2 
+5,残遺型統合失調症,L,F205,H363,=,http://id.who.int/icd/entity/1589500739,=,6A20.21
+5,体感症性統合失調症,L,F208,GDR0,=,http://id.who.int/icd/entity/1683919430 / http://id.who.int/icd/entity/521257551 ,=,6A20.Z / 6A25.0 
+5,統合失調症,L,F209,Q66J,=,http://id.who.int/icd/entity/1683919430,=,6A20.Z
+5,モレル・クレペリン病,L,F209,VVD7,=,http://id.who.int/icd/entity/1683919430,=,6A20.Z 
+5,境界型統合失調症,L,F21,EAVQ,=,http://id.who.int/icd/entity/18178000,=,6A22
+5,偽神経症性統合失調症,L,F21,GD5U,=,http://id.who.int/icd/entity/18178000,=,6A22
+5,潜在性統合失調症,L,F21,H2NQ,=,http://id.who.int/icd/entity/18178000,=,6A22
+5,統合失調症型障害,L,F21,QMUJ,=,http://id.who.int/icd/entity/18178000,=,6A22 
+5,前駆期統合失調症,L,F21,RFJE,=,http://id.who.int/icd/entity/18178000,=,6A22
+5,統合失調症型パーソナリティ障害,L,F21,VUJU,=,http://id.who.int/icd/entity/18178000,=,6A22
+5,嫉妬妄想,L,F220,AAH5,=,http://id.who.int/icd/entity/1380368421,=,MB26.06
+5,関係妄想,L,F220,CKR2,=,http://id.who.int/icd/entity/922964532,=,MB26.03
+5,自己臭恐怖,L,F220,DN2J,=,http://id.who.int/icd/entity/898022927,<,6B03
+5,妄想性障害,L,F220,GLMJ,=,http://id.who.int/icd/entity/1974996783,=,6A24.Z
+5,心気妄想,L,F220,KLF8,=,http://id.who.int/icd/entity/1549775769,=,MB26.09
+5,口臭ノイローゼ,L,F220,M5F3,=,http://id.who.int/icd/entity/1119008568,=,6B22.Z
+5,サンデル病,L,F220,M7SK,,,,
+5,パラノイア,L,F220,N89M,=,http://id.who.int/icd/entity/1974996783,=,6A24.Z 
+5,自己視線恐怖,L,F220,NMAM,<,http://id.who.int/icd/entity/450159649,<,6B04 
+5,被害妄想,L,F220,R2QG,=,http://id.who.int/icd/entity/860615074,=,MB26.07 
+5,誇大妄想,L,F220,RFKF,=,http://id.who.int/icd/entity/202188998,=,MB26.05
+5,関係念慮,L,F220,S7HP,=,http://id.who.int/icd/entity/781153315,=,MB26.8 
+5,退行期妄想状態,L,F228,GCKB,<,http://id.who.int/icd/entity/1974996783,<,6A24.Z 
+5,好訴パラノイア,L,F228,MJ9D,<,http://id.who.int/icd/entity/1974996783,<,6A24.Z 
+5,妄想性醜形恐怖症,L,F228,R60G,=,http://id.who.int/icd/entity/731724655,=,6B21.Z 
+5,幻覚妄想状態,L,F229,FNPG,=,http://id.who.int/icd/entity/1974996783  & http://id.who.int/icd/entity/521257551,=,6A24.Z / 6A25.0 
+5,持続性妄想性障害,L,F229,MKSQ,=,http://id.who.int/icd/entity/1974996783,=,6A24.Z 
+5,統合失調症症状を伴わない急性多形性精神病性障害,L,F230,FVG6,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,分裂病症状を伴わない急性多形性精神病性障害,S1,F230,FVG6,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,統合失調症状を伴わない急性多形性精神病性障害,S1,F230,FVG6,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,統合失調症症状を伴わない急性錯乱,L,F230,NGQ4,=,http://id.who.int/icd/entity/897917531,=,6D70.Z 
+5,統合失調症状を伴わない急性錯乱,S1,F230,NGQ4,=,http://id.who.int/icd/entity/897917531,=,6D70.Z 
+5,分裂病症状を伴わない急性錯乱,S1,F230,NGQ4,=,http://id.who.int/icd/entity/897917531,=,6D70.Z 
+5,統合失調症症状を伴わない類循環精神病,L,F230,T93U,<,http://id.who.int/icd/entity/284410555,<,6A23.Y
+5,分裂病症状を伴わない類循環精神病,S1,F230,T93U,<,http://id.who.int/icd/entity/284410555,<,6A23.Y
+5,統合失調症状を伴わない類循環精神病,S1,F230,T93U,<,http://id.who.int/icd/entity/284410555,<,6A23.Y
+5,統合失調症症状を伴う類循環精神病,L,F231,DVAA,<,http://id.who.int/icd/entity/284410555,<,6A23.Z
+5,統合失調症状を伴う類循環精神病,S1,F231,DVAA,<,http://id.who.int/icd/entity/284410555,<,6A23.Z
+5,分裂病症状を伴う類循環精神病,S1,F231,DVAA,<,http://id.who.int/icd/entity/284410555,<,6A23.Z
+5,統合失調症症状を伴う急性錯乱,L,F231,H8DT,=,http://id.who.int/icd/entity/284410555 / http://id.who.int/icd/entity/897917531,=, 6A23.Z / 6D70.Z
+5,統合失調症状を伴う急性錯乱,S1,F231,H8DT,=,http://id.who.int/icd/entity/284410555 / http://id.who.int/icd/entity/897917531,=, 6A23.Z / 6D70.Z
+5,分裂病症状を伴う急性錯乱,S1,F231,H8DT,=,http://id.who.int/icd/entity/284410555 / http://id.who.int/icd/entity/897917531,=, 6A23.Z / 6D70.Z
+5,統合失調症症状を伴う急性多形性精神病性障害,L,F231,STKT,<,http://id.who.int/icd/entity/284410555,<,6A23.Z
+5,分裂病症状を伴う急性多形性精神病性障害,S1,F231,STKT,<,http://id.who.int/icd/entity/284410555,<,6A23.Z
+5,統合失調症状を伴う急性多形性精神病性障害,S1,F231,STKT,<,http://id.who.int/icd/entity/284410555,<,6A23.Z
+5,夢幻精神病,L,F232,AC63,<,http://id.who.int/icd/entity/284410555,<,6A23.Z
+5,急性統合失調症様精神病性障害,L,F232,C5MK,<,http://id.who.int/icd/entity/405565289,<,6A2Y 
+5,急性分裂病様精神病性障害,S1,F232,C5MK,<,http://id.who.int/icd/entity/405565289,<,6A2Y 
+5,急性統合失調様精神病性障害,S1,F232,C5MK,<,http://id.who.int/icd/entity/405565289,<,6A2Y 
+5,急性統合失調症,L,F232,RFM1,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,急性精神分裂病,S1,F232,RFM1,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,短期統合失調症様障害,L,F232,TAGJ,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,短期分裂病様障害,S1,F232,TAGJ,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,短期分裂病様精神病,S1,F232,TAGJ,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,短期統合失調様障害,S1,F232,TAGJ,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,短期統合失調様精神病,S1,F232,TAGJ,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,統合失調症性反応,L,F232,TBPD,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,精神分裂反応,S1,F232,TBPD,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,分裂病性反応,S1,F232,TBPD,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,統合失調性反応,S1,F232,TBPD,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,心因性妄想精神病,L,F233,DU9D,,,,
+5,妄想反応,L,F233,GBBE,=,http://id.who.int/icd/entity/1974996783,=,MB26.0Z  
+5,急性妄想反応,S2,F233,GBBE,=,http://id.who.int/icd/entity/1974996783 & http://id.who.int/icd/entity/786106375,=,MB26.0Z  
+5,妄想型状況反応,S2,F233,GBBE,=,http://id.who.int/icd/entity/1974996783,=,MB26.0Z  
+5,妄想を主とする急性精神病性障害,L,F233,KQ1U,<, http://id.who.int/icd/entity/284410555,<,6A23.Z
+5,拘禁反応,L,F238,N7TG,=,http://id.who.int/icd/entity/327325370,<,6B41
+5,外傷性精神病,L,F238,R7AK,,http://id.who.int/icd/entity/284410555,<,6A23.Z
+5,交通事故後心因反応,L,F238,TPVD,=,"http://id.who.int/icd/entity/696956921 or http://id.who.int/icd/entity/2070699808 
+",=,6E61 or 6B40
+5,反応性精神病,L,F239,C0S7,,,,
+5,心因反応精神遅滞,L,F239,HGQ6,<,http://id.who.int/icd/entity/284410555,<,6A23.Z
+5,心因反応精神薄弱,S1,F239,HGQ6,<,http://id.who.int/icd/entity/284410555,<,6A23.Z
+5,急性一過性精神病性障害,L,F239,KEVB,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,急性精神病,L,F239,V8T1,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,二人組精神病,L,F24,B40N,<,http://id.who.int/icd/entity/1974996783,<,6A24.Z 
+5,感応精神病,L,F24,LS49,<,http://id.who.int/icd/entity/1974996783,<,6A20.Z 
+5,感応性妄想性障害,L,F24,M1UB,=,http://id.who.int/icd/entity/1974996783,=,6A24.Z
+5,躁病型統合失調感情障害,L,F250,R0A3,=,http://id.who.int/icd/entity/106339515 / http://id.who.int/icd/entity/342760401,=,6A21 / 6A25.4
+5,うつ病型統合失調感情障害,L,F251,TRLT,=,http://id.who.int/icd/entity/106339515 / http://id.who.int/icd/entity/797284789,=,6A21
+5,混合型統合失調感情障害,L,F252,LUEA,=,http://id.who.int/icd/entity/106339515,=,6A21
+5,統合失調感情障害,L,F259,RJJ4,=,http://id.who.int/icd/entity/106339515,=,6A21
+5,慢性幻覚精神病,L,F28,BUM5,=,http://id.who.int/icd/entity/725134404 / http://id.who.int/icd/entity/521257551,=,
+5,知的障害性精神病,L,F28,Q5V5,=,http://id.who.int/icd/entity/261282054 / http://id.who.int/icd/entity/605267007,<,6A2Z / 6A00.Z 
+5,精神薄弱性精神病,S1,F28,Q5V5,,,,
+5,精神遅滞性精神病,S1,F28,Q5V5,,,,
+5,非定型精神病,L,F28,RDCR,=,http://id.who.int/icd/entity/261282054,<,6A2Z
+5,精神病,L,F29,AQ3A,=,http://id.who.int/icd/entity/261282054,<,6A2Z
+5,プシコーゼ,S2,F29,AQ3A,=,http://id.who.int/icd/entity/261282054,<,6A2Z
+5,非器質性精神病,L,F29,LD7Q,=,http://id.who.int/icd/entity/261282054,<,6A2Z
+5,軽躁病,L,F300,AF0G,<,"http://id.who.int/icd/entity/1931350942
+or
+http://id.who.int/icd/entity/729639831
+or
+http://id.who.int/icd/entity/1427638883",<,6A60.2 or 6A61.0 or 6A62
+5,精神病症状を伴わない躁病,L,F301,HB06,=,http://id.who.int/icd/entity/374726152,=,6A60.0
+5,精神病症状を伴う躁病,L,F302,JGS9,=,http://id.who.int/icd/entity/1660456695,=,6A60.1
+5,躁病性昏迷,L,F302,S0F7,,,,
+5,躁病発作,L,F308,C1TM,,,,
+5,躁反応,S2,F308,C1TM,,,,
+5,躁病性反応,S2,F308,C1TM,,,,
+5,反応性興奮,L,F308,CEAV,,,,
+5,興奮性気分異常,S2,F308,CEAV,,,,
+5,躁状態,L,F309,NE7B,=,http://id.who.int/icd/entity/374726152 OR  http://id.who.int/icd/entity/1660456695,=,6A60.0 OR 6A60.1
+5,単極性躁病,L,F309,QRFM,<,http://id.who.int/icd/entity/76398729,<,6A8Z
+5,双極性感情障害・軽躁病エピソード,L,F310,V2U5,=,http://id.who.int/icd/entity/1931350942 OR http://id.who.int/icd/entity/729639831,=,6A60.2 or 6A61.0
+5,双極性感情障害・精神病症状を伴わない躁病エピソード,L,F311,KCMN,=,http://id.who.int/icd/entity/374726152,=,6A60.0
+5,双極性感情障害・精神病症状を伴う躁病エピソード,L,F312,L00H,=,http://id.who.int/icd/entity/1660456695,=,6A60.1
+5,双極性感情障害・中等症のうつ病エピソード,L,F313,LP78,=,http://id.who.int/icd/entity/306271588,=,6A60.4
+5,双極性感情障害・軽症のうつ病エピソード,L,F313,P0TV,=,http://id.who.int/icd/entity/129188707 OR http://id.who.int/icd/entity/485378793,=,6A60.3 OR 6A61.1
+5,双極性感情障害・精神病症状を伴わない重症うつ病エピソード,L,F314,QQE3,=,http://id.who.int/icd/entity/1952305399 OR http://id.who.int/icd/entity/183967754,=,6A60.6 OR 6A61.4
+5,双極性感情障害・精神病症状を伴う重症うつ病エピソード,L,F315,R0PV,=,http://id.who.int/icd/entity/286661987 OR http://id.who.int/icd/entity/349321697,=,6A60.7 OR 6A61.5
+5,双極性感情障害・混合性エピソード,L,F316,JEGU,=,"http://id.who.int/icd/entity/1706773916
+OR
+http://id.who.int/icd/entity/167688690",=,6A60.9 or 6A60.A 
+5,寛解中の双極性感情障害,L,F317,RHUP,=,http://id.who.int/icd/entity/15761418 OR http://id.who.int/icd/entity/948425503,=,6A60.F or 6A61.A
+5,循環型躁うつ病,L,F318,CH0G,<,http://id.who.int/icd/entity/613065957,<,6A6Z
+5,双極ＩＩ型障害,L,F318,GMQC,=,http://id.who.int/icd/entity/199053300,=,6A61 
+5,反復性躁病エピソード,L,F318,P4GQ,<,http://id.who.int/icd/entity/613065957,<,6A6Z
+5,躁うつ病,L,F319,JNT0,=,http://id.who.int/icd/entity/1456478153,=,6A60.Z 
+5,躁うつ状態,S1,F319,JNT0,=,http://id.who.int/icd/entity/1456478153,=,6A6Z
+5,躁うつ病反応,S1,F319,JNT0,=,http://id.who.int/icd/entity/1456478153,=,6A6Z
+5,躁うつ病性精神病,S1,F319,JNT0,=,http://id.who.int/icd/entity/1456478153,=,6A6Z
+5,躁うつ症候群,S1,F319,JNT0,=,http://id.who.int/icd/entity/1456478153,=,6A6Z
+5,周期性精神病,L,F319,LER2,<,http://id.who.int/icd/entity/613065957,<,6A6Z
+5,周期性精神障害,S1,F319,LER2,<,http://id.who.int/icd/entity/613065957,<,6A6Z
+5,双極性感情障害,L,F319,TUKV,=,http://id.who.int/icd/entity/613065957,=,6A6Z
+5,双極性障害,S1,F319,TUKV,=,http://id.who.int/icd/entity/613065957,=,6A6Z
+5,軽症うつ病エピソード,L,F320,LVML,=,"http://id.who.int/icd/entity/1922675618
+or
+http://id.who.int/icd/entity/1851882275
+or
+http://id.who.int/icd/entity/129188707
+or
+http://id.who.int/icd/entity/485378793
+",=,6A70.0 or 6A71.0 or 6A60.3 or 6A61.1
+5,軽うつ状態,S1,F320,LVML,=,"http://id.who.int/icd/entity/1922675618
+or
+http://id.who.int/icd/entity/1851882275
+or
+http://id.who.int/icd/entity/129188707
+or
+http://id.who.int/icd/entity/485378793
+",=,6A70.0 or 6A71.0 or 6A60.3 or 6A61.1
+5,軽症うつ病,S1,F320,LVML,=,"http://id.who.int/icd/entity/1922675618
+or
+http://id.who.int/icd/entity/1851882275
+or
+http://id.who.int/icd/entity/129188707
+or
+http://id.who.int/icd/entity/485378793
+",=,6A70.0 or 6A71.0 or 6A60.3 or 6A61.1
+5,中等症うつ病エピソード,L,F321,LKLP,=,http://id.who.int/icd/entity/399670840,=,6A70.1 
+5,精神病症状を伴わない重症うつ病エピソード,L,F322,TME9,=,http://id.who.int/icd/entity/1669279433,=,6A70.3
+5,激越性うつ症,S2,F322,TME9,=,http://id.who.int/icd/entity/1669279433,=,6A70.3
+5,単発大うつ病,S2,F322,TME9,=,http://id.who.int/icd/entity/1669279433,=,6A70.3
+5,単発生気うつ病,S2,F322,TME9,=,http://id.who.int/icd/entity/1669279433,=,6A70.3
+5,単発激越性うつ病,S2,F322,TME9,=,http://id.who.int/icd/entity/1669279433,=,6A70.3
+5,激越性うつ病,S2,F322,TME9,=,http://id.who.int/icd/entity/1669279433,=,6A70.3
+5,精神病症状を伴う重症うつ病エピソード,L,F323,J7BF,=,http://id.who.int/icd/entity/104129373,=,6A70.4 
+5,単発反応性抑うつ精神病,S2,F323,J7BF,=,http://id.who.int/icd/entity/104129373,=,6A70.4 
+5,単発精神病性うつ病,S2,F323,J7BF,=,http://id.who.int/icd/entity/104129373,=,6A70.4 
+5,単発心因性抑うつ精神病,S2,F323,J7BF,=,http://id.who.int/icd/entity/104129373,=,6A70.4 
+5,非定型うつ病,L,F328,FMJH,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,心気性うつ病,L,F328,LPBL,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,思春期うつ病,L,F328,PA1F,=,http://id.who.int/icd/entity/1563440232 & http://id.who.int/icd/entity/275453639,=,6A7Z & XT7M
+5,仮面うつ病,L,F328,TSGD,<,http://id.who.int/icd/entity/1563440232,<,6A7Y 
+5,仮面デプレッション,S1,F328,TSGD,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,単発仮面うつ病,S2,F328,TSGD,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,退行期うつ病,L,F328,VSGA,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,退行期うつ状態,S1,F328,VSGA,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,反復性閉経期うつ病,S2,F328,VSGA,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,初老期うつ病,S2,F328,VSGA,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,更年期うつ病,S2,F328,VSGA,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,単発更年期うつ病,S2,F328,VSGA,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,単発反応性うつ病,L,F329,ABEA,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,単発反応抑うつ,S1,F329,ABEA,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,単発内因性うつ病,S1,F329,ABEA,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,単発うつ病性反応,S1,F329,ABEA,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,単発心因性抑うつ,S1,F329,ABEA,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,単発心因性うつ病,S1,F329,ABEA,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,単発短期抑うつ反応,S2,F329,ABEA,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,短期抑うつ反応,S2,F329,ABEA,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,反応性うつ病,L,F329,F04H,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,反応抑うつ,S1,F329,F04H,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,反応性心因性うつ病,S1,F329,F04H,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,心因性うつ病,S1,F329,F04H,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,心因性うつ症,S1,F329,F04H,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,心因性抑うつ,S1,F329,F04H,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,抑うつ反応,S2,F329,F04H,<,http://id.who.int/icd/entity/1563440232,<,6A7Z
+5,うつ病,L,F329,M84N,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,デプレッション,S1,F329,M84N,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,抑鬱病,S1,F329,M84N,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,欝病性障害,S1,F329,M84N,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,抑欝病,S1,F329,M84N,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,鬱病性障害,S1,F329,M84N,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,抑うつ病,S1,F329,M84N,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,欝病,S1,F329,M84N,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,うつ病性障害,S1,F329,M84N,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,鬱病,S1,F329,M84N,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,急性うつ病,S2,F329,M84N,=,http://id.who.int/icd/entity/1563440232 & http://id.who.int/icd/entity/786106375,=,6A7Z & XT5R
+5,うつ病エピソード,S2,F329,M84N,=,http://id.who.int/icd/entity/578635574,=,6A70.Z
+5,うつ状態,L,F329,VUL3,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,うつ症,S1,F329,VUL3,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,欝反応,S1,F329,VUL3,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,憂鬱症,S1,F329,VUL3,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,憂欝症,S1,F329,VUL3,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,うつ反応,S1,F329,VUL3,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,鬱反応,S1,F329,VUL3,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,鬱傾向,S1,F329,VUL3,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,欝症,S1,F329,VUL3,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,抑欝状態,S1,F329,VUL3,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,憂うつ症,S1,F329,VUL3,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,うつ傾向,S1,F329,VUL3,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,鬱状態,S1,F329,VUL3,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,抑鬱状態,S1,F329,VUL3,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,メランコリー,S1,F329,VUL3,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,欝傾向,S1,F329,VUL3,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,鬱症,S1,F329,VUL3,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,抑うつ状態,S1,F329,VUL3,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,欝状態,S1,F329,VUL3,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,軽症反復性うつ病性障害,L,F330,NPNG,=,http://id.who.int/icd/entity/1851882275,=,6A71.0 
+5,中等症反復性うつ病性障害,L,F331,S4LA,=,"http://id.who.int/icd/entity/187348663
+OR
+http://id.who.int/icd/entity/419823765",=,6A71.1 or 6A71.2
+5,内因性うつ病,L,F332,J9SL,=,http://id.who.int/icd/entity/2139612744,=,6A71.3
+5,反復性心因性抑うつ精神病,L,F333,MLPN,=,http://id.who.int/icd/entity/449588190,=,6A71.4
+5,反復性反応性抑うつ精神病,S1,F333,MLPN,=,http://id.who.int/icd/entity/449588190,=,6A71.4
+5,反復性精神病性うつ病,L,F333,Q3AL,=,"http://id.who.int/icd/entity/419823765
+OR
+http://id.who.int/icd/entity/449588190",=,6A71.2 or 6A71.4
+5,寛解中の反復性うつ病性障害,L,F334,FEFD,=,http://id.who.int/icd/entity/1763883082,=,6A71.7
+5,反復性うつ病,L,F339,B71N,=,http://id.who.int/icd/entity/1194756772,=,6A71.Z
+5,再発性うつ病,S1,F339,B71N,=,http://id.who.int/icd/entity/1194756772,=,6A71.Z
+5,周期性不機嫌症,S1,F339,B71N,,,,
+5,周期性うつ病,S1,F339,B71N,=,http://id.who.int/icd/entity/1194756772,=,6A71.Z
+5,季節性うつ病性障害,S2,F339,B71N,=,http://id.who.int/icd/entity/1194756772,=,6A71.Z
+5,単極性うつ病,L,F339,QDLG,=,http://id.who.int/icd/entity/1563440232,=,6A7Z
+5,発作性不機嫌症,S2,F339,QDLG,,,,
+5,反復心因性うつ病,L,F339,U12R,<,http://id.who.int/icd/entity/1194756772,<,6A71.Z
+5,反復短期抑うつ反応,S1,F339,U12R,<,http://id.who.int/icd/entity/1194756772,<,6A71.Z
+5,反復反応性うつ病,S1,F339,U12R,<,http://id.who.int/icd/entity/1194756772,<,6A71.Z
+5,反復うつ病性反応,S1,F339,U12R,<,http://id.who.int/icd/entity/1194756772,<,6A71.Z
+5,反復反応抑うつ,S1,F339,U12R,<,http://id.who.int/icd/entity/1194756772,<,6A71.Z
+5,反復心因性抑うつ,S1,F339,U12R,<,http://id.who.int/icd/entity/1194756772,<,6A71.Z
+5,反復性うつ病性障害,S1,F339,U12R,<,http://id.who.int/icd/entity/1194756772,<,6A71.Z
+5,気分循環症,L,F340,CRUN,=,http://id.who.int/icd/entity/1427638883,=,6A62
+5,循環気質,S1,F340,CRUN,=,http://id.who.int/icd/entity/1427638883,=,6A62
+5,循環気質性人格,S1,F340,CRUN,=,http://id.who.int/icd/entity/1427638883,=,6A62
+5,循環病質性人格,S1,F340,CRUN,=,http://id.who.int/icd/entity/1427638883,=,6A62
+5,情緒性人格障害,S2,F340,CRUN,<,http://id.who.int/icd/entity/1427638883,<,6A62
+5,情動性人格異常,S2,F340,CRUN,<,http://id.who.int/icd/entity/1427638883,<,6A62
+5,抑うつ神経症,L,F341,EKNV,<,http://id.who.int/icd/entity/1563440232,<,6A72
+5,神経性抑うつ症,S2,F341,EKNV,<,http://id.who.int/icd/entity/1563440232,<,6A72
+5,神経症性うつ病,S2,F341,EKNV,<,http://id.who.int/icd/entity/1563440232,<,6A72
+5,神経性うつ病,S2,F341,EKNV,<,http://id.who.int/icd/entity/1563440232,<,6A72
+5,憂うつ神経症,S2,F341,EKNV,<,http://id.who.int/icd/entity/1563440232,<,6A72
+5,軽症抑うつ症,S2,F341,EKNV,<,http://id.who.int/icd/entity/1563440232,<,6A72
+5,神経症性抑うつ状態,L,F341,NERK,<,http://id.who.int/icd/entity/1563440232,<,6A72
+5,神経性抑うつ状態,S2,F341,NERK,<,http://id.who.int/icd/entity/1563440232,<,6A72
+5,神経性うつ状態,S2,F341,NERK,<,http://id.who.int/icd/entity/1563440232,<,6A72
+5,抑うつ性パーソナリティ障害,L,F341,QUCU,=,http://id.who.int/icd/entity/810797047,=,6A72
+5,抑うつ性人格障害,S1,F341,QUCU,=,http://id.who.int/icd/entity/810797047,=,6A72
+5,抑うつ人格,S1,F341,QUCU,=,http://id.who.int/icd/entity/810797047,=,6A72
+5,気分変調症,L,F341,U3QQ,=,http://id.who.int/icd/entity/810797047,=,6A72
+5,外傷後遺症性うつ病,L,F348,AHG1,<,http://id.who.int/icd/entity/216291184,<,6E62
+5,持続性気分障害,L,F349,AESG,=,http://id.who.int/icd/entity/1427638883 or http://id.who.int/icd/entity/810797047 ,=,6A62 or 6A72
+5,持続性感情障害,S1,F349,AESG,=,http://id.who.int/icd/entity/1427638883 or http://id.who.int/icd/entity/810797047 ,=,6A62 or 6A72
+5,拘禁性抑うつ状態,L,F349,DBJF,<,http://id.who.int/icd/entity/216291184,<,6E62
+5,混合性感情エピソード,L,F380,M5FN,★,"http://id.who.int/icd/entity/1706773916
+OR
+http://id.who.int/icd/entity/167688690",★,6A60.9 OR 6A60.A
+5,反復性気分障害,L,F381,DNQD,<,http://id.who.int/icd/entity/76398729,<,6A8Z 
+5,反復性感情障害,S1,F381,DNQD,<,http://id.who.int/icd/entity/76398729,<,6A8Z 
+5,周期性精神変調,S1,F381,DNQD,<,http://id.who.int/icd/entity/76398729,<,6A8Z 
+5,反復性短期うつ病エピソード,L,F381,TSS0,=,http://id.who.int/icd/entity/1093742821,<,MB24.5
+5,攻撃性気分異常,L,F388,TBRN,<,http://id.who.int/icd/entity/501393848,<,MB23.0
+5,情動精神病,L,F39,FD7E,,,,
+5,気分異常,L,F39,KFVV,<,http://id.who.int/icd/entity/76398729,<,6A8Z 
+5,気分変調,S1,F39,KFVV,<,http://id.who.int/icd/entity/76398729,<,6A8Z 
+5,感情異常,S1,F39,KFVV,<,http://id.who.int/icd/entity/76398729,<,6A8Z 
+5,広場恐怖症,L,F400,VKTR,=,http://id.who.int/icd/entity/530592394,=,6B02
+5,臨場恐怖,S1,F400,VKTR,=,http://id.who.int/icd/entity/530592394,=,6B02
+5,広場恐怖,S1,F400,VKTR,=,http://id.who.int/icd/entity/530592394,=,6B02
+5,社交不安障害,L,F401,GFKC,=,http://id.who.int/icd/entity/2062286624,=,6B04
+5,社会不安障害,L,F401,GFKC,=,http://id.who.int/icd/entity/2062286624,=,6B04
+5,赤面恐怖症,L,F401,JTTS,=,http://id.who.int/icd/entity/881932397,<,6B03 
+5,赤面恐怖(症),S1,F401,JTTS,=,http://id.who.int/icd/entity/881932397,<,6B03 
+5,社会恐怖症,L,F401,P1HG,=,http://id.who.int/icd/entity/2062286624,=,6B04
+5,視線恐怖症,S1,F401,P1HG,=,http://id.who.int/icd/entity/2062286624,=,6B04
+5,社会神経症,S1,F401,P1HG,=,http://id.who.int/icd/entity/2062286624,=,6B04
+5,視線恐怖(症),S1,F401,P1HG,=,http://id.who.int/icd/entity/2062286624,=,6B04
+5,対人恐怖症,L,F401,UJ1L,=,http://id.who.int/icd/entity/450159649,<,6B04
+5,対人恐怖(症),S1,F401,UJ1L,=,http://id.who.int/icd/entity/450159649,<,6B04
+5,先端神経症,L,F402,C552,<,http://id.who.int/icd/entity/239513569,<,6B03
+5,先端恐怖,S1,F402,C552,<,http://id.who.int/icd/entity/239513569,<,6B03
+5,単一恐怖症,L,F402,DJPG,=,http://id.who.int/icd/entity/239513569,=,6B03
+5,歯科治療恐怖症,L,F402,GU9P,=,http://id.who.int/icd/entity/239513569,=,6B03
+5,動物恐怖,L,F402,KT9V,=,http://id.who.int/icd/entity/1441255130,<,6B03
+5,動物恐怖症,S1,F402,KT9V,=,http://id.who.int/icd/entity/1441255130,<,6B03
+5,単純恐怖症,L,F402,MAMJ,=,http://id.who.int/icd/entity/239513569,=,6B03
+5,高所恐怖症,L,F402,PB27,=,http://id.who.int/icd/entity/2146122658,<,6B03
+5,閉所恐怖症,L,F402,S53S,=,http://id.who.int/icd/entity/1419955558,<,6B03
+5,閉所恐怖,S1,F402,S53S,=,http://id.who.int/icd/entity/1419955558,<,6B03
+5,恐怖症性不安障害,L,F409,AAKR,=,http://id.who.int/icd/entity/1336943699,=,6B0Z
+5,恐怖状態,S1,F409,AAKR,=,http://id.who.int/icd/entity/1336943699,=,6B0Z
+5,恐怖(症),S1,F409,AAKR,=,http://id.who.int/icd/entity/1336943699,=,6B0Z
+5,恐怖症,S1,F409,AAKR,=,http://id.who.int/icd/entity/1336943699,=,6B0Z
+5,破局発作状態,L,F410,DT7V,=,http://id.who.int/icd/entity/1707067746,=,MB23.H
+5,破局発作,S1,F410,DT7V,=,http://id.who.int/icd/entity/1707067746,=,MB23.H
+5,不安発作,S1,F410,DT7V,=,http://id.who.int/icd/entity/1707067746,=,MB23.H
+5,パニック障害,L,F410,KHPR,=,http://id.who.int/icd/entity/56162827,=,6B01 
+5,恐慌性障害,S1,F410,KHPR,=,http://id.who.int/icd/entity/56162827,=,6B01 
+5,恐慌障害,S1,F410,KHPR,=,http://id.who.int/icd/entity/56162827,=,6B01 
+5,挿間性発作性不安,L,F410,L21P,<,http://id.who.int/icd/entity/56162827,<,6B01 
+5,パニック発作,L,F410,V8MN,=,http://id.who.int/icd/entity/1707067746,=,MB23.H
+5,恐慌状態,S1,F410,V8MN,=,http://id.who.int/icd/entity/1707067746,=,MB23.H
+5,恐慌発作,S1,F410,V8MN,=,http://id.who.int/icd/entity/1707067746,=,MB23.H
+5,パニック状態,S1,F410,V8MN,=,http://id.who.int/icd/entity/1707067746,=,MB23.H
+5,不安神経症,L,F411,ARPB,=,http://id.who.int/icd/entity/1712535455,=,6B00
+5,不安状態,S1,F411,ARPB,=,http://id.who.int/icd/entity/1712535455,=,6B00
+5,不安反応,S1,F411,ARPB,=,http://id.who.int/icd/entity/1712535455,=,6B00
+5,不安症,S1,F411,ARPB,=,http://id.who.int/icd/entity/1712535455,=,6B00
+5,全般性不安障害,L,F411,EV67,=,http://id.who.int/icd/entity/1712535455,=,6B00
+5,不安緊張状態,L,F411,VMLG,=,http://id.who.int/icd/entity/1712535455,=,6B00
+5,不安愁訴症候群,S2,F411,VMLG,=,http://id.who.int/icd/entity/1712535455,=,6B00
+5,不安苦悶状態,S2,F411,VMLG,=,http://id.who.int/icd/entity/1712535455,=,6B00
+5,不安焦燥状態,S2,F411,VMLG,=,http://id.who.int/icd/entity/1712535455,=,6B00
+5,不安うつ病,L,F412,QL7P,=,http://id.who.int/icd/entity/314468192,=,6A73
+5,不安抑うつ,S1,F412,QL7P,=,http://id.who.int/icd/entity/314468192,=,6A73
+5,不安抑うつ状態,S1,F412,QL7P,=,http://id.who.int/icd/entity/314468192,=,6A73
+5,混合性不安抑うつ障害,L,F412,ULKG,=,http://id.who.int/icd/entity/314468192,=,6A73
+5,不安ヒステリー,L,F418,UCBB,=,http://id.who.int/icd/entity/54673878,<,MB24.Y
+5,不安障害,L,F419,V0A2,=,http://id.who.int/icd/entity/1336943699,=,6B0Z
+5,精神不安,S1,F419,V0A2,=,http://id.who.int/icd/entity/2027043655,=,MB24.3
+5,反復思考,L,F420,EN30,=,http://id.who.int/icd/entity/1693572010,<,MB25.0Y
+5,主として強迫思考または反復思考,L,F420,H44D,=,http://id.who.int/icd/entity/1693572010,<,MB25.0Y
+5,強迫思考,L,F420,V7N1,=,http://id.who.int/icd/entity/1638858328,=,MB26.5
+5,強迫念慮,S1,F420,V7N1,=,http://id.who.int/icd/entity/1638858328,=,MB26.5
+5,強迫行為,L,F421,AAU5,=,http://id.who.int/icd/entity/1682814866,=,MB23.4
+5,不潔恐怖症,L,F421,G7T1,=,http://id.who.int/icd/entity/74344857,<,6B03
+5,不潔恐怖,S1,F421,G7T1,=,http://id.who.int/icd/entity/74344857,<,6B03
+5,強迫神経症,L,F421,VGV8,=,http://id.who.int/icd/entity/1582741816,=,6B20.Z 
+5,強迫ノイローゼ,S1,F421,VGV8,=,http://id.who.int/icd/entity/1582741816,=,6B20.Z 
+5,制縛神経症,S1,F421,VGV8,=,http://id.who.int/icd/entity/1582741816,=,6B20.Z 
+5,強迫反応,S2,F421,VGV8,=,http://id.who.int/icd/entity/1582741816,=,6B20.Z 
+5,強迫性障害,L,F429,A9T3,=,http://id.who.int/icd/entity/1582741816,=,6B20.Z 
+5,強迫状態,S1,F429,A9T3,=,http://id.who.int/icd/entity/1582741816,=,6B20.Z 
+5,強迫,S1,F429,A9T3,=,http://id.who.int/icd/entity/1582741816,=,6B20.Z 
+5,疲憊せん妄,L,F430,M9NP,=,http://id.who.int/icd/entity/1252963878,<,QE84 
+5,戦闘疲労,L,F430,MG7G,=,http://id.who.int/icd/entity/143278359,<,QE84 
+5,急性ストレス反応,L,F430,TNHC,=,http://id.who.int/icd/entity/505909942,=,QE84
+5,急性危機反応,S1,F430,TNHC,=,http://id.who.int/icd/entity/505909942,=,QE84
+5,心理的ショック,S2,F430,TNHC,=,http://id.who.int/icd/entity/505909942,=,QE84
+5,危機状態,S2,F430,TNHC,=,http://id.who.int/icd/entity/505909942,=,QE84
+5,ストレス反応,S2,F430,TNHC,=,http://id.who.int/icd/entity/505909942,=,QE84
+5,心的外傷後ストレス障害,L,F431,ANJH,=,http://id.who.int/icd/entity/2070699808,=,6B40
+5,PTSD,S1,F431,ANJH,=,http://id.who.int/icd/entity/2070699808,=,6B40
+5,外傷後ストレス障害,S1,F431,ANJH,=,http://id.who.int/icd/entity/2070699808,=,6B40
+5,外傷後神経症,S2,F431,ANJH,=,http://id.who.int/icd/entity/2070699808,=,6B40
+5,外傷性神経症,S2,F431,ANJH,=,http://id.who.int/icd/entity/2070699808,=,6B40
+5,頭部外傷後症候群,L,F431,JS2B,=,http://id.who.int/icd/entity/2070699808 / http://id.who.int/icd/entity/1188287197,<,6B40 / NA0Z
+5,頭部外傷後神経症,S2,F431,JS2B,=,http://id.who.int/icd/entity/2070699808 / http://id.who.int/icd/entity/1188287197,<,6B40 / NA0Z
+5,頭部外傷後心因反応,S2,F431,JS2B,=,http://id.who.int/icd/entity/2070699808 / http://id.who.int/icd/entity/1188287197,<,6B40 / NA0Z
+5,小児のホスピタリズム,L,F432,A7DE,=,http://id.who.int/icd/entity/264310751 & http://id.who.int/icd/entity/1043777387,=,6B43 & XT4X
+5,小児の施設症,S1,F432,A7DE,=,http://id.who.int/icd/entity/264310751 & http://id.who.int/icd/entity/1043777387,=,6B43 & XT4X
+5,悲嘆反応,L,F432,AVMB,=,http://id.who.int/icd/entity/1183832314,=,6B42
+5,ホスピタリズム,L,F432,CE8U,=,http://id.who.int/icd/entity/264310751,=,6B43
+5,施設症,S1,F432,CE8U,=,http://id.who.int/icd/entity/264310751,=,6B43
+5,遷延性抑うつ反応,L,F432,JCVG,=,http://id.who.int/icd/entity/1183832314,=,6B42
+5,持続性不安抑うつ,S2,F432,JCVG,=,http://id.who.int/icd/entity/1183832314,=,6B42
+5,異文化ショック,L,F432,KSS6,=,http://id.who.int/icd/entity/1652814217,=,QE00
+5,カルチャーショック,S1,F432,KSS6,=,http://id.who.int/icd/entity/1652814217,=,QE00
+5,文化ショック,S1,F432,KSS6,=,http://id.who.int/icd/entity/1652814217,=,QE00
+5,老年期適応障害,L,F432,MCRN,=,http://id.who.int/icd/entity/264310751 / http://id.who.int/icd/entity/835503193,=,6B43 / MG2A
+5,適応障害,L,F432,PDSG,=,http://id.who.int/icd/entity/264310751,=,6B43
+5,不適応反応,S1,F432,PDSG,=,http://id.who.int/icd/entity/264310751,=,6B43
+5,適応異常,S1,F432,PDSG,=,http://id.who.int/icd/entity/264310751,=,6B43
+5,児童のホスピタリズム,L,F432,SQ4E,=,http://id.who.int/icd/entity/264310751 & http://id.who.int/icd/entity/1088785230,=,6B43 & XT50
+5,児童の施設症,S1,F432,SQ4E,=,http://id.who.int/icd/entity/264310751 & http://id.who.int/icd/entity/1088785230,=,6B43 & XT50
+5,重度ストレス反応,L,F439,P8CE,=,http://id.who.int/icd/entity/991786158,=,6B4Z 
+5,破局的ストレス,S1,F439,P8CE,=,http://id.who.int/icd/entity/991786158,=,6B4Z 
+5,解離性健忘,L,F440,L4TD,=,http://id.who.int/icd/entity/626975732,=,6B61.Z
+5,解離性遁走,L,F441,T93T,=,http://id.who.int/icd/entity/1075129954,=,6B61.0 
+5,心因性昏迷,L,F442,F961,=,http://id.who.int/icd/entity/1000337196 / http://id.who.int/icd/entity/991786158,=,MB20.0 / 6B4Z
+5,解離性昏迷,L,F442,RMUB,=,http://id.who.int/icd/entity/1000337196 / http://id.who.int/icd/entity/1069443471,=,MB20.0 / 6B60.Z 
+5,カタレプシー,L,F442,VD86,<,http://id.who.int/icd/entity/1069443471,<,6B60.Z
+5,ヒステリー性運動失調症,L,F444,BJHN,=,http://id.who.int/icd/entity/536986325,=,6B60.8Z
+5,ヒステリー性失立並びに失歩,S2,F444,BJHN,=,http://id.who.int/icd/entity/536986325,=,6B60.8Z
+5,心因性振戦,L,F444,BR5B,=,http://id.who.int/icd/entity/288547754,=,8A04.4
+5,心因性失声,L,F444,C3DN,=,http://id.who.int/icd/entity/1504141213,=,6B60.5
+5,心因性運動失調症,S1,F444,C3DN,=,http://id.who.int/icd/entity/536986325,=,6B60.8Z
+5,心因性発声障害,S1,F444,C3DN,=,http://id.who.int/icd/entity/1504141213,=,6B60.5
+5,解離性運動障害,L,F444,P9J6,=,http://id.who.int/icd/entity/536986325,=,6B60.8Z
+5,ヒステリー性失声症,L,F444,ST61,=,http://id.who.int/icd/entity/1504141213,=,6B60.5
+5,失立,L,F444,U2P5,=,http://id.who.int/icd/entity/1604145596,<,6B60.7
+5,解離性痙攣,L,F445,BHMV,=,http://id.who.int/icd/entity/1620688958,<,6B60.4
+5,解離性けいれん,S1,F445,BHMV,=,http://id.who.int/icd/entity/1620688958,<,6B60.4
+5,ストレス痙攣,S2,F445,BHMV,=,http://id.who.int/icd/entity/1620688958,<,6B60.4
+5,自律神経発作,L,F445,EHUV,=,http://id.who.int/icd/entity/1620688958,<,6B60.4
+5,自律神経性発作,S1,F445,EHUV,=,http://id.who.int/icd/entity/1620688958,<,6B60.4
+5,憤怒痙攣,L,F445,QG55,=,http://id.who.int/icd/entity/1620688958,<,6B60.4
+5,心因発作,L,F445,UHFV,=,http://id.who.int/icd/entity/1620688958,=,6B60.4
+5,ヒステリー性てんかん,L,F445,VP9S,=,http://id.who.int/icd/entity/1620688958,=,6B60.4
+5,解離性感覚障害,L,F446,GEG5,=,http://id.who.int/icd/entity/1608456538,<,6B60.3
+5,ヒステリー性知覚障害,S2,F446,GEG5,=,http://id.who.int/icd/entity/1608456538,<,6B60.3
+5,解離性知覚障害,S2,F446,GEG5,=,http://id.who.int/icd/entity/1608456538,<,6B60.3
+5,解離性知覚麻痺,S2,F446,GEG5,=,http://id.who.int/icd/entity/1608456538,<,6B60.3
+5,心因性難聴,L,F446,M7EG,=,http://id.who.int/icd/entity/52594321,=,AB5Y 
+5,心因性ろう,S2,F446,M7EG,=,http://id.who.int/icd/entity/52594321,=,AB5Y 
+5,ヒステリー性難聴,S2,F446,M7EG,=,http://id.who.int/icd/entity/52594321,=,AB5Y 
+5,機能性難聴,S2,F446,M7EG,=,http://id.who.int/icd/entity/52594321,=,AB5Y 
+5,神経性眼精疲労,L,F446,TEKL,=,http://id.who.int/icd/entity/1608456538,<,6B60.3
+5,混合性解離性障害,L,F447,CC3L,<,http://id.who.int/icd/entity/1069443471,<,6B6Z
+5,混合性転換性障害,L,F447,EJG4,<,http://id.who.int/icd/entity/1069443471,<,6B6Z
+5,非アルコール性亜急性錯乱状態,L,F448,B29G,,,,
+5,反応性錯乱,L,F448,E6SK,,,,
+5,心因性もうろう状態,L,F448,FBAN,<,http://id.who.int/icd/entity/108180424,<,6B6Z
+5,ガンサー症候群,L,F448,NQ9G,=,http://id.who.int/icd/entity/1607568198,<,6B6Y
+5,GANSER症候群,S1,F448,NQ9G,=,http://id.who.int/icd/entity/1607568198,<,6B6Y
+5,ガンザーもうろう状態,S1,F448,NQ9G,=,http://id.who.int/icd/entity/1607568198,<,6B6Y
+5,GANSERもうろう状態,S1,F448,NQ9G,=,http://id.who.int/icd/entity/1607568198,<,6B6Y
+5,多重パーソナリティ障害,L,F448,QD2Q,=,http://id.who.int/icd/entity/1829103493,<,6B64
+5,多重人格障害,S1,F448,QD2Q,=,http://id.who.int/icd/entity/1829103493,<,6B64
+5,多重人格,S2,F448,QD2Q,=,http://id.who.int/icd/entity/1829103493,<,6B64
+5,急性精神錯乱,L,F448,VEPV,<,http://id.who.int/icd/entity/108180424 & http://id.who.int/icd/entity/786106375,<,6B6Z & XT5R
+5,亜急性錯乱状態,L,F448,VG65,,,,
+5,心因性錯乱,L,F448,VTBD,<,http://id.who.int/icd/entity/108180424,<,6B6Z
+5,解離性障害,L,F449,LC4J,=,http://id.who.int/icd/entity/108180424,=,6B6Z
+5,解離状態,S1,F449,LC4J,=,http://id.who.int/icd/entity/108180424,=,6B6Z
+5,解離反応,S2,F449,LC4J,=,http://id.who.int/icd/entity/108180424,=,6B6Z
+5,疾病逃避,L,F449,NHBF,,,,
+5,転換性障害,L,F449,P9MP,=,http://id.who.int/icd/entity/1069443471,=,6B60.Z 
+5,転換障害,S1,F449,P9MP,=,http://id.who.int/icd/entity/1069443471,=,6B60.Z 
+5,転換ヒステリー,S1,F449,P9MP,=,http://id.who.int/icd/entity/1069443471,=,6B60.Z 
+5,転換反応,S1,F449,P9MP,=,http://id.who.int/icd/entity/1069443471,=,6B60.Z 
+5,ヒステリー反応,L,F449,VMB9,=,http://id.who.int/icd/entity/54673878,<,MB24.Y
+5,ヒステリー,S2,F449,VMB9,=,http://id.who.int/icd/entity/54673878,<,MB24.Y
+5,ヒステリー発作,S2,F449,VMB9,=,http://id.who.int/icd/entity/54673878,<,MB24.Y
+5,ヒステリー性精神病,S2,F449,VMB9,,,,
+5,ヒステリー性精神障害,S2,F449,VMB9,=,http://id.who.int/icd/entity/54673878,<,MB24.Y
+5,多訴性症候群,L,F450,ECN6,=,http://id.who.int/icd/entity/54673878,<,MB24.Y
+5,ブリケー障害,L,F450,HEJK,=,http://id.who.int/icd/entity/767044268,=,6C20.Z 
+5,ブリケー症候群,S1,F450,HEJK,=,http://id.who.int/icd/entity/767044268,=,6C20.Z 
+5,身体化障害,L,F450,PHR5,=,http://id.who.int/icd/entity/767044268,=,6C20.Z 
+5,多様な心身障害,S2,F450,PHR5,,,,
+5,多発性心身性障害,L,F450,TFKS,=,http://id.who.int/icd/entity/767044268,=,6C20.Z 
+5,分類困難な身体表現性障害,L,F451,T70G,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,分類困難な心身障害,S1,F451,T70G,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,心気障害,L,F452,E603,=,http://id.who.int/icd/entity/675329566,=,6B23.Z
+5,心気性神経症,S1,F452,E603,=,http://id.who.int/icd/entity/675329566,=,6B23.Z
+5,心気不安状態,S2,F452,E603,=,http://id.who.int/icd/entity/675329566 / http://id.who.int/icd/entity/2027043655,=,6B23.Z / MB24.3
+5,醜形恐怖症,L,F452,G49C,=,http://id.who.int/icd/entity/731724655,=,6B21.Z 
+5,疾病恐怖症,L,F452,JUEV,=,http://id.who.int/icd/entity/1176751173,=,MG24.Z
+5,心気症,L,F452,MG0F,=,http://id.who.int/icd/entity/675329566,=,6B23.Z
+5,心気状態,S1,F452,MG0F,=,http://id.who.int/icd/entity/675329566,=,6B23.Z
+5,ヒポコンドリー,S1,F452,MG0F,=,http://id.who.int/icd/entity/675329566,=,6B23.Z
+5,心気症状態,S1,F452,MG0F,=,http://id.who.int/icd/entity/675329566,=,6B23.Z
+5,心気症候群,S2,F452,MG0F,=,http://id.who.int/icd/entity/675329566,=,6B23.Z
+5,不眠不安心気傾向,S2,F452,MG0F,=,http://id.who.int/icd/entity/675329566 / http://id.who.int/icd/entity/2027043655 ,=,6B23.Z / MB24.3
+5,異形恐怖,L,F452,S2KQ,=,http://id.who.int/icd/entity/731724655,=,6B21.Z
+5,心因性胃アトニー,L,F453,A31H,<,http://id.who.int/icd/entity/767044268 & http://id.who.int/icd/entity/1594312948,<,6C20.Z & DA2Y
+5,神経性胃アトニー,S1,F453,A31H,<,http://id.who.int/icd/entity/767044268 & http://id.who.int/icd/entity/1594312948,<,6C20.Z & DA2Y
+5,神経症性胃アトニー,S1,F453,A31H,<,http://id.who.int/icd/entity/767044268 & http://id.who.int/icd/entity/1594312948,<,6C20.Z & DA2Y
+5,心因性胃拡張,S1,F453,A31H,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,心因性過換気,L,F453,AB14,<,http://id.who.int/icd/entity/767044268 &  http://id.who.int/icd/entity/1048499416,<,6C20.Z & MD11.7 
+5,神経性胃腸炎,L,F453,AB2U,<,http://id.who.int/icd/entity/767044268 & http://id.who.int/icd/entity/588616678,<,6C20.Z & 1A40.Z  
+5,神経性大腸炎,S1,F453,AB2U,<,http://id.who.int/icd/entity/767044268 & http://id.who.int/icd/entity/588616678,<,6C20.Z & 1A40.Z  
+5,神経性腸炎,S1,F453,AB2U,<,http://id.who.int/icd/entity/767044268 & http://id.who.int/icd/entity/588616678,<,6C20.Z & 1A40.Z  
+5,身体表現性自律神経機能低下,L,F453,APMT,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,心臓神経痛,L,F453,AU82,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,神経性食道通過障害,L,F453,B289,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,神経性食道狭窄症,S1,F453,B289,<,http://id.who.int/icd/entity/767044268 & http://id.who.int/icd/entity/873018279 ,<,6C20.Z & DA20.0
+5,脳血管運動神経症,L,F453,BUDE,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,心因性多飲症,L,F453,C07H,<,http://id.who.int/icd/entity/767044268 &  http://id.who.int/icd/entity/439093618,<,6C20.Z & MG43.0
+5,心因性高血圧症,L,F453,CLFT,=,http://id.who.int/icd/entity/767044268 & http://id.who.int/icd/entity/761947693,<,6C20.Z & BA00.Z 
+5,心因性高血圧,S1,F453,CLFT,=,http://id.who.int/icd/entity/767044268 & http://id.who.int/icd/entity/761947693,<,6C20.Z & BA00.Z 
+5,神経性高血圧症,S1,F453,CLFT,=,http://id.who.int/icd/entity/767044268 & http://id.who.int/icd/entity/761947693,<,6C20.Z & BA00.Z 
+5,心因性鼓腸,L,F453,D11A,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,心因性しゃっくり,L,F453,DU11,=,http://id.who.int/icd/entity/767044268 / http://id.who.int/icd/entity/798509501 ,<,6C20.Z / MD11.6 
+5,心因性頻脈,L,F453,DU3N,=,http://id.who.int/icd/entity/767044268 / http://id.who.int/icd/entity/515681918,<,6C20.Z / MC81.0 
+5,心因性心悸亢進,L,F453,E235,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,心因性胃液分泌過多症,L,F453,EGHS,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,心因性便秘,L,F453,EJ4P,<,http://id.who.int/icd/entity/767044268 / http://id.who.int/icd/entity/502284069,<,6C20.Z / ME05.0
+5,心因性排尿障害,L,F453,EVT4,<,http://id.who.int/icd/entity/767044268 / http://id.who.int/icd/entity/873135456,<,6C20.Z / MF59 
+5,心因性排尿困難,S1,F453,EVT4,<,http://id.who.int/icd/entity/767044268 / http://id.who.int/icd/entity/873135456,<,6C20.Z / MF59 
+5,心臓神経症,L,F453,F8FR,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,心神経症,S1,F453,F8FR,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,DA COSTA症候群,S1,F453,F8FR,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,NCA,S1,F453,F8FR,<,http://id.who.int/icd/entity/767044268 / http://id.who.int/icd/entity/184968605,<,6C20.Z / BD1Z 
+5,神経循環無力症,S1,F453,F8FR,<,http://id.who.int/icd/entity/767044268 / http://id.who.int/icd/entity/184968605,<,6C20.Z / BD1Z 
+5,神経性循環無力症,S1,F453,F8FR,<,http://id.who.int/icd/entity/767044268 / http://id.who.int/icd/entity/184968605,<,6C20.Z / BD1Z 
+5,心臓ノイローゼ,S1,F453,F8FR,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,ダコスタ症候群,S1,F453,F8FR,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,心因性不整脈,L,F453,FC4Q,<,http://id.who.int/icd/entity/767044268 / http://id.who.int/icd/entity/1457291912,<,6C20.Z / BC9Y
+5,性器神経症,L,F453,G8MJ,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,性神経症,S2,F453,G8MJ,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,異常絞扼反射,L,F453,G941,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,神経性心悸亢進,L,F453,GGK3,<,http://id.who.int/icd/entity/767044268 / http://id.who.int/icd/entity/257569559,<,6C20.Z / MC81.2 
+5,神経性心拍急進症,S1,F453,GGK3,<,http://id.who.int/icd/entity/767044268 / http://id.who.int/icd/entity/257569559,<,6C20.Z / MC81.2 
+5,常習性吃逆,L,F453,GNGH,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,血管運動神経症,L,F453,GU44,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,過換気症候群,L,F453,H284,<,http://id.who.int/icd/entity/767044268 /  http://id.who.int/icd/entity/1048499416,<,6C20.Z / MD11.7 
+5,過剰換気症候群,S1,F453,H284,<,http://id.who.int/icd/entity/767044268 /  http://id.who.int/icd/entity/1048499416,<,6C20.Z / MD11.7 
+5,過呼吸症候群,S1,F453,H284,<,http://id.who.int/icd/entity/767044268 /  http://id.who.int/icd/entity/1048499416,<,6C20.Z / MD11.7 
+5,過呼吸発作症候群,S2,F453,H284,<,http://id.who.int/icd/entity/767044268 /  http://id.who.int/icd/entity/1048499416,<,6C20.Z / MD11.7 
+5,過呼吸発作,S2,F453,H284,<,http://id.who.int/icd/entity/767044268 /  http://id.who.int/icd/entity/1048499416,<,6C20.Z / MD11.7 
+5,腹部神経症,L,F453,H8JJ,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,咽喉頭神経症,L,F453,J3G3,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,心因性脳血栓反応,L,F453,J452,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,神経循環疲労症,L,F453,LVRM,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,心臓血管神経症,L,F453,N0N9,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,咽頭異常感症,L,F453,P8M3,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,肛門神経症,L,F453,QEDA,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,心因性消化不良症,L,F453,R9HU,=,http://id.who.int/icd/entity/271851746 / http://id.who.int/icd/entity/523677473,<,6C20.Z /  6E40.Z 
+5,神経症性消化不良症,S1,F453,R9HU,=,http://id.who.int/icd/entity/271851746 / http://id.who.int/icd/entity/1069443471,<,6C20.Z / DD90.3 
+5,神経性消化不良症,S1,F453,R9HU,=,http://id.who.int/icd/entity/271851746 / http://id.who.int/icd/entity/1069443471,<,6C20.Z / DD90.3 
+5,神経性消化不良,S1,F453,R9HU,=,http://id.who.int/icd/entity/271851746 / http://id.who.int/icd/entity/1069443471,<,6C20.Z / DD90.3 
+5,心臓性神経衰弱症,L,F453,R9VL,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,心身症型自律神経失調症,L,F453,RF9L,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,鼻内異常感,L,F453,SL96,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,尿膀胱神経症,L,F453,T5EC,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,陰部神経症,L,F453,T7PH,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,神経因性排尿障害,L,F453,TATG,<,http://id.who.int/icd/entity/767044268 / http://id.who.int/icd/entity/873135456,<,6C20.Z / MF59 
+5,胃神経症,L,F453,TGAG,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,膀胱過敏症,L,F453,TGBA,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,食道神経症,L,F453,TKVS,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,鼻咽腔異常感症,L,F453,VCK7,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,胃腸神経症,L,F453,VR3B,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,心因性疼痛,L,F454,A172,=,http://id.who.int/icd/entity/661232217 / http://id.who.int/icd/entity/523677473,=,MG3Z /  6E40.Z 
+5,持続性身体表現性疼痛障害,L,F454,CAK4,=,http://id.who.int/icd/entity/661232217 & http://id.who.int/icd/entity/1313511357 / http://id.who.int/icd/entity/523677473,=,MG3Z & XT6Z /  6E40.Z 
+5,機能性腹痛症候群,S1,F454,CAK4,=,http://id.who.int/icd/entity/1424508974,=,DD91.4 
+5,心因性背部痛,L,F454,D62F,=,http://id.who.int/icd/entity/1800187363 / http://id.who.int/icd/entity/523677473,<, ME84.Z / 6E40.Z 
+5,心因性舌痛症,L,F454,FL24,=,http://id.who.int/icd/entity/1755751917 / http://id.who.int/icd/entity/523677473,<,DA0F.0 / 6E40.Z
+5,心因性頭痛,L,F454,HLLP,=,http://id.who.int/icd/entity/1405405864 / http://id.who.int/icd/entity/523677473,=,MB4D / 6E40.Z
+5,身体型疼痛障害,L,F454,L0D9,=,http://id.who.int/icd/entity/292232825 / http://id.who.int/icd/entity/523677473,=,8E43.Z  / 6E40.Z
+5,心因性腹痛,L,F454,SQCR,=,http://id.who.int/icd/entity/166022696 / http://id.who.int/icd/entity/523677473,=,MD81.4  / 6E40.Z
+5,精神痛,L,F454,T28C,=,http://id.who.int/icd/entity/661232217 / http://id.who.int/icd/entity/1069443471,=,MG3Z  / 6B60.Z
+5,神経性耳痛,L,F454,U8BJ,=,http://id.who.int/icd/entity/962492793 / http://id.who.int/icd/entity/1069443471,=,AB70.2 / 6B60.Z 
+5,心因性視力障害,L,F458,C90B,=,http://id.who.int/icd/entity/1374202273,<,6B60.0
+5,心因性そう痒症,L,F458,D16T,=,http://id.who.int/icd/entity/1729106757 / http://id.who.int/icd/entity/523677473,<,EC90.Z / 6E40.Z  
+5,心因性めまい,L,F458,E373,=,http://id.who.int/icd/entity/1155836908,=,6B60.2
+5,神経性眼病,L,F458,EN13,=,http://id.who.int/icd/entity/197468567,=,6B60.0
+5,心因性嚥下困難,L,F458,FERL,=,http://id.who.int/icd/entity/968461848 / http://id.who.int/icd/entity/523677473,=,MD93 / 6E40.Z  
+5,心因性嗅覚障害,L,F458,FK7N,=,http://id.who.int/icd/entity/1320493037 / http://id.who.int/icd/entity/523677473,=,MB41.2 / 6E40.Z  
+5,偽性斜頚,L,F458,FPDV,=,http://id.who.int/icd/entity/1435836279 / http://id.who.int/icd/entity/523677473,=,8A02.0Y / 6E40.Z
+5,神経性耳鳴,L,F458,GP19,=,http://id.who.int/icd/entity/1089305710 / http://id.who.int/icd/entity/1069443471,=,MC41 / 6B60.Z
+5,神経性口腔異常,L,F458,MJHN,=,http://id.who.int/icd/entity/1753785289 / http://id.who.int/icd/entity/1069443471,=,MD80.1 / 6B60.Z
+5,ヒステリー球,L,F458,PH89,=,http://id.who.int/icd/entity/1685012958,=,DD90.0 
+5,心因性視野障害,L,F458,SQ9J,=,http://id.who.int/icd/entity/497227809 / http://id.who.int/icd/entity/523677473,=,9D42 / 6B60.Z
+5,神経性多汗症,L,F458,VCTT,<,http://id.who.int/icd/entity/141694910 / http://id.who.int/icd/entity/1069443471,<,6C20.Z & EE00
+5,身体表現性障害,L,F459,B4RM,=,http://id.who.int/icd/entity/767044268,=,6C20.Z 
+5,小児心身症,L,F459,EEEA,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,不定愁訴症,L,F459,G43B,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,心身症,L,F459,T2F1,=,http://id.who.int/icd/entity/767044268 ,=,6C20.Z
+5,口腔心身症,L,F459,T61J,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,ベーアド病,L,F480,Q5K2,,,,
+5,神経衰弱,L,F480,U0Q8,=,http://id.who.int/icd/entity/108180424,=,6B6Z 
+5,慢性離人症候群,L,F481,C0E2,<,http://id.who.int/icd/entity/253124068,<,6B66
+5,一過性離人症候群,L,F481,G02P,<,http://id.who.int/icd/entity/253124068,<,6B66
+5,離人・現実感喪失症候群,L,F481,KNT4,=,http://id.who.int/icd/entity/253124068,=,6B66
+5,離人症,L,F481,QNGF,=,http://id.who.int/icd/entity/253124068,=,6B66
+5,災害神経症,L,F488,CBND,=,http://id.who.int/icd/entity/2070699808,<,6B40
+5,小児神経症,L,F488,CT90,,,,
+5,発作性神経症,L,F488,D7LV,,,,
+5,ジャネー病,L,F488,DH1L,,,,
+5,精神衰弱,L,F488,ESGH,,,,
+5,職業性痙攣,L,F488,F7H3,,,,
+5,心因性失神,L,F488,G8AM,<,http://id.who.int/icd/entity/1069443471,<,6B60.Z
+5,多発性神経症,L,F488,GFQD,,,,
+5,職業神経症,L,F488,GMPA,,,,
+5,青春期内閉神経症,L,F488,GPNN,,,,
+5,幼児神経症,L,F488,LGVN,,,,
+5,妄想性神経症,L,F488,NEH5,,,,
+5,術後神経症,L,F488,R8QJ,,,,
+5,ダート症候群,L,F488,SFNG,,,,
+5,書痙,L,F488,TGCV,<,http://id.who.int/icd/entity/1069443471,<,6B60.Z
+5,膜症神経症,L,F488,U1HC,,,,
+5,慢性心因反応,L,F488,UGTM,,,,
+5,老人性神経症,L,F488,VD03,,,,
+5,神経症,L,F489,L7UB,,,,
+5,精神神経症,L,F489,VL4V,,,,
+5,神経性食欲不振症,L,F500,EG7H,=,http://id.who.int/icd/entity/263852475,=,6B80
+5,非定型神経性無食欲症,L,F501,TBAF,=,http://id.who.int/icd/entity/263852475,<,6B80.Z
+5,神経性大食症,L,F502,H4NR,=,http://id.who.int/icd/entity/108180424 & http://id.who.int/icd/entity/1853970831,<,6B80.Z / MG43.1 
+5,非定型神経性大食症,L,F503,E3FL,=,http://id.who.int/icd/entity/108180424 & http://id.who.int/icd/entity/1853970831,<,6B80.Z / MG43.1 
+5,心因性過食,L,F504,LHBF,=,http://id.who.int/icd/entity/108180424 & http://id.who.int/icd/entity/1853970831,<,6B80.Z / MG43.1 
+5,神経性嘔吐症,L,F505,E530,=,http://id.who.int/icd/entity/991786158 / http://id.who.int/icd/entity/447658033,<,6B4Z  /MD90.1 
+5,異食症,L,F508,DJ5N,=,http://id.who.int/icd/entity/833390860,=,6B84
+5,食欲倒錯,S2,F508,DJ5N,<,http://id.who.int/icd/entity/1412387537,<,6B8Z
+5,神経性食欲異常,L,F508,MBGT,<,http://id.who.int/icd/entity/1412387537,<,6B8Z
+5,拒食症,L,F508,STTR,=,http://id.who.int/icd/entity/2137507044,=,MG43.7
+5,摂食障害,L,F509,HGL1,=,http://id.who.int/icd/entity/1412387537,=,6B8Z
+5,非器質性不眠症,L,F510,RR0V,=,http://id.who.int/icd/entity/1038292737,=,7A0Z
+5,眠気,S2,F511,CA9U,=,http://id.who.int/icd/entity/1590960826,=,MG42
+5,非器質性睡眠・覚醒スケジュール障害,L,F512,Q38V,=,http://id.who.int/icd/entity/1359329403,=,7A6Z
+5,夢遊症,L,F513,U194,=,http://id.who.int/icd/entity/1743751621,=,7B00.1 
+5,夢遊病,S1,F513,U194,=,http://id.who.int/icd/entity/1743751621,=,7B00.1 
+5,夢中遊行,S1,F513,U194,=,http://id.who.int/icd/entity/1743751621,=,7B00.1 
+5,夜驚症,L,F514,U4L4,=,http://id.who.int/icd/entity/335616593,=,7B00.2
+5,夜間恐怖症,S1,F514,U4L4,=,http://id.who.int/icd/entity/335616593,=,7B00.2
+5,夜驚(症),S1,F514,U4L4,=,http://id.who.int/icd/entity/335616593,=,7B00.2
+5,夜なき,L,F514,VJ7P,=,http://id.who.int/icd/entity/335616593,<,7B00.2
+5,夜泣き,S1,F514,VJ7P,=,http://id.who.int/icd/entity/335616593,<,7B00.2
+5,夜啼症,S1,F514,VJ7P,=,http://id.who.int/icd/entity/335616593,<,7B00.2
+5,悪夢,L,F515,B0QG,=,http://id.who.int/icd/entity/1900730309,=,7B01.2
+5,夢不安障害,S2,F515,B0QG,=,http://id.who.int/icd/entity/1900730309,=,7B01.2
+5,非器質性睡眠障害,L,F519,T96E,<,http://id.who.int/icd/entity/274880002,<,7B2Z
+5,情緒性睡眠障害,S2,F519,T96E,<,http://id.who.int/icd/entity/274880002,<,7B2Z
+5,性欲欠如または性欲喪失,L,F520,QD3H,=,http://id.who.int/icd/entity/1189253773,=,HA00.Z
+5,性欲歇如または性欲喪失,S1,F520,QD3H,=,http://id.who.int/icd/entity/1189253773,=,HA00.Z
+5,性欲活動低下性障害,S2,F520,QD3H,=,http://id.who.int/icd/entity/1189253773,=,HA00.Z
+5,冷感症,S2,F520,QD3H,<,http://id.who.int/icd/entity/1189253773,<,HA00.Z
+5,不感症,S2,F520,QD3H,=,http://id.who.int/icd/entity/1913120055,=,HA01.0Z 
+5,性欲減退,S2,F520,QD3H,=,http://id.who.int/icd/entity/867236062,=,MB22.1 
+5,性感異常,L,F520,R39Q,=,http://id.who.int/icd/entity/302903168,=,HA01.Z 
+5,心因性性感異常症,S1,F520,R39Q,=,http://id.who.int/icd/entity/302903168 / http://id.who.int/icd/entity/259203335,=,HA01.Z / HA40.
+5,性的無快楽症,L,F521,SCKL,=,http://id.who.int/icd/entity/302903168,=,HA02.0Z 
+5,勃起不全,L,F522,EAJD,=,http://id.who.int/icd/entity/97556145,=,HA01.1Z 
+5,性交不能症,L,F522,QC4J,=,http://id.who.int/icd/entity/97556145,=,HA01.1Z 
+5,インポテンス,S1,F522,QC4J,=,http://id.who.int/icd/entity/661862390,<,HA01.1Z 
+5,インポテンツ,S1,F522,QC4J,=,http://id.who.int/icd/entity/661862390,<,HA01.1Z 
+5,性的不能症,S1,F522,QC4J,=,http://id.who.int/icd/entity/661862390,<,HA01.1Z 
+5,陰萎,S1,F522,QC4J,=,http://id.who.int/icd/entity/661862390,<,HA01.1Z 
+5,不能症,S1,F522,QC4J,=,http://id.who.int/icd/entity/661862390,<,HA01.1Z 
+5,性器反応不全,L,F522,UK3P,=,http://id.who.int/icd/entity/302903168,=,HA01.Z
+5,心因性インポテンス,S1,F522,UK3P,=,http://id.who.int/icd/entity/1223264081 / http://id.who.int/icd/entity/259203335,<,HA01.1Z / HA40.1
+5,オルガズム機能不全,L,F523,E5DS,=,http://id.who.int/icd/entity/3494362,=,HA02.Z
+5,オルガズム機能低下,S1,F523,E5DS,=,http://id.who.int/icd/entity/3494362,=,HA02.Z
+5,心因性無オルガズム症,S2,F523,E5DS,≒,http://id.who.int/icd/entity/1718102523,=,HA02.0Z
+5,早漏症,L,F524,GTG9,=,http://id.who.int/icd/entity/361151087,=,HA03.0Z
+5,早漏,S1,F524,GTG9,=,http://id.who.int/icd/entity/361151087,=,HA03.0Z
+5,早漏(症),S1,F524,GTG9,=,http://id.who.int/icd/entity/361151087,=,HA03.0Z
+5,心因性腟痙,L,F525,RUMH,=,http://id.who.int/icd/entity/1932194482,<,HA20.Z 
+5,心因性膣痙,S1,F525,RUMH,=,http://id.who.int/icd/entity/1932194482,<,HA20.Z 
+5,心因性性交疼痛症,L,F526,PEFT,=,http://id.who.int/icd/entity/1932194482/ http://id.who.int/icd/entity/259203335,=,HA20.Z / HA40.1 
+5,サティリアジス,L,F527,DULF,<,http://id.who.int/icd/entity/1630268048,<,6C72
+5,過剰性欲,L,F527,H3C2,<,http://id.who.int/icd/entity/1630268048,<,6C72
+5,女子色情症,L,F527,ULQP,<,http://id.who.int/icd/entity/1630268048,<,6C72
+5,ニンフォマニア,S1,F527,ULQP,<,http://id.who.int/icd/entity/1630268048,<,6C72
+5,性機能低下,L,F529,E0JD,<,http://id.who.int/icd/entity/160690465,<,HA0Z
+5,性欲異常,L,F529,QQ4G,<,http://id.who.int/icd/entity/160690465,<,HA0Z
+5,産褥期うつ状態,L,F530,HA8F,=,http://id.who.int/icd/entity/169328648,<,6E20
+5,分娩後抑うつ,S1,F530,HA8F,=,http://id.who.int/icd/entity/169328648,<,6E20
+5,産後うつ病,S1,F530,HA8F,=,http://id.who.int/icd/entity/169328648,<,6E20
+5,産後抑うつ,S1,F530,HA8F,=,http://id.who.int/icd/entity/169328648,<,6E20
+5,産褥精神不安,S2,F530,HA8F,=,http://id.who.int/icd/entity/169328648,<,6E20
+5,産褥性精神病,L,F531,V4CA,=,http://id.who.int/icd/entity/380591392,=,6E21
+5,神経性胃炎,L,F54,NLR6,=,http://id.who.int/icd/entity/1299282402,<,6E40.4
+5,心因性胃潰瘍,L,F54,SA1B,=,http://id.who.int/icd/entity/1437411258  / http://id.who.int/icd/entity/523677473,=,"DA60.Z / 6E40.Z
+"
+5,心因性じんま疹,L,F54,SD90,=,http://id.who.int/icd/entity/993242399 / http://id.who.int/icd/entity/523677473 ,=,"EB05 / 6E40.Z
+"
+5,心因性蕁麻疹,S1,F54,SD90,=,http://id.who.int/icd/entity/993242399 / http://id.who.int/icd/entity/523677473 ,=,"EB05 / 6E40.Z
+"
+5,心因性リウマチ,L,F54,TLN4,=,http://id.who.int/icd/entity/2113186970 / http://id.who.int/icd/entity/523677473 ,=,"ME83 / 6E40.Z
+"
+5,心因性皮膚炎,L,F54,U9MR,=,http://id.who.int/icd/entity/1887882424 / http://id.who.int/icd/entity/523677473 ,=,EA8Z / 6E40.Z
+5,ビタミン剤乱用,L,F55,EJ4H,=,http://id.who.int/icd/entity/938842396,<,6C4H.1Z 
+5,依存を生じない物質の乱用,L,F55,ES2G,=,http://id.who.int/icd/entity/2055037621,=,6C4H.1Z 
+5,制酸剤乱用,L,F55,JTNS,=,http://id.who.int/icd/entity/1934504553,<,6C4H.1Z 
+5,ステロイド剤乱用,L,F55,KHHQ,=,http://id.who.int/icd/entity/1118234111,<,6C4H.1Z 
+5,ホルモン剤乱用,L,F55,RGLS,=,http://id.who.int/icd/entity/50340762,<,6C4H.1Z 
+5,鎮痛薬依存,L,F55,SQ9A,<,http://id.who.int/icd/entity/2055037621,<,6C4H.1Z
+5,下剤乱用,L,F55,UJHT,=,http://id.who.int/icd/entity/640190154,<,6C4H.1Z 
+5,心因性生理的機能低下,L,F59,DLP2,<,http://id.who.int/icd/entity/334423054,<,6E8Z
+5,心因性行動異常,L,F59,J9VJ,<,http://id.who.int/icd/entity/334423054,<,6E8Z
+5,好訴的パーソナリティ障害,L,F600,M1LQ,=,http://id.who.int/icd/entity/1066693864,<,6D10.Z 
+5,好訴的人格障害,S1,F600,M1LQ,=,http://id.who.int/icd/entity/1066693864,<,6D10.Z 
+5,狂信的パーソナリティ障害,L,F600,U9DS,=,http://id.who.int/icd/entity/1066693864,<,6D10.Z 
+5,狂信的人格障害,S1,F600,U9DS,=,http://id.who.int/icd/entity/1066693864,<,6D10.Z 
+5,妄想性パーソナリティ障害,L,F600,V2U8,=,http://id.who.int/icd/entity/1066693864,<,6D10.Z 
+5,妄想性人格異常,S1,F600,V2U8,=,http://id.who.int/icd/entity/1066693864,<,6D10.Z 
+5,妄想性性格障害,S1,F600,V2U8,=,http://id.who.int/icd/entity/1066693864,<,6D10.Z 
+5,妄想性人格障害,S1,F600,V2U8,=,http://id.who.int/icd/entity/1066693864,<,6D10.Z 
+5,パラノイド人格障害,S1,F600,V2U8,=,http://id.who.int/icd/entity/1066693864,<,6D10.Z 
+5,発揚性パラノイド人格障害,S2,F600,V2U8,=,http://id.who.int/icd/entity/1066693864,<,6D10.Z 
+5,敏感パラノイド人格障害,S2,F600,V2U8,=,http://id.who.int/icd/entity/1066693864,<,6D10.Z 
+5,統合失調症性パーソナリティ障害,L,F601,E53H,=,http://id.who.int/icd/entity/1524611454,<,6D10.Z 
+5,分裂病質性人格異常,S1,F601,E53H,=,http://id.who.int/icd/entity/1524611454,<,6D10.Z 
+5,統合失調性人格異常,S1,F601,E53H,=,http://id.who.int/icd/entity/1524611454,<,6D10.Z 
+5,分裂病質性人格,S1,F601,E53H,=,http://id.who.int/icd/entity/1524611454,<,6D10.Z 
+5,統合失調性人格障害,S1,F601,E53H,=,http://id.who.int/icd/entity/1524611454,<,6D10.Z 
+5,分裂病質性人格障害,S1,F601,E53H,=,http://id.who.int/icd/entity/1524611454,<,6D10.Z 
+5,分裂病性人格異常,S1,F601,E53H,=,http://id.who.int/icd/entity/1524611454,<,6D10.Z 
+5,統合失調症性人格障害,S1,F601,E53H,=,http://id.who.int/icd/entity/1524611454,<,6D10.Z 
+5,分裂病質,S2,F601,E53H,=,http://id.who.int/icd/entity/1524611454,<,6D10.Z 
+5,分裂病親和性性格障害,S2,F601,E53H,=,http://id.who.int/icd/entity/1524611454,<,6D10.Z 
+5,非社会性パーソナリティ障害,L,F602,A4Q0,=,http://id.who.int/icd/entity/779282819,<,6D10.Z 
+5,非社会性人格障害,S1,F602,A4Q0,=,http://id.who.int/icd/entity/779282819,<,6D10.Z 
+5,非社会的人格異常,S1,F602,A4Q0,=,http://id.who.int/icd/entity/779282819,<,6D10.Z 
+5,非社会的人格,S1,F602,A4Q0,=,http://id.who.int/icd/entity/779282819,<,6D10.Z 
+5,反社会的人格障害,S1,F602,A4Q0,=,http://id.who.int/icd/entity/779282819,<,6D10.Z 
+5,反社会的人格,S1,F602,A4Q0,=,http://id.who.int/icd/entity/779282819,<,6D10.Z 
+5,非道徳性人格,S1,F602,A4Q0,=,http://id.who.int/icd/entity/779282819,<,6D10.Z 
+5,反社会的人格異常,S1,F602,A4Q0,=,http://id.who.int/icd/entity/779282819,<,6D10.Z 
+5,没社会的人格障害,S2,F602,A4Q0,=,http://id.who.int/icd/entity/779282819,<,6D10.Z 
+5,社会病質的人格障害,S2,F602,A4Q0,=,http://id.who.int/icd/entity/779282819,<,6D10.Z 
+5,無道徳人格障害,S2,F602,A4Q0,=,http://id.who.int/icd/entity/779282819,<,6D10.Z 
+5,精神病質的パーソナリティ障害,L,F602,GP6G,=,http://id.who.int/icd/entity/779282819,<,6D10.Z 
+5,精神病質的人格障害,S1,F602,GP6G,=,http://id.who.int/icd/entity/779282819,<,6D10.Z 
+5,空想嘘言症,L,F602,VQ3J,=,http://id.who.int/icd/entity/1349901300,<,6D10.Z 
+5,嘘言癖,S1,F602,VQ3J,=,http://id.who.int/icd/entity/1349901300,<,6D10.Z 
+5,衝動型パーソナリティ障害,L,F603a,DHNU,=,http://id.who.int/icd/entity/2003672053,<,6D10.Z 
+5,衝動型人格障害,S1,F603a,DHNU,=,http://id.who.int/icd/entity/2003672053,<,6D10.Z 
+5,境界型パーソナリティ障害,L,F603b,R6DP,=,http://id.who.int/icd/entity/189289487,<,6D10.Z 
+5,境界性パーソナリティ障害,S1,F603b,R6DP,=,http://id.who.int/icd/entity/189289487,<,6D10.Z 
+5,境界型人格障害,S1,F603b,R6DP,=,http://id.who.int/icd/entity/189289487,<,6D10.Z 
+5,境界性格障害,S2,F603b,R6DP,=,http://id.who.int/icd/entity/189289487,<,6D10.Z 
+5,ボーダーライン型性格障害,S2,F603b,R6DP,=,http://id.who.int/icd/entity/189289487,<,6D10.Z 
+5,境界的人格障害,S2,F603b,R6DP,=,http://id.who.int/icd/entity/189289487,<,6D10.Z 
+5,情緒不安定性パーソナリティ障害,L,F603d,PQRV,=,http://id.who.int/icd/entity/1262035991,<,6D10.Z 
+5,情緒不安定性人格障害,S1,F603d,PQRV,=,http://id.who.int/icd/entity/1262035991,<,6D10.Z 
+5,攻撃的人格障害,S2,F603d,PQRV,=,http://id.who.int/icd/entity/1262035991,<,6D10.Z 
+5,爆発性性格障害,S2,F603d,PQRV,=,http://id.who.int/icd/entity/1262035991,<,6D10.Z 
+5,感性不安定性性格,S2,F603d,PQRV,=,http://id.who.int/icd/entity/1262035991,<,6D10.Z 
+5,爆発的人格障害,S2,F603d,PQRV,=,http://id.who.int/icd/entity/1262035991,<,6D10.Z 
+5,抑制歇除症候群,S2,F603d,PQRV,=,http://id.who.int/icd/entity/1262035991,<,6D10.Z 
+5,抑制欠除症候群,S2,F603d,PQRV,=,http://id.who.int/icd/entity/1262035991,<,6D10.Z 
+5,爆発性人格異常,S2,F603d,PQRV,=,http://id.who.int/icd/entity/1262035991,<,6D10.Z 
+5,ヒステリー性パーソナリティ障害,L,F604,JRAS,=,http://id.who.int/icd/entity/953661315,<,6D10.Z 
+5,ヒステリー性人格障害,S1,F604,JRAS,=,http://id.who.int/icd/entity/953661315,<,6D10.Z 
+5,精神的幼児性パーソナリティ障害,L,F604,KBH5,=,http://id.who.int/icd/entity/953661315,<,6D10.Z 
+5,精神的幼児性人格障害,S1,F604,KBH5,=,http://id.who.int/icd/entity/953661315,<,6D10.Z 
+5,演技性パーソナリティ障害,L,F604,NHE4,=,http://id.who.int/icd/entity/953661315,<,6D10.Z 
+5,演技性人格障害,S1,F604,NHE4,=,http://id.who.int/icd/entity/953661315,<,6D10.Z 
+5,強迫観念パーソナリティ障害,L,F605,MNP0,=,http://id.who.int/icd/entity/1570535959,<,6D10.Z 
+5,強迫観念人格障害,S1,F605,MNP0,=,http://id.who.int/icd/entity/1570535959,<,6D10.Z 
+5,強迫人格異常,S2,F605,MNP0,=,http://id.who.int/icd/entity/1570535959,<,6D10.Z 
+5,強迫性性格障害,S2,F605,MNP0,=,http://id.who.int/icd/entity/1570535959,<,6D10.Z 
+5,強迫人格障害,S2,F605,MNP0,=,http://id.who.int/icd/entity/1570535959,<,6D10.Z 
+5,強迫行為人格障害,S2,F605,MNP0,=,http://id.who.int/icd/entity/1570535959,<,6D10.Z 
+5,強迫性人格異常,S2,F605,MNP0,=,http://id.who.int/icd/entity/1570535959,<,6D10.Z 
+5,回避性パーソナリティ障害,L,F606,KSD8,=,http://id.who.int/icd/entity/429615620,<,6D10.Z 
+5,不安性人格障害,S1,F606,KSD8,=,http://id.who.int/icd/entity/429615620,<,6D10.Z 
+5,無力性人格異常,L,F607,BF7R,=,http://id.who.int/icd/entity/2128056978,<,6D10.Z 
+5,受動性人格,S2,F607,BF7R,=,http://id.who.int/icd/entity/1283123068,<,6D10.Z 
+5,無力性人格障害,S2,F607,BF7R,=,http://id.who.int/icd/entity/2128056978,<,6D10.Z 
+5,無力性性格障害,S2,F607,BF7R,=,http://id.who.int/icd/entity/2128056978,<,6D10.Z 
+5,依存性パーソナリティ障害,L,F607,F5EG,=,http://id.who.int/icd/entity/1283123068,<,6D10.Z 
+5,依存性人格,S1,F607,F5EG,=,http://id.who.int/icd/entity/1283123068,<,6D10.Z 
+5,依存性人格障害,S1,F607,F5EG,=,http://id.who.int/icd/entity/1283123068,<,6D10.Z 
+5,自己敗北型人格障害,S2,F607,F5EG,=,http://id.who.int/icd/entity/1283123068,<,6D10.Z 
+5,不全性人格障害,S2,F607,F5EG,=,http://id.who.int/icd/entity/1283123068,<,6D10.Z 
+5,受動性人格障害,S2,F607,F5EG,=,http://id.who.int/icd/entity/1283123068,<,6D10.Z 
+5,持続的依存反応,S2,F607,F5EG,=,http://id.who.int/icd/entity/1283123068,<,6D10.Z 
+5,受動性依存,S2,F607,F5EG,=,http://id.who.int/icd/entity/1283123068,<,6D10.Z 
+5,精神神経症的パーソナリティ障害,L,F608,CLQ9,<,http://id.who.int/icd/entity/941859884,<,6D10.Z 
+5,精神神経症的人格障害,S1,F608,CLQ9,<,http://id.who.int/icd/entity/941859884,<,6D10.Z 
+5,エキセントリックパーソナリティ障害,L,F608,CU8K,<,http://id.who.int/icd/entity/941859884,<,6D10.Z 
+5,エキセントリック人格障害,S1,F608,CU8K,<,http://id.who.int/icd/entity/941859884,<,6D10.Z 
+5,軽佻者型パーソナリティ障害,L,F608,FE2C,<,http://id.who.int/icd/entity/941859884,<,6D10.Z 
+5,軽佻者型人格障害,S1,F608,FE2C,<,http://id.who.int/icd/entity/941859884,<,6D10.Z 
+5,ナルシシズム型性格障害,L,F608,JEG3,=,http://id.who.int/icd/entity/641223668,<,6D10.Z 
+5,自己愛的人格障害,S1,F608,JEG3,=,http://id.who.int/icd/entity/641223668,<,6D10.Z 
+5,未成熟人格,S1,F608,PKTD,<,http://id.who.int/icd/entity/941859884,<,6D10.Z 
+5,受動攻撃型性格障害,L,F608,U58M,<,http://id.who.int/icd/entity/941859884,<,6D10.Z 
+5,受け身攻撃型性格障害,S1,F608,U58M,<,http://id.who.int/icd/entity/941859884,<,6D10.Z 
+5,性格神経症,L,F609,BSR7,<,http://id.who.int/icd/entity/941859884,<,6D10.Z
+5,精神病質,L,F609,E2EH,,,,
+5,パーソナリティ障害,L,F609,LMC8,=,http://id.who.int/icd/entity/941859884,=,6D10.Z
+5,人格障害,S1,F609,LMC8,=,http://id.who.int/icd/entity/941859884,=,6D10.Z
+5,異常性格,L,F609,Q1JA,<,http://id.who.int/icd/entity/941859884,<,6D10.Z
+5,性格反応,L,F609,U2M7,<,http://id.who.int/icd/entity/941859884,<,6D10.Z
+5,妄想傾向,L,F61,KHB4,<,http://id.who.int/icd/entity/941859884,<,6D10.Z
+5,破局体験後の持続的人格変化,L,F620,RV6P,=,http://id.who.int/icd/entity/585833559,=,6B41
+5,精神科疾患後の持続的人格変化,L,F621,V41U,=,http://id.who.int/icd/entity/941859884,<,6D10.Z
+5,慢性疼痛人格症候群,L,F628,N9MN,,,,
+5,性格変化,L,F629,GR68,,,,
+5,ギャンブル症,L,F630,U367,=,http://id.who.int/icd/entity/1041487064,<,6C50.Z
+5,放火癖,L,F631,C0C0,=,http://id.who.int/icd/entity/1532500290,=,6C70 
+5,病的窃盗,L,F632,QK8P,=,http://id.who.int/icd/entity/804604349,=,6C71
+5,抜毛癖,L,F633,HG1B,=,http://id.who.int/icd/entity/1253999657,=,6B25.0
+5,間欠性爆発障害,L,F638,R799,=,http://id.who.int/icd/entity/295017661,=,6C73
+5,強迫的素行障害,L,F639,K6T6,<,http://id.who.int/icd/entity/826065555,<,6C7Z 
+5,習慣および衝動の障害,L,F639,QKSJ,<,http://id.who.int/icd/entity/826065555,<,6C7Z 
+5,両性役割服装倒錯症,L,F641,KH0R,=,http://id.who.int/icd/entity/2055403635,=,6D36
+5,服装倒錯,S1,F641,KH0R,=,http://id.who.int/icd/entity/2055403635,=,6D36
+5,性同一性障害,L,F649,BQV0,=,http://id.who.int/icd/entity/411470068,=,HA6Z
+5,フェティシズム,L,F650,TVK3,=,http://id.who.int/icd/entity/2055403635,=,6D36
+5,フェティシズム的服装倒錯症,L,F651,UNG3,=,http://id.who.int/icd/entity/2055403635,=,6D36
+5,服装倒錯的フェティシズム,S1,F651,UNG3,=,http://id.who.int/icd/entity/2055403635,=,6D36
+5,露出症,L,F652,SANS,=,http://id.who.int/icd/entity/141881468,=,6D30
+5,窃視症,L,F653,E2BV,=,http://id.who.int/icd/entity/1832861162,=,6D31
+5,小児性愛,L,F654,LTCQ,=,http://id.who.int/icd/entity/517058174,=,6D32
+5,サディズム,L,F655,ENQS,=,http://id.who.int/icd/entity/1890228613,=,6D33
+5,マゾヒズム,L,F655,HKUN,<,http://id.who.int/icd/entity/2055403635,<,6D36
+5,サドマゾヒズム,L,F655,NFV8,=,http://id.who.int/icd/entity/2055403635,=,6D36
+5,性嗜好の多重障害,L,F656,GJJK,<,http://id.who.int/icd/entity/2110604642,<,6D3Z
+5,屍体性愛,L,F658,FQQH,<,http://id.who.int/icd/entity/1582257458,<,6D35
+5,獣愛,L,F658,J58Q,<,http://id.who.int/icd/entity/1582257458,<,6D35
+5,動物嗜愛,S1,F658,J58Q,<,http://id.who.int/icd/entity/1582257458,<,6D35
+5,接触性愛,L,F658,JDDR,=,http://id.who.int/icd/entity/1580013387,=,6D34
+5,性嗜好の障害,L,F659,CPHR,=,http://id.who.int/icd/entity/2110604642,<,6D3Z
+5,性的偏倚,L,F659,G2DS,<,http://id.who.int/icd/entity/2110604642,<,6D3Z
+5,性的倒錯,L,F659,KLSL,≒,http://id.who.int/icd/entity/2110604642,=,6D3Z
+5,性的逸脱,L,F659,PV47,<,http://id.who.int/icd/entity/2110604642,<,6D3Z
+5,性成熟障害,L,F660,G7JA,<,http://id.who.int/icd/entity/1669287891,<,QA15.1
+5,自我異和的性の方向づけ,L,F661,VD92,<,http://id.who.int/icd/entity/1669287891,<,QA15.1
+5,同性愛,L,F662,AB2B,,,,
+5,性関係障害,L,F662,DL3D,<,http://id.who.int/icd/entity/1669287891,<,QA15.1
+5,補償神経症,L,F680,SQ86,<,http://id.who.int/icd/entity/1136473465,<,QC30
+5,代理ミュンヒハウゼン症候群,L,F681,DU1F,=,http://id.who.int/icd/entity/775605963,=,6D51
+5,ミュンヒハウゼン症候群,L,F681,HQ7K,≒,http://id.who.int/icd/entity/790764418,=,6D50 
+5,対人関係障害,L,F688,L6C1,<,http://id.who.int/icd/entity/941859884,<,6D10
+5,性格障害,L,F688,L6K4,<,http://id.who.int/icd/entity/941859884,<,6D10
+5,病的感動性性格,L,F688,UH9L,,,,
+5,軽度知的障害,L,F70,CEFV,=,http://id.who.int/icd/entity/1207960454,<,6A00.0
+5,軽度精神遅滞,S1,F70,CEFV,=,http://id.who.int/icd/entity/1207960454,<,6A00.0
+5,軽度知的障害・行動機能障害なしか最小限,L,F700,HELH,<,http://id.who.int/icd/entity/1207960454,<,6A00.0
+5,軽度知的障害・要治療の行動機能障害あり,L,F701,NKBA,<,http://id.who.int/icd/entity/1207960454,<,6A00.0
+5,軽度知的障害・その他の行動機能障害あり,L,F708,H9V1,<,http://id.who.int/icd/entity/1207960454,<,6A00.0
+5,軽度知的障害・行動機能障害の言及なし,L,F709,M0FK,<,http://id.who.int/icd/entity/1207960454,<,6A00.0
+5,中等度知的障害,L,F71,PU0N,=,http://id.who.int/icd/entity/759942676,<,6A00.1
+5,中等度精神遅滞,S1,F71,PU0N,=,http://id.who.int/icd/entity/759942676,<,6A00.1
+5,興奮型痴愚,L,F71,RNR0,=,"http://id.who.int/icd/entity/496629459 / http://id.who.int/icd/entity/605267007
+",=,MB24.F / 6A00 
+5,中等度知的障害・行動機能障害なしか最小限,L,F710,UBM0,<,http://id.who.int/icd/entity/759942676,<,6A00.1
+5,中等度知的障害・要治療の行動機能障害あり,L,F711,N9TE,<,http://id.who.int/icd/entity/759942676,<,6A00.1
+5,中等度知的障害・その他の行動機能障害あり,L,F718,VJ2A,<,http://id.who.int/icd/entity/759942676,<,6A00.1
+5,中等度知的障害・行動機能障害の言及なし,L,F719,V45L,<,http://id.who.int/icd/entity/759942676,<,6A00.1
+5,重度知的障害,L,F72,NGN0,=,http://id.who.int/icd/entity/1508286189,<,6A00.2 
+5,重度知的障害・行動機能障害なしか最小限,L,F720,SMD0,<,http://id.who.int/icd/entity/1508286189,<,6A00.2 
+5,重度知的障害・要治療の行動機能障害あり,L,F721,PJ3N,<,http://id.who.int/icd/entity/1508286189,<,6A00.2 
+5,重度知的障害・その他の行動機能障害あり,L,F728,JR01,<,http://id.who.int/icd/entity/1508286189,<,6A00.2 
+5,重度知的障害・行動機能障害の言及なし,L,F729,HQ99,<,http://id.who.int/icd/entity/1508286189,<,6A00.2 
+5,最重度知的障害,L,F73,L3S9,=,http://id.who.int/icd/entity/1017992057,<,6A00.3
+5,最重度知的障害・行動機能障害なしか最小限,L,F730,JLDK,<,http://id.who.int/icd/entity/1017992057,<,6A00.3
+5,最重度知的障害・要治療の行動機能障害あり,L,F731,FJB9,<,http://id.who.int/icd/entity/1017992057,<,6A00.3
+5,最重度知的障害・その他の行動機能障害あり,L,F738,PDGM,<,http://id.who.int/icd/entity/1017992057,<,6A00.3
+5,最重度知的障害・行動機能障害の言及なし,L,F739,MR90,<,http://id.who.int/icd/entity/1017992057,<,6A00.3
+5,知的障害,L,F79,CFSC,=,http://id.who.int/icd/entity/605267007,<,6A00.Z
+5,知的障害・行動機能障害なしか最小限,L,F790,G6VN,<,http://id.who.int/icd/entity/605267007,<,6A00.Z
+5,重症心身障害,L,F791,CNJN,<,http://id.who.int/icd/entity/605267007,<,6A00.Z
+5,知的障害・要治療の行動機能障害あり,L,F791,H64B,<,http://id.who.int/icd/entity/605267007,<,6A00.Z
+5,知的障害・その他の行動機能障害あり,L,F798,UR7L,<,http://id.who.int/icd/entity/605267007,<,6A00.Z
+5,知的障害・行動機能障害の言及なし,L,F799,RRRK,<,http://id.who.int/icd/entity/605267007,<,6A00.Z
+5,特異的会話構音障害,L,F800,APK1,=,http://id.who.int/icd/entity/551966778,<,6A01.0 
+5,発音困難症,S2,F800,APK1,=,http://id.who.int/icd/entity/551966778,<,6A01.0 
+5,発達性構音障害,L,F800,CS5C,=,http://id.who.int/icd/entity/551966778,<,6A01.0 
+5,ラリング,L,F800,HDUA,=,http://id.who.int/icd/entity/33269655,=,6A01.Z 
+5,機能性構音障害,L,F800,PUUE,≒,http://id.who.int/icd/entity/551966778,≒,6A01.0 
+5,表出性言語障害,L,F801,D6RU,=,http://id.who.int/icd/entity/1169003948,<,6A01.21
+5,先天性聴覚無知覚症,L,F802,E5J1,<,http://id.who.int/icd/entity/822134099,<,6A01.20
+5,受容性言語障害,L,F802,FP0F,=,http://id.who.int/icd/entity/822134099,=,6A01.20
+5,感覚性失語症,L,F802,TP4G,<,http://id.who.int/icd/entity/822134099,<,6A01.20
+5,ウェルニッケ失語症,L,F802,UJSN,=,http://id.who.int/icd/entity/1600985737,<,6A01.20
+5,片こと,L,F808,DH3J,<,http://id.who.int/icd/entity/33269655,<,6A01.2
+5,言語発達遅滞,L,F809,LFBD,=,http://id.who.int/icd/entity/33269655,<,6A01.2
+5,言語障害,L,F809,VEA6,=,http://id.who.int/icd/entity/33269655,<,6A01.2
+5,発達性読字障害,L,F810,D5QG,=,http://id.who.int/icd/entity/1008636089,=,6A03.0 
+5,特異的読字障害,L,F810,GKE2,=,http://id.who.int/icd/entity/1008636089,=,6A03.0 
+5,書字障害,L,F811,SLGJ,=,http://id.who.int/icd/entity/1498766637,=,6A03.1
+5,算数能力の特異的障害,S2,F812,CUR2,=,http://id.who.int/icd/entity/771231188,=,6A03.2
+5,発達性計算障害,L,F812,HSKH,=,http://id.who.int/icd/entity/771231188,=,6A03.2
+5,特殊算数遅滞,S1,F812,HSKH,=,http://id.who.int/icd/entity/771231188,=,6A03.2
+5,特殊書読遅滞,L,F813,RQ4C,=,http://id.who.int/icd/entity/1008636089 OR http://id.who.int/icd/entity/1498766637,=,6A03.0 OR 6A03.1
+5,学習能力の混合性障害,L,F813,US1R,=,http://id.who.int/icd/entity/2099676649,=,6A03.Z
+5,発達性表出性書字障害,L,F818,BVQJ,=,http://id.who.int/icd/entity/1498766637,=,6A03.1
+5,特殊学習困難,L,F818,NV0S,=,http://id.who.int/icd/entity/2099676649,=,6A03.Z
+5,学習障害,L,F819,BU6C,=,http://id.who.int/icd/entity/2099676649,=,6A03.Z
+5,学習不能,S1,F819,BU6C,,,,
+5,学習困難児,S1,F819,BU6C,<,http://id.who.int/icd/entity/2099676649,<,6A03.Z
+5,知識獲得能力低下,S1,F819,BU6C,,,,
+5,学習能力の特異的発達障害,L,F819,TVTT,=,http://id.who.int/icd/entity/2099676649,=,6A03.Z
+5,不器用,L,F82,BA2D,=,http://id.who.int/icd/entity/148247104,=,6A04
+5,運動機能の特異的発達障害,L,F82,CVVE,=,http://id.who.int/icd/entity/148247104,=,6A04
+5,運動発達遅滞,L,F82,DK4M,=,http://id.who.int/icd/entity/148247104,=,6A04
+5,不器用児症候群,L,F82,FE6H,=,http://id.who.int/icd/entity/148247104,=,6A04
+5,発達性律動障害,L,F82,KBGV,=,http://id.who.int/icd/entity/148247104,=,6A04
+5,微細脳機能障害,L,F82,KV04,=,http://id.who.int/icd/entity/821852937,=,6A05.Z 
+5,発達性協同障害,L,F82,LS44,=,http://id.who.int/icd/entity/148247104,=,6A04
+5,混合性特異的発達障害,L,F83,A6SV,<,http://id.who.int/icd/entity/1516623224,<,6A0Z
+5,高機能自閉症,L,F840,BETE,=,http://id.who.int/icd/entity/366940030,<,6A02.0
+5,カナー症候群,L,F840,FC6V,=,http://id.who.int/icd/entity/437815624,=,6A02.Z
+5,KANNER症候群,S1,F840,FC6V,=,http://id.who.int/icd/entity/437815624,=,6A02.Z
+5,自閉症,L,F840,FR04,=,http://id.who.int/icd/entity/437815624,=,6A02.Z
+5,小児精神病,L,F840,L4SS,,,,
+5,小児自閉症,L,F840,QFRL,=,http://id.who.int/icd/entity/437815624,=,6A02.Z
+5,児童精神病,L,F840,TLHJ,,,,
+5,非定型小児精神病,L,F841,AATP,=,http://id.who.int/icd/entity/437815624,=,6A02.Z
+5,非定型自閉症,L,F841,DNDK,=,http://id.who.int/icd/entity/2136163538,<,6A02.Y
+5,自閉的特徴を伴う知的障害,L,F841,JP9N,=,http://id.who.int/icd/entity/2136163538,<,6A02.Y
+5,自閉的特徴を伴う精神遅滞,S1,F841,JP9N,=,http://id.who.int/icd/entity/2136163538,<,6A02.Y
+5,崩壊精神病,L,F843,BDDS,,,,
+5,ヘラー症候群,L,F843,EDFU,=,http://id.who.int/icd/entity/1460615954,<,6A02.3 
+5,共生精神病,L,F843,THQD,,,,
+5,知的障害と常同運動に関連した過動性障害,L,F844,P2FR,★,http://id.who.int/icd/entity/605267007 OR http://id.who.int/icd/entity/1017992057 / http://id.who.int/icd/entity/1111628448,★,6A00.Z OR 6A00.3 / 6A06.Z
+5,精神遅滞と常同運動に関連した過動性障害,S1,F844,P2FR,★,http://id.who.int/icd/entity/605267007 OR http://id.who.int/icd/entity/1017992057 / http://id.who.int/icd/entity/1111628448,★,6A00.Z OR 6A00.3 / 6A06.Z
+5,自閉的精神病質,L,F845,L70V,,,,
+5,アスペルガー症候群,L,F845,LQV2,=,http://id.who.int/icd/entity/366940030,<,6A02.0
+5,小児シゾイド障害,L,F845,MQGU,,,,
+5,小児期型統合失調症,L,F845,T8S9,,,,
+5,小児期型分裂病,S1,F845,T8S9,,,,
+5,児童分裂病,S2,F845,T8S9,,,,
+5,自閉性精神発達遅滞,L,F848,DA01,=,http://id.who.int/icd/entity/767360910 OR http://id.who.int/icd/entity/1477082111 OR http://id.who.int/icd/entity/1686726595,=,6A02.1 or 6A02.3 or 6A02.5
+5,ＭＥＣＰ２重複症候群,L,F848,S8G9,<,http://id.who.int/icd/entity/1516623224,<,6A0Z
+5,MECP2重複症候群,S0,F848,S8G9,<,http://id.who.int/icd/entity/1516623224,<,6A0Z
+5,広汎性発達障害,L,F849,Q9L0,=,http://id.who.int/icd/entity/437815624,<,6A02.Z
+5,自閉症スペクトラム障害,L,F849,Q9L0,=,http://id.who.int/icd/entity/437815624,<,6A02.Z
+5,発達性失認,L,F88,VGD8,<,http://id.who.int/icd/entity/1516623224,<,6A0Z
+5,児童期発達適応障害,L,F88,VUE0,=,http://id.who.int/icd/entity/1516623224,=,6A0Z
+5,早期小児期発達障害,L,F89,D0PA,<,http://id.who.int/icd/entity/1516623224,<,6A0Z
+5,発達障害,L,F89,F1DJ,=,http://id.who.int/icd/entity/1516623224,<,6A0Z
+5,注意欠陥多動障害,L,F900,SCK6,=,http://id.who.int/icd/entity/821852937,<,6A05.Z 
+5,多動性素行障害,L,F901,GKDU,=,http://id.who.int/icd/entity/821852937 / http://id.who.int/icd/entity/719572464,=,6A05 / 6C91
+5,小児行動異常,L,F909,GQ40,<,http://id.who.int/icd/entity/821852937,<,6A05.Z
+5,多動性障害,L,F909,SHJK,=,http://id.who.int/icd/entity/821852937,=,6A05.Z 
+5,多動傾向,S2,F909,SHJK,=,http://id.who.int/icd/entity/1014897080,=,MB23.M
+5,家庭限局性素行障害,L,F910,D3D7,<,http://id.who.int/icd/entity/719572464,<,6C91.Z
+5,非社会化型素行障害,L,F911,SS9C,<,http://id.who.int/icd/entity/719572464,<,6C91.Z
+5,怠学,L,F912,F9K6,,,,
+5,集団型素行障害,L,F912,PB7P,<,http://id.who.int/icd/entity/719572464,<,6C91.Z
+5,反抗挑戦性障害,L,F913,MSKQ,=,http://id.who.int/icd/entity/1487528823,<,6C90.Z 
+5,小児期素行障害,L,F919,K34D,=,http://id.who.int/icd/entity/192666265,<,6C91.0Z 
+5,少年非行,L,F919,KQV2,,,,
+5,素行障害,L,F919,M61R,<,http://id.who.int/icd/entity/192666265,<,6C91.0Z 
+5,行為障害,S1,F919,M61R,<,http://id.who.int/icd/entity/192666265,<,6C91.0Z 
+5,抑うつ性素行障害,L,F920,NBMC,<,http://id.who.int/icd/entity/310393530,<,6C9Z
+5,神経症性非行,L,F928,DB0R,<,http://id.who.int/icd/entity/310393530,<,6C9Z
+5,行為および情緒の混合性障害,L,F929,UVP4,<,http://id.who.int/icd/entity/310393530,<,6C9Z
+5,分離不安障害,L,F930,DPD7,=,http://id.who.int/icd/entity/830200631,=,6B05
+5,分離不安,S1,F930,DPD7,=,http://id.who.int/icd/entity/830200631,=,6B05
+5,同胞抗争障害,L,F933,JKAP,<,http://id.who.int/icd/entity/264310751,<,6B43
+5,過剰不安障害,L,F938,H641,<,http://id.who.int/icd/entity/1336943699,<,6B0Z
+5,児童期青年期特殊感情障害,L,F939,F067,<,http://id.who.int/icd/entity/1336943699,<,6B0Z
+5,選択性かん黙,L,F940,VFL9,=,http://id.who.int/icd/entity/167946871,=,6B06
+5,小児期反応性愛着障害,L,F941,Q6LU,=,http://id.who.int/icd/entity/1867081699,=,6B44 
+5,愛情欠如精神病質,L,F942,KVPJ,,,,
+5,愛情歇如精神病質,S1,F942,KVPJ,,,,
+5,施設症候群,L,F942,NSPS,★,http://id.who.int/icd/entity/467941148 OR http://id.who.int/icd/entity/1867081699,★,6B45 or 6B44
+5,小児期脱抑制性愛着障害,L,F942,PE44,=,http://id.who.int/icd/entity/467941148,=,6B45
+5,一過性チック障害,L,F950,TGQ4,=,http://id.who.int/icd/entity/1087192220,<,8A05.03
+5,音声性チック障害,L,F951,B3P3,<,http://id.who.int/icd/entity/169010223,<,8A05.02
+5,ジル・ドゥ・ラ・トゥーレット症候群,L,F952,LBVP,=,http://id.who.int/icd/entity/119340957,=,8A05.00
+5,眼瞼チック,L,F958,JE8S,=,http://id.who.int/icd/entity/431806655,=,8A05.0Y & XA3RB1 
+5,非器質性遺尿症,L,F980,MKE8,=,http://id.who.int/icd/entity/1157749237,=,6C00.Z
+5,心因性遺尿症,S2,F980,MKE8,≒,http://id.who.int/icd/entity/1157749237,=,6C00.Z
+5,全遺尿,L,F980,TN9R,<,http://id.who.int/icd/entity/1157749237,<,6C00.Z
+5,夜尿症,L,F980,TSF1,=,http://id.who.int/icd/entity/1048673005,=,6C00.0 
+5,昼間遺尿症,L,F980,U1B3,=,http://id.who.int/icd/entity/210284268,=,6C00.1
+5,非器質性遺糞症,L,F981,AEK7,=,http://id.who.int/icd/entity/313374467,=,6C01.Z
+5,スパスムス・ヌータンス,L,F984,DVGU,=,http://id.who.int/icd/entity/1868433558,<,8A04.Y
+5,常性痙攣,L,F984,EHLF,=,http://id.who.int/icd/entity/1508785243,=,8A07.0Z
+5,常同性運動障害,L,F984,PM09,=,http://id.who.int/icd/entity/1111628448,<,6A06.Z
+5,吃音症,L,F985,CEKA,=,http://id.who.int/icd/entity/517824970,<,6A01.1 
+5,早口言語症,L,F986,UD56,<,http://id.who.int/icd/entity/517824970,<,6A01.1 
+5,弄唇癖,L,F988,DU3F,<,http://id.who.int/icd/entity/1597934337,<,MB2Y
+5,自慰,L,F988,FEMM,<,http://id.who.int/icd/entity/1597934337,<,MB2Y
+5,過度の自慰,L,F988,FS75,<,http://id.who.int/icd/entity/1597934337,<,MB2Y
+5,舌突出癖,L,F988,GA2S,<,http://id.who.int/icd/entity/1597934337,<,MB2Y
+5,性器いじり,L,F988,H0B0,<,http://id.who.int/icd/entity/1597934337,<,MB2Y
+5,多動を伴わない注意欠損障害,L,F988,K7T8,=,http://id.who.int/icd/entity/294762853,=,6A05.0
+5,スチューデントアパシー,L,F988,NL87,<,http://id.who.int/icd/entity/1597934337,<,MB22.Z
+5,爪かみ,L,F988,PUVJ,=,http://id.who.int/icd/entity/1385366244,<,6B25.Y 
+5,幼児オナニー,L,F988,QG5C,<,http://id.who.int/icd/entity/1597934337,<,MB2Y
+5,異常嚥下癖,L,F988,S1N9,<,http://id.who.int/icd/entity/1597934337,<,MB2Y
+5,鼻ほじり,L,F988,SNNF,<,http://id.who.int/icd/entity/2035653497,<,MB23.J
+5,弄舌癖,L,F988,SS5H,<,http://id.who.int/icd/entity/1597934337,<,MB2Y
+5,学校恐怖症,L,F988,TAAF,<,http://id.who.int/icd/entity/1597934337,<,MB2Y
+5,指しゃぶり,L,F988,UMDR,<,http://id.who.int/icd/entity/1597934337,<,MB2Y
+5,思春期情緒障害,L,F989,QLH8,<,http://id.who.int/icd/entity/334423054,<,6E8Z
+5,心因性反応,L,F99,BUU5,<,http://id.who.int/icd/entity/334423054,<,6E8Z
+5,非定型精神障害,L,F99,JQQC,<,http://id.who.int/icd/entity/334423054,<,6E8Z
+5,ＩＣＵ症候群,L,F99,N6SM,<,http://id.who.int/icd/entity/334423054,<,6E8Z
+5,心因反応,L,F99,NG21,<,http://id.who.int/icd/entity/334423054,<,6E8Z
+5,咽喉頭異常感症,L,F453,J3G3,=,http://id.who.int/icd/entity/1685012958,=,DD90.0
+5,喉頭神経症,S1,F453,J3G3,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,下咽頭異常感,S1,F453,J3G3,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,咽喉頭異物感,S1,F453,J3G3,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,下咽頭異物感,S1,F453,J3G3,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,咽頭喉頭神経症,S1,F453,J3G3,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,心因性発熱,L,F453,JB36,<,http://id.who.int/icd/entity/767044268 & http://id.who.int/icd/entity/915343154,<,6C20.Z & MG26
+5,内臓神経症,L,F453,KGH0,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,空気飢餓感,L,F453,KHLU,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,心因性心血管障害,L,F453,L5M4,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,咽喉頭食道神経症,L,F453,L7ST,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,咽喉頭食道異常感症,S1,F453,L7ST,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,咽頭頚部食道異物感,S1,F453,L7ST,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,咽頭頸部食道異物感,S1,F453,L7ST,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,下咽頭食道神経症,S1,F453,L7ST,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,下咽頭食道異常感症,S1,F453,L7ST,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,梅核気,S2,F453,L7ST,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,咽中炙臠,S2,F453,L7ST,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,心因性幽門痙攣,L,F453,LJEP,<,http://id.who.int/icd/entity/767044268,<,6C20.Z & 8A68.Z 
+5,心因性呼吸困難発作,L,F453,LKGU,<,http://id.who.int/icd/entity/767044268 & http://id.who.int/icd/entity/960305085,<,6C20.Z & MD11.5 
+5,心因性頻尿,L,F453,LN00,=,http://id.who.int/icd/entity/767044268 / http://id.who.int/icd/entity/403610249,=,6C20.Z / MF50.0 
+5,神経性頻尿症,S1,F453,LN00,=,http://id.who.int/icd/entity/767044268 / http://id.who.int/icd/entity/403610249,=,6C20.Z / MF50.0 
+5,膀胱神経症,S1,F453,LN00,=,http://id.who.int/icd/entity/767044268 / http://id.who.int/icd/entity/403610249,=,6C20.Z / MF50.0 
+5,神経性頻尿,S1,F453,LN00,=,http://id.who.int/icd/entity/767044268 / http://id.who.int/icd/entity/403610249,=,6C20.Z / MF50.0 
+5,心血管神経症,S1,F453,N0N9,=,http://id.who.int/icd/entity/767044268 / http://id.who.int/icd/entity/403610249,=,6C20.Z / MF50.0 
+5,心因性下痢,L,F453,N4JQ,<,http://id.who.int/icd/entity/767044268 & http://id.who.int/icd/entity/116759077,<,6C20.Z & ME05.1 
+5,神経性下痢,S1,F453,N4JQ,<,http://id.who.int/icd/entity/767044268 & http://id.who.int/icd/entity/116759077,<,6C20.Z & ME05.1 
+5,咽頭異物感,S1,F453,P8M3,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,咽頭神経症,S1,F453,P8M3,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,咽頭異常感,S1,F453,P8M3,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,神経性咽頭痛,S1,F453,P8M3,=,"http://id.who.int/icd/entity/767044268 & 
+http://id.who.int/icd/entity/633724732",<,6C20.Z & MD36.0 
+5,空気嚥下症,L,F453,RVP7,=,http://id.who.int/icd/entity/1031437858,=,DD90.5 
+5,心因性空気嚥下症,S1,F453,RVP7,=,"http://id.who.int/icd/entity/767044268 &
+ http://id.who.int/icd/entity/1031437858",=,6C20.Z & DD90.5 
+5,呑気症,S1,F453,RVP7,=,http://id.who.int/icd/entity/1031437858,=,DD90.5 
+5,嚥気症,S1,F453,RVP7,=,http://id.who.int/icd/entity/1031437858,=,DD90.5 
+5,心因性胃痙攣,L,F453,S97T,=,http://id.who.int/icd/entity/767044268 & http://id.who.int/icd/entity/157838476,<,6C20.Z & MB47.3 
+5,心因性胃液分泌歇乏症,S1,F453,TGAG,=,http://id.who.int/icd/entity/767044268 & http://id.who.int/icd/entity/157689543,=,6C20.Z & DA41.3
+5,心因性胃液分泌欠乏症,S1,F453,TGAG,=,http://id.who.int/icd/entity/767044268 & http://id.who.int/icd/entity/157689543,=,6C20.Z & DA41.3
+5,心因性低酸症,S1,F453,TGAG,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,過敏性膀胱,S1,F453,TGBA,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,食道異常感,S1,F453,TKVS,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,心因性あくび,L,F453,TQJH,=,http://id.who.int/icd/entity/767044268 & http://id.who.int/icd/entity/1198766532,<,6C20.Z & MD11.D 
+5,心因性咳,L,F453,U9CJ,=,http://id.who.int/icd/entity/767044268 &  http://id.who.int/icd/entity/2027526159,=,6C20.Z & MD12 
+5,神経性咳嗽,S1,F453,U9CJ,=,http://id.who.int/icd/entity/767044268 &  http://id.who.int/icd/entity/2027526159,=,6C20.Z & MD12 
+5,心因性大腸アトニー,S1,F453,VR3B,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,心因性粘液性大腸炎,S1,F453,VR3B,<,http://id.who.int/icd/entity/767044268 & http://id.who.int/icd/entity/1160271562,<,6C20.Z & 1A40.0 
+5,神経性腸症,S1,F453,VR3B,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,消化管神経症,S1,F453,VR3B,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,心因痛,S1,F454,A172,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,神経性臍仙痛,S1,F454,SQCR,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,神経性腹痛,S1,F454,SQCR,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,神経性臍疝痛,S1,F454,SQCR,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,心因性掻痒症,S1,F458,D16T,=,http://id.who.int/icd/entity/1040617588,=,EC90.4 
+5,心因性眩暈,S1,F458,E373,=,http://id.who.int/icd/entity/1155836908,=,6B60.2
+5,神経症性めまい,S2,F458,E373,=,http://id.who.int/icd/entity/1155836908,=,6B60.2
+5,心因性月経困難症,L,F458,FBHM,<,http://id.who.int/icd/entity/1069443471,<,6B60.Y
+5,神経性月経困難症,S2,F458,FBHM,<,http://id.who.int/icd/entity/1069443471,<,6B60.Y
+5,心因性嚥下困難症,S1,F458,FERL,<,http://id.who.int/icd/entity/1069443471,<,6B60.Z
+5,ヒステリー性嚥下障害,S2,F458,FERL,<,http://id.who.int/icd/entity/1069443471,<,6B60.Z
+5,心因性嚥下不能症,S2,F458,FERL,<,http://id.who.int/icd/entity/1069443471,<,6B60.Z
+5,神経性嚥下障害,S2,F458,FERL,=,http://id.who.int/icd/entity/968461848,=,MD93 
+5,心因性斜頸,S1,F458,FPDV,<,http://id.who.int/icd/entity/536986325,<,6B60.8 
+5,心因性斜頚,S1,F458,FPDV,<,http://id.who.int/icd/entity/536986325,<,6B60.8 
+5,偽性斜頸,S1,F458,FPDV,<,http://id.who.int/icd/entity/536986325,<,6B60.8 
+5,神経原性斜頸,S2,F458,FPDV,<,http://id.who.int/icd/entity/536986325,<,6B60.8 
+5,神経原性斜頚,S2,F458,FPDV,<,http://id.who.int/icd/entity/536986325,<,6B60.8 
+5,歯ぎしり,L,F458,JDK3,=,http://id.who.int/icd/entity/1046319083,<,DA0E.7 
+5,歯軋り,S1,F458,JDK3,=,http://id.who.int/icd/entity/1046319083,<,DA0E.7 
+5,ブラキシズム,S1,F458,JDK3,=,http://id.who.int/icd/entity/1046319083,<,DA0E.7 
+5,BRX,S1,F458,JDK3,=,http://id.who.int/icd/entity/1046319083,<,DA0E.7 
+5,精神身体神経症,S1,F459,B4RM,=,http://id.who.int/icd/entity/767044268,=,6C20.Z 
+5,精神身体神経症,S1,F459,B4RM,=,http://id.who.int/icd/entity/767044268,=,6C20.Z 
+5,精神身体神経症,S1,F459,B4RM,=,http://id.who.int/icd/entity/767044268,=,6C20.Z 
+5,精神身体神経症,S1,F459,B4RM,=,http://id.who.int/icd/entity/767044268,=,6C20.Z 
+5,不定愁訴症候群,S1,F459,G43B,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,不定愁訴(症),S1,F459,G43B,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,不定愁訴,S1,F459,G43B,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,PSD,S1,F459,T2F1,<,http://id.who.int/icd/entity/767044268,<,6C20.Z
+5,神経衰弱症,S1,F480,U0Q8,=,http://id.who.int/icd/entity/108180424,=,6B6Z 
+5,神経衰弱(症),S1,F480,U0Q8,=,http://id.who.int/icd/entity/108180424,=,6B6Z 
+5,神経衰弱状態,S1,F480,U0Q8,=,http://id.who.int/icd/entity/108180424,=,6B6Z 
+5,神経性悪液質,S2,F480,U0Q8,=,http://id.who.int/icd/entity/108180424,=,6B6Z 
+5,慢性神経衰弱,S2,F480,U0Q8,=,http://id.who.int/icd/entity/108180424,=,6B6Z 
+5,離人(症),S1,F481,QNGF,=,http://id.who.int/icd/entity/253124068,=,6B66
+5,離人症候群,S1,F481,QNGF,=,http://id.who.int/icd/entity/253124068,=,6B66
+5,離人神経症,S1,F481,QNGF,=,http://id.who.int/icd/entity/253124068,=,6B66
+5,児童神経症,S2,F488,CT90,=,http://id.who.int/icd/entity/108180424,<,6B6Z 
+5,小児疳症,S2,F488,CT90,=,http://id.who.int/icd/entity/108180424,<,6B6Z 
+5,精神衰弱性神経症,S2,F488,ESGH,=,http://id.who.int/icd/entity/108180424,<,6B6Z 
+5,精神衰弱状態,S2,F488,ESGH,=,http://id.who.int/icd/entity/108180424,<,6B6Z 
+5,神経症的状態,S2,F489,L7UB,<,http://id.who.int/icd/entity/108180424,<,6B6Z
+5,ノイローゼ,S2,F489,L7UB,<,http://id.who.int/icd/entity/108180424,<,6B6Z
+5,神経性食欲不振(症),S1,F500,EG7H,=,http://id.who.int/icd/entity/263852475,=,6B80
+5,神経性食思不振症候群,S1,F500,EG7H,=,http://id.who.int/icd/entity/263852475,=,6B80
+5,神経性食思不振症,S1,F500,EG7H,=,http://id.who.int/icd/entity/263852475,=,6B80
+5,神経性無食欲症,S1,F500,EG7H,=,http://id.who.int/icd/entity/2638524755,=,6B80
+5,神経性食思不振,S1,F500,EG7H,=,http://id.who.int/icd/entity/2638524755,=,6B80
+5,神経性食欲不振,S1,F500,EG7H,=,http://id.who.int/icd/entity/2638524755,=,6B80
+5,神経因性食思不振症,S1,F500,EG7H,=,http://id.who.int/icd/entity/2638524755,=,6B80
+5,思春期やせ病,S2,F500,EG7H,=,http://id.who.int/icd/entity/2638524755,=,6B80
+5,思春期やせ症,S2,F500,EG7H,=,http://id.who.int/icd/entity/2638524755,=,6B80
+5,思春期るいそう症,S2,F500,EG7H,=,http://id.who.int/icd/entity/2638524755,=,6B80
+5,神経性食欲亢進症,S2,F502,H4NR,=,,,6B80 or 6B81 or 6B83
+5,大食症,S2,F502,H4NR,=,http://id.who.int/icd/entity/1673294767,=,6B82
+5,心因性拒食症,S2,F508,STTR,=,http://id.who.int/icd/entity/2137507044,<,MG43.7
+5,心因性食欲不振,S2,F508,STTR,=,http://id.who.int/icd/entity/2137507044,<,MG43.7
+5,食思不振症,S2,F508,STTR,=,http://id.who.int/icd/entity/2137507044,<,MG43.7
+5,心因性摂食障害,S1,F509,HGL1,=,http://id.who.int/icd/entity/2137507044,<,MG43.7
+5,神経症性不眠,S2,F510,RR0V,<,http://id.who.int/icd/entity/1038292737,<,7A0Z
+5,神経質症性不眠,S2,F510,RR0V,<,http://id.who.int/icd/entity/1038292737,<,7A0Z
+5,非器質性過眠症,L,F511,CA9U,<,http://id.who.int/icd/entity/1980306606,<,7A26
+5,未熟型パーソナリティ障害,L,F608,PKTD,<,http://id.who.int/icd/entity/941859884,<,6D10.Z 
+5,未熟人格,S1,F608,PKTD,,,,
+5,未熟型人格障害,S1,F608,PKTD,,,,
+5,精神病質性人格,S2,F609,E2EH,,,,
+5,病的人格,S2,F609,E2EH,,,,
+5,病的性格,S2,F609,E2EH,,,,
+5,人格異常,S1,F609,LMC8,,,,
+5,性格異常,S1,F609,Q1JA,,,,
+5,精神科疾患り患体験後の持続的人格変化,S1,F621,V41U,=,http://id.who.int/icd/entity/941859884,=,6D10.Z
+5,ギャンブル障害,S1,F630,U367,=,http://id.who.int/icd/entity/1041487064,<,6C50.Z
+5,強迫的賭博,S1,F630,U367,=,http://id.who.int/icd/entity/1041487064,<,6C50.Z
+5,病的賭博,S1,F630,U367,=,http://id.who.int/icd/entity/1041487064,<,6C50.Z
+5,ギャンブル依存症,S1,F630,U367,=,http://id.who.int/icd/entity/1041487064,<,6C50.Z
+5,窃盗癖,S1,F632,QK8P,=,http://id.who.int/icd/entity/8046043499,=,6C71 
+5,盗癖,S1,F632,QK8P,=,http://id.who.int/icd/entity/8046043499,=,6C71 
+5,間歇性爆発障害,S1,F638,R799,=,http://id.who.int/icd/entity/295017661,=,6C73
+5,強迫的行為障害,S1,F639,K6T6,,,,
+5,習慣・衝動の障害,S1,F639,QKSJ,,,,
+5,性転換症,L,F640,U0S7,=,http://id.who.int/icd/entity/90875286,=,HA60 
+5,精神性的同一化障害,S1,F649,BQV0,,,,
+5,性的役割障害,S1,F649,BQV0,<,http://id.who.int/icd/entity/577470983,<,HA8Z
+5,フェチシズム,S1,F650,TVK3,=,http://id.who.int/icd/entity/2055403635,=,6D36
+5,小児嗜愛,S1,F654,LTCQ,=,http://id.who.int/icd/entity/517058174,=,6D32
+5,小児愛,S1,F654,LTCQ,=,http://id.who.int/icd/entity/517058174,=,6D32
+5,パラフィリア,S1,F659,KLSL,=,http://id.who.int/icd/entity/2110604642,<,6D3Z 
+5,代償神経症,S1,F680,SQ86,<,http://id.who.int/icd/entity/1136473465,<,QC30
+5,代理ほらふき男爵症候群,S1,F681,DU1F,=,http://id.who.int/icd/entity/775605963,=,6D51
+5,MUNCHHAUSEN症候群,S1,F681,HQ7K,=,http://id.who.int/icd/entity/790764418,=,6D50 
+5,ほらふき男爵症候群,S1,F681,HQ7K,=,http://id.who.int/icd/entity/790764418,=,6D50 
+5,病院めぐり症候群,S2,F681,HQ7K,=,http://id.who.int/icd/entity/790764418,=,6D50 
+5,軽度メンタルサブノーマリティー,S1,F70,CEFV,,,,
+5,軽度精神薄弱,S1,F70,CEFV,,,,
+5,軽度精神発達遅滞,S1,F70,CEFV,=,http://id.who.int/icd/entity/1207960454,<,6A00.0
+5,軽度精神遅滞・行動機能障害なしか最小限,S1,F700,HELH,<,http://id.who.int/icd/entity/1207960454,<,6A00.0
+5,軽度精神遅滞・要治療の行動機能障害あり,S1,F701,NKBA,<,http://id.who.int/icd/entity/1207960454,<,6A00.0
+5,軽度精神遅滞・その他の行動機能障害あり,S1,F708,H9V1,<,http://id.who.int/icd/entity/1207960454,<,6A00.0
+5,軽度精神遅滞・行動機能障害の言及なし,S1,F709,M0FK,<,http://id.who.int/icd/entity/1207960454,<,6A00.0
+5,行動面の機能障害が言及されていない軽度精神遅滞,S1,F709,M0FK,<,http://id.who.int/icd/entity/1207960454,<,6A00.0
+5,中等度メンタルサブノーマリティー,S1,F71,PU0N,,,,
+5,中等度精神発達遅滞,S1,F71,PU0N,=,http://id.who.int/icd/entity/759942676,<,6A00.1
+5,中等度精神薄弱,S1,F71,PU0N,,,,
+5,中等度精神遅滞・行動機能障害なしか最小限,S1,F710,UBM0,<,http://id.who.int/icd/entity/759942676,<,6A00.1
+5,中等度精神遅滞・要治療の行動機能障害あり,S1,F711,N9TE,<,http://id.who.int/icd/entity/759942676,<,6A00.1
+5,中等度精神遅滞・その他の行動機能障害あり,S1,F718,VJ2A,<,http://id.who.int/icd/entity/759942676,<,6A00.1
+5,行動面の機能障害が言及されていない中等度精神遅滞,S1,F719,V45L,<,http://id.who.int/icd/entity/759942676,<,6A00.1
+5,中等度精神遅滞・行動機能障害の言及なし,S1,F719,V45L,<,http://id.who.int/icd/entity/759942676,<,6A00.1
+5,重度精神遅滞,S1,F72,NGN0,=,http://id.who.int/icd/entity/1508286189,<,6A00.2 
+5,重度精神発達遅滞,S1,F72,NGN0,=,http://id.who.int/icd/entity/1508286189,<,6A00.2 
+5,重度精神薄弱,S1,F72,NGN0,,,,
+5,重度メンタルサブノーマリティー,S1,F72,NGN0,,,,
+5,重度精神遅滞・行動機能障害なしか最小限,S1,F720,SMD0,<,http://id.who.int/icd/entity/1508286189,<,6A00.2 
+5,重度精神遅滞・要治療の行動機能障害あり,S1,F721,PJ3N,<,http://id.who.int/icd/entity/1508286189,<,6A00.2 
+5,重度精神遅滞・その他の行動機能障害あり,S1,F728,JR01,<,http://id.who.int/icd/entity/1508286189,<,6A00.2 
+5,行動面の機能障害が言及されていない重度精神遅滞,S1,F729,HQ99,<,http://id.who.int/icd/entity/1508286189,<,6A00.2 
+5,重度精神遅滞・行動機能障害の言及なし,S1,F729,HQ99,<,http://id.who.int/icd/entity/1508286189,<,6A00.2 
+5,最重度メンタルサブノーマリティー,S1,F73,L3S9,=,http://id.who.int/icd/entity/1017992057,<,6A00.3
+5,最重度精神発達遅滞,S1,F73,L3S9,=,http://id.who.int/icd/entity/1017992057,=,6A00.3
+5,最重度精神遅滞,S1,F73,L3S9,=,http://id.who.int/icd/entity/1017992057,=,6A00.3 
+5,最重度精神薄弱,S1,F73,L3S9,,,,
+5,最重度精神遅滞・行動機能障害なしか最小限,S1,F730,JLDK,<,http://id.who.int/icd/entity/1017992057,<,6A00.3
+5,最重度精神遅滞・要治療の行動機能障害あり,S1,F731,FJB9,<,http://id.who.int/icd/entity/1017992057,<,6A00.3
+5,最重度精神遅滞・その他の行動機能障害あり,S1,F738,PDGM,<,http://id.who.int/icd/entity/1017992057,<,6A00.3
+5,最重度精神遅滞・行動機能障害の言及なし,S1,F739,MR90,<,http://id.who.int/icd/entity/1017992057,<,6A00.3
+5,行動面の機能障害が言及されていない最重度精神遅滞,S1,F739,MR90,<,http://id.who.int/icd/entity/1017992057,<,6A00.3
+5,精神発達遅滞(症),S1,F79,CFSC,=,http://id.who.int/icd/entity/605267007,=,6A00.Z
+5,精神発達遅滞症,S1,F79,CFSC,=,http://id.who.int/icd/entity/605267007,=,6A00.Z
+5,精神発達遅滞,S1,F79,CFSC,=,http://id.who.int/icd/entity/605267007,=,6A00.Z
+5,精神遅滞,S1,F79,CFSC,=,http://id.who.int/icd/entity/605267007,=,6A00.Z
+5,精神発達異常,S1,F79,CFSC,,,,
+5,精神発育遅滞,S1,F79,CFSC,,,,
+5,精神発達障害,S1,F79,CFSC,,,,
+5,精神薄弱,S1,F79,CFSC,,,,
+5,メンタルサブノーマリティー,S1,F79,CFSC,,,,
+5,知能発育遅延,S2,F79,CFSC,=,http://id.who.int/icd/entity/605267007,=,6A00.Z
+5,知能発達遅延,S2,F79,CFSC,=,http://id.who.int/icd/entity/605267007,=,6A00.Z
+5,精神遅滞・行動機能障害なしか最小限,S1,F790,G6VN,<,http://id.who.int/icd/entity/605267007,<,6A00.Z
+5,精神遅滞・要治療の行動機能障害あり,S1,F791,H64B,<,http://id.who.int/icd/entity/605267007,<,6A00.Z
+5,精神遅滞・その他の行動機能障害あり,S1,F798,UR7L,<,http://id.who.int/icd/entity/605267007,<,6A00.Z
+5,精神遅滞・行動機能障害の言及なし,S1,F799,RRRK,<,http://id.who.int/icd/entity/605267007,<,6A00.Z
+5,発達性音韻障害,S1,F800,CS5C,=,http://id.who.int/icd/entity/551966778,=,6A01.0 
+5,構音発達遅滞,S2,F800,CS5C,=,http://id.who.int/icd/entity/551966778,=,6A01.0 
+5,機能的構音障害,S1,F800,PUUE,≒,http://id.who.int/icd/entity/551966778,=,6A01.0 
+5,表出型発達性不全失語症,S1,F801,D6RU,=,http://id.who.int/icd/entity/1169003948,<,6A01.21
+5,表出型発達性失語症,S1,F801,D6RU,=,http://id.who.int/icd/entity/1169003948,<,6A01.21
+5,発語遅延,S2,F801,D6RU,=,http://id.who.int/icd/entity/1169003948,<,6A01.21
+5,受容型発達性失語症,S1,F802,FP0F,≒,http://id.who.int/icd/entity/822134099,≒,6A01.20
+5,受容型発達性不全失語症,S1,F802,FP0F,≒,http://id.who.int/icd/entity/822134099,≒,6A01.20
+5,受容失語症,S1,F802,FP0F,=,http://id.who.int/icd/entity/822134099,=,6A01.20
+5,感覚性失語,S1,F802,TP4G,<,http://id.who.int/icd/entity/822134099,<,6A01.20
+5,感覚性失語(症),S1,F802,TP4G,<,http://id.who.int/icd/entity/822134099,<,6A01.20
+5,WERNICKE失語症,S1,F802,UJSN,=,http://id.who.int/icd/entity/1600985737,<,6A01.20
+5,ランドウ・クレフナー症候群,L,F803,E6P6,=,http://id.who.int/icd/entity/348544271,=,8A62.2
+5,LANDAU-KLEFFNER症候群,S1,F803,E6P6,=,http://id.who.int/icd/entity/348544271,=,8A62.2
+5,言語発育遅延,S1,F809,LFBD,=,http://id.who.int/icd/entity/33269655,<,6A01.2
+5,言語発育遅滞,S1,F809,LFBD,=,http://id.who.int/icd/entity/33269655,<,6A01.2
+5,言語遅滞,S1,F809,LFBD,=,http://id.who.int/icd/entity/33269655,<,6A01.2
+5,発達性言語障害,S2,F809,LFBD,=,http://id.who.int/icd/entity/33269655,<,6A01.2
+5,言語発達障害,S1,F809,VEA6,=,http://id.who.int/icd/entity/33269655,<,6A01.2
+5,特異的読字遅滞,S1,F810,GKE2,=,http://id.who.int/icd/entity/1008636089,=,6A03.0 
+5,特異的書字障害,L,F811,EREN,=,http://id.who.int/icd/entity/1498766637,=,6A03.1
+5,特異的書字遅滞,S2,F811,EREN,=,http://id.who.int/icd/entity/1498766637,=,6A03.1
+5,ゲルストマン症候群,L,F812,AHD4,=,http://id.who.int/icd/entity/1121787098,=,MB4C
+5,GERSTMANN症候群,S1,F812,AHD4,=,http://id.who.int/icd/entity/1121787098,=,MB4C
+5,計算障害,L,F812,CUR2,=,http://id.who.int/icd/entity/308101648,=,MB4B.5 
+5,発達性算数障害,S1,F812,HSKH,=,http://id.who.int/icd/entity/771231188,=,6A03.2
+5,発達性失算症,S1,F812,HSKH,<,http://id.who.int/icd/entity/771231188,<,6A03.2
+5,運動機能発育遅延,S1,F82,DK4M,<,http://id.who.int/icd/entity/148247104,<,6A04
+5,運動発育不全,S1,F82,DK4M,<,http://id.who.int/icd/entity/148247104,<,6A04
+5,運動遅延,S1,F82,DK4M,<,http://id.who.int/icd/entity/148247104,<,6A04
+5,運動発達遅延,S1,F82,DK4M,<,http://id.who.int/icd/entity/148247104,<,6A04
+5,運動機能発育障害,S1,F82,DK4M,<,http://id.who.int/icd/entity/148247104,<,6A04
+5,運動神経遅延,S1,F82,DK4M,<,http://id.who.int/icd/entity/148247104,<,6A04
+5,発達性運動障害,S1,F82,DK4M,<,http://id.who.int/icd/entity/148247104,<,6A04
+5,微細脳損傷症候群,S1,F82,KV04,,,,
+5,微細脳機能低下症候群,S1,F82,KV04,,,,
+5,微細脳機能不全症候群,S1,F82,KV04,,,,
+5,微細脳障害,S1,F82,KV04,,,,
+5,精神運動発育遅延,S1,F83,A6SV,<,http://id.who.int/icd/entity/1516623224,<,6A0Z
+5,精神運動発達遅延,S1,F83,A6SV,<,http://id.who.int/icd/entity/1516623224,<,6A0Z
+5,精神運動発育不全,S1,F83,A6SV,<,http://id.who.int/icd/entity/1516623224,<,6A0Z
+5,混合性発達障害,S1,F83,A6SV,<,http://id.who.int/icd/entity/1516623224,<,6A0Z
+5,自閉(症),S1,F840,FR04,=,http://id.who.int/icd/entity/437815624,=,6A02.Z
+5,自閉的障害,S2,F840,FR04,=,http://id.who.int/icd/entity/437815624,=,6A02.Z
+5,自閉傾向,S2,F840,FR04,<,http://id.who.int/icd/entity/437815624,<,6A02.Z
+5,幼児精神病,S1,F840,L4SS,=,http://id.who.int/icd/entity/2136163538,<,6A02.Y
+5,幼児自閉症,S1,F840,QFRL,=,http://id.who.int/icd/entity/437815624,=,6A02.Z 
+5,レット症候群,L,F842,GG34,=,http://id.who.int/icd/entity/201200685,=,LD90.4 
+5,RETT症候群,S1,F842,GG34,=,http://id.who.int/icd/entity/201200685,=,LD90.4 
+5,ヘラー病,S1,F843,EDFU,=,http://id.who.int/icd/entity/1460615954,<,6A02.3 
+5,ヘルレル症候群,S1,F843,EDFU,=,http://id.who.int/icd/entity/1962779847,=,LD24.G2 
+5,幼児性痴呆,S1,F843,EDFU,,,,
+5,ヘルレル病,S1,F843,EDFU,=,http://id.who.int/icd/entity/1962779847,=,LD24.G2 
+5,幼児性認知症,S1,F843,EDFU,,,,
+5,ASPERGER症候群,S1,F845,LQV2,=,http://id.who.int/icd/entity/366940030,<,6A02.0
+5,アスペルガー病,S1,F845,LQV2,=,http://id.who.int/icd/entity/366940030,<,6A02.0
+5,ASPERGER病,S1,F845,LQV2,=,http://id.who.int/icd/entity/366940030,<,6A02.0
+5,自閉スペクトラム症,S1,F849,Q9L0,=,http://id.who.int/icd/entity/437815624,=,6A02.Z
+5,自閉症スペクトラム,S1,F849,Q9L0,=,http://id.who.int/icd/entity/437815624,=,6A02.Z
+5,注意歇陥多動障害,S1,F900,SCK6,=,http://id.who.int/icd/entity/437815624,=,6A02.Z
+5,注意欠陥多動性障害,S1,F900,SCK6,=,http://id.who.int/icd/entity/437815624,=,6A02.Z
+5,注意歇陥,S2,F900,SCK6,=,http://id.who.int/icd/entity/821852937,<,6A05.Z 
+5,注意欠陥障害,S2,F900,SCK6,=,http://id.who.int/icd/entity/821852937,<,6A05.Z 
+5,注意歇陥障害,S2,F900,SCK6,=,http://id.who.int/icd/entity/821852937,<,6A05.Z 
+5,注意欠陥,S2,F900,SCK6,=,http://id.who.int/icd/entity/821852937,<,6A05.Z 
+5,多動性行為障害,S1,F901,GKDU,=,http://id.who.int/icd/entity/821852937 / http://id.who.int/icd/entity/719572464,=,6A05 / 6C91
+5,運動過剰症,S2,F909,SHJK,=,http://id.who.int/icd/entity/821852937,<,6A05.Z 
+5,過動症候群,S2,F909,SHJK,=,http://id.who.int/icd/entity/821852937,<,6A05.Z 
+5,運動過剰,S2,F909,SHJK,=,http://id.who.int/icd/entity/821852937,<,6A05.Z 
+5,児童期過動症候群,S2,F909,SHJK,=,http://id.who.int/icd/entity/821852937,<,6A05.Z 
+5,多動症候群,S2,F909,SHJK,=,http://id.who.int/icd/entity/821852937,<,6A05.Z 
+5,家庭内暴力,S1,F910,D3D7,<,http://id.who.int/icd/entity/282888955,<,PJ20 
+5,家庭限局性行為障害,S1,F910,D3D7,,,<,6C9Z 
+5,非社会化型行為障害,S1,F911,SS9C,,,<,6C9Z 
+5,集団型行為障害,S1,F912,PB7P,,,<,6C9Z 
+5,グループ非行,S2,F912,PB7P,<,http://id.who.int/icd/entity/719572464,<,6C91.Z
+5,集団非行,S2,F912,PB7P,<,http://id.who.int/icd/entity/719572464,<,6C91.Z
+5,小児期行為障害,S1,F919,K34D,=,http://id.who.int/icd/entity/192666265,<,6C91.0Z 
+5,小児期行動障害,S1,F919,K34D,=,http://id.who.int/icd/entity/192666265,<,6C91.0Z 
+5,非行,S1,F919,KQV2,<,http://id.who.int/icd/entity/719572464,<,6C91.Z
+5,不適当行動,S2,F919,KQV2,,,,
+5,行動障害,S1,F919,M61R,<,http://id.who.int/icd/entity/719572464,<,6C91.Z
+5,抑うつ性行為障害,S1,F920,NBMC,<,http://id.who.int/icd/entity/310393530,<,6C9Z
+5,神経症的非行,S1,F928,DB0R,<,http://id.who.int/icd/entity/310393530,<,6C9Z
+5,異常分離不安,S1,F930,DPD7,=,http://id.who.int/icd/entity/830200631,<,6B05
+5,同胞嫉妬,S1,F933,JKAP,<,http://id.who.int/icd/entity/264310751,<,6B43
+5,選択性緘黙,S1,F940,VFL9,=,http://id.who.int/icd/entity/167946871,=,6B06
+5,一過性チック,S1,F950,TGQ4,=,http://id.who.int/icd/entity/1087192220,<,8A05.03
+5,慢性運動性チック障害,L,F951,G1MS,<,http://id.who.int/icd/entity/1649340159,,8A05.02
+5,ドゥ・ラ・トゥーレット症候群,S1,F952,LBVP,=,http://id.who.int/icd/entity/119340957,=,8A05.00 
+5,ジル・ド・ラ・トウレット症候群,S1,F952,LBVP,=,http://id.who.int/icd/entity/119340957,=,8A05.00 
+5,ジル・ドゥ・ラ・トゥーレット病,S1,F952,LBVP,=,http://id.who.int/icd/entity/119340957,=,8A05.00 
+5,ド・ラ・トゥーレット病,S1,F952,LBVP,=,http://id.who.int/icd/entity/119340957,=,8A05.00 
+5,GILLES DE LA TOURETTE症候群,S1,F952,LBVP,=,http://id.who.int/icd/entity/119340957,=,8A05.00 
+5,トゥーレット障害,S1,F952,LBVP,=,http://id.who.int/icd/entity/119340957,=,8A05.00 
+5,トゥーレット症候群,S1,F952,LBVP,=,http://id.who.int/icd/entity/119340957,=,8A05.00 
+5,トゥレット症候群,S1,F952,LBVP,=,http://id.who.int/icd/entity/119340957,=,8A05.00 
+5,トゥレット病,S1,F952,LBVP,=,http://id.who.int/icd/entity/119340957,=,8A05.00 
+5,トゥーレット病,S1,F952,LBVP,=,http://id.who.int/icd/entity/119340957,=,8A05.00 
+5,ド・ラ・トゥーレット障害,S1,F952,LBVP,=,http://id.who.int/icd/entity/119340957,=,8A05.00 
+5,トゥレット障害,S1,F952,LBVP,=,http://id.who.int/icd/entity/119340957,=,8A05.00 
+5,TOURETTE症候群,S1,F952,LBVP,=,http://id.who.int/icd/entity/119340957,=,8A05.00 
+5,ド・ラ・トゥーレット症候群,S1,F952,LBVP,=,http://id.who.int/icd/entity/119340957,=,8A05.00 
+5,ジルドラトゥレット症候群,S1,F952,LBVP,=,http://id.who.int/icd/entity/119340957,=,8A05.00 
+5,顔面チック,L,F958,FGUR,=,http://id.who.int/icd/entity/1894671574 & http://id.who.int/icd/entity/968129184,=,8A05.Z & XA86S4
+5,チック障害,L,F959,R0QS,=,http://id.who.int/icd/entity/1894671574,=,8A05
+5,チック(症),S1,F959,R0QS,=,http://id.who.int/icd/entity/1894671574,=,8A05
+5,チック,S1,F959,R0QS,=,http://id.who.int/icd/entity/1894671574,=,8A05
+5,チック症,S1,F959,R0QS,=,http://id.who.int/icd/entity/1894671574,=,8A05
+5,習慣性チック,S2,F959,R0QS,=,http://id.who.int/icd/entity/1894671574,<,8A05.Z 
+5,痙攣性チック,S2,F959,R0QS,=,http://id.who.int/icd/entity/1894671574,<,8A05.Z 
+5,機能性遺尿症,S2,F980,MKE8,=,http://id.who.int/icd/entity/1157749237,<,6C00.Z
+5,心因性遺尿,S2,F980,MKE8,=,http://id.who.int/icd/entity/1157749237,<,6C00.Z 
+5,心因性遺糞症,S2,F981,AEK7,=,http://id.who.int/icd/entity/313374467,<,6C01.Z
+5,機能性遺糞症,S2,F981,AEK7,=,http://id.who.int/icd/entity/313374467,<,6C01.Z
+5,常同症,S1,F984,PM09,=,http://id.who.int/icd/entity/1111628448,<,6A06.Z
+5,常同性反復運動,S1,F984,PM09,=,http://id.who.int/icd/entity/1111628448,<,6A06.Z
+5,どもり,S1,F985,CEKA,=,http://id.who.int/icd/entity/517824970,<,6A01.1 
+5,心因性吃音,S2,F985,CEKA,=,http://id.who.int/icd/entity/517824970,<,6A01.1 
+5,弄唇,S1,F988,DU3F,<,http://id.who.int/icd/entity/1597934337,<,MB2Y
+5,吸唇癖,S1,F988,DU3F,<,http://id.who.int/icd/entity/1597934337,<,MB2Y
+5,オナニー,S1,F988,FEMM,<,http://id.who.int/icd/entity/1597934337,<,MB2Y
+5,咬舌癖,L,F988,GTBC,=,http://id.who.int/icd/entity/401932616,<,DA03.Y 
+5,多動を伴わない注意歇損障害,S1,F988,K7T8,=,http://id.who.int/icd/entity/294762853,=,6A05.0
+5,咬爪癖,S1,F988,PUVJ,=,http://id.who.int/icd/entity/1385366244,<,6B25.Y 
+5,弄舌,S1,F988,SS5H,<,http://id.who.int/icd/entity/1597934337,<,MB2Y
+5,精神障害,L,F99,DTS7,<,http://id.who.int/icd/entity/334423054,<,6E8Z
+5,ICU症候群,S0,F99,N6SM,,のこす,,6D70
+5,ICU精神病,S1,F99,N6SM,,のこす,,6D70
+5,急性発症の血管性痴呆,S1,F010,GJBP,,,,6D81 &
+5,CARASIL,S0,F011,ESGR,=,http://id.who.int/icd/entity/984450655,=,8B22.C1
+5,禿頭と変形性脊椎症を伴う常染色体劣性白質脳症,S1,F011,ESGR,=,http://id.who.int/icd/entity/984450655,=,8B22.C1
+5,皮質下梗塞と白質脳症を伴った常染色体劣性脳血管症,S1,F011,ESGR,=,http://id.who.int/icd/entity/984450655,=,8B22.C1
+5,皮質痴呆,S1,F011,RG8F,,,,
+5,CADASIL,S0,F011,T756,=,http://id.who.int/icd/entity/1621899838,=,8B22.C0
+5,皮質下梗塞と白質脳症を伴った常染色体優性脳血管症,S1,F011,T756,=,http://id.who.int/icd/entity/1621899838,=,8B22.C0
+5,皮質下梗塞と白質脳症を伴う常染色体優性脳動脈症,S1,F011,T756,=,http://id.who.int/icd/entity/1621899838,=,8B22.C0
+5,多発梗塞性痴呆,S1,F011,TK8A,,,,
+5,皮質下血管性痴呆,S1,F012,CLFQ,,,,
+5,脳動脈硬化性痴呆,S1,F019,D5F4,,,,
+5,動脈硬化性痴呆,S1,F019,D5F4,,,,
+5,脳血管性認知症,S1,F019,D5F4,=,http://id.who.int/icd/entity/1365258270,=,6D81
+5,血管性痴呆,S1,F019,D5F4,,,,
+5,脳血管性痴呆,S1,F019,D5F4,,,,
+5,脳動脈硬化性認知症,S1,F019,D5F4,=,http://id.who.int/icd/entity/1365258270,=,6D81
+5,妄想型老年期痴呆,S1,F03,CC70,,,,
+5,老年期痴呆妄想型,S1,F03,CC70,,,,
+5,妄想型老年期認知症,S1,F03,CC70,=,http://id.who.int/icd/entity/759326836 / http://id.who.int/icd/entity/932028588　,<,6D8Z / MB26.0
+5,二次性痴呆,S1,F03,F20B,,,,
+5,老年期痴呆,S1,F03,MSD4,,,,
+5,老人性認知症,S1,F03,MSD4,=,http://id.who.int/icd/entity/1038351310,<,6D8Z
+5,老年痴呆,S1,F03,MSD4,,,,
+5,老人性痴呆症,S1,F03,MSD4,,,,
+5,プレスビオフレニー,S2,F03,MSD4,=,http://id.who.int/icd/entity/1038351310,<,6D8Z
+5,老年期精神病,S1,F03,PP2M,,,,
+5,老人性精神障害,S1,F03,PP2M,=,http://id.who.int/icd/entity/546689346,<,6D8Z
+5,老人性精神病,S1,F03,PP2M,,,,
+5,老年期精神障害,S1,F03,PP2M,=,http://id.who.int/icd/entity/546689346,<,6D8Z
+5,老化性精神障害,S1,F03,PP2M,=,http://id.who.int/icd/entity/546689346,<,6D8Z
+5,老年性精神障害,S1,F03,PP2M,=,http://id.who.int/icd/entity/546689346,<,6D8Z
+5,老年性精神病,S1,F03,PP2M,,,,
+5,老人性妄想病,S1,F03,PTGJ,★,http://id.who.int/icd/entity/1468768235 or http://id.who.int/icd/entity/235421675,★,6D85.Y or 6E67
+5,老人性うつ病,S1,F03,RPRU,=,http://id.who.int/icd/entity/546689346,=,6D8Z 
+5,認知症状態,S1,F03,V828,=,http://id.who.int/icd/entity/546689346,<,6D8Z
+5,痴呆,S1,F03,V828,,,,
+5,痴呆(症),S1,F03,V828,,,,
+5,痴呆症,S1,F03,V828,,,,
+5,痴呆状態,S1,F03,V828,,,,
+5,痴呆に重ならないせん妄,S1,F050,LVR2,,,,
+5,痴呆に重なったせん妄,S1,F051,LVRQ,,,,
+5,皮膚寄生虫妄想,L,F060,V60R,=,http://id.who.int/icd/entity/764154423,<,MB26.09
+5,器質性分裂病様障害,S1,F062,QQMH,=,http://id.who.int/icd/entity/566524918,=,6E61.1
+5,器質性不安障害,L,F064,TQPH,=,http://id.who.int/icd/entity/2131412196,=,6E63
+5,器質性解離性障害,L,F065,UR2F,=,http://id.who.int/icd/entity/440469874,=,6E65
+5,器質性情緒不安定性障害,L,F066,T8DD,=,http://id.who.int/icd/entity/440469874,=,6E65
+5,器質性無力性障害,S1,F066,T8DD,=,http://id.who.int/icd/entity/440469874,=,6E65
+5,軽度認知障害,L,F067,HR1H,=,http://id.who.int/icd/entity/290908947,<,6D71
+5,軽度認知機能障害,S1,F067,HR1H,=,http://id.who.int/icd/entity/290908947,<,6D71
+5,MCI,S1,F067,HR1H,=,http://id.who.int/icd/entity/290908947,<,6D71
+5,軽症認知障害,S1,F067,HR1H,=,http://id.who.int/icd/entity/290908947,<,6D71
+5,てんかん性精神病,L,F068,VNQP,=,http://id.who.int/icd/entity/302122526 / http://id.who.int/icd/entity/1397288146,=,’6E6Z / 8A6Z
+5,てんかん性精神障害,S1,F068,VNQP,=,http://id.who.int/icd/entity/302122526 / http://id.who.int/icd/entity/1397288146,=,’6E6Z / 8A6Z
+5,てんかん様精神病,S1,F068,VNQP,=,http://id.who.int/icd/entity/302122526 / http://id.who.int/icd/entity/1397288146,=,’6E6Z / 8A6Z
+5,てんかん性錯乱状態,S2,F068,VNQP,=,http://id.who.int/icd/entity/302122526,<,6E6Y
+5,亜急性てんかん性精神病,S2,F068,VNQP,,,,
+5,頭部外傷後精神障害,L,F069,DE8D,<,http://id.who.int/icd/entity/302122526,<,6E6Z
+5,頭部外傷性精神病,S1,F069,DE8D,,,,
+5,頭部外傷後精神病,S1,F069,DE8D,,,,
+5,頭部外傷後遺性精神病,S1,F069,DE8D,,,,
+5,器質性脳症候群,L,F069,DLRP,<,http://id.who.int/icd/entity/302122526,<,6E6Z
+5,高次脳機能障害,L,F069,KCSB,<,http://id.who.int/icd/entity/302122526,<,6E6Z 
+5,器質性精神障害,L,F069,KHNV,=,http://id.who.int/icd/entity/302122526,=,6E6Z
+5,脳器質性精神障害,S1,F069,KHNV,=,http://id.who.int/icd/entity/302122526,=,6E6Z
+5,内分泌性精神障害,L,F069,QT2M,=,http://id.who.int/icd/entity/302122526 / http://id.who.int/icd/entity/461716838 ,=,"6E6Y / 5B3Z
+"
+5,全身性エリテマトーデス精神病,L,F069,S5FA,=,http://id.who.int/icd/entity/302122526 / http://id.who.int/icd/entity/749596428,=,6E6Z / 4A40.0Z
+5,SLE精神病,S1,F069,S5FA,=,http://id.who.int/icd/entity/302122526 / http://id.who.int/icd/entity/749596428,=,6E6Z / 4A40.0Z
+5,症候性精神障害,L,F069,TK6S,<,http://id.who.int/icd/entity/302122526,<,6E6Z
+5,脳血管性精神障害,L,F069,TNV0,<,http://id.who.int/icd/entity/302122526,<,6E6Z
+5,脳出血後遺性精神障害,L,F069,VKM6,<,http://id.who.int/icd/entity/302122526,<,6E6Z
+5,脳卒中後精神障害,S2,F069,VKM6,<,http://id.who.int/icd/entity/302122526,<,6E6Z
+5,器質性パーソナリティ障害,L,F070,DAEK,=,http://id.who.int/icd/entity/1324394161,=,6E68 
+5,器質性人格変化,S1,F070,DAEK,=,http://id.who.int/icd/entity/1324394161,=,6E68 
+5,器質性人格障害,S1,F070,DAEK,=,http://id.who.int/icd/entity/1324394161,=,6E68 
+5,器質性偽精神病質性人格,L,F070,GJ7R,=,http://id.who.int/icd/entity/1324394161,=,6E68 
+5,器質性偽精神病質性パーソナリティー,S1,F070,GJ7R,=,http://id.who.int/icd/entity/1324394161,=,6E68 
+5,前頭葉症候群,L,F070,M0AA,=,http://id.who.int/icd/entity/302122526,=,6E6Z
+5,前頭葉症状群,S1,F070,M0AA,=,http://id.who.int/icd/entity/302122526,=,6E6Z
+5,前頭葉症状,S1,F070,M0AA,=,http://id.who.int/icd/entity/302122526,=,6E6Z
+5,前頭葉性発動性低下,S1,F070,M0AA,=,http://id.who.int/icd/entity/302122526,=,6E6Z
+5,辺縁系てんかんパーソナリティー症候群,S1,F070,UR0E,<,http://id.who.int/icd/entity/1324394161,<,6E68 
+5,閉鎖性外傷性脳症,L,F072,F3AD,=,http://id.who.int/icd/entity/277610609 / http://id.who.int/icd/entity/195531803,=,NA07 / 6D71
+5,外傷性脳症・頭蓋内に達する開放創合併なし,L,F072,F3AD,=,http://id.who.int/icd/entity/277610609 / http://id.who.int/icd/entity/195531803,=,NA07 / 6D71
+5,開放性外傷性脳症,L,F072,GAT2,=,http://id.who.int/icd/entity/1667404773 / http://id.who.int/icd/entity/195531803,=,NA01 / 6D71
+5,外傷性脳症・頭蓋内に達する開放創合併あり,L,F072,GAT2,=,http://id.who.int/icd/entity/1667404773 / http://id.who.int/icd/entity/195531803,=,NA01 / 6D71
+5,脳挫傷後症候群,S1,F072,L8LD,=,http://id.who.int/icd/entity/1968656997,<,6D71
+5,頭部打撲後症候群,S1,F072,L8LD,=,http://id.who.int/icd/entity/1968656997,<,6D71
+5,脳挫傷後エンセファロパシー,S1,F072,L8LD,=,http://id.who.int/icd/entity/1968656997,<,6D71
+5,脳外傷後・非精神病性症候群,S1,F072,L8LD,,,,
+5,外傷性脳症,L,F072,PE1A,=,http://id.who.int/icd/entity/1673722101,=,NA07.0Y & XB2G
+5,間脳症候群,S1,F078,D6HL,=,http://id.who.int/icd/entity/879659089,<,5A61.Y
+5,右半球器質性情緒障害,S1,F078,NM26,,,,
+5,KLUVER-BUCY症候群,S1,F078,NTD3,,,,
+5,脳器質性精神症状群,S1,F09,JUT5,,,,
+5,症候性精神病,S2,F09,JUT5,,,,
+5,慢性器質性精神病状態,S2,F09,JUT5,,,,
+5,症状性精神病,S1,F09,M9KG,,,,
+5,症状性精神障害,S1,F09,M9KG,,,,
+5,二日酔,S1,F100,FAB0,=,http://id.who.int/icd/entity/1466202482,=,MG49
+5,急性酩酊,S1,F100,GP7D,=,http://id.who.int/icd/entity/1339202943 & http://id.who.int/icd/entity/786106375,=,6C40.3 & XT5R
+5,アルコール依存(症),S1,F102,HQV9,=,http://id.who.int/icd/entity/1580466198,=,6C40.2Z 
+5,アルコール依存症候群,S1,F102,HQV9,=,http://id.who.int/icd/entity/1580466198,=,6C40.2Z 
+5,酒癖,S2,F102,HQV9,=,http://id.who.int/icd/entity/1580466198,=,6C40.2Z 
+5,慢性アルコール中毒,S2,F102,HQV9,=,http://id.who.int/icd/entity/1580466198,=,6C40.2Z 
+5,飲酒嗜癖,S2,F102,HQV9,=,http://id.who.int/icd/entity/1580466198,=,6C40.2Z 
+5,エタノール症,S2,F102,HQV9,=,http://id.who.int/icd/entity/1580466198,=,6C40.2Z 
+5,慢性アルコール症,S2,F102,HQV9,=,http://id.who.int/icd/entity/1580466198,=,6C40.2Z 
+5,エチルアルコール症,S2,F102,HQV9,=,http://id.who.int/icd/entity/1580466198,=,6C40.2Z 
+5,慢性アルコール中毒症,S2,F102,HQV9,=,http://id.who.int/icd/entity/1580466198,=,6C40.2Z 
+5,アルコール嗜癖,S2,F102,HQV9,=,http://id.who.int/icd/entity/1580466198,=,6C40.2Z 
+5,渇酒症,S2,F102,HQV9,=,http://id.who.int/icd/entity/1580466198,=,6C40.2Z 
+5,アルコール離脱症候群,S1,F103,L95F,=,http://id.who.int/icd/entity/998231424,=,6C40.4Z 
+5,アルコール性せん妄,S1,F104,AMMU,=,http://id.who.int/icd/entity/1217486356,=,6C40.5 
+5,飲酒家振戦,S1,F104,AMMU,=,http://id.who.int/icd/entity/1217486356,=,6C40.5 
+5,アルコール離脱性せん妄,S1,F104,AMMU,=,http://id.who.int/icd/entity/1217486356,=,6C40.5 
+5,アルコール性振戦せん妄,S1,F104,AMMU,=,http://id.who.int/icd/entity/1217486356,=,6C40.5 
+5,振戦せん妄,S1,F104,AMMU,=,http://id.who.int/icd/entity/1217486356,=,6C40.5 
+5,アルコール妄想型精神病,S1,F105,FTL4,,,,
+5,アルコール性パラノイア,S1,F105,FTL4,=,http://id.who.int/icd/entity/1767310182,=,6C40.61
+5,アルコール性嫉妬妄想,S1,F105,H2C6,=,http://id.who.int/icd/entity/1484332320,<,6C40.6Z
+5,アルコール性精神障害,S2,F105,VE9J,=,http://id.who.int/icd/entity/769299330,=,6C40.6Z
+5,アルコール性コルサコフ病,S1,F106,DBDF,<,http://id.who.int/icd/entity/1001737902,<,6D72.10 
+5,アルコール誘発性健忘症候群,S1,F106,DBDF,<,http://id.who.int/icd/entity/1001737902,<,6D72.10 
+5,アルコール性健忘症候群,S1,F106,DBDF,<,http://id.who.int/icd/entity/1001737902,<,6D72.10 
+5,アルコール性コルサコフ精神病,S1,F106,DBDF,,,,
+5,コルサコフ症候群,L,F106,U5GA,=,http://id.who.int/icd/entity/428071867,=,5B5A.11
+5,KORSAKOFF精神病,S1,F106,U5GA,,,,
+5,KORSAKOFF疾患,S1,F106,U5GA,=,http://id.who.int/icd/entity/428071867,=,5B5A.11
+5,コルサコフ疾患,S1,F106,U5GA,=,http://id.who.int/icd/entity/428071867,=,5B5A.11
+5,KORSAKOFF症候群,S1,F106,U5GA,=,http://id.who.int/icd/entity/428071867,=,5B5A.11
+5,コルサコフ精神病,S1,F106,U5GA,,,,
+5,アルコール性遅発性人格障害,S1,F107,PHT6,=,http://id.who.int/icd/entity/1324394161 & http://id.who.int/icd/entity/1991751314,=,6E68 & XM6U34
+5,アルコール性痴呆,S1,F107,PMMA,,,,
+5,マリファナ中毒,L,F122,KPA2,=,http://id.who.int/icd/entity/1361649231,=,"6C41.3 / 6C41.0
+"
+5,ハッシッシュ中毒,S1,F122,KPA2,=,http://id.who.int/icd/entity/1361649231,=,6C41.3
+5,大麻依存,S1,F122,NFRG,=,http://id.who.int/icd/entity/1129015467,=,6C41.2Z
+5,ハッシッシュ依存,S1,F122,NFRG,=,http://id.who.int/icd/entity/1129015467,=,6C41.2Z
+5,カンナビス依存,S1,F122,NFRG,=,http://id.who.int/icd/entity/1129015467,=,6C41.2Z
+5,精神安定剤依存,S1,F132,ARSJ,=,http://id.who.int/icd/entity/1605607466,=,6C44.2Z
+5,ベンゾジアゼピン系依存症,S1,F132,QSAH,=,http://id.who.int/icd/entity/1605607466 & http://id.who.int/icd/entity/771629025,=,6C44.2Z & XM9X46 
+5,ベンゾジアゼピン系薬依存症,S1,F132,QSAH,=,http://id.who.int/icd/entity/1605607466 & http://id.who.int/icd/entity/771629025,=,6C44.2Z & XM9X46 
+5,ベンゾジアゼピン系薬剤依存症,S1,F132,QSAH,=,http://id.who.int/icd/entity/1605607466 & http://id.who.int/icd/entity/771629025,=,6C44.2Z & XM9X46 
+5,ベンゾジアゼピン類依存症,S1,F132,QSAH,=,http://id.who.int/icd/entity/1605607466 & http://id.who.int/icd/entity/771629025,=,6C44.2Z & XM9X46 
+5,バルビタール酸型薬物依存,S1,F132,VJQA,=,http://id.who.int/icd/entity/1605607466 & http://id.who.int/icd/entity/2000022550,=,6C44.2Z & XM2B90
+5,コカイン急性中毒,S1,F140,J8PM,=,http://id.who.int/icd/entity/1965837313 & http://id.who.int/icd/entity/786106375,=,6C45.3 & XT5R
+5,コカイン薬物依存,S1,F142,BS1K,=,http://id.who.int/icd/entity/1691013484,=,6C45.2Z
+5,カフェイン等の精神刺激薬使用による急性精神・行動障害,L,F150,LAG8,=,http://id.who.int/icd/entity/1710844294 / http://id.who.int/icd/entity/1252561403,=,6C48.4 / 6C48.1Z
+5,カフェイン使用による急性精神・行動障害,L,F150a,QVHC,=,http://id.who.int/icd/entity/1710844294 / http://id.who.int/icd/entity/1252561403,=,6C48.4 / 6C48.1Z
+5,カフェイン急性中毒,S1,F150a,QVHC,=,http://id.who.int/icd/entity/1648213213 & http://id.who.int/icd/entity/786106375,=,6C48.2 & XT5R
+5,アンフェタミン使用による急性精神・行動障害,L,F150b,F3N0,=,http://id.who.int/icd/entity/199002751 & http://id.who.int/icd/entity/467420099 / http://id.who.int/icd/entity/2016549355,=,6C46.6Z & XM48Z9 / 6C46.2Z
+5,アンフェタミン急性中毒,S1,F150b,F3N0,=,http://id.who.int/icd/entity/1072097337 & http://id.who.int/icd/entity/786106375,=,6C46.3 & XT5R
+5,アンフェタミン型薬物依存,S2,F152b,J0MP,<,http://id.who.int/icd/entity/2016549355,<,6C46.2
+5,ヒロポン中毒後遺症精神病,S1,F157,JEL0,,,,
+5,LSD使用による急性精神・行動障害,S0,F160,FM7P,<,http://id.who.int/icd/entity/1072097337 & http://id.who.int/icd/entity/786106375,<,6C46.3 & XT5R
+5,LSD急性中毒,S1,F160,FM7P,<,http://id.who.int/icd/entity/1072097337 & http://id.who.int/icd/entity/786106375,<,6C46.3 & XT5R
+5,LSD反応,S0,F160,RU6N,=,http://id.who.int/icd/entity/1750279358,=,6C49.3
+5,幻覚剤乱用,S1,F161,VH93,=,http://id.who.int/icd/entity/219736364,=,6C49.1Z
+5,幻覚薬薬物依存,S1,F162,Q4DC,=,http://id.who.int/icd/entity/2041952725,<,6C49.2Z
+5,幻覚剤依存,S1,F162,Q4DC,=,http://id.who.int/icd/entity/2041952725,<,6C49.2Z
+5,慢性ニコチン中毒,S1,F172,N4AS,=,http://id.who.int/icd/entity/1699574100,<,6C4A.2Z 
+5,シンナー中毒症,S1,F182,N607,<,http://id.who.int/icd/entity/1835610951,<,6C4B.Z
+5,薬物乱用,L,F191,H3AG,=,http://id.who.int/icd/entity/341458101,=,6C4G.1Z
+5,薬物誤飲,S1,F191,ND21,=,http://id.who.int/icd/entity/341458101,=,6C4G.1Z
+5,抗うつ薬乱用,L,F191,V305,,,<,
+5,抗うつ剤乱用,S1,F191,V305,,,<,
+5,薬物依存症,S1,F192,E9BJ,=,http://id.who.int/icd/entity/2143971168,=,6C4G.2Z
+5,薬物嗜癖,S2,F192,E9BJ,=,http://id.who.int/icd/entity/2143971168,=,6C4G.2Z
+5,ステロイド精神病,L,F195,TPPB,=,http://id.who.int/icd/entity/576434802,<, 6C4H.Y & XM8JY6 
+5,ステロイド性精神病,S1,F195,TPPB,=,http://id.who.int/icd/entity/576434802,<, 6C4H.Y & XM8JY6 
+5,向精神薬副作用,L,F199,B6K0,=,http://id.who.int/icd/entity/136511187 / http://id.who.int/icd/entity/916854001,<,6C4E.Y / NE60 & XM0HK5 
+5,薬物性精神障害,L,F199,RNF3,<,http://id.who.int/icd/entity/590211325,<,6C4Y
+5,中毒性精神障害,L,F199,U0L9,<,http://id.who.int/icd/entity/590211325,<,6C4Y
+5,緊張型精神分裂病,S1,F202,D2L6,,,,
+5,カタトニー,S1,F202,D2L6,=,http://id.who.int/icd/entity/486722075,=,6A4Z
+5,統合失調性緊張病,S1,F202,D2L6,,,,
+5,分裂病性ろう屈症,S1,F202,D2L6,,,,
+5,分裂病性カタレプシー,S1,F202,D2L6,,,,
+5,分裂病性緊張病,S1,F202,D2L6,,,,
+5,緊張型分裂病,S1,F202,D2L6,,,,
+5,周期性緊張病,S1,F202,D2L6,,,<,6A40
+5,非定型統合失調症,S1,F203,ATM5,,,,
+5,型分類困難な分裂病,S1,F203,ATM5,,,,
+5,非定型分裂病,S1,F203,ATM5,,,,
+5,接枝破瓜病,S2,F203,ATM5,,,,
+5,接枝分裂病,S2,F203,ATM5,,,,
+5,分裂病後抑うつ,S1,F204,GKUP,=,http://id.who.int/icd/entity/2025798471,<,6A20.Z
+5,分裂病性残遺状態,S1,F205,H363,,,,
+5,歇陥分裂病,S1,F205,H363,,,,
+5,分裂病性欠陥状態,S1,F205,H363,,,,
+5,欠陥分裂病,S1,F205,H363,,,,
+5,残遺分裂病,S1,F205,H363,,,,
+5,統合失調性残遺状態,S1,F205,H363,,,,
+5,統合失調性欠陥状態,S1,F205,H363,,,,
+5,陳旧性分裂病,S1,F205,H363,,,,
+5,分裂病性歇陥状態,S1,F205,H363,,,,
+5,欠陥統合失調症,S1,F205,H363,,,,
+5,陳旧性統合失調症,S1,F205,H363,,,,
+5,単純型統合失調症,L,F206,UUU9,=,http://id.who.int/icd/entity/1767482926,<,6A20.Z
+5,単純型精神分裂病,S1,F206,UUU9,=,http://id.who.int/icd/entity/1767482926,<,6A20.Z
+5,単純型分裂病,S1,F206,UUU9,=,http://id.who.int/icd/entity/1767482926,<,6A20.Z
+5,体感異常型分裂病,S1,F208,GDR0,,,,
+5,体感幻覚性統合失調症,S1,F208,GDR0,,,,
+5,体感症性分裂病,S1,F208,GDR0,,,,
+5,体感幻覚性分裂病,S1,F208,GDR0,,,,
+5,体感異常型統合失調症,S1,F208,GDR0,,,,
+5,遅発性統合失調症,L,F208,J4SQ,=,http://id.who.int/icd/entity/1683919430 & http://id.who.int/icd/entity/1393648567 ,=,6A20.Z & XT3R
+5,遅発性精神分裂病,S1,F208,J4SQ,,,,
+5,急性統合失調症性エピソード,L,F208,JLAK,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,急性統合失調性エピソード,S1,F208,JLAK,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,急性分裂病性挿話,S1,F208,JLAK,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,急性分裂病性エピソード,S1,F208,JLAK,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,急性統合失調性挿話,S1,F208,JLAK,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,統合失調症様状態,L,F208,NBRA,=,http://id.who.int/icd/entity/284410555,<,6A23.Z
+5,分裂病様精神病,S1,F208,NBRA,,,,
+5,分裂病様障害,S1,F208,NBRA,,,,
+5,分裂病様状態,S1,F208,NBRA,,,,
+5,分裂病,S1,F209,Q66J,=,http://id.who.int/icd/entity/1683919430,<,6A20
+5,精神分裂病,S1,F209,Q66J,=,http://id.who.int/icd/entity/1683919430,<,6A20
+5,早発性認知症,S2,F209,Q66J,=,http://id.who.int/icd/entity/1683919430,<,6A20
+5,早発性痴呆,S2,F209,Q66J,,,,
+5,境界性精神分裂病,S1,F21,EAVQ,=,http://id.who.int/icd/entity/18178000,=,6A22
+5,境界性統合失調症,S1,F21,EAVQ,=,http://id.who.int/icd/entity/18178000,=,6A22
+5,境界型分裂病,S1,F21,EAVQ,=,http://id.who.int/icd/entity/18178000,=,6A22
+5,偽精神病質性統合失調症,S1,F21,GD5U,=,http://id.who.int/icd/entity/18178000,=,6A22
+5,偽神経症性精神分裂病,S1,F21,GD5U,=,http://id.who.int/icd/entity/18178000,=,6A22
+5,偽精神病質性精神分裂病,S1,F21,GD5U,=,http://id.who.int/icd/entity/18178000,=,6A22
+5,潜伏分裂病,S1,F21,H2NQ,=,http://id.who.int/icd/entity/18178000,=,6A22
+5,潜在性分裂病,S1,F21,H2NQ,=,http://id.who.int/icd/entity/18178000,=,6A22
+5,潜伏性精神分裂病,S1,F21,H2NQ,=,http://id.who.int/icd/entity/18178000,=,6A22
+5,潜伏性統合失調症,S1,F21,H2NQ,=,http://id.who.int/icd/entity/18178000,=,6A22
+5,潜伏分裂病反応,S2,F21,H2NQ,=,http://id.who.int/icd/entity/18178000,=,6A22
+5,分裂病型障害,S1,F21,QMUJ,=,http://id.who.int/icd/entity/18178000,=,6A22 
+5,統合失調型障害,S1,F21,QMUJ,=,http://id.who.int/icd/entity/18178000,=,6A22 
+5,前精神病性統合失調症,S1,F21,RFJE,=,http://id.who.int/icd/entity/18178000,=,6A22
+5,前精神病性精神分裂病,S1,F21,RFJE,=,http://id.who.int/icd/entity/18178000,=,6A22
+5,前駆期精神分裂病,S1,F21,RFJE,=,http://id.who.int/icd/entity/18178000,=,6A22
+5,分裂病型人格障害,S1,F21,VUJU,=,http://id.who.int/icd/entity/18178000,=,6A22
+5,統合失調症型人格障害,S1,F21,VUJU,=,http://id.who.int/icd/entity/18178000,=,6A22
+5,統合失調型人格障害,S1,F21,VUJU,=,http://id.who.int/icd/entity/18178000,=,6A22
+5,敏感関係妄想,S2,F220,CKR2,=,http://id.who.int/icd/entity/922964532,=,MB26.03
+5,妄想性精神病,S1,F220,GLMJ,,,,
+5,妄想精神病,S1,F220,GLMJ,,,,
+5,慢性妄想状態,S2,F220,GLMJ,=,http://id.who.int/icd/entity/932028588 & http://id.who.int/icd/entity/490003542 ,=,MB26.0Z & XT8W
+5,パラフレニー,S2,F220,GLMJ,=,http://id.who.int/icd/entity/932028588 ,<,MB26.0Y
+5,体臭恐怖,S2,F220,GLMJ,<,http://id.who.int/icd/entity/932028588,<,MB26.0Y
+5,慢性妄想性精神病,S2,F220,GLMJ,,,,
+5,慢性憑依状態,S2,F220,GLMJ,=,http://id.who.int/icd/entity/1974996783 & http://id.who.int/icd/entity/490003542  ,=,6A24.Z & XT8W
+5,色情妄想,S2,F220,GLMJ,<,http://id.who.int/icd/entity/932028588,<,MB26.0Y
+5,単純型妄想状態,S2,F220,GLMJ,=,http://id.who.int/icd/entity/1974996783,=,6A24.Z 
+5,易感性関係念慮,S2,F220,GLMJ,=,http://id.who.int/icd/entity/922964532,=,MB26.03
+5,妄想状態,S2,F220,GLMJ,=,http://id.who.int/icd/entity/932028588,=,MB26.0Z
+5,心気妄想症,S1,F220,KLF8,=,http://id.who.int/icd/entity/1549775769,=,MB26.09
+5,偏執病,S1,F220,N89M,=,http://id.who.int/icd/entity/1974996783,=,6A24.Z 
+5,妄想症,S1,F220,N89M,=,http://id.who.int/icd/entity/1974996783,=,6A24.Z 
+5,偏執症,S1,F220,N89M,=,http://id.who.int/icd/entity/1974996783,=,6A24.Z 
+5,古典的パラノイア,S2,F220,N89M,=,http://id.who.int/icd/entity/1974996783,=,6A24.Z 
+5,被害関係念慮,S2,F220,R2QG,=,http://id.who.int/icd/entity/860615074,=,MB26.07 
+5,敏感関係念慮,S2,F220,S7HP,=,http://id.who.int/icd/entity/781153315,=,MB26.8 
+5,退行期パラノイア,S1,F228,GCKB,<,http://id.who.int/icd/entity/1974996783,<,6A24.Z 
+5,退行期幻覚妄想状態,S1,F228,GCKB,<,http://id.who.int/icd/entity/1974996783,<,6A24.Z 
+5,好訴妄想,S1,F228,MJ9D,<,http://id.who.int/icd/entity/1974996783,<,6A24.Z 
+5,病的心因反応,S2,F239,C0S7,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,急性心因反応,S2,F239,C0S7,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,心因症,S2,F239,C0S7,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,心因性精神病,S2,F239,C0S7,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,短期反応性精神病,S2,F239,C0S7,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,異常体験反応,S2,F239,C0S7,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,急性精神病状態,S2,F239,V8T1,=,http://id.who.int/icd/entity/284410555,=,6A23.Z
+5,感応性幻覚妄想状態,S2,F24,M1UB,=,http://id.who.int/icd/entity/1974996783,=,6A24.Z
+5,感応性精神病性障害,S2,F24,M1UB,=,http://id.who.int/icd/entity/1974996783,=,6A24.Z
+5,躁病型分裂感情障害,S1,F250,R0A3,=,http://id.who.int/icd/entity/106339515,=,6A21
+5,躁病型分裂病様精神病,S2,F250,R0A3,=,http://id.who.int/icd/entity/106339515,=,6A21
+5,躁病型分裂感情精神病,S2,F250,R0A3,=,http://id.who.int/icd/entity/106339515,=,6A21
+5,うつ病型分裂感情障害,S1,F251,TRLT,=,http://id.who.int/icd/entity/106339515,=,6A21
+5,うつ病型分裂病様精神病,S2,F251,TRLT,=,http://id.who.int/icd/entity/106339515,=,6A21
+5,うつ病型分裂感情精神病,S2,F251,TRLT,=,http://id.who.int/icd/entity/106339515,=,6A21
+5,混合型分裂感情障害,S1,F252,LUEA,=,http://id.who.int/icd/entity/106339515,=,6A21
+5,混合精神病,S2,F252,LUEA,=,http://id.who.int/icd/entity/106339515,=,6A21
+5,変質性精神病,S2,F252,LUEA,=,http://id.who.int/icd/entity/106339515,=,6A21
+5,循環性分裂病,S2,F252,LUEA,=,http://id.who.int/icd/entity/106339515,=,6A21
+5,周期性分裂病,S2,F252,LUEA,=,http://id.who.int/icd/entity/106339515,=,6A21
+5,分裂感情障害,S1,F259,RJJ4,=,http://id.who.int/icd/entity/106339515,=,6A21
+5,分裂情動型精神病,S2,F259,RJJ4,=,http://id.who.int/icd/entity/106339515,=,6A21
+5,分裂感情精神病,S2,F259,RJJ4,=,http://id.who.int/icd/entity/106339515,=,6A21
+5,慢性幻覚性精神病,S1,F28,BUM5,,,,
+5,憑依性精神病,S2,F28,BUM5,,,,
+5,幻覚症,S2,F28,BUM5,=,http://id.who.int/icd/entity/1234565185,<,MB27.2Y
+5,非定型的内因性精神病,S2,F28,RDCR,,,,
+5,非定型内因性精神病,S2,F28,RDCR,,,,
+5,軽躁状態,S1,F300,AF0G,★,"http://id.who.int/icd/entity/1931350942
+or
+http://id.who.int/icd/entity/729639831
+or
+http://id.who.int/icd/entity/1427638883",★,6A60.2 or 6A61.0 or 6A62
+5,軽躁症,S1,F300,AF0G,★,"http://id.who.int/icd/entity/1931350942
+or
+http://id.who.int/icd/entity/729639831
+or
+http://id.who.int/icd/entity/1427638883",★,6A60.2 or 6A61.0 or 6A62
+5,躁病エピソード,S2,F309,NE7B,<,http://id.who.int/icd/entity/76398729,<,6A8Z
+5,躁病,S2,F309,NE7B,<,http://id.who.int/icd/entity/76398729,<,6A8Z
+5,躁状態双極性感情障害,S1,F310,V2U5,<,http://id.who.int/icd/entity/1931350942 OR http://id.who.int/icd/entity/729639831,<,6A60.2 or 6A61.0
+5,混合状態双極性感情障害,S1,F316,JEGU,<,"http://id.who.int/icd/entity/1706773916
+OR
+http://id.who.int/icd/entity/167688690",<,6A60.9 or 6A60.A 
+5,双極II型障害,S0,F318,GMQC,=,http://id.who.int/icd/entity/729639831,=,6A61.Z
+5,双極性2型障害,S1,F318,GMQC,=,http://id.who.int/icd/entity/729639831,=,6A61.Z
+5,2型双極性障害,S1,F318,GMQC,=,http://id.who.int/icd/entity/729639831,=,6A61.Z
+5,双極2型障害,S1,F318,GMQC,=,http://id.who.int/icd/entity/729639831,=,6A61.Z
+5,反覆性単極性躁病,S1,F318,P4GQ,<,http://id.who.int/icd/entity/613065957,<,6A6Z
+5,周期性躁病,S1,F318,P4GQ,<,http://id.who.int/icd/entity/613065957,<,6A6Z
+5,慢性躁病,S2,F318,P4GQ,<,"http://id.who.int/icd/entity/613065957 & http://id.who.int/icd/entity/490003542 
+",<,6A6Z & XT8W
+5,性的ノイローゼ,S2,F489,L7UB,<," http://id.who.int/icd/entity/108180424 
+",<,6B6Z
+5,性的神経衰弱,S2,F489,L7UB,<," http://id.who.int/icd/entity/108180424 
+",<,6B6Z
+5,心因性嘔吐,S2,F505,E530,<,http://id.who.int/icd/entity/1412387537 & http://id.who.int/icd/entity/1486323443 ,<,"6B8Z&XE6XD
+"
+5,語聲,S2,F802,FP0F,<,http://id.who.int/icd/entity/822134099,<,6A01.20
+5,舌たらず,S2,F808,DH3J,<,http://id.who.int/icd/entity/15113838,<,MA80.2Z 

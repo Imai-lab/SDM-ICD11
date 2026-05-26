@@ -1,0 +1,1252 @@
+ICD10 章,標準病名,代表・同義,ICD10コード,交換コード,関係,ICD11 Foundation URI,関係,MMS
+10,急性鼻炎,L,J00,EM3T,=,http://id.who.int/icd/entity/2066255370,=,CA00
+10,急性鼻カタル,S2,J00,EM3T,=,http://id.who.int/icd/entity/2066255370,=,CA00
+10,急性鼻咽頭炎,L,J00,FQT8,=,http://id.who.int/icd/entity/2066255370,=,CA00
+10,鼻咽頭炎,S1,J00,FQT8,=,http://id.who.int/icd/entity/2066255370,=,CA00
+10,亜急性鼻咽頭炎,S2,J00,FQT8,=,http://id.who.int/icd/entity/2066255370 & http://id.who.int/icd/entity/2058324694,=,CA00 & XT1L
+10,感染性鼻咽頭炎,S2,J00,FQT8,=,http://id.who.int/icd/entity/2066255370,=,CA00
+10,感冒,L,J00,FULM,=,http://id.who.int/icd/entity/2066255370,=,CA00
+10,かぜ,L,J00,FULM,=,http://id.who.int/icd/entity/2066255370,=,CA00
+10,かぜ症候群,S1,J00,FULM,=,http://id.who.int/icd/entity/2066255370,=,CA00
+10,風邪,S1,J00,FULM,=,http://id.who.int/icd/entity/2066255370,=,CA00
+10,夏カゼ症候群,S2,J00,FULM,=,http://id.who.int/icd/entity/2066255370,=,CA00
+10,感染性鼻炎,L,J00,P1LQ,=,http://id.who.int/icd/entity/2066255370,=,CA00
+10,急性鼻かぜ,S1,J00,P1LQ,=,http://id.who.int/icd/entity/2066255370,=,CA00
+10,鼻かぜ,S2,J00,P1LQ,=,http://id.who.int/icd/entity/2066255370,=,CA00
+10,急性上顎洞炎,L,J010,H5UV,=,http://id.who.int/icd/entity/1617309258,=,CA01 & & XA1R64 
+10,急性前頭洞炎,L,J011,FG7Q,=,http://id.who.int/icd/entity/86893536,=,CA01 & XA91G8 
+10,急性篩骨洞炎,L,J012,NRBQ,=,http://id.who.int/icd/entity/1904259873,=,CA01 & XA58F6
+10,急性蝶形骨洞炎,L,J013,RQE6,=,http://id.who.int/icd/entity/348880565,=,CA01 & XA4U67
+10,急性汎副鼻腔炎,L,J014,NK32,=,http://id.who.int/icd/entity/1730538785,=,CA01 & XK63
+10,急性副鼻腔炎,L,J019,J6SS,=,http://id.who.int/icd/entity/509821856,=,CA01 
+10,急性鼻副鼻腔炎,S1,J019,J6SS,=,http://id.who.int/icd/entity/509821856,=,CA01 
+10,急性副鼻腔蓄膿症,L,J019,TQ6D,=,http://id.who.int/icd/entity/866330704,<,CA01 
+10,急性副鼻腔膿瘍,S2,J019,TQ6D,=,http://id.who.int/icd/entity/480352798,<,CA01 
+10,急性副鼻腔感染症,S2,J019,TQ6D,=,http://id.who.int/icd/entity/509821856,=,CA01 
+10,急性副鼻腔化膿症,S2,J019,TQ6D,=,http://id.who.int/icd/entity/1237790399,<,CA01 
+10,連鎖球菌性アンギナ,L,J020,FJ6J,=,http://id.who.int/icd/entity/1642172022,=,1B51
+10,れんさ球菌性アンギナ,S1,J020,FJ6J,=,http://id.who.int/icd/entity/1642172022,=,1B51
+10,連鎖球菌性口峡炎,S1,J020,FJ6J,=,http://id.who.int/icd/entity/1642172022,=,1B51
+10,レンサ球菌性アンギーナ,S1,J020,FJ6J,=,http://id.who.int/icd/entity/1642172022,=,1B51
+10,れんさ球菌性アンギーナ,S1,J020,FJ6J,=,http://id.who.int/icd/entity/1642172022,=,1B51
+10,れんさ球菌性口峡炎,S1,J020,FJ6J,=,http://id.who.int/icd/entity/1642172022,=,1B51
+10,連鎖球菌性アンギーナ,S1,J020,FJ6J,=,http://id.who.int/icd/entity/1642172022,=,1B51
+10,連鎖球菌性咽頭炎,L,J020,JNQE,=,http://id.who.int/icd/entity/1642172022,=,1B51
+10,溶連菌性咽頭炎,S1,J020,JNQE,=,http://id.who.int/icd/entity/1642172022,=,1B51
+10,れんさ球菌性咽頭炎,S1,J020,JNQE,=,http://id.who.int/icd/entity/1642172022,=,1B51
+10,レンサ球菌性咽頭炎,S1,J020,JNQE,=,http://id.who.int/icd/entity/1642172022,=,1B51
+10,敗血症性咽頭炎,L,J020,ULK5,=,http://id.who.int/icd/entity/1642172022,=,1B51
+10,敗血性咽頭炎,S1,J020,ULK5,=,http://id.who.int/icd/entity/1642172022,=,1B51
+10,敗血症性アンギナ,S2,J020,ULK5,=,http://id.who.int/icd/entity/1642172022,=,1B51
+10,敗血症性アンギーナ,S2,J020,ULK5,=,http://id.who.int/icd/entity/1642172022,=,1B51
+10,偽膜性咽頭炎,L,J028,DC8C,<,http://id.who.int/icd/entity/1791890273,<,CA06.0 
+10,インフルエンザ菌性咽頭炎,L,J028,FQ20,=,http://id.who.int/icd/entity/1758486982 & http://id.who.int/icd/entity/675811104,=,CA02.1Y & XN1P6
+10,肺炎球菌性咽頭炎,L,J028,KQ0H,=,http://id.who.int/icd/entity/1474425113,<,CA02.0 
+10,膜性咽頭炎,L,J028,LLNN,<,http://id.who.int/icd/entity/1791890273,<,CA06.0 
+10,ウイルス性咽頭炎,L,J028,PM6M,=,http://id.who.int/icd/entity/1758486982,=,CA02.1Z
+10,ぶどう球菌性咽頭炎,L,J028,T4TM,=,http://id.who.int/icd/entity/411186052,=,CA02.0 & XN9ZG
+10,ブドウ球菌性咽頭炎,S1,J028,T4TM,=,http://id.who.int/icd/entity/411186052,=,CA02.0 & XN9ZG
+10,アデノウイルス咽頭炎,L,J028,VA4K,=,http://id.who.int/icd/entity/1956341906,=,CA02.10
+10,アデノウイルス性咽頭炎,S1,J028,VA4K,=,http://id.who.int/icd/entity/1956341906,=,CA02.10
+10,潰瘍性咽頭炎,L,J029,B2AD,=,http://id.who.int/icd/entity/2028159831,<,CA02.Y
+10,咽頭炎,L,J029,BAJQ,=,http://id.who.int/icd/entity/1791890273,=,CA02.Z 
+10,咽頭側索炎,S2,J029,BAJQ,<,http://id.who.int/icd/entity/1791890273,<,CA02.Z 
+10,咽頭周囲炎,S2,J029,BAJQ,<,http://id.who.int/icd/entity/1791890273,<,CA02.Z 
+10,下咽頭炎,L,J029,ETAR,=,http://id.who.int/icd/entity/1528782604,=,CA04 
+10,アンギナ,L,J029,EVP7,=,http://id.who.int/icd/entity/260431605,=,CA03.Z
+10,アンギーナ,S1,J029,EVP7,=,http://id.who.int/icd/entity/260431605,=,CA03.Z
+10,口峡炎,S1,J029,EVP7,=,http://id.who.int/icd/entity/407800318,<,CA02.Y
+10,上咽頭炎,L,J029,HUAM,=,http://id.who.int/icd/entity/2066255370,=,CA00 
+10,急性咽頭炎,L,J029,JAKQ,=,http://id.who.int/icd/entity/1791890273,=,CA02.Z 
+10,カタル性咽頭炎,L,J029,L18G,<,http://id.who.int/icd/entity/1791890273,<,CA02.Z 
+10,壊疽性咽頭炎,L,J029,MPT0,=,http://id.who.int/icd/entity/43485318,=,CA02.Y / MC85
+10,腐敗性咽頭炎,S2,J029,MPT0,=,http://id.who.int/icd/entity/1791890273,=,CA02.Z 
+10,感染性咽頭炎,L,J029,NFMB,=,http://id.who.int/icd/entity/1791890273,=,CA02.Z 
+10,特殊感染性咽頭炎,S2,J029,NFMB,<,http://id.who.int/icd/entity/1791890273,<,CA02.Z 
+10,咽頭痛,L,J029,P6DD,=,http://id.who.int/icd/entity/1354622301,<,CA0Y
+10,急性化膿性咽頭炎,L,J029,TRUD,=,http://id.who.int/icd/entity/591459080,<,CA02.Y
+10,化膿性咽頭炎,S1,J029,TRUD,=,http://id.who.int/icd/entity/591459080,<,CA02.Y 
+10,連鎖球菌性扁桃炎,L,J030,S9H5,=,http://id.who.int/icd/entity/2098808565,=,CA03.0 
+10,れんさ球菌性扁桃炎,S1,J030,S9H5,=,http://id.who.int/icd/entity/2098808565,=,CA03.0 
+10,レンサ球菌性扁桃炎,S1,J030,S9H5,=,http://id.who.int/icd/entity/2098808565,=,CA03.0 
+10,溶連菌性扁桃炎,S1,J030,S9H5,=,http://id.who.int/icd/entity/2098808565,=,CA03.0 
+10,ウイルス性扁桃炎,L,J038,AJVB,=,http://id.who.int/icd/entity/1752991130 & http://id.who.int/icd/entity/1208497819,<,CA03.Y & XN3BH 
+10,ぶどう球菌性扁桃炎,L,J038,HML5,=,http://id.who.int/icd/entity/392955595,<,CA03.Y & XN9ZG
+10,ブドウ球菌性扁桃炎,S1,J038,HML5,=,http://id.who.int/icd/entity/392955595,<,CA03.Y & XN9ZG
+10,アデノウイルス扁桃炎,L,J038,HUDF,=,http://id.who.int/icd/entity/1752991130 & http://id.who.int/icd/entity/1075681120,<,CA03.Y & XN000
+10,アデノウイルス性扁桃炎,S1,J038,HUDF,=,http://id.who.int/icd/entity/1752991130 & http://id.who.int/icd/entity/1075681120,<,CA03.Y & XN000
+10,舌扁桃炎,L,J039,ACEG,=,http://id.who.int/icd/entity/2014424158,<,CA03.Y
+10,急性潰瘍性扁桃炎,L,J039,ALPP,=,http://id.who.int/icd/entity/2097987918,<,CA03.Y
+10,潰瘍性扁桃炎,S1,J039,ALPP,=,http://id.who.int/icd/entity/2097987918,<,CA03.Y
+10,急性化膿性扁桃炎,L,J039,ETT6,=,http://id.who.int/icd/entity/1152724767 & http://id.who.int/icd/entity/786106375 ,<,CA03.Y & XT5R
+10,急性化膿性扁桃腺炎,S1,J039,ETT6,=,http://id.who.int/icd/entity/1152724767 & http://id.who.int/icd/entity/786106375 ,<,CA03.Y & XT5R
+10,化膿性扁桃腺炎,S1,J039,ETT6,=,http://id.who.int/icd/entity/1152724767,<,CA03.Y
+10,化膿性扁桃炎,S1,J039,ETT6,=,http://id.who.int/icd/entity/1152724767,<,CA03.Y
+10,急性感染性扁桃炎,S2,J039,ETT6,=,http://id.who.int/icd/entity/1752991130,<,CA03.Y
+10,感染性扁桃炎,S2,J039,ETT6,=,http://id.who.int/icd/entity/1752991130,<,CA03.Y
+10,急性アデノイド扁桃炎,L,J039,FRAV,=,http://id.who.int/icd/entity/1354689145,<,CA0Y
+10,偽膜性扁桃炎,L,J039,HJA5,=,http://id.who.int/icd/entity/1515159967,<,1C1H.0 
+10,急性アデノイド咽頭炎,L,J039,KN3N,=,http://id.who.int/icd/entity/1791890273 & http://id.who.int/icd/entity/457837468,=,CA02.Z & XA5AS8 
+10,急性壊疽性扁桃炎,L,J039,LA14,=,http://id.who.int/icd/entity/1986254320,=,CA03.Y / MC8
+10,壊疽性扁桃炎,S1,J039,LA14,=,http://id.who.int/icd/entity/1986254320,<,CA03.Y
+10,壊疽性扁桃腺炎,S1,J039,LA14,=,http://id.who.int/icd/entity/1986254320,<,CA03.Y
+10,急性腺窩性扁桃炎,L,J039,MQ44,<,http://id.who.int/icd/entity/260431605,<,CA03.Y
+10,濾胞性扁桃炎,S1,J039,MQ44,=,http://id.who.int/icd/entity/968321593,<,CA03.Y
+10,陰窩性扁桃炎,S1,J039,MQ44,<,http://id.who.int/icd/entity/260431605,<,CA03.Y
+10,腺窩性扁桃炎,S1,J039,MQ44,<,http://id.who.int/icd/entity/260431605,<,CA03.Y
+10,急性濾胞性扁桃炎,S1,J039,MQ44,=,http://id.who.int/icd/entity/968321593,<,CA03.Y
+10,腺窩性扁桃腺炎,S1,J039,MQ44,<,http://id.who.int/icd/entity/260431605,<,CA03.Y
+10,習慣性扁桃炎,L,J039,NSJG,=,http://id.who.int/icd/entity/1790351975,<,CA0F.Y 
+10,反復性扁桃症,S1,J039,NSJG,=,http://id.who.int/icd/entity/1790351975,<,CA0F.Y & XT44
+10,反復性扁桃炎,S1,J039,NSJG,=,http://id.who.int/icd/entity/1790351975,<,CA0F.Y & XT44
+10,腺窩性アンギナ,L,J039,Q1B4,<,http://id.who.int/icd/entity/260431605,<,CA03.Y
+10,腺窩性アンギーナ,S1,J039,Q1B4,<,http://id.who.int/icd/entity/260431605,<,CA03.Y
+10,習慣性アンギナ,L,J039,Q7R4,=,http://id.who.int/icd/entity/1790351975,<,CA0F.Y 
+10,習慣性アンギーナ,S1,J039,Q7R4,=,http://id.who.int/icd/entity/1790351975,<,CA0F.Y 
+10,扁桃炎,L,J039,R3NJ,=,http://id.who.int/icd/entity/260431605,=,CA03.Z 
+10,扁桃腺炎,S1,J039,R3NJ,=,http://id.who.int/icd/entity/260431605,=,CA03.Z 
+10,舌根扁桃炎,S2,J039,R3NJ,=,http://id.who.int/icd/entity/1690782134 & http://id.who.int/icd/entity/1690782134,=,CA03.Z & XA1EM4
+10,扁桃性アンギナ,L,J039,RTPR,=,http://id.who.int/icd/entity/260431605,=,CA03.Z 
+10,扁桃性アンギーナ,S1,J039,RTPR,=,http://id.who.int/icd/entity/260431605,=,CA03.Z 
+10,急性扁桃炎,L,J039,TEM6,=,http://id.who.int/icd/entity/260431605,=,CA03.Z 
+10,急性扁桃腺炎,S1,J039,TEM6,=,http://id.who.int/icd/entity/260431605,=,CA03.Z 
+10,亜急性扁桃炎,S2,J039,TEM6,=,http://id.who.int/icd/entity/260431605 & http://id.who.int/icd/entity/2058324694,=,CA03.Z & XT1L
+10,喉頭炎,L,J040,AL4D,=,http://id.who.int/icd/entity/1180710837,=,CA05.0 
+10,声門特殊炎症,S2,J040,AL4D,<,http://id.who.int/icd/entity/1349869019,<,CA05.0 
+10,急性声帯炎,L,J040,GBVH,=,http://id.who.int/icd/entity/1117591397 & http://id.who.int/icd/entity/786106375,=,CA0H.Y & XA3299 & XT5R
+10,声門炎,S2,J040,GBVH,=,http://id.who.int/icd/entity/1349869019,<,CA05.0
+10,化膿性喉頭炎,L,J040,GJLF,=,http://id.who.int/icd/entity/1329578797,<,CA05.0
+10,インフルエンザ菌喉頭炎,L,J040,HBT8,=,http://id.who.int/icd/entity/1042125712,<,CA05.0
+10,急性喉頭炎,L,J040,HPGS,=,http://id.who.int/icd/entity/1180710837,=,CA05.0
+10,偽膜性喉頭炎,L,J040,HTMR,≒,http://id.who.int/icd/entity/1519976244,≒,CA06.0
+10,急性声門下喉頭炎,L,J040,J033,=,http://id.who.int/icd/entity/1957660283,<,CA05.0
+10,痙性クループ,S1,J040,J033,=,http://id.who.int/icd/entity/958541208,<,CA0H.4 
+10,仮性クループ,S1,J040,J033,=,http://id.who.int/icd/entity/1651812453,<,CA0H.4 
+10,偽性クループ,S1,J040,J033,=,http://id.who.int/icd/entity/16518124533,<,CA0H.4 
+10,声門下喉頭炎,S1,J040,J033,=,http://id.who.int/icd/entity/1957660283,<,CA05.0
+10,喉頭周囲炎,L,J040,MTDM,=,http://id.who.int/icd/entity/1468443358,=,CA05.2
+10,連鎖球菌性喉頭炎,L,J040,R3C8,=,http://id.who.int/icd/entity/170169208,=,CA05.0 & XN3NM 
+10,レンサ球菌性喉頭炎,S1,J040,R3C8,=,http://id.who.int/icd/entity/170169208,=,CA05.0 & XN3NM 
+10,れんさ球菌性喉頭炎,S1,J040,R3C8,=,http://id.who.int/icd/entity/170169208,=,CA05.0 & XN3NM 
+10,急性壊疽性喉頭炎,L,J040,RFJ7,=,http://id.who.int/icd/entity/1180710837 / http://id.who.int/icd/entity/188156827,=,CA05.0 / MC85
+10,急性浮腫性喉頭炎,L,J040,VNFQ,=,http://id.who.int/icd/entity/1367810857,<,CA05.0
+10,浮腫性喉頭炎,S1,J040,VNFQ,=,http://id.who.int/icd/entity/1367810857,<,CA05.0
+10,急性潰瘍性喉頭炎,L,J040,VSAG,=,http://id.who.int/icd/entity/270656844,<,CA05.0
+10,潰瘍性喉頭炎,S1,J040,VSAG,=,http://id.who.int/icd/entity/270656844,<,CA05.0
+10,ウイルス性気管炎,L,J041,AF4S,=,http://id.who.int/icd/entity/449267760,=,CA05.1 & XN3BH
+10,急性気管炎,L,J041,GQG5,=,http://id.who.int/icd/entity/590084641,=,CA05.1 
+10,気管うっ血,S2,J041,GQG5,<,http://id.who.int/icd/entity/590084641,<,CA05.1 
+10,気管炎,S2,J041,GQG5,=,http://id.who.int/icd/entity/590084641,=,CA05.1 
+10,急性カタル性気管炎,L,J041,LE67,=,http://id.who.int/icd/entity/1883280793,<,CA05.1 
+10,カタル性気管炎,S1,J041,LE67,=,http://id.who.int/icd/entity/1883280793,<,CA05.1 
+10,出血性気管炎,L,J041,PELQ,=,http://id.who.int/icd/entity/590084641 / http://id.who.int/icd/entity/940081636,=,CA05.1 / MG27
+10,連鎖球菌気管炎,L,J041,UNQS,=,http://id.who.int/icd/entity/1889889545,=,"CA05.1 & XN3NM
+"
+10,れんさ球菌気管炎,S1,J041,UNQS,=,http://id.who.int/icd/entity/1889889545,=,"CA05.1 & XN3NM
+"
+10,感染性喉頭気管炎,L,J042,EG8E,<,http://id.who.int/icd/entity/1468443358,<,CA05.2
+10,連鎖球菌性喉頭気管炎,L,J042,KL3G,=,http://id.who.int/icd/entity/1468443358 ,=,CA05.2 & XN3NM
+10,れんさ球菌性喉頭気管炎,S1,J042,KL3G,=,http://id.who.int/icd/entity/1468443358 ,=,CA05.2 & XN3NM
+10,急性喉頭気管炎,L,J042,MFD8,=,http://id.who.int/icd/entity/1468443358,=,CA05.2
+10,喉頭気管炎,S2,J042,MFD8,=,http://id.who.int/icd/entity/1468443358,=,CA05.2
+10,インフルエンザ菌性喉頭気管炎,L,J042,V8SN,=,http://id.who.int/icd/entity/418884987,=,"CA05.2 & XN5SG
+"
+10,急性痙攣性喉頭気管炎,L,J050,B7RC,=,http://id.who.int/icd/entity/1822515623,<,CA0H.4 & XT5R
+10,痙攣性喉頭炎,S1,J050,B7RC,=,http://id.who.int/icd/entity/1022427545,<,CA06.0 
+10,急性閉塞性喉頭炎,L,J050,T892,=,http://id.who.int/icd/entity/1519976244,=,CA06.0 
+10,クループ,S1,J050,T892,≒,http://id.who.int/icd/entity/1519976244,≒,CA06.0 
+10,閉塞性喉頭炎,S1,J050,T892,=,http://id.who.int/icd/entity/1519976244,=,CA06.0 
+10,急性喉頭蓋炎,L,J051,GP7S,=,http://id.who.int/icd/entity/1070805666,=,CA06.1
+10,喉頭蓋炎,L,J051,S4VL,=,http://id.who.int/icd/entity/1070805666,=,CA06.1
+10,咽頭喉頭炎,L,J060,H8HS,=,http://id.who.int/icd/entity/1528782604,=,CA04
+10,咽喉炎,S1,J060,H8HS,=,http://id.who.int/icd/entity/1528782604,=,CA04
+10,咽喉頭炎,S1,J060,H8HS,=,http://id.who.int/icd/entity/1528782604,=,CA04
+10,急性咽頭喉頭炎,L,J060,PG57,=,http://id.who.int/icd/entity/1528782604,=,CA04
+10,急性喉頭咽頭炎,S1,J060,PG57,=,http://id.who.int/icd/entity/1528782604,=,CA04
+10,急性咽喉頭炎,S1,J060,PG57,=,http://id.who.int/icd/entity/1528782604,=,CA04
+10,急性咽喉炎,S1,J060,PG57,=,http://id.who.int/icd/entity/1528782604,=,CA04
+10,咽頭気管炎,L,J068,BRE8,=,http://id.who.int/icd/entity/1892318357,<,CA07.1 
+10,急性口蓋扁桃炎,L,J068,KGEV,=,http://id.who.int/icd/entity/260431605 & http://id.who.int/icd/entity/320372230 ,=,CA03.Z & XA3V90
+10,急性咽頭扁桃炎,L,J068,QJ6U,=,http://id.who.int/icd/entity/1354689145,<,CA0Y 
+10,咽頭扁桃炎,L,J068,UV6U,=,http://id.who.int/icd/entity/891941557,=,"CA0Y & XA5AS8
+"
+10,咽頭扁桃腺炎,S1,J068,UV6U,=,http://id.who.int/icd/entity/891941557,=,"CA0Y & XA5AS8
+"
+10,急性上気道炎,L,J069,HP8A,=,http://id.who.int/icd/entity/819139656,=,CA07.0
+10,上気道炎,S1,J069,HP8A,=,http://id.who.int/icd/entity/819139656,=,CA07
+10,急性上気道感染,S1,J069,HP8A,=,http://id.who.int/icd/entity/819139656,=,CA07.0
+10,上気道感染症,S1,J069,HP8A,=,http://id.who.int/icd/entity/819139656,=,CA07.0
+10,連鎖球菌性上気道感染,L,J069,RLBC,=,http://id.who.int/icd/entity/1956668309 　,=,CA07.0 & XN3NM 
+10,れんさ球菌性上気道感染,S1,J069,RLBC,=,http://id.who.int/icd/entity/1956668309 　,=,CA07.0 & XN3NM 
+10,レンサ球菌性上気道感染,S1,J069,RLBC,=,http://id.who.int/icd/entity/1956668309 　,=,CA07.0 & XN3NM 
+10,インフルエンザ（Ｈ５Ｎ１）,L,J09,BUFH,=,http://id.who.int/icd/entity/1188232632 ,=,1E31 & XN4TT
+10,インフルエンザ(H5N1),S0,J09,BUFH,=,http://id.who.int/icd/entity/1188232632 ,=,1E31 & XN4TT
+10,鳥インフルエンザ(H5N1),S1,J09,BUFH,=,http://id.who.int/icd/entity/1188232632 ,=,1E31 & XN4TT
+10,鳥インフルエンザA(H5N1),S1,J09,BUFH,=,http://id.who.int/icd/entity/1188232632 ,=,1E31 & XN4TT
+10,インフルエンザ（Ｈ１Ｎ１）２００９,L,J09,F00F,=,http://id.who.int/icd/entity/1955263959　　,=,"1E31 & XN9SG
+"
+10,インフルエンザ(H1N1)2009,S0,J09,F00F,=,http://id.who.int/icd/entity/1955263959　　,=,"1E31 & XN9SG
+"
+10,インフルエンザA型(H1N1),S1,J09,F00F,=,http://id.who.int/icd/entity/1955263959　　,=,1E31 & XN297
+10,新型インフルエンザ(H1N1),S1,J09,F00F,=,http://id.who.int/icd/entity/1955263959　　,=,"1E31 & XN9SG
+"
+10,インフルエンザＡ香港型,L,J101,C887,=,"http://id.who.int/icd/entity/753780243 & http://id.who.int/icd/entity/169662530
+",=,"1E30 & XN6WE
+"
+10,インフルエンザA香港型,S0,J101,C887,=,"http://id.who.int/icd/entity/753780243 & http://id.who.int/icd/entity/169662530
+",=,"1E30 & XN6WE
+"
+10,A香港型インフルエンザ,S1,J101,C887,=,"http://id.who.int/icd/entity/753780243 & http://id.who.int/icd/entity/169662530
+",=,"1E30 & XN6WE
+"
+10,鳥インフルエンザ,L,J101,DS69,≒,http://id.who.int/icd/entity/1188232632,=,1E31 & XN4TT
+10,鶏インフルエンザ,S1,J101,DS69,≒,http://id.who.int/icd/entity/1188232632,=,1E31 & XN4TT
+10,鳥インフルエンザ（Ｈ７Ｎ９）,L,J101,GECS,=,http://id.who.int/icd/entity/1117777912  ,=,1E31 & XN35G
+10,鳥インフルエンザ(H7N9),S0,J101,GECS,=,http://id.who.int/icd/entity/1117777912  ,=,1E31 & XN35G
+10,鳥インフルエンザA(H7N9),S1,J101,GECS,=,http://id.who.int/icd/entity/1117777912  ,=,1E31 & XN35G
+10,インフルエンザＢ型,L,J101,H9R0,=,http://id.who.int/icd/entity/753780243 & http://id.who.int/icd/entity/37117747 ,=,1E30 & XN8SG
+10,インフルエンザB型,S0,J101,H9R0,=,http://id.who.int/icd/entity/753780243 & http://id.who.int/icd/entity/37117747 ,=,1E30 & XN8SG
+10,B型インフルエンザ,S1,J101,H9R0,=,http://id.who.int/icd/entity/753780243 & http://id.who.int/icd/entity/37117747 ,=,1E30 & XN8SG
+10,インフルエンザＡソ連型,L,J101,JTPC,=,http://id.who.int/icd/entity/1955263959,=,1E31 & XN297 
+10,インフルエンザAソ連型,S0,J101,JTPC,=,http://id.who.int/icd/entity/1955263959,=,1E31 & XN297 
+10,Aソ連型インフルエンザ,S1,J101,JTPC,=,http://id.who.int/icd/entity/1955263959,=,1E31 & XN297 
+10,インフルエンザＡ型,L,J101,N2C9,=,http://id.who.int/icd/entity/753780243 & http://id.who.int/icd/entity/1892948726,=,1E30 & XN8WJ
+10,インフルエンザA型,S0,J101,N2C9,=,http://id.who.int/icd/entity/753780243 & http://id.who.int/icd/entity/1892948726,=,1E30 & XN8WJ
+10,A型インフルエンザ,S1,J101,N2C9,=,http://id.who.int/icd/entity/753780243 & http://id.who.int/icd/entity/1892948726,=,1E30 & XN8WJ
+10,インフルエンザ肺炎,L,J110,TJTF,=,http://id.who.int/icd/entity/1887178107,=,"1E32 / CA40.1Y & XN5SG
+"
+10,インフルエンザ気管支肺炎,S1,J110,TJTF,=,http://id.who.int/icd/entity/1887178107,=,"1E32 / CA40.1Y & XN5SG
+"
+10,インフルエンザ性喉頭気管炎,L,J111,ENK2,=,http://id.who.int/icd/entity/1498523549,=,"1E32 / CA05.2 & XN5SG
+"
+10,インフルエンザ,L,J111,ES0L,=,http://id.who.int/icd/entity/1235618695,=,1E32 
+10,流行性感冒,S1,J111,ES0L,=,http://id.who.int/icd/entity/355975407,<,1E32 
+10,流感,S1,J111,ES0L,=,http://id.who.int/icd/entity/355975407,<,1E32 
+10,インフルエンザ性急性上気道感染,L,J111,FSVE,=,http://id.who.int/icd/entity/32879991 & http://id.who.int/icd/entity/786106375,=,"1E32 / CA07.0 & XN5SG
+"
+10,インフルエンザ気管支炎,L,J111,N94T,=,http://id.who.int/icd/entity/501877994 ,=,1E32  / CA27.Z  & XN5SG
+10,インフルエンザ性副鼻腔炎,L,J111,PUNV,=,http://id.who.int/icd/entity/286682671,=,1E32 / CA01  & XN5SG
+10,インフルエンザ性咽頭炎,L,J111,V3EE,=,http://id.who.int/icd/entity/1058248511,=,1E32 / CA02.Z & XN5SG 
+10,インフルエンザ性喉頭炎,L,J111,VT98,=,http://id.who.int/icd/entity/1633189852,=,1E32 / CA05.0 & XN5SG
+10,インフルエンザ脳脊髄炎,L,J118,B05H,=,http://id.who.int/icd/entity/256353705,=,1E32 / 1C80 & XN5SG  
+10,感冒性腹症,L,J118,B2C7,=,http://id.who.int/icd/entity/1820270855,=,1E32 / 1A2Y  & XN5SG   
+10,インフルエンザ心筋炎,L,J118,G9PH,=,http://id.who.int/icd/entity/52144746,=,1E32 / BC42.1 & XN3BH 
+10,インフルエンザ脳症,L,J118,JL3A,=,http://id.who.int/icd/entity/123772058,<,1E32 / 1C80 & XN5SG 
+10,インフルエンザ脳炎,S1,J118,JL3A,=,http://id.who.int/icd/entity/123772058,<,1E32 / 1C80 & XN5SG 
+10,インフルエンザ性胃腸炎,L,J118,M3P1,=,http://id.who.int/icd/entity/1820270855,=,1E32 / 1A2Y  & XN5SG   
+10,インフルエンザ脊髄炎,L,J118,S0SM,=,http://id.who.int/icd/entity/1054675109 / http://id.who.int/icd/entity/1235618695,=,1C8H  / 1E32
+10,急性インフルエンザ心筋炎,L,J118,T9DH,=,http://id.who.int/icd/entity/520527615,=,1E32 / BC42.1 & XT5R  
+10,インフルエンザ中耳炎,L,J118,UFVR,=,http://id.who.int/icd/entity/123209630,=,1E32 / AB0Z & XN5SG 
+10,アデノウイルス肺炎,L,J120,GKT8,=,http://id.who.int/icd/entity/1912319301,=,CA40.10 
+10,ＲＳウイルス肺炎,L,J121,MP5S,=,http://id.who.int/icd/entity/347103441,=,CA40.11
+10,RSウイルス肺炎,S0,J121,MP5S,=,http://id.who.int/icd/entity/347103441,=,CA40.11
+10,パラインフルエンザウイルス肺炎,L,J122,RQ9J,=,http://id.who.int/icd/entity/1612525614,=,CA40.12
+10,ヒトメタニューモウイルス肺炎,L,J123,TUV1,=,http://id.who.int/icd/entity/89587132,=,CA40.13 
+10,HMPV肺炎,S1,J123,TUV1,=,http://id.who.int/icd/entity/89587132,=,CA40.13 
+10,ＥＢウイルス肺炎,L,J128,T212,=,http://id.who.int/icd/entity/1024154490 & http://id.who.int/icd/entity/1627093972,=,CA40.1Y & XN0R2
+10,EBウイルス肺炎,S0,J128,T212,=,http://id.who.int/icd/entity/1024154490 & http://id.who.int/icd/entity/1627093972,=,CA40.1Y & XN0R2
+10,ウイルス性肺炎,L,J129,NTGE,=,http://id.who.int/icd/entity/1024154490,=,CA40.1Z 
+10,ウイルス性気管支肺炎,S2,J129,NTGE,=,http://id.who.int/icd/entity/1024154490,=,CA40.1Z 
+10,肺炎球菌肺炎,L,J13,JT6A,=,http://id.who.int/icd/entity/1480627948,=,CA40.07
+10,肺炎連鎖球菌性気管支肺炎,S2,J13,JT6A,=,http://id.who.int/icd/entity/1480627948,=,CA40.07
+10,肺炎れんさ球菌性気管支肺炎,S2,J13,JT6A,=,http://id.who.int/icd/entity/1480627948,=,CA40.07
+10,インフルエンザ菌肺炎,L,J14,RCNR,=,http://id.who.int/icd/entity/732824952,=,CA40.02
+10,肺炎桿菌肺炎,L,J150,Q15U,=,http://id.who.int/icd/entity/1250089989,=,CA40.03
+10,クレブシェラ肺炎,S2,J150,Q15U,=,http://id.who.int/icd/entity/1250089989,=,CA40.03
+10,緑膿菌肺炎,L,J151,JF5M,=,http://id.who.int/icd/entity/801706385,=,CA40.05 
+10,シュードモナス肺炎,S2,J151,JF5M,=,http://id.who.int/icd/entity/801706385,=,CA40.05 
+10,ＭＲＣＮＳ肺炎,L,J152,CND6,=,http://id.who.int/icd/entity/372910626,<,CA40.06 / MG51.00 
+10,MRCNS肺炎,S0,J152,CND6,=,http://id.who.int/icd/entity/372910626,<,CA40.06 / MG51.00 
+10,メチシリン耐性コアグラーゼ陰性ブドウ球菌肺炎,S1,J152,CND6,=,http://id.who.int/icd/entity/372910626,<,CA40.06 / MG51.00 
+10,ぶどう球菌性肺炎,L,J152,JBEM,=,http://id.who.int/icd/entity/1533297008,=,CA40.06
+10,ブドウ球菌性肺炎,S1,J152,JBEM,=,http://id.who.int/icd/entity/1533297008,=,CA40.06
+10,ＭＲＳＡ肺炎,L,J152,JP3G,=,http://id.who.int/icd/entity/1533297008 / http://id.who.int/icd/entity/1710270895,=,CA40.06 / MG51.00
+10,MRSA肺炎,S0,J152,JP3G,=,http://id.who.int/icd/entity/1533297008 / http://id.who.int/icd/entity/1710270895,=,CA40.06 / MG51.00
+10,Ｂ群連鎖球菌肺炎,L,J153,CU00,=,http://id.who.int/icd/entity/1043303674,=,CA40.08 
+10,B群連鎖球菌肺炎,S0,J153,CU00,=,http://id.who.int/icd/entity/1043303674,=,CA40.08 
+10,B群れんさ球菌肺炎,S1,J153,CU00,=,http://id.who.int/icd/entity/1043303674,=,CA40.08 
+10,連鎖球菌肺炎,L,J154,FFST,=,http://id.who.int/icd/entity/701476640,=,CA40.0Y  & XN3NM 
+10,れんさ球菌肺炎,S1,J154,FFST,=,http://id.who.int/icd/entity/701476640,=,CA40.0Y  & XN3NM 
+10,大腸菌肺炎,L,J155,U04Q,=,http://id.who.int/icd/entity/680186620,<,CA40.01
+10,モラキセラ・カタラリス肺炎,L,J156,A5Q3,=,http://id.who.int/icd/entity/1323682030 & http://id.who.int/icd/entity/1409902713,=,CA40.0Y & XN90V
+10,モラキセラ・カタラーリス肺炎,S1,J156,A5Q3,=,http://id.who.int/icd/entity/1323682030 & http://id.who.int/icd/entity/1409902713,=,CA40.0Y & XN90V
+10,モラキセラ肺炎,S1,J156,A5Q3,=,http://id.who.int/icd/entity/1323682030 & http://id.who.int/icd/entity/1409902713,=,CA40.0Y & XN90V
+10,モラクセラ・カタラーリス肺炎,S1,J156,A5Q3,=,http://id.who.int/icd/entity/1323682030 & http://id.who.int/icd/entity/1409902713,=,CA40.0Y & XN90V
+10,変形菌肺炎,L,J156,E8NM,=,http://id.who.int/icd/entity/1323682030 & http://id.who.int/icd/entity/1537645708,=,CA40.0Y  &XN3BS
+10,エンテロバクター肺炎,L,J156,H5G6,=,http://id.who.int/icd/entity/1714052626,=,CA40.0Y & XN9W5
+10,ステノトロフォモナス・マルトフィリア肺炎,L,J156,KN5G,=,http://id.who.int/icd/entity/1323682030 & http://id.who.int/icd/entity/1552785793,=,CA40.0Y & XN0AD 
+10,ステノトロホモナス・マルトフィリア肺炎,S1,J156,KN5G,=,http://id.who.int/icd/entity/1323682030 & http://id.who.int/icd/entity/1552785793,=,CA40.0Y & XN0AD 
+10,セラチア菌肺炎,L,J156,KQH2,=,http://id.who.int/icd/entity/1323682030  & http://id.who.int/icd/entity/237808899,=,CA40.0Y & XN71D
+10,霊菌肺炎,S1,J156,KQH2,=,http://id.who.int/icd/entity/1323682030  & http://id.who.int/icd/entity/237808899,=,CA40.0Y & XN71D
+10,マイコプラズマ肺炎,L,J157,SFLJ,=,http://id.who.int/icd/entity/963399569,=,CA40.04
+10,マイコプラスマ肺炎,S1,J157,SFLJ,=,http://id.who.int/icd/entity/963399569,=,CA40.04
+10,コリネバクテリウム肺炎,L,J158,L6GE,=,http://id.who.int/icd/entity/1323682030 & http://id.who.int/icd/entity/708898123,=,CA40.0Y & XN3NT
+10,細菌性肺炎,L,J159,M2T7,=,http://id.who.int/icd/entity/1323682030,=,CA40.0Z
+10,化膿性肺炎,S2,J159,M2T7,=,http://id.who.int/icd/entity/142052508,=,CA40.Z 
+10,クラミジア肺炎,L,J160,VSAK,=,http://id.who.int/icd/entity/1878765214,=,CA40.00
+10,びまん性肺炎,L,J180,ALH0,=,http://id.who.int/icd/entity/142052508 & http://id.who.int/icd/entity/1265853763,=,CA40.Z & XK31
+10,気管支肺炎,L,J180,NN0T,=,http://id.who.int/icd/entity/57624587,=,CA40.Z & XA61M6
+10,大葉性肺炎,L,J181,Q0BD,=,http://id.who.int/icd/entity/142052508,=,CA40.Z　
+10,クループ性肺炎,S2,J181,Q0BD,=,http://id.who.int/icd/entity/142052508 /  http://id.who.int/icd/entity/1519976244,=,CA40.Y / CA06.0 
+10,沈下性肺炎,L,J182,K9DH,=,http://id.who.int/icd/entity/1575436458,<,CA40.Z
+10,臥床性肺炎,S1,J182,K9DH,=,http://id.who.int/icd/entity/1575436458,<,CA40.Z
+10,就下性肺炎,S1,J182,K9DH,=,http://id.who.int/icd/entity/1575436458,<,CA40.Z
+10,筋無力性肺炎,S2,J182,K9DH,=,http://id.who.int/icd/entity/1575436458,<,CA40.Z
+10,閉塞性肺炎,L,J188,MKGM,<,http://id.who.int/icd/entity/142052508,<,CA40.Z
+10,胸膜肺炎,L,J188,TPU1,=,http://id.who.int/icd/entity/1272236893,=,CA40.Y / MD31
+10,肋膜肺炎,S1,J188,TPU1,=,http://id.who.int/icd/entity/1272236893,=,CA40.Y / MD31
+10,肺炎性胸膜炎,S2,J188,TPU1,=,http://id.who.int/icd/entity/1272236893,=,CA40.Y / MD31
+10,急性肺炎,L,J189,CHPT,=,http://id.who.int/icd/entity/1018754291,=,CA40.Z  & XT5R
+10,小児肺炎,L,J189,FKV2,<,http://id.who.int/icd/entity/142052508,<,CA40.Z
+10,老人性肺炎,L,J189,FML9,=,http://id.who.int/icd/entity/142052508 / http://id.who.int/icd/entity/835503193,=,CA40.Z / MG2A
+10,乳児肺炎,L,J189,J2JG,=,http://id.who.int/icd/entity/142052508 & http://id.who.int/icd/entity/1588782340,=,CA40.Z & XT2C 
+10,非定型肺炎,L,J189,P18B,=,http://id.who.int/icd/entity/142052508,=,CA40.Z
+10,非定型性肺炎,S1,J189,P18B,=,http://id.who.int/icd/entity/142052508,=,CA40.Z
+10,原発性異型肺炎,S1,J189,P18B,=,http://id.who.int/icd/entity/142052508,=,CA40.Z
+10,急性非定型肺炎,S1,J189,P18B,=,http://id.who.int/icd/entity/142052508,=,CA40.Z
+10,原発性非定型肺炎,S1,J189,P18B,=,http://id.who.int/icd/entity/142052508,=,CA40.Z
+10,異型肺炎,S1,J189,P18B,=,http://id.who.int/icd/entity/142052508,=,CA40.Z
+10,PAP,S1,J189,P18B,=,http://id.who.int/icd/entity/142052508,=,CA40.Z
+10,無熱性肺炎,L,J189,PNQJ,=,http://id.who.int/icd/entity/142052508,=,CA40.Z
+10,肺炎,L,J189,QT7C,=,http://id.who.int/icd/entity/1018754291,=,CA40.Z
+10,実質性肺炎,S1,J189,QT7C,=,http://id.who.int/icd/entity/1018754291,=,CA40.Z
+10,マイコプラズマ気管支炎,L,J200,UVAJ,=,http://id.who.int/icd/entity/1554686121,=,CA42.Y & XN4NV   
+10,マイコプラスマ気管支炎,S1,J200,UVAJ,=,http://id.who.int/icd/entity/1554686121,=,CA42.Y & XN4NV   
+10,インフルエンザ菌気管支炎,L,J201,AAG1,=,http://id.who.int/icd/entity/971074877,=,CA42.4
+10,肺炎球菌性気管支炎,L,J202,T4Q7,=,http://id.who.int/icd/entity/104385220,=,CA42.0 & XN3PW
+10,連鎖球菌気管支炎,L,J202,V6L3,=,http://id.who.int/icd/entity/1296842178,=,CA42.0
+10,れんさ球菌気管支炎,S1,J202,V6L3,=,http://id.who.int/icd/entity/1296842178,=,CA42.0
+10,コクサッキーウイルス気管支炎,L,J203,N2FF,=,http://id.who.int/icd/entity/671608920,=,CA42.5
+10,パラインフルエンザウイルス気管支炎,L,J204,UE7K,=,http://id.who.int/icd/entity/1542022084,=,CA42.3
+10,ＲＳウイルス気管支炎,L,J205,CC78,=,http://id.who.int/icd/entity/1050848854,=,CA42.2
+10,RSウイルス気管支炎,S0,J205,CC78,=,http://id.who.int/icd/entity/1050848854,=,CA42.2
+10,ライノウイルス気管支炎,L,J206,MAJK,=,http://id.who.int/icd/entity/1242562217,=,CA42.1
+10,エコーウイルス気管支炎,L,J207,AUB6,=,http://id.who.int/icd/entity/792998717,=,CA42.Y & XN2TU
+10,ヒトメタニューモウイルス気管支炎,L,J208,KEN4,=,http://id.who.int/icd/entity/1179190045,=,CA42.Y & XN513
+10,HMPV気管支炎,S1,J208,KEN4,=,http://id.who.int/icd/entity/1179190045,=,CA42.Y & XN513
+10,ウイルス性気管支炎,L,J208,QLA8,=,http://id.who.int/icd/entity/1732977394 & http://id.who.int/icd/entity/1208497819,=,CA42.Y / 1D9Z 
+10,滲出性気管支炎,L,J209,CSG5,=,http://id.who.int/icd/entity/483935344,<,CA42.Z
+10,湿性気管支炎,S1,J209,CSG5,=,http://id.who.int/icd/entity/483935344,<,CA42.Z
+10,敗血症性気管支炎,L,J209,F498,=,http://id.who.int/icd/entity/2055911922,=,CA42.Z / 1G40
+10,偽膜性気管支炎,L,J209,GV9S,<,http://id.who.int/icd/entity/727572936,<,CA42.Z
+10,急性気管気管支炎,L,J209,KMF9,=,http://id.who.int/icd/entity/253067117,<,CA42.Z 
+10,亜急性気管支炎,L,J209,MFTU,=,http://id.who.int/icd/entity/11753425 & http://id.who.int/icd/entity/2058324694,=,CA20.Y & XT1L
+10,急性反復性気管支炎,L,J209,Q520,<,http://id.who.int/icd/entity/727572936,<,CA42.Z
+10,クループ性気管支炎,L,J209,S08J,=,http://id.who.int/icd/entity/1740311007,=,CA42.Z / CA06.0 
+10,急性喉頭気管気管支炎,L,J209,SEGF,=,http://id.who.int/icd/entity/1682546376,<,CA42.Z
+10,喉頭気管気管支炎,S1,J209,SEGF,=,http://id.who.int/icd/entity/1030874707,<,CA20.Z 
+10,急性気管支炎,L,J209,TQ7A,=,http://id.who.int/icd/entity/727572936,=,CA42.Z
+10,急性下気道感染症,S2,J209,TQ7A,=,http://id.who.int/icd/entity/915779102 & http://id.who.int/icd/entity/786106375 ,=,CA4Z & XT5R
+10,ＲＳウイルス細気管支炎,L,J210,HTB2,=,http://id.who.int/icd/entity/1079142440,=,CA41.0
+10,RSウイルス細気管支炎,S0,J210,HTB2,=,http://id.who.int/icd/entity/1079142440,=,CA41.0
+10,ヒトメタニューモウイルス細気管支炎,L,J211,B016,=,http://id.who.int/icd/entity/1713004064,=,CA41.Y & XN513
+10,HMPV細気管支炎,S1,J211,B016,=,http://id.who.int/icd/entity/1713004064,=,CA41.Y & XN513
+10,急性細気管支炎,L,J219,ED0F,=,http://id.who.int/icd/entity/1310075986,=,CA41.Z
+10,細気管支炎,S2,J219,ED0F,=,http://id.who.int/icd/entity/1633771065,=,CA40.Z 
+10,急性呼吸器感染症,L,J22,LJ86,=,http://id.who.int/icd/entity/915779102 & http://id.who.int/icd/entity/786106375 ,=,CA4Z & XT5R
+10,血管運動性鼻炎,L,J300,E3MG,=,http://id.who.int/icd/entity/1286636442,=,CA08.3 
+10,血管運動神経性鼻炎,S1,J300,E3MG,=,http://id.who.int/icd/entity/1286636442,=,CA08.3 
+10,慢性血管運動神経性鼻炎,S2,J300,E3MG,=,http://id.who.int/icd/entity/1286636442 & http://id.who.int/icd/entity/490003542,=,CA08.3 & XT8W
+10,イネ科花粉症,L,J301,BQAA,<,http://id.who.int/icd/entity/380823590,<,CA08.00
+10,イネ科植物花粉症,S1,J301,BQAA,<,http://id.who.int/icd/entity/380823590,<,CA08.00
+10,花粉症,L,J301,EBHM,=,http://id.who.int/icd/entity/704335372,=,CA08.00
+10,枯草熱,S1,J301,EBHM,=,http://id.who.int/icd/entity/704335372,=,CA08.00
+10,花粉アレルギー,S2,J301,EBHM,=,http://id.who.int/icd/entity/704335372,=,CA08.00 
+10,アレルギー性鼻結膜炎,L,J301,J0VH,=,http://id.who.int/icd/entity/704335372 / http://id.who.int/icd/entity/831696556,=,CA08.00 / 9A60.Y
+10,アレルギー性結膜鼻炎,S1,J301,J0VH,=,http://id.who.int/icd/entity/704335372 / http://id.who.int/icd/entity/831696556,=,CA08.00 / 9A60.Y
+10,スギ花粉症,L,J301,LBBN,<,http://id.who.int/icd/entity/374804662,<,CA08.00
+10,杉花粉症,S1,J301,LBBN,<,http://id.who.int/icd/entity/374804662,<,CA08.00
+10,ヒノキ花粉症,L,J301,M0D0,<,http://id.who.int/icd/entity/374804662,<,CA08.00
+10,カモガヤ花粉症,L,J301,MB9Q,<,http://id.who.int/icd/entity/380823590,<,CA08.00
+10,ブタクサ花粉症,L,J301,S3EU,<,http://id.who.int/icd/entity/380823590,<,CA08.00
+10,ブタ草花粉症,S1,J301,S3EU,<,http://id.who.int/icd/entity/380823590,<,CA08.00
+10,季節性アレルギー性鼻炎,L,J302,P8SJ,=,http://id.who.int/icd/entity/1565925107,=,CA08.01
+10,通年性アレルギー性鼻炎,L,J303,RGRB,=,http://id.who.int/icd/entity/1273917262,<,CA08.03 
+10,アレルギー性鼻炎,L,J304,H61Q,=,http://id.who.int/icd/entity/1711769234,=,CA08.0Z 
+10,アレルギー鼻炎,S1,J304,H61Q,=,http://id.who.int/icd/entity/1711769234,=,CA08.0Z 
+10,急性アレルギー性鼻炎,S2,J304,H61Q,=,http://id.who.int/icd/entity/1711769234 &  http://id.who.int/icd/entity/786106375,=,CA08.0Z & XT5R
+10,鼻アレルギー,S2,J304,H61Q,=,http://id.who.int/icd/entity/1711769234,=,CA08.0Z 
+10,アレルギー性鼻咽頭炎,L,J304,LVCJ,=,http://id.who.int/icd/entity/1711769234 /  http://id.who.int/icd/entity/1791890273 ,=,CA08.03 / CA02.Z 
+10,急性アレルギー性上気道炎,S2,J304,LVCJ,=,http://id.who.int/icd/entity/819139656,=,CA07.0
+10,アレルギー性上気道炎,S2,J304,LVCJ,=,http://id.who.int/icd/entity/819139656,=,CA07.0
+10,アレルギー性副鼻腔炎,L,J304,VPN5,=,http://id.who.int/icd/entity/941478759 / http://id.who.int/icd/entity/1836987572,=,CA08.03 / CA0A.Z 
+10,アレルギー性鼻副鼻腔炎,S1,J304,VPN5,=,http://id.who.int/icd/entity/941478759 / http://id.who.int/icd/entity/1836987572,=,CA08.03 / CA0A.Z 
+10,閉塞性鼻炎,L,J310,ALQ7,=,http://id.who.int/icd/entity/196671753,<,CA09.0
+10,慢性閉塞性鼻炎,S1,J310,ALQ7,=,http://id.who.int/icd/entity/196671753,<,CA09.0
+10,臭鼻症,L,J310,BB0G,=,http://id.who.int/icd/entity/1795554974,<,CA09.0
+10,萎縮性鼻炎,L,J310,BS14,=,http://id.who.int/icd/entity/1795554974,<,CA09.0
+10,慢性萎縮性鼻炎,S1,J310,BS14,=,http://id.who.int/icd/entity/1795554974,<,CA09.0
+10,潰瘍性鼻炎,L,J310,CFKA,=,http://id.who.int/icd/entity/1361415644,<,CA09.0
+10,慢性潰瘍性鼻炎,S1,J310,CFKA,=,http://id.who.int/icd/entity/1361415644,<,CA09.0
+10,乾燥性鼻炎,L,J310,E31L,<,http://id.who.int/icd/entity/1346915097,<,CA09.0
+10,肥厚性鼻炎,L,J310,EQD8,=,http://id.who.int/icd/entity/545004107,<,CA09.0
+10,慢性肥厚性鼻炎,S1,J310,EQD8,=,http://id.who.int/icd/entity/545004107,<,CA09.0
+10,鼻汁,L,J310,ERDJ,=,http://id.who.int/icd/entity/417796976,<,CA0Y 
+10,肉芽腫性鼻炎,L,J310,FC2R,=,http://id.who.int/icd/entity/1325617790,<,CA09.0
+10,慢性肉芽腫性鼻炎,S1,J310,FC2R,=,http://id.who.int/icd/entity/1325617790,<,CA09.0
+10,カタル性鼻炎,L,J310,GPJ7,=,http://id.who.int/icd/entity/1964682988,<,CA09.0
+10,慢性カタル性鼻炎,S1,J310,GPJ7,=,http://id.who.int/icd/entity/1964682988,<,CA09.0
+10,鼻カタル,S1,J310,GPJ7,=,http://id.who.int/icd/entity/1964682988,<,CA09.0
+10,滲出性鼻炎,S1,J310,GPJ7,=,http://id.who.int/icd/entity/1964682988,<,CA09.0
+10,フィブリン性鼻炎,S2,J310,GPJ7,<,http://id.who.int/icd/entity/546955995,<,CA09.0
+10,慢性鼻炎,L,J310,HEV6,=,http://id.who.int/icd/entity/1346915097,=,CA09.0
+10,化膿性鼻炎,L,J310,J5MP,=,http://id.who.int/icd/entity/982276573,<,CA09.0
+10,慢性化膿性鼻炎,S2,J310,J5MP,=,http://id.who.int/icd/entity/982276573,<,CA09.0
+10,好酸球増多性鼻炎,L,J310,JF78,=,http://id.who.int/icd/entity/1523867406,=,CA08.10 
+10,鼻炎,L,J310,MK5N,=,http://id.who.int/icd/entity/13469150977,=,CA09.0
+10,うっ血性鼻炎,L,J310,UUSC,<,http://id.who.int/icd/entity/1346915097,<,CA09.0
+10,慢性鼻咽頭炎,L,J311,AF7K,=,http://id.who.int/icd/entity/889423501,=,CA09.1
+10,慢性化膿性鼻咽頭炎,L,J311,BRR8,<,http://id.who.int/icd/entity/889423501  ,<,CA09.1
+10,鼻咽頭萎縮,L,J311,J4SU,=,http://id.who.int/icd/entity/1471262945,<,CA09.1
+10,慢性潰瘍性鼻咽頭炎,L,J311,T2DD,<,http://id.who.int/icd/entity/889423501  ,<,CA09.1
+10,慢性咽頭炎,L,J312,F647,=,http://id.who.int/icd/entity/1101977204,=,CA09.2
+10,慢性咽頭痛,L,J312,HHGT,=,http://id.who.int/icd/entity/1101977204,=,CA09.2
+10,肥大性咽頭炎,L,J312,K8LB,=,http://id.who.int/icd/entity/373175402,<,CA09.2
+10,慢性肥大性咽頭炎,S1,J312,K8LB,=,http://id.who.int/icd/entity/373175402,<,CA09.2
+10,顆粒性咽頭炎,L,J312,N2PP,=,http://id.who.int/icd/entity/1576054259,<,CA09.2
+10,慢性顆粒性咽頭炎,S1,J312,N2PP,=,http://id.who.int/icd/entity/1576054259,<,CA09.2
+10,乾燥性咽頭炎,L,J312,NL4U,=,http://id.who.int/icd/entity/1469641231,<,CA09.2
+10,濾胞性咽頭炎,L,J312,STPC,=,http://id.who.int/icd/entity/47645762,<,CA09.2
+10,慢性咽頭カタル,L,J312,T4LD,=,http://id.who.int/icd/entity/1101977204,=,CA09.2
+10,萎縮性咽頭炎,L,J312,VH9B,=,http://id.who.int/icd/entity/1469641231,<,CA09.2
+10,慢性萎縮性咽頭炎,S1,J312,VH9B,=,http://id.who.int/icd/entity/1469641231,<,CA09.2
+10,口腔上顎洞瘻,L,J320,DLS6,=,http://id.who.int/icd/entity/170510163,<,CA0A.Y
+10,洞瘻,S1,J320,DLS6,=,http://id.who.int/icd/entity/170510163,<,CA0A.Y
+10,上顎洞瘻孔,S1,J320,DLS6,=,http://id.who.int/icd/entity/170510163,=,CA0A.Y & XA1R64
+10,歯性上顎洞炎,L,J320,RARA,=,http://id.who.int/icd/entity/1372580647 / http://id.who.int/icd/entity/1767358557,=,CA0A.Y & XA1R64 / DA0A.Z
+10,上顎洞炎,L,J320,RT9Q,=,http://id.who.int/icd/entity/1372580647,=,CA0A.Y & XA1R64
+10,慢性上顎洞炎,S2,J320,RT9Q,=,http://id.who.int/icd/entity/1372580647,=,CA0A.Y & XA1R64
+10,前頭洞炎,L,J321,UMDB,=,http://id.who.int/icd/entity/881075891,=,CA0A.Y & XA91G8
+10,慢性前頭洞炎,S2,J321,UMDB,=,http://id.who.int/icd/entity/881075891,=,CA0A.Y & XA91G8
+10,篩骨洞炎,L,J322,SD44,=,http://id.who.int/icd/entity/1076459084,=,CA0A.Y & XA58F6
+10,慢性篩骨洞炎,S2,J322,SD44,=,http://id.who.int/icd/entity/1076459084,=,CA0A.Y & XA58F6
+10,蝶形骨洞炎,L,J323,VV32,=,http://id.who.int/icd/entity/627227610,=,"CA0A.Y & XA4U67
+"
+10,慢性蝶形骨洞炎,S2,J323,VV32,=,http://id.who.int/icd/entity/627227610,=,"CA0A.Y & XA4U67
+"
+10,汎副鼻腔炎,L,J324,U7U1,=,http://id.who.int/icd/entity/1452025934,<,CA0A.Y 
+10,慢性汎副鼻腔炎,S2,J324,U7U1,=,http://id.who.int/icd/entity/1452025934,<,CA0A.Y
+10,好酸球性副鼻腔炎,L,J328,V5RN,=,http://id.who.int/icd/entity/1372580647,=,CA0A.Y & XA1R64
+10,副鼻腔炎,L,J329,H9KE,=, http://id.who.int/icd/entity/1836987572,=,CA0A.Z 
+10,鼻副鼻腔炎,S1,J329,H9KE,=, http://id.who.int/icd/entity/1836987572,=,CA0A.Z 
+10,慢性副鼻腔炎,L,J329,N9QK,=,http://id.who.int/icd/entity/1836987572,=,CA0A.Z 
+10,慢性鼻副鼻腔炎,S1,J329,N9QK,=,http://id.who.int/icd/entity/1836987572,=,CA0A.Z 
+10,副鼻腔蓄膿,S1,J329,N9QK,=,http://id.who.int/icd/entity/1836987572,=,CA0A.Z 
+10,副鼻腔膿瘍,S1,J329,N9QK,=,http://id.who.int/icd/entity/172534059,<,CA0A.Y
+10,蓄膿症,S2,J329,N9QK,=,http://id.who.int/icd/entity/1836987572,=,CA0A.Z 
+10,慢性副鼻腔膿瘍,L,J329,NGMN,=,http://id.who.int/icd/entity/172534059,<,CA0A.Y
+10,乾酪性副鼻腔炎,L,J329,PG25,<,http://id.who.int/icd/entity/2126196456,<,CA0A.Y
+10,化膿性副鼻腔炎,L,J329,PK36,=,http://id.who.int/icd/entity/2126196456,<,CA0A.Y
+10,歯性副鼻腔炎,L,J329,QQTN,=,http://id.who.int/icd/entity/1836987572 ,<,CA0A.Y
+10,慢性副鼻腔炎急性増悪,L,J329,T8SK,<,http://id.who.int/icd/entity/1836987572,<,CA0A.Z
+10,慢性鼻副鼻腔炎急性増悪,S1,J329,T8SK,<,http://id.who.int/icd/entity/1836987572,<,CA0A.Z
+10,小児副鼻腔炎,L,J329,TFUB,=,http://id.who.int/icd/entity/1836987572,<,CA0A.Z
+10,鼻腔ポリープ,L,J330,P4UQ,=,http://id.who.int/icd/entity/1295459238,<,CA0J.Y
+10,後鼻孔ポリープ,L,J330,SN6E,=,http://id.who.int/icd/entity/1139958944,<,CA0J.Y
+10,後鼻腔ポリープ,S1,J330,SN6E,=,http://id.who.int/icd/entity/1139958944,<,CA0J.Y
+10,ウォーケス篩骨洞炎,L,J331,EVHL,=,http://id.who.int/icd/entity/679276084,=,CA0J.0
+10,ウォーケス症候群,S1,J331,EVHL,=,http://id.who.int/icd/entity/679276084,=,CA0J.0
+10,ウォーケス篩骨蜂巣炎,S1,J331,EVHL,=,http://id.who.int/icd/entity/679276084,=,CA0J.0
+10,篩骨洞ポリープ,L,J338,EG6N,=,http://id.who.int/icd/entity/2077425201,<,CA0J.Y
+10,蜂巣ポリープ,S2,J338,EG6N,<,http://id.who.int/icd/entity/2077425201,<,CA0J.Y
+10,上顎洞ポリープ,L,J338,KA5V,=,http://id.who.int/icd/entity/850129679,<,CA0J.Y
+10,上顎ポリープ,S2,J338,KA5V,=,http://id.who.int/icd/entity/850129679,<,CA0J.Y
+10,上顎洞性後鼻孔ポリープ,L,J338,KS1L,=,http://id.who.int/icd/entity/850129679,<,CA0J.Y
+10,副鼻腔ポリープ,L,J338,LKFM,=,http://id.who.int/icd/entity/2114136415,<,CA0J.Y
+10,上顎洞性中咽頭ポリープ,L,J338,VAN3,=,http://id.who.int/icd/entity/850129679,<,CA0J.Y
+10,蝶形骨洞ポリープ,L,J338,VCHF,=,http://id.who.int/icd/entity/2033708874,<,CA0J.Y
+10,出血性鼻茸,L,J339,F6AT,=,http://id.who.int/icd/entity/137754914 / http://id.who.int/icd/entity/940081636,=,CA0J.Z / MG27
+10,鼻茸,L,J339,KTCS,=,http://id.who.int/icd/entity/137754914,=,CA0J.Z
+10,鼻たけ,S1,J339,KTCS,=,http://id.who.int/icd/entity/137754914,=,CA0J.Z
+10,鼻ポリープ,S1,J339,KTCS,=,http://id.who.int/icd/entity/137754914,=,CA0J.Z
+10,鼻中隔膿瘍,L,J340,A3LM,=,http://id.who.int/icd/entity/50283455,=,CA0K.Y & XA8D47
+10,鼻せつ,L,J340,AU9H,=,http://id.who.int/icd/entity/1441928443,=,CA0K.Y & XA43C9
+10,鼻部せつ,S1,J340,AU9H,=,http://id.who.int/icd/entity/1441928443,=,CA0K.Y & XA43C9
+10,鼻前庭せつ,L,J340,DUQ0,=,http://id.who.int/icd/entity/1441928443 & http://id.who.int/icd/entity/1460087132,=,CA0K.Y & XA53X2
+10,鼻前庭フルンケル,S2,J340,DUQ0,=,http://id.who.int/icd/entity/1441928443 & http://id.who.int/icd/entity/1460087132,=,CA0K.Y & XA53X2
+10,鼻壊疽,L,J340,EU59,<,http://id.who.int/icd/entity/1946955161,=,CA0K.Y  &  XA43C9 /  MC85 
+10,鼻中隔潰瘍,L,J340,F0KK,=,http://id.who.int/icd/entity/1471198704,<,CA0K.Y & XA8D47
+10,鼻翼膿瘍,L,J340,F5UM,=,http://id.who.int/icd/entity/341103264 & http://id.who.int/icd/entity/472261609,=,CA0K.Y & XA32Q9  
+10,鼻中隔びらん,L,J340,FLTM,=,http://id.who.int/icd/entity/1471198704,<,CA0K.Y &  XA8D47
+10,鼻中隔壊死,L,J340,FNDR,=,http://id.who.int/icd/entity/2002814244,=,CA0K.Y & XA8D47 / MC85
+10,鼻潰瘍,L,J340,KE91,=,http://id.who.int/icd/entity/2068864411,<,CA0K.Y & XA43C9  
+10,鼻腔内膿瘍,L,J340,PBFU,=,http://id.who.int/icd/entity/341103264 &  http://id.who.int/icd/entity/208474189,<,CA0K.Y & XA43C9  
+10,鼻膿瘍,S2,J340,PBFU,=,http://id.who.int/icd/entity/341103264,<,CA0K.Y & XA3H13 
+10,鼻壊死,L,J340,PQT1,=,http://id.who.int/icd/entity/1946955161,=,CA0K.Y & XA43C9 / MC85 
+10,鼻蜂巣炎,L,J340,SF5A,=,http://id.who.int/icd/entity/560634170,<,CA0K.Y & XA43C9 
+10,鼻蜂窩織炎,S1,J340,SF5A,=,http://id.who.int/icd/entity/560634170,<,CA0K.Y & XA43C9 
+10,鼻入口部膿瘍,L,J340,T3Q3,=,http://id.who.int/icd/entity/341103264 & http://id.who.int/icd/entity/1460087132,=,CA0K.Y & XA53X2 
+10,篩骨前頭洞のう胞,L,J341,ARB1,=,http://id.who.int/icd/entity/319135602 & http://id.who.int/icd/entity/1091787076 & http://id.who.int/icd/entity/1446722948,=,CA0C & XA58F6 & XA91G8
+10,篩骨前頭洞嚢胞,S1,J341,ARB1,=,http://id.who.int/icd/entity/319135602 & http://id.who.int/icd/entity/1091787076 & http://id.who.int/icd/entity/1446722948,=,CA0C & XA58F6 & XA91G8
+10,篩骨洞のう胞,L,J341,DADU,=,http://id.who.int/icd/entity/1234105,=,CA0C & XA58F6
+10,篩骨洞嚢胞,S1,J341,DADU,=,http://id.who.int/icd/entity/1234105,=,CA0C & XA58F6
+10,鼻前庭のう胞,L,J341,FJNN,=,http://id.who.int/icd/entity/319135602 & http://id.who.int/icd/entity/1460087132,=,CA0C & XA53X2
+10,鼻前庭嚢胞,S1,J341,FJNN,=,http://id.who.int/icd/entity/319135602 & http://id.who.int/icd/entity/1460087132,=,CA0C & XA53X2
+10,術後性上顎のう胞,L,J341,HQQF,=, http://id.who.int/icd/entity/906755114 & http://id.who.int/icd/entity/182265087,=,CA0C & XA1R64 & XY7V
+10,術後性副鼻腔嚢胞,S1,J341,HQQF,=, http://id.who.int/icd/entity/906755114 & http://id.who.int/icd/entity/182265087,=,CA0C & XA1R64 & XY7V
+10,術後性頬部のう腫,S1,J341,HQQF,=, http://id.who.int/icd/entity/906755114 & http://id.who.int/icd/entity/182265087,=,CA0C & XA1R64 & XY7V
+10,術後頬部嚢胞,S1,J341,HQQF,=, http://id.who.int/icd/entity/906755114 & http://id.who.int/icd/entity/182265087,=,CA0C & XA1R64 & XY7V
+10,術後性頬部嚢腫,S1,J341,HQQF,=, http://id.who.int/icd/entity/906755114 & http://id.who.int/icd/entity/182265087,=,CA0C & XA1R64 & XY7V
+10,術後性副鼻腔のう胞,S1,J341,HQQF,=,http://id.who.int/icd/entity/96666583 & http://id.who.int/icd/entity/182265087,=,CA0C & XA3523 & XY7V
+10,上顎洞術後性頬部のう腫,S1,J341,HQQF,=, http://id.who.int/icd/entity/906755114 & http://id.who.int/icd/entity/182265087,=,CA0C & XA1R64 & XY7V
+10,上顎洞術後性頬部嚢腫,S1,J341,HQQF,=, http://id.who.int/icd/entity/906755114 & http://id.who.int/icd/entity/182265087,=,CA0C & XA1R64 & XY7V
+10,術後頬部のう胞,S1,J341,HQQF,=, http://id.who.int/icd/entity/906755114 & http://id.who.int/icd/entity/182265087,=,CA0C & XA1R64 & XY7V
+10,術後性上顎嚢胞,S1,J341,HQQF,=, http://id.who.int/icd/entity/906755114 & http://id.who.int/icd/entity/182265087,=,CA0C & XA1R64 & XY7V
+10,鼻腔のう腫,L,J341,KEMB,=,http://id.who.int/icd/entity/319135602 & http://id.who.int/icd/entity/208474189,=,CA0C & XA43C9
+10,鼻腔嚢腫,S1,J341,KEMB,=,http://id.who.int/icd/entity/319135602 & http://id.who.int/icd/entity/208474189,=,CA0C & XA43C9
+10,副鼻腔のう胞,L,J341,S3F0,=,http://id.who.int/icd/entity/319135602,=,CA0C
+10,副鼻腔嚢胞,S1,J341,S3F0,=,http://id.who.int/icd/entity/319135602,=,CA0C
+10,前頭洞のう胞,L,J341,T1CS,=,http://id.who.int/icd/entity/467424163,=,CA0C & XA91G8
+10,前頭洞嚢胞,S1,J341,T1CS,=,http://id.who.int/icd/entity/467424163,=,CA0C & XA91G8
+10,上顎洞のう胞,L,J341,UVFR,=,http://id.who.int/icd/entity/906755114 ,=,CA0C & XA1R64
+10,上顎洞嚢胞,S1,J341,UVFR,=,http://id.who.int/icd/entity/906755114 ,=,CA0C & XA1R64
+10,鼻中隔弯曲症,L,J342,JSC3,=,http://id.who.int/icd/entity/1739116429,=,CA0D
+10,鼻中隔彎曲症,S1,J342,JSC3,=,http://id.who.int/icd/entity/1739116429,=,CA0D
+10,鼻中隔弯曲,S1,J342,JSC3,=,http://id.who.int/icd/entity/1739116429,=,CA0D
+10,鼻中隔弯曲(症),S1,J342,JSC3,=,http://id.who.int/icd/entity/1739116429,=,CA0D
+10,鼻甲介肥厚症,L,J343,BFB7,=,http://id.who.int/icd/entity/48431641,=,CA0E
+10,鼻痛,L,J348,BCVJ,=,http://id.who.int/icd/entity/1443208545,=,CA0Y & XA43C9 / MG3Z 
+10,鼻中隔穿孔,L,J348,CDNN,=,http://id.who.int/icd/entity/531397364,<,CA0Y & XA8D47 
+10,膿性鼻閉,L,J348,E1JC,<,http://id.who.int/icd/entity/597318652,<,CA0Y
+10,鼻前庭びらん,L,J348,E8UT,=,http://id.who.int/icd/entity/1807251647 & http://id.who.int/icd/entity/1460087132,<,CA0Y & XA53X2
+10,鼻漏,L,J348,F1BK,=,http://id.who.int/icd/entity/417796976,<,CA0Y & XA43C9 
+10,乾燥性前鼻炎,L,J348,G4A1,=,http://id.who.int/icd/entity/805927116,<,CA0Y & XA53X2
+10,後鼻漏,L,J348,G7UD,=,http://id.who.int/icd/entity/417796976,<,CA0Y & XA43C9 
+10,血性鼻漏,L,J348,J81N,=,http://id.who.int/icd/entity/417796976 / http://id.who.int/icd/entity/940081636,<,CA0Y & XA43C9 / MG27
+10,鼻軟骨膜炎,L,J348,K0NJ,=,http://id.who.int/icd/entity/574711778,=,CA0Y & XA43C9 & XA53R0
+10,鼻石,L,J348,K50A,=,http://id.who.int/icd/entity/1529765461,<,CA0Y & XA43C9
+10,鼻前庭炎,L,J348,L5M9,=,http://id.who.int/icd/entity/805927116,=,CA0Y & XA53X2
+10,鼻腔内びらん,L,J348,L6ES,=,http://id.who.int/icd/entity/1807251647 　,<,CA0Y & XA43C9
+10,鼻粘膜びらん,S1,J348,L6ES,=,http://id.who.int/icd/entity/1807251647 　,<,CA0Y & XA43C9
+10,後鼻孔狭窄,L,J348,LNN5,<,http://id.who.int/icd/entity/675753105,<,CA0Y & XA43C9
+10,後鼻孔狭窄症,S1,J348,LNN5,<,http://id.who.int/icd/entity/675753105,<,CA0Y & XA43C9
+10,水様性鼻漏,L,J348,MDN5,=,http://id.who.int/icd/entity/417796976,<,CA0Y & XA43C9
+10,鼻中隔軟骨膜炎,L,J348,N9HV,=,http://id.who.int/icd/entity/574711778 & http://id.who.int/icd/entity/185288147,<,CA0Y & XA8D47 & XA53R0
+10,粘液性鼻漏,L,J348,QP9V,=,http://id.who.int/icd/entity/417796976,<,CA0Y & XA43C9
+10,鼻内癒着症,L,J348,V4T3,=,http://id.who.int/icd/entity/1762771419,<,CA0Y & XA43C9
+10,肥大性扁桃炎,L,J350,B4L3,=,http://id.who.int/icd/entity/305097257,<,CA0F.Y
+10,アデノイド扁桃炎,L,J350,Q5E4,=,http://id.who.int/icd/entity/1952300555,<,CA0F.Y
+10,アデノイド咽頭炎,L,J350,QA7E,=,http://id.who.int/icd/entity/1952300555,<,CA0F.Y
+10,慢性扁桃炎,L,J350,QRMR,=,http://id.who.int/icd/entity/1790351975,<,CA0F.Y
+10,慢性口蓋扁桃炎,S1,J350,QRMR,<,http://id.who.int/icd/entity/1790351975,<,CA0F.Y
+10,慢性扁桃腺炎,S1,J350,QRMR,=,http://id.who.int/icd/entity/1790351975,<,CA0F.Y
+10,遷延性扁桃炎,S2,J350,QRMR,=,http://id.who.int/icd/entity/1790351975,<,CA0F.Y
+10,扁桃病巣感染症,L,J350,RU8N,=,http://id.who.int/icd/entity/1790351975,<,CA0F.Y
+10,病巣扁桃,S1,J350,RU8N,=,http://id.who.int/icd/entity/1790351975,<,CA0F.Y
+10,病巣性扁桃炎,S1,J350,RU8N,=,http://id.who.int/icd/entity/1790351975,<,CA0F.Y
+10,舌扁桃肥大,L,J351,TF1N,=,http://id.who.int/icd/entity/268261363,=,CA0F.0
+10,舌根扁桃肥大,S1,J351,TF1N,=,http://id.who.int/icd/entity/268261363,=,CA0F.0
+10,舌根扁桃腺肥大症,S1,J351,TF1N,=,http://id.who.int/icd/entity/268261363,=,CA0F.0
+10,扁桃肥大,L,J351,U6BL,=,http://id.who.int/icd/entity/268261363,=,CA0F.0
+10,口蓋扁桃肥大,S1,J351,U6BL,=,http://id.who.int/icd/entity/268261363,=,CA0F.0
+10,扁桃腺肥大,S1,J351,U6BL,=,http://id.who.int/icd/entity/268261363,=,CA0F.0
+10,アデノイド肥大,L,J352,Q35G,=,http://id.who.int/icd/entity/2068842254,=,CA0F.1 
+10,慢性アデノイド肥大,S1,J352,Q35G,=,http://id.who.int/icd/entity/2068842254,=,CA0F.1 
+10,咽頭扁桃肥大,S1,J352,Q35G,=,http://id.who.int/icd/entity/2068842254,=,CA0F.1 
+10,振子様扁桃,L,J358,APJR,<,http://id.who.int/icd/entity/512796448,<,CA0F.Y 
+10,扁桃潰瘍,L,J358,ATVU,=,http://id.who.int/icd/entity/1878932434,<,CA0F.Y
+10,扁桃遺残,L,J358,BSVK,=,http://id.who.int/icd/entity/1180713459,<,CA0F.Y 
+10,扁桃瘢痕,L,J358,KL7N,=,http://id.who.int/icd/entity/725979303,<,CA0F.Y
+10,扁桃結石,L,J358,RA6J,=,http://id.who.int/icd/entity/697432924,<,CA0F.Y
+10,扁桃石,S1,J358,RA6J,=,http://id.who.int/icd/entity/1673926207,<,CA0F.Y
+10,扁桃角化症,S2,J358,RA6J,=,http://id.who.int/icd/entity/1015723396,<,CA0F.Y
+10,アデノイド増殖症,L,J358,TRTM,=,http://id.who.int/icd/entity/43079474,<,CA0F.Y
+10,腺様増殖症,S1,J358,TRTM,=,http://id.who.int/icd/entity/43079474,<,CA0F.Y
+10,咽頭扁桃増殖症,S1,J358,TRTM,<,http://id.who.int/icd/entity/43079474,<,CA0F.Y
+10,歯性扁桃周囲膿瘍,L,J36,DV6N,=,http://id.who.int/icd/entity/1782446047,=,CA0K.1 
+10,扁桃膿瘍,L,J36,GPUR,=,http://id.who.int/icd/entity/669740758,<,CA0K.1 
+10,化膿性扁桃周囲炎,L,J36,HH5P,=,http://id.who.int/icd/entity/1782446047,=,CA0K.1
+10,扁桃周囲膿瘍,L,J36,MHJ1,=,http://id.who.int/icd/entity/1782446047,=,CA0K.1
+10,口蓋扁桃周囲膿瘍,S2,J36,MHJ1,=,http://id.who.int/icd/entity/1782446047,=,CA0K.1
+10,壊疽性扁桃周囲炎,L,J36,RJGF,<,http://id.who.int/icd/entity/1782446047 / http://id.who.int/icd/entity/188156827,=,CA0K.1 / MC85 
+10,扁桃周囲炎,L,J36,TESF,=,http://id.who.int/icd/entity/1305150225,<,CA0K.1
+10,蜂窩織炎性アンギナ,L,J36,UR4L,=,http://id.who.int/icd/entity/1979405442,<,CA0K.1
+10,フレグモーネ性アンギナ,S1,J36,UR4L,=,http://id.who.int/icd/entity/1979405442,<,CA0K.1
+10,蜂巣織炎性アンギナ,S1,J36,UR4L,=,http://id.who.int/icd/entity/1979405442,<,CA0K.1
+10,フレグモーネ性アンギーナ,S1,J36,UR4L,=,http://id.who.int/icd/entity/1979405442,<,CA0K.1
+10,蜂巣織炎性アンギーナ,S1,J36,UR4L,=,http://id.who.int/icd/entity/1979405442,<,CA0K.1
+10,慢性喉頭蓋炎,L,J370,A7NR,=,http://id.who.int/icd/entity/1921163394,<,CA0G 
+10,肥大性喉頭炎,L,J370,ALQQ,=,http://id.who.int/icd/entity/1367950759,<,CA0G 
+10,喉頭うっ血,L,J370,F0GR,=,http://id.who.int/icd/entity/1790881921,<,CA0G 
+10,カタル性喉頭炎,L,J370,F30T,=,http://id.who.int/icd/entity/248851240,<,CA0G 
+10,喉頭カタル,S1,J370,F30T,=,http://id.who.int/icd/entity/248851240,<,CA0G 
+10,慢性喉頭炎,L,J370,G0M2,=,http://id.who.int/icd/entity/2009723608,<,CA0G 
+10,萎縮性喉頭炎,L,J370,KTQU,=,http://id.who.int/icd/entity/199296218,<,CA0G 
+10,乾燥性喉頭炎,L,J370,LGQ2,=,http://id.who.int/icd/entity/1532389143,<,CA0G 
+10,声門うっ血,L,J370,RG0R,=,http://id.who.int/icd/entity/784966026,<,CA0G
+10,慢性咽喉頭炎,L,J370,UM21,=,http://id.who.int/icd/entity/1162426211,<,CA0G 
+10,慢性咽頭喉頭炎,S1,J370,UM21,=,http://id.who.int/icd/entity/1162426211,<,CA0G 
+10,慢性喉頭気管炎,L,J371,BF9D,=,http://id.who.int/icd/entity/310525774,<,CA0G
+10,肥大性喉頭気管炎,L,J371,F9T3,=,http://id.who.int/icd/entity/82833672,<,CA0G
+10,乾燥性喉頭気管炎,L,J371,RV8D,=,http://id.who.int/icd/entity/2139929783,<,CA0G
+10,萎縮性喉頭気管炎,L,J371,UJG6,=,http://id.who.int/icd/entity/719980568,<,CA0G
+10,喉頭麻痺,L,J380,AK7U,=,http://id.who.int/icd/entity/691560077,=,CA0H.0 & XA2RH5
+10,喉頭筋麻痺,S1,J380,AK7U,=,http://id.who.int/icd/entity/691560077,<,CA0H.0 
+10,喉頭神経麻痺,S1,J380,AK7U,=,http://id.who.int/icd/entity/1234539558,<,CA0H.0 
+10,喉頭筋性麻痺,S1,J380,AK7U,=,http://id.who.int/icd/entity/1234539558,<,CA0H.0 
+10,喉頭神経障害,S2,J380,AK7U,=,http://id.who.int/icd/entity/1234539558,<,CA0H.0 
+10,反回喉頭神経障害,S2,J380,AK7U,=,http://id.who.int/icd/entity/1705350882,<,CA0H.0 
+10,反回喉頭神経麻痺,S2,J380,AK7U,=,http://id.who.int/icd/entity/1705350882,<,CA0H.0 
+10,声帯不全麻痺,L,J380,AS7N,=,http://id.who.int/icd/entity/2039430468,=,CA0H.0 & XA3299 
+10,声帯麻痺,L,J380,K1UV,=,http://id.who.int/icd/entity/2039430468,=,CA0H.0 & XA3299 
+10,声帯筋麻痺,S1,J380,K1UV,=,http://id.who.int/icd/entity/2039430468 & http://id.who.int/icd/entity/224155552,=,CA0H.0 & XA0M12
+10,声帯外転筋麻痺,L,J380,PPHC,<,http://id.who.int/icd/entity/2039430468 & http://id.who.int/icd/entity/224155552,<,CA0H.0 & XA0M12 
+10,ゲルハルト症候群,L,J380,S1EG,=,http://id.who.int/icd/entity/965049946,<,LA71.Y
+10,仮性声帯麻痺,L,J380,U9GB,<,http://id.who.int/icd/entity/2039430468,<,CA0H.0
+10,ポリープ様声帯,L,J381,DN0N,<,http://id.who.int/icd/entity/1351291002,<,CA0H.1
+10,ラインケ浮腫,S1,J381,DN0N,<,http://id.who.int/icd/entity/1351291002,<,CA0H.1
+10,声帯ポリープ,L,J381,TBHN,=,http://id.who.int/icd/entity/1351291002,=,CA0H.1 & XA3299 
+10,喉頭ポリープ,S1,J381,TBHN,=,http://id.who.int/icd/entity/1624502782,=,CA0H.1 & XA2RH5 
+10,浮腫性声帯炎,L,J382,DTHN,=,http://id.who.int/icd/entity/1117591397 /  http://id.who.int/icd/entity/826220775,=,CA0H.Y & XA3299 / MG29.Z 
+10,声帯炎,L,J382,GH3U,=,http://id.who.int/icd/entity/1117591397,<,CA0H.Y & XA3299 
+10,小児声帯結節,L,J382,K86Q,<,http://id.who.int/icd/entity/682343439 ,<,CA0H.2 
+10,声帯結節症,L,J382,UHB7,=,http://id.who.int/icd/entity/682343439,=,CA0H.2
+10,声帯結節(症),S1,J382,UHB7,=,http://id.who.int/icd/entity/682343439,=,CA0H.2
+10,謡人結節,S1,J382,UHB7,=,http://id.who.int/icd/entity/682343439,=,CA0H.2
+10,声帯結節,S1,J382,UHB7,=,http://id.who.int/icd/entity/682343439,=,CA0H.2
+10,歌手結節,S1,J382,UHB7,=,http://id.who.int/icd/entity/682343439,=,CA0H.2
+10,隆起性声帯炎,S2,J382,UHB7,=,http://id.who.int/icd/entity/682343439,=,CA0H.2
+10,教師結節,S2,J382,UHB7,=,http://id.who.int/icd/entity/682343439,=,CA0H.2
+10,線維素性声帯炎,S2,J382,UHB7,=,http://id.who.int/icd/entity/682343439,=,CA0H.2
+10,結節性声帯炎,S2,J382,UHB7,=,http://id.who.int/icd/entity/682343439,=,CA0H.2 
+10,声帯粘膜線維症,L,J383,BTU8,=,http://id.who.int/icd/entity/682343439,=,CA0H.2
+10,声帯機能不全,L,J383,EKF3,<,http://id.who.int/icd/entity/1306554779,<,CA0H.Y & XA3299 
+10,声帯機能異常,S1,J383,EKF3,<,http://id.who.int/icd/entity/1306554779,<,CA0H.Y & XA3299 
+10,VCD,S1,J383,EKF3,<,http://id.who.int/icd/entity/1306554779,<,CA0H.Y & XA3299 
+10,声帯のう胞,L,J383,FJR6,=,http://id.who.int/icd/entity/518783301,<,CA0H.Y & XA3299 
+10,声帯嚢胞,S1,J383,FJR6,=,http://id.who.int/icd/entity/518783301,<,CA0H.Y & XA3299 
+10,声帯白斑症,L,J383,JE2K,=,http://id.who.int/icd/entity/527887683,<,CA0H.Y & XA3299 
+10,声帯白色角化症,S1,J383,JE2K,=,http://id.who.int/icd/entity/527887683,<,CA0H.Y & XA3299 
+10,声帯角化症,S1,J383,JE2K,=,http://id.who.int/icd/entity/619096085,<,CA0H.Y & XA3299 
+10,声帯ロイコプラキア,S1,J383,JE2K,=,http://id.who.int/icd/entity/1298585367,<,CA0H.Y & XA3299 
+10,痙攣性発声障害,L,J383,L658,=,http://id.who.int/icd/entity/221409154,<,CA0H.Y 
+10,攣縮性発声障害,S1,J383,L658,=,http://id.who.int/icd/entity/221409154,<,CA0H.Y 
+10,けいれん性発声障害,S1,J383,L658,=,http://id.who.int/icd/entity/221409154,<,CA0H.Y 
+10,れん縮性発声障害,S1,J383,L658,=,http://id.who.int/icd/entity/221409154,<,CA0H.Y 
+10,痙性発声障害,S1,J383,L658,=,http://id.who.int/icd/entity/221409154,<,CA0H.Y 
+10,声帯肉芽腫,L,J383,P2JG,=,http://id.who.int/icd/entity/1801094456,<,CA0H.Y & XA3299 
+10,声帯溝症,L,J383,PFL4,=,http://id.who.int/icd/entity/953829620,<,CA0H.Y
+10,声帯上皮過形成,L,J383,QJ0G,=,http://id.who.int/icd/entity/1306554779,<,CA0H.Y & XA3299 
+10,声帯上皮肥厚症,S2,J383,QJ0G,=,http://id.who.int/icd/entity/1306554779,<,CA0H.Y & XA3299 
+10,声帯瘢痕形成,L,J383,QS6R,<,http://id.who.int/icd/entity/80961623,<,"CA0H.Y & XA3299 
+"
+10,声帯萎縮,L,J383,S495,<,http://id.who.int/icd/entity/1306554779,<,CA0H.Y & XA3299 
+10,声帯萎縮症,S1,J383,S495,<,http://id.who.int/icd/entity/1306554779,<,CA0H.Y & XA3299 
+10,声帯膿瘍,L,J383,TL1T,=,http://id.who.int/icd/entity/786199093,<,CA0H.Y & XA3299 
+10,萎縮性声帯炎,L,J383,VLBC,<,http://id.who.int/icd/entity/1117591397,<,CA0H.Y & XA3299 
+10,喉頭浮腫,L,J384,B115,=,http://id.who.int/icd/entity/1041162767,=,CA0H.3
+10,喉頭部浮腫,S1,J384,B115,=,http://id.who.int/icd/entity/1041162767,=,CA0H.3
+10,喉頭水腫,S1,J384,B115,=,http://id.who.int/icd/entity/1041162767,=,CA0H.3
+10,声門上浮腫,L,J384,G17J,=,http://id.who.int/icd/entity/1199602293,=,CA0H.3 & XA1PB3
+10,声門浮腫,L,J384,LL3B,=,http://id.who.int/icd/entity/755476418,=,CA0H.3 & XA7AE7 
+10,声門水腫,S1,J384,LL3B,=,http://id.who.int/icd/entity/755476418,=,CA0H.3 & XA7AE7 
+10,声門下浮腫,L,J384,S74S,=,http://id.who.int/icd/entity/769810258,=,CA0H.3 & XA25B1
+10,痙攣性喉頭気管炎,L,J385,DCJ0,=,http://id.who.int/icd/entity/1396705457,<,CA0H.4
+10,喉頭痙攣,L,J385,Q4NV,=,http://id.who.int/icd/entity/1531260827,=,CA0H.4
+10,声帯痙攣,S1,J385,Q4NV,=,http://id.who.int/icd/entity/103201810 & http://id.who.int/icd/entity/641037459,=,CA0H.4 & XA3299 
+10,喉頭狭窄症,L,J386,GGEE,=,http://id.who.int/icd/entity/803766116,=,CA0H.5
+10,喉頭狭窄,S1,J386,GGEE,=,http://id.who.int/icd/entity/803766116,=,CA0H.5
+10,喉頭狭窄(症),S1,J386,GGEE,=,http://id.who.int/icd/entity/803766116,=,CA0H.5
+10,声門狭窄,S2,J386,GGEE,=,http://id.who.int/icd/entity/1904844760,=,CA0H.5 & XA7AE7
+10,声門下狭窄,S2,J386,GGEE,=,http://id.who.int/icd/entity/1904844760  & http://id.who.int/icd/entity/525195731 ,=,CA0H.5 & XA25B1
+10,喉頭閉塞,L,J386,HRQN,=,http://id.who.int/icd/entity/1252242162　,<,CA0H.Y & XA2RH5
+10,喉頭蓋膿瘍,L,J387,CFMQ,=,http://id.who.int/icd/entity/580629825 ,<,CA0H.Y  & XA9ZY9
+10,急性喉頭蓋膿瘍,L,J387,DHV2,=,http://id.who.int/icd/entity/580629825 & http://id.who.int/icd/entity/786106375,<,CA0H.Y  & XA9ZY9 & XT5R  
+10,喉頭蓋軟骨膜炎,L,J387,G1SN,=,http://id.who.int/icd/entity/1320926825 ,<,CA0H.Y & XA9ZY9
+10,喉頭潰瘍,L,J387,G9U4,=,http://id.who.int/icd/entity/838556230,<,CA0H.Y  & XA2RH5 
+10,喉頭白斑症,L,J387,GFTL,=,http://id.who.int/icd/entity/1616625641,<,CA0H.Y  & XA2RH5 
+10,喉頭角化症,S1,J387,GFTL,=,http://id.who.int/icd/entity/272428278,<,CA0H.Y  & XA2RH5 
+10,喉頭ロイコプラキア,S1,J387,GFTL,=,http://id.who.int/icd/entity/1616625641,<,CA0H.Y  & XA2RH5 
+10,喉頭壊死,L,J387,GJ2E,=,http://id.who.int/icd/entity/1188235392,<,CA0H.Y  & XA2RH5 
+10,喉頭上皮過形成,L,J387,GPC2,=,http://id.who.int/icd/entity/2065182071,<,CA0H.Y  & XA2RH5 
+10,喉頭上皮肥厚症,S1,J387,GPC2,=,http://id.who.int/icd/entity/2065182071,<,CA0H.Y  & XA2RH5
+10,喉頭機能低下,L,J387,GSTH,=,http://id.who.int/icd/entity/1252242162,<,CA0H.Y  & XA2RH5
+10,喉頭びらん,L,J387,JAUM,=,http://id.who.int/icd/entity/838556230,<,CA0H.Y  & XA2RH5
+10,喉頭アレルギー,L,J387,K3J3,<,http://id.who.int/icd/entity/1252242162,<,CA0H.Y  & XA2RH5
+10,喉頭蜂巣炎,L,J387,LA95,=,http://id.who.int/icd/entity/740096351,<,CA0H.Y  & XA2RH5
+10,喉頭蜂窩織炎,S1,J387,LA95,=,http://id.who.int/icd/entity/740096351,<,CA0H.Y  & XA2RH5
+10,喉頭膿瘍,S2,J387,LA95,=,http://id.who.int/icd/entity/975787996,<,CA0H.Y  & XA2RH5
+10,声帯蜂巣炎,S2,J387,LA95,=,http://id.who.int/icd/entity/804420485,<,CA0H.Y  & XA3299
+10,喉頭下垂症,L,J387,LJBU,=,http://id.who.int/icd/entity/1500291878,<,CA0H.Y  & XA2RH5
+10,咽頭喉頭逆流症,L,J387,NDGN,<,http://id.who.int/icd/entity/1914646281,<,CA0H.Y & XA2RH5
+10,喉頭肉芽腫,L,J387,P126,=,http://id.who.int/icd/entity/1114829923,<,CA0H.Y & XA2RH5
+10,喉頭蓋のう胞,L,J387,PTRP,=,http://id.who.int/icd/entity/1933613024,<,CA0H.Y  & XA9ZY9 
+10,喉頭蓋嚢胞,S1,J387,PTRP,=,http://id.who.int/icd/entity/1933613024,<,CA0H.Y  & XA9ZY9 
+10,喉頭軟骨膜炎,L,J387,R1SC,=,http://id.who.int/icd/entity/1320926825,<,CA0H.Y & XA2RH5
+10,喉頭萎縮,L,J387,SPTD,=,http://id.who.int/icd/entity/1364627695,<,CA0H.Y & XA2RH5
+10,特発性喉頭肉芽腫,L,J387,T6HH,=,http://id.who.int/icd/entity/1114829923 & http://id.who.int/icd/entity/894194405,<,CA0H.Y  & XA2RH5 &XB5F
+10,喉頭強皮症,S1,J387,T6HH,=,http://id.who.int/icd/entity/1256444103,<,CA0H.Y & XA2RH5
+10,咽頭周囲膿瘍,L,J390,KQG9,=,http://id.who.int/icd/entity/1787536062,<,CA0K.0
+10,咽頭側膿瘍,S2,J390,KQG9,=,http://id.who.int/icd/entity/250672167,<,CA0K.0
+10,咽頭側壁膿瘍,S2,J390,KQG9,=,http://id.who.int/icd/entity/250672167,<,CA0K.0
+10,深頚部膿瘍,L,J390,R0QD,=,http://id.who.int/icd/entity/1160683650,<,CA0K.0
+10,深頸部膿瘍,S1,J390,R0QD,=,http://id.who.int/icd/entity/1160683650,<,CA0K.0
+10,咽後膿瘍,L,J390,UMCB,=,http://id.who.int/icd/entity/719680227,<,CA0K.0
+10,咽頭後膿瘍,S1,J390,UMCB,=,http://id.who.int/icd/entity/719680227,<,CA0K.0
+10,咽頭膿瘍,L,J391,F847,=,http://id.who.int/icd/entity/1090397297,<,CA0K.0
+10,鼻咽頭膿瘍,L,J391,KCP7,=,http://id.who.int/icd/entity/1086660388,<,CA0K.0
+10,鼻咽頭蜂巣炎,L,J391,KKE3,=,http://id.who.int/icd/entity/1631266376,<,CA0K.0
+10,鼻咽頭蜂窩織炎,S1,J391,KKE3,=,http://id.who.int/icd/entity/1631266376,<,CA0K.0
+10,蜂巣炎性咽頭炎,L,J391,KLMT,=,http://id.who.int/icd/entity/878547687,<,CA0K.0
+10,咽頭フレグモーネ,S1,J391,KLMT,=,http://id.who.int/icd/entity/878547687,<,CA0K.0
+10,蜂窩織炎性咽頭炎,S1,J391,KLMT,=,http://id.who.int/icd/entity/878547687,<,CA0K.0
+10,咽頭蜂巣炎,S1,J391,KLMT,=,http://id.who.int/icd/entity/878547687,<,CA0K.0
+10,咽頭のう胞,L,J392,ANEV,=,http://id.who.int/icd/entity/1186257551,<,CA0Y & XA93V5
+10,咽頭嚢胞,S1,J392,ANEV,=,http://id.who.int/icd/entity/1186257551,<,CA0Y & XA93V5
+10,咽頭麻痺,L,J392,C343,=,http://id.who.int/icd/entity/1022119217,<,CA0Y & XA93V5
+10,咽頭浮腫,L,J392,C7G6,=,http://id.who.int/icd/entity/1096381787,<,CA0Y & XA93V5
+10,鼻咽頭浮腫,L,J392,E0PC,=,http://id.who.int/icd/entity/920033041,<,CA0Y & XA9AZ1
+10,咽頭狭窄症,L,J392,E9LA,=,http://id.who.int/icd/entity/500649281,<,CA0Y & XA93V5
+10,咽頭収縮筋麻痺,L,J392,EK65,=,http://id.who.int/icd/entity/1022119217,<,CA0Y & XA93V5
+10,咽頭白斑症,L,J392,JJ0G,=,http://id.who.int/icd/entity/1616625641,<,CA0Y & XA93V5
+10,咽頭発赤,L,J392,KC67,=,http://id.who.int/icd/entity/98259454,<,CA0Y & XA93V5
+10,咽頭潰瘍,L,J392,L6PK,=,http://id.who.int/icd/entity/936707025,<,CA0Y & XA93V5
+10,鼻咽頭のう胞,L,J392,LFMU,=,http://id.who.int/icd/entity/225087018,<,CA0Y & XA9AZ1 
+10,鼻咽頭嚢胞,S1,J392,LFMU,=,http://id.who.int/icd/entity/225087018,<,CA0Y & XA9AZ1 
+10,咽頭のう腫,L,J392,LVU5,=,http://id.who.int/icd/entity/1186257551,<,CA0Y & XA93V5
+10,咽頭嚢腫,S1,J392,LVU5,=,http://id.who.int/icd/entity/1186257551,<,CA0Y & XA93V5
+10,咽頭上皮過形成症,L,J392,MCCC,=,http://id.who.int/icd/entity/1793056505,<,CA0Y & XA93V5
+10,咽頭上皮肥厚症,S2,J392,MCCC,=,http://id.who.int/icd/entity/1793056505,<,CA0Y & XA93V5
+10,放射線咽頭炎,L,J392,NA5Q,=,http://id.who.int/icd/entity/1101977204 & http://id.who.int/icd/entity/59113228,=,CA09.2 & XE60C
+10,放射線性咽頭炎,S1,J392,NA5Q,=,http://id.who.int/icd/entity/1101977204 & http://id.who.int/icd/entity/59113228,=,CA09.2 & XE60C
+10,咽頭蓋のう胞,L,J392,R1QV,<,http://id.who.int/icd/entity/1186257551,<,CA0Y & XA93V5
+10,咽頭蓋嚢胞,S1,J392,R1QV,<,http://id.who.int/icd/entity/1186257551,<,CA0Y & XA93V5
+10,咽頭角化症,L,J392,RGJE,<,http://id.who.int/icd/entity/405788865,<,CA0Y & XA93V5
+10,咽頭ポリープ,L,J392,TBGU,=,http://id.who.int/icd/entity/1815717790,<,CA0Y & XA93V5
+10,口蓋ミオクローヌス,L,J392,UB44,=,http://id.who.int/icd/entity/1862613145,=,8A06.20 
+10,口蓋帆ミオクローヌス,S1,J392,UB44,<,http://id.who.int/icd/entity/1862613145,<,8A06.20 
+10,軟口蓋ミオクローヌス,S1,J392,UB44,=,http://id.who.int/icd/entity/1862613145 & http://id.who.int/icd/entity/1012292065,=,8A06.20 & XA8HL5
+10,咽頭腫瘤,L,J392,V2K0,<,http://id.who.int/icd/entity/877884560,<,CA0Y&XA93V5
+10,気管瘤,L,J398,CQPL,<,http://id.who.int/icd/entity/1411377772,<,CA0Y & XA26H1
+10,気管憩室,S2,J398,CQPL,=,http://id.who.int/icd/entity/1181874935,<,CA0Y & XA26H1
+10,気管内肉芽腫,L,J398,D1H6,=,http://id.who.int/icd/entity/1971756453 & http://id.who.int/icd/entity/1841070931,<,CA0Y&XA26H1
+10,鼻咽腔閉鎖機能不全,L,J398,DLCF,=,http://id.who.int/icd/entity/1555345974,<,CA0Y &  XA9AZ1 
+10,鼻咽腔閉鎖不全,S1,J398,DLCF,=,http://id.who.int/icd/entity/1555345974,<,CA0Y &  XA9AZ1 
+10,鼻咽腔閉鎖機能不全症,S1,J398,DLCF,=,http://id.who.int/icd/entity/1555345974,<,CA0Y &  XA9AZ1 
+10,鼻咽頭閉鎖不全症,S1,J398,DLCF,=,http://id.who.int/icd/entity/1555345974,<,CA0Y &  XA9AZ1 
+10,鼻咽頭閉鎖不全,S1,J398,DLCF,=,http://id.who.int/icd/entity/1555345974,<,CA0Y &  XA9AZ1 
+10,気管狭窄症,L,J398,KG49,=,http://id.who.int/icd/entity/1027244946,<,CA0Y & XA26H1
+10,気管狭窄(症),S1,J398,KG49,=,http://id.who.int/icd/entity/1027244946,<,CA0Y & XA26H1
+10,気管狭窄,S1,J398,KG49,=,http://id.who.int/icd/entity/1027244946,<,CA0Y & XA26H1
+10,上気道萎縮,S2,J398,KG49,=,http://id.who.int/icd/entity/328842440,<,CA0Y
+10,気管萎縮,S2,J398,KG49,=,http://id.who.int/icd/entity/328842440,<,CA0Y
+10,副鼻腔気管支症候群,L,J398,L4CS,=,http://id.who.int/icd/entity/432027645 / http://id.who.int/icd/entity/1814714379,<,CA20.1Y  / CA0A.Y 
+10,副鼻腔気管支炎,S1,J398,L4CS,=,http://id.who.int/icd/entity/432027645 / http://id.who.int/icd/entity/1814714379,<,CA20.1Y  / CA0A.Y 
+10,気管軟化症,L,J398,QNKM,=,http://id.who.int/icd/entity/303133490,<,CA0Y & XA26H1
+10,気管食道狭窄,L,J398,T11C,=,http://id.who.int/icd/entity/882598441 /  http://id.who.int/icd/entity/873018279,=,CA0Y & XA26H1 / DA20.0
+10,慢性上気道炎,L,J398,U4R5,=,http://id.who.int/icd/entity/1971756453 & http://id.who.int/icd/entity/490003542,=,CA0Z & XT8W
+10,フィブリン性気管支炎,L,J40,A8RQ,<,http://id.who.int/icd/entity/11753425,<,CA20.Y
+10,カタル性気管支炎,L,J40,DH7G,=,http://id.who.int/icd/entity/435796015,<,CA20.Z
+10,膜性気管支炎,L,J40,GPM8,=,http://id.who.int/icd/entity/1464961940,<,CA20.Z
+10,びまん性気管支炎,L,J40,HPUQ,=,http://id.who.int/icd/entity/11753425 & http://id.who.int/icd/entity/1265853763,=,CA20.Z & XK31 
+10,嚥下性気管支炎,L,J40,J20M,<,http://id.who.int/icd/entity/11753425 & http://id.who.int/icd/entity/1265853763,<,CA20.Z & XK31
+10,気管支炎,L,J40,S99K,=,http://id.who.int/icd/entity/11753425,=,CA20.Z
+10,炎症性気管支炎,S1,J40,S99K,=,http://id.who.int/icd/entity/11753425,=,CA20.Z
+10,気管気管支炎,L,J40,T5D3,=,http://id.who.int/icd/entity/1889351414,=,CA27.Z
+10,沈下性気管支炎,L,J40,TU0F,<,http://id.who.int/icd/entity/11753425,<,CA20.Y
+10,単純性慢性気管支炎,L,J410,FANB,=,http://id.who.int/icd/entity/537830030,=,CA20.10 
+10,喫煙者気管支炎,L,J410,UHTV,=,http://id.who.int/icd/entity/1432939949,<,CA20.10
+10,粘液膿性慢性気管支炎,L,J411,FTME,=,http://id.who.int/icd/entity/1162178332,=,CA20.11 
+10,慢性化膿性気管支炎,L,J411,SPGF,=,http://id.who.int/icd/entity/1162178332,=,CA20.11 
+10,化膿性気管支炎,S1,J411,SPGF,=,http://id.who.int/icd/entity/1162178332,=,CA20.11 
+10,慢性気管気管支炎,L,J42,ENDV,=,http://id.who.int/icd/entity/1216686786,=,CA20.1Y & XT8W
+10,慢性気管炎,L,J42,FD3G,=,http://id.who.int/icd/entity/749533575,<,CA20.1Y
+10,慢性気管支漏,L,J42,KKD3,=,http://id.who.int/icd/entity/1836185810,<,CA20.1Y
+10,慢性気管支炎,L,J42,PAPK,=,http://id.who.int/icd/entity/290835130,=,CA20.1Z
+10,老人性気管支炎,L,J42,S0F3,=,http://id.who.int/icd/entity/290835130,=,CA20.1Z
+10,一側性肺気腫,L,J430,KPUQ,=,http://id.who.int/icd/entity/1030867505,=,CA21.0 
+10,マクロード症候群,L,J430,UR0C,=,http://id.who.int/icd/entity/1030867505,=,CA21.0 
+10,MACLEOD症候群,S1,J430,UR0C,=,http://id.who.int/icd/entity/1030867505,=,CA21.0 
+10,汎小葉性肺気腫,L,J431,H5FB,=,http://id.who.int/icd/entity/1480198053,=,CA21.1 
+10,汎細葉性肺気腫,S1,J431,H5FB,=,http://id.who.int/icd/entity/1480198053,=,CA21.1 
+10,中心小葉性肺気腫,L,J432,JNDU,=,http://id.who.int/icd/entity/748115804,=,CA21.2
+10,肺気腫,L,J439,AFGG,=,http://id.who.int/icd/entity/1948124976,=,CA21.Z
+10,巨大気腫性肺のう胞,L,J439,CFTV,<,http://id.who.int/icd/entity/1948124976,<,CA21.Y
+10,巨大気腫性肺嚢胞,S1,J439,CFTV,<,http://id.who.int/icd/entity/1948124976,<,CA21.Y
+10,気腫性肺のう胞,L,J439,DKVL,<,http://id.who.int/icd/entity/299058906,<,CA21.Y
+10,気腫性肺嚢胞,S1,J439,DKVL,<,http://id.who.int/icd/entity/299058906,<,CA21.Y
+10,ブラ性肺気腫,L,J439,G58G,<,http://id.who.int/icd/entity/299058906,<,CA21.Y
+10,肺胞性肺気腫,L,J439,H37E,<,http://id.who.int/icd/entity/299058906,<,CA21.Y
+10,閉塞性肺気腫,L,J439,H4HR,=,http://id.who.int/icd/entity/1090343403,<,CA21.Y
+10,老人性肺気腫,L,J439,HRFA,=,http://id.who.int/icd/entity/29257502,<,CA21.Y
+10,慢性肺気腫,L,J439,L06C,=,http://id.who.int/icd/entity/29257502,<,CA21.Y
+10,萎縮性肺気腫,L,J439,QS15,=,http://id.who.int/icd/entity/18895036,<,CA21.Y
+10,小葉間肺気腫,L,J439,T2G3,=,http://id.who.int/icd/entity/1948124976,=,CA21.Z 
+10,下気道感染を伴う慢性閉塞性肺疾患,L,J440,TVAK,=,http://id.who.int/icd/entity/101235569,<,CA22.1 / CA4Y
+10,肺炎を伴う慢性閉塞性肺疾患,S1,J440,TVAK,=,http://id.who.int/icd/entity/1969979337,<,CA22.1 & CA40.Z  
+10,急性下気道感染を伴う慢性閉塞性肺疾患,S1,J440,TVAK,=,http://id.who.int/icd/entity/101235569,<,CA22.1 / CA4Y
+10,慢性閉塞性肺疾患の急性増悪,L,J441,LB3K,=,http://id.who.int/icd/entity/1665365733,=,CA22.0 
+10,急性増悪を伴う慢性閉塞性肺疾患,S1,J441,LB3K,=,http://id.who.int/icd/entity/1665365733,=,CA22.0 
+10,慢性閉塞性肺疾患急性増悪,S1,J441,LB3K,=,http://id.who.int/icd/entity/1665365733,=,CA22.0 
+10,閉塞性気管支炎,L,J448,M824,=,http://id.who.int/icd/entity/686887390,<,CA22.1 
+10,慢性閉塞性気管支炎,S2,J448,M824,=,http://id.who.int/icd/entity/686887390,<,CA22.1 
+10,気腫型慢性閉塞性肺疾患,L,J448,P1G7,=,http://id.who.int/icd/entity/143605159 / http://id.who.int/icd/entity/1948124976,=,CA22.1 / CA21.Z
+10,気腫型慢性閉塞性気管支炎,L,J448,P2KC,=,http://id.who.int/icd/entity/686887390 / http://id.who.int/icd/entity/1948124976,=,CA22.1 / CA21.Z
+10,慢性気腫性気管支炎,S1,J448,P2KC,=,http://id.who.int/icd/entity/686887390 / http://id.who.int/icd/entity/1948124976,=,CA22.1 / CA21.Z
+10,びまん性汎細気管支炎,L,J448,PBC9,=,http://id.who.int/icd/entity/291357751,=,CA26.1 
+10,閉塞性細気管支炎,L,J448,T0KS,=,http://id.who.int/icd/entity/592711730,=,CA26.0
+10,非気腫型慢性閉塞性肺疾患,L,J448,UDFU,<,http://id.who.int/icd/entity/143605159,<,CA22.1
+10,喘息とＣＯＰＤのオーバーラップ,L,J449,E4E4,=,http://id.who.int/icd/entity/16214329,<, CA22.1 / CA23.2
+10,喘息とCOPDのオーバーラップ,S0,J449,E4E4,=,http://id.who.int/icd/entity/16214329,<, CA22.1 / CA23.2
+10,ACO,S1,J449,E4E4,=,http://id.who.int/icd/entity/16214329,<, CA22.1 / CA23.2
+10,ACOS,S1,J449,E4E4,=,http://id.who.int/icd/entity/16214329,<, CA22.1 / CA23.2
+10,喘息・COPDオーバーラップ症候群,S1,J449,E4E4,=,http://id.who.int/icd/entity/16214329,<, CA22.1 / CA23.2
+10,慢性閉塞性肺疾患,L,J449,TG1J,=,http://id.who.int/icd/entity/133207228,=,CA22.Z
+10,COPD,S1,J449,TG1J,=,http://id.who.int/icd/entity/133207228,=,CA22.Z
+10,慢性閉塞性気道疾患,S1,J449,TG1J,=,http://id.who.int/icd/entity/133207228,=,CA22.Z
+10,小児喘息性気管支炎,L,J450,CC3K,=,http://id.who.int/icd/entity/704667586,<,CA23.0 
+10,アトピー性喘息,L,J450,D7G6,=,http://id.who.int/icd/entity/1011332383,<,CA23.0 
+10,アレルギー性喘息,S1,J450,D7G6,=,http://id.who.int/icd/entity/1870104478,=,CA23.0 
+10,アトピー型喘息,S1,J450,D7G6,=,http://id.who.int/icd/entity/1011332383,<,CA23.0 
+10,アトピー型気管支喘息,S1,J450,D7G6,<,http://id.who.int/icd/entity/1011332383,<,CA23.0 
+10,小児喘息,L,J450,GLF3,=,http://id.who.int/icd/entity/704667586,<,CA23.0 
+10,小児気管支喘息,S1,J450,GLF3,=,http://id.who.int/icd/entity/704667586,<,CA23.0 
+10,アレルギー性気管支炎,L,J450,KT1R,=,http://id.who.int/icd/entity/1870104478 ,=,CA23.0
+10,外因性喘息,L,J450,MU22,=,http://id.who.int/icd/entity/1870104478 ,=,CA23.0
+10,外因性アレルギー性喘息,S1,J450,MU22,=,http://id.who.int/icd/entity/1870104478 ,=,CA23.0
+10,乳児喘息,L,J450,UHDB,=,"http://id.who.int/icd/entity/1870104478 & http://id.who.int/icd/entity/1588782340
+",<,CA23.0 & XT2C 
+10,職業喘息,L,J450,VGRN,=,http://id.who.int/icd/entity/1964795960,<,CA23.0
+10,職業性喘息,S1,J450,VGRN,=,http://id.who.int/icd/entity/1964795960,<,CA23.0
+10,感染型気管支喘息,L,J451,ENFD,=,http://id.who.int/icd/entity/1461326813 / http://id.who.int/icd/entity/1435254666,<,CA23.1 /  1H0Z 
+10,感染型喘息,S1,J451,ENFD,=,http://id.who.int/icd/entity/1461326813 / http://id.who.int/icd/entity/1435254666,<,CA23.1 /  1H0Z 
+10,感染性喘息,S1,J451,ENFD,=,http://id.who.int/icd/entity/1461326813 / http://id.who.int/icd/entity/1435254666,<,CA23.1 /  1H0Z 
+10,感染性気管支喘息,S1,J451,ENFD,=,http://id.who.int/icd/entity/1461326813 / http://id.who.int/icd/entity/1435254666,<,CA23.1 /  1H0Z 
+10,アスピリン喘息,L,J451,G2UU,=,http://id.who.int/icd/entity/1030818265 ,=,CA23.20
+10,非アトピー性喘息,L,J451,REGS,=,http://id.who.int/icd/entity/438028710 ,=,CA23.12
+10,非アレルギー性喘息,S2,J451,REGS,=,http://id.who.int/icd/entity/438028710 ,=,CA23.12
+10,内因性非アレルギー性喘息,S2,J451,REGS,=,http://id.who.int/icd/entity/1656445230 ,=,CA23.12
+10,特異体質性喘息,S2,J451,REGS,<,http://id.who.int/icd/entity/1656445230 ,<,CA23.12
+10,心因性喘息,L,J451,T3MJ,=,http://id.who.int/icd/entity/2092219896,=,CA23.12
+10,心因性気管支喘息,S1,J451,T3MJ,=,http://id.who.int/icd/entity/2092219896,=,CA23.12
+10,神経性喘息,S1,J451,T3MJ,=,http://id.who.int/icd/entity/2092219896,=,CA23.12
+10,混合型喘息,L,J458,A569,<,http://id.who.int/icd/entity/347173617,<,CA23.2
+10,混合型気管支喘息,S1,J458,A569,<,http://id.who.int/icd/entity/347173617,<,CA23.2
+10,ステロイド依存性喘息,L,J459,EGN9,<,http://id.who.int/icd/entity/347173617,<,CA23.2 
+10,ステロイド依存性気管支喘息,S1,J459,EGN9,<,http://id.who.int/icd/entity/347173617,<,CA23.2 
+10,ステロイド依存喘息,S1,J459,EGN9,<,http://id.who.int/icd/entity/347173617,<,CA23.2 
+10,咳喘息,L,J459,HL13,=,http://id.who.int/icd/entity/1466639844,=,CA23.22
+10,異型気管支喘息,S1,J459,HL13,=,http://id.who.int/icd/entity/1466639844,=,CA23.22
+10,咳異型喘息,S1,J459,HL13,=,http://id.who.int/icd/entity/1466639844,=,CA23.22
+10,咳型喘息,S1,J459,HL13,=,http://id.who.int/icd/entity/1466639844,=,CA23.22
+10,夜間性喘息,L,J459,KKG8,<,http://id.who.int/icd/entity/577724120,<,CA23.32 
+10,夜間喘息,S1,J459,KKG8,<,http://id.who.int/icd/entity/577724120,<,CA23.32 
+10,喘息性気管支炎,L,J459,NA5L,=,http://id.who.int/icd/entity/577724120,=,CA23.32 
+10,慢性喘息性気管支炎,S1,J459,NA5L,=,http://id.who.int/icd/entity/1751716661,<,CA22.1 / CA23
+10,喘息様気管支炎,S1,J459,NA5L,=,http://id.who.int/icd/entity/1751716661,<,CA22.1 / CA23
+10,慢性閉塞性喘息,S2,J459,NA5L,=,http://id.who.int/icd/entity/1206211557,<,CA22.1 / CA23
+10,難治性喘息,L,J459,PE76,<,http://id.who.int/icd/entity/347173617,<,CA23.2
+10,難治性気管支喘息,S1,J459,PE76,<,http://id.who.int/icd/entity/347173617,<,CA23.2
+10,運動誘発性喘息,L,J459,R8G2,=,http://id.who.int/icd/entity/841017462,=,CA23.21 
+10,運動誘発性気管支喘息,S1,J459,R8G2,=,http://id.who.int/icd/entity/841017462,=,CA23.21 
+10,運動誘発喘息,S1,J459,R8G2,=,http://id.who.int/icd/entity/841017462,=,CA23.21 
+10,気管支喘息,L,J459,VRVV,=,http://id.who.int/icd/entity/577724120,=,CA23.32 
+10,好酸球性喘息,S1,J459,VRVV,=,http://id.who.int/icd/entity/1074315068,=,CB02.0 
+10,喘息,S1,J459,VRVV,=,http://id.who.int/icd/entity/347173617,=,CA23.32 
+10,好酸球増加性喘息,S2,J459,VRVV,=,http://id.who.int/icd/entity/577724120,=,CB02.0 
+10,気管支喘息重積発作,L,J46,KRJM,=,http://id.who.int/icd/entity/1480952049 ,=,CA23.31
+10,重症喘息発作,S1,J46,KRJM,=,http://id.who.int/icd/entity/1480952049 ,=,CA23.31
+10,喘息発作重積,S1,J46,KRJM,=,http://id.who.int/icd/entity/1480952049 ,=,CA23.31
+10,急性重症喘息,S1,J46,KRJM,=,http://id.who.int/icd/entity/1480952049 ,=,CA23.31
+10,喘息発作重積状態,S1,J46,KRJM,=,http://id.who.int/icd/entity/1480952049 ,=,CA23.31
+10,気管支喘息発作重積,S1,J46,KRJM,=,http://id.who.int/icd/entity/1480952049 ,=,CA23.31
+10,気管支喘息発作,L,J46,L93S,=,http://id.who.int/icd/entity/577724120,=,CA23.32
+10,びまん性気管支拡張症,L,J47,C3MQ,=,http://id.who.int/icd/entity/1935524933 & http://id.who.int/icd/entity/1265853763,=,CA24 & XK31
+10,限局性気管支拡張症,L,J47,EG9P,=,http://id.who.int/icd/entity/1935524933 & http://id.who.int/icd/entity/108658876  ,=,CA24 & XK9A 
+10,のう状気管支拡張症,L,J47,GH4J,=,http://id.who.int/icd/entity/1747410508,<,CA24
+10,小のう性気管支拡張症,S1,J47,GH4J,=,http://id.who.int/icd/entity/1747410508,<,CA24
+10,小嚢性気管支拡張症,S1,J47,GH4J,=,http://id.who.int/icd/entity/1747410508,<,CA24
+10,嚢状気管支拡張症,S1,J47,GH4J,=,http://id.who.int/icd/entity/1747410508,<,CA24
+10,円柱状気管支拡張症,L,J47,H7SE,=,http://id.who.int/icd/entity/1277293232,<,CA24
+10,紡錘状気管支拡張症,S1,J47,H7SE,=,http://id.who.int/icd/entity/1379836634,<,CA24
+10,気管支拡張症,L,J47,PN5H,=,http://id.who.int/icd/entity/19355249333 & http://id.who.int/icd/entity/1864033215,=,CA24 & XA8JM5 
+10,下葉気管支拡張症,L,J47,RC14,=,http://id.who.int/icd/entity/1935524933 & http://id.who.int/icd/entity/1864033215,=,CA24 & XA8JM5 
+10,慢性気管支拡張症,L,J47,TU5U,=,http://id.who.int/icd/entity/1935524933 & http://id.who.int/icd/entity/490003542,=,CA24 & XT8W 
+10,細気管支拡張症,L,J47,V6NH,=,http://id.who.int/icd/entity/1027730157,=,CA24 & XA5437 
+10,炭坑夫塵肺症,L,J60,RC9A,=,http://id.who.int/icd/entity/1355167773,=,CA60.1
+10,炭坑夫肺症,S1,J60,RC9A,=,http://id.who.int/icd/entity/1355167773,=,CA60.1
+10,炭粉珪肺症,S2,J60,RC9A,=,http://id.who.int/icd/entity/1355167773,=,CA60.1
+10,炭粉症,S2,J60,RC9A,=,http://id.who.int/icd/entity/1355167773,=,CA60.1
+10,炭粉沈着症,S2,J60,RC9A,=,http://id.who.int/icd/entity/1355167773,=,CA60.1
+10,石綿肺,L,J61,TQDJ,=,http://id.who.int/icd/entity/898495881,=,CA60.2
+10,アスベスト肺症,S1,J61,TQDJ,=,http://id.who.int/icd/entity/898495881,=,CA60.2
+10,石粉症,L,J628,P1H5,=,http://id.who.int/icd/entity/1931138688,<,CA60.0Y
+10,珪肺症,L,J628,TMQS,=,http://id.who.int/icd/entity/1092658552 ,=,CA60.0Z
+10,珪肺(症),S1,J628,TMQS,=,http://id.who.int/icd/entity/1092658552 ,=,CA60.0Z
+10,珪肺,S1,J628,TMQS,=,http://id.who.int/icd/entity/1092658552 ,=,CA60.0Z
+10,珪酸性肺線維症,S2,J628,TMQS,=,http://id.who.int/icd/entity/1092658552 ,=,CA60.0Z
+10,アルミニウム肺症,L,J630,DB97,=,http://id.who.int/icd/entity/491097171,=,CA60.4 
+10,ボーキサイト線維症,L,J631,P4FC,=,http://id.who.int/icd/entity/2014200263,=,CA60.5
+10,ベリリウム肺症性肝肉芽腫,L,J632,L549,=,http://id.who.int/icd/entity/2103112167 ,=,DB97.1
+10,ベリリウム肺症,L,J632,SAPG,=,http://id.who.int/icd/entity/212013370,=,CA60.6
+10,黒鉛線維症,L,J633,KLDH,=,http://id.who.int/icd/entity/1776868524,=,CA60.7 
+10,鉄肺症,L,J634,BGAG,=,http://id.who.int/icd/entity/436621112,=,CA60.8 
+10,肺鉄沈着症,S1,J634,BGAG,=,http://id.who.int/icd/entity/436621112,=,CA60.8 
+10,錫肺症,L,J635,TRK1,=,http://id.who.int/icd/entity/2135786158,=,CA60.9 
+10,塵肺症,L,J64,D2CP,=,http://id.who.int/icd/entity/611962875,=,CA60.Z
+10,塵肺(症),S1,J64,D2CP,=,http://id.who.int/icd/entity/611962875,=,CA60.Z
+10,じん肺,S1,J64,D2CP,=,http://id.who.int/icd/entity/611962875,=,CA60.Z
+10,塵肺,S1,J64,D2CP,=,http://id.who.int/icd/entity/611962875,=,CA60.Z
+10,珪肺結核,L,J65,HJ45,=,http://id.who.int/icd/entity/49848756,<,CA60.3
+10,塵肺結核,L,J65,P47B,=,http://id.who.int/icd/entity/852375268,=,CA60.3
+10,綿肺症,L,J660,AK8U,=,http://id.who.int/icd/entity/994284974 ,=,CA80.0
+10,綿工場熱,S1,J660,AK8U,=,http://id.who.int/icd/entity/994284974 ,=,CA80.0
+10,麻服仕立工病,L,J661,SU13,=,http://id.who.int/icd/entity/1577605176 ,=,CA80.1
+10,農夫肺,L,J670,AB3J,=,http://id.who.int/icd/entity/666590509,=,CA70.0
+10,干し草製造者肺,S2,J670,AB3J,=,http://id.who.int/icd/entity/666590509,=,CA70.0
+10,カビ枯草病,S2,J670,AB3J,=,http://id.who.int/icd/entity/666590509,=,CA70.0
+10,収穫者肺,S2,J670,AB3J,=,http://id.who.int/icd/entity/666590509,=,CA70.0
+10,さとうきび肺,L,J671,NTL9,=,http://id.who.int/icd/entity/1123061945 ,=,CA70.1
+10,バガス病,S1,J671,NTL9,=,http://id.who.int/icd/entity/1123061945 ,=,CA70.1
+10,バガス肺臓炎,S1,J671,NTL9,=,http://id.who.int/icd/entity/1123061945 ,=,CA70.1
+10,鳥飼病,L,J672,BQU8,=,http://id.who.int/icd/entity/912113736,=,CA70.2
+10,鳩飼病,S1,J672,BQU8,=,http://id.who.int/icd/entity/912113736,=,CA70.2
+10,いんこ飼病,S1,J672,BQU8,=,http://id.who.int/icd/entity/245940284,=,CA70.2
+10,愛鳥家肺,S1,J672,BQU8,=,http://id.who.int/icd/entity/912113736,=,CA70.2
+10,コルク肺,L,J673,BP4P,=,http://id.who.int/icd/entity/1393954258,=,CA70.3
+10,コルク作業者病,S1,J673,BP4P,=,http://id.who.int/icd/entity/1393954258,=,CA70.3
+10,コルク取扱者病,S1,J673,BP4P,=,http://id.who.int/icd/entity/1393954258,=,CA70.3
+10,麦芽製造業者肺,L,J674,PJ7J,=,http://id.who.int/icd/entity/553164358 ,=,CA70.4
+10,きのこ作業者肺,L,J675,C6TS,=,http://id.who.int/icd/entity/1169380308 ,=,CA70.5
+10,かえで樹皮はぎ職人肺,L,J676,RBD3,=,http://id.who.int/icd/entity/824050477 ,=,CA70.6 
+10,クリプトストローマ症,S1,J676,RBD3,=,http://id.who.int/icd/entity/824050477 ,=,CA70.6 
+10,加湿器肺,L,J677,JDM9,=,http://id.who.int/icd/entity/1414909625,=,CA70.7 
+10,空調機肺,L,J677,NAGR,=,http://id.who.int/icd/entity/1414909625 ,=,CA70.7
+10,換気肺炎,S2,J677,NAGR,=,http://id.who.int/icd/entity/1414909625 ,=,CA70.7
+10,魚粉製造業者肺,L,J678,B2L4,=,http://id.who.int/icd/entity/410594510 ,<,CA70.Y
+10,コーヒー作業者肺,L,J678,BVGE,=,http://id.who.int/icd/entity/1116688913,<,CA70.Y
+10,チーズ洗浄職人肺,L,J678,E1Q1,=,http://id.who.int/icd/entity/946185824 ,<,CA70.Y
+10,セコイア症,L,J678,EUNC,=,http://id.who.int/icd/entity/91787357,<,CA70.Y
+10,夏型過敏性肺炎,L,J678,J0DT,<,http://id.who.int/icd/entity/589867913 ,<,CA70.Z 
+10,夏型過敏性肺臓炎,S1,J678,J0DT,<,http://id.who.int/icd/entity/589867913 ,<,CA70.Z 
+10,毛皮商人肺,L,J678,T612,=,http://id.who.int/icd/entity/2107801977,<,CA70.Y
+10,過敏性肺炎,L,J679,SA0G,=,http://id.who.int/icd/entity/589867913 ,=,CA70.Z 
+10,外因性アレルギー性肺胞炎,S1,J679,SA0G,=,http://id.who.int/icd/entity/589867913 ,=,CA70.Z 
+10,過敏性肺臓炎,S1,J679,SA0G,=,http://id.who.int/icd/entity/589867913 ,=,CA70.Z 
+10,アレルギー性肺臓炎,S2,J679,SA0G,=,http://id.who.int/icd/entity/589867913 ,=,CA70.Z 
+10,アレルギー性肺胞炎,S2,J679,SA0G,=,http://id.who.int/icd/entity/589867913 ,=,CA70.Z 
+10,フューム肺炎,L,J680,RCR2,=,http://id.who.int/icd/entity/1323941 ,<,CA81.0
+10,化学物質性気管支炎,L,J680,V5VS,=,http://id.who.int/icd/entity/807917615,<,CA81.0
+10,化学物質性肺水腫,L,J681,CQDR,=,http://id.who.int/icd/entity/208945925,=,CA81.1
+10,気道反応不全症候群,L,J683,ENP8,≒,http://id.who.int/icd/entity/496164464 ,<,CA81.Y
+10,慢性化学性気管支炎,L,J684,GP1A,=,http://id.who.int/icd/entity/1876943302 ,<,CA81.Y & XT8W
+10,パラコート肺,L,J684,NSR0,=,http://id.who.int/icd/entity/1581366987 & http://id.who.int/icd/entity/873644488,=,CA81.Z & XM4SL8 
+10,乳嚥下性肺炎,L,J690,D2GP,=,http://id.who.int/icd/entity/310723914 ,<,CA71.0
+10,吐物嚥下性肺炎,L,J690,GGQL,=,http://id.who.int/icd/entity/908351964 ,=,CA71.0 
+10,老人性嚥下性肺炎,L,J690,GPUV,<,http://id.who.int/icd/entity/1975993872 ,<,CA71.0
+10,胃分泌物嚥下性肺炎,L,J690,RL4J,=,http://id.who.int/icd/entity/1671894507 ,<,CA71.0
+10,誤嚥性肺炎,L,J690,S1VH,=,http://id.who.int/icd/entity/1975993872,=,CA71.0 
+10,嚥下性肺炎,S1,J690,S1VH,=,http://id.who.int/icd/entity/1975993872,=,CA71.0 
+10,吸引性肺炎,S1,J690,S1VH,=,http://id.who.int/icd/entity/1975993872,=,CA71.0 
+10,嚥下性急性肺炎,S2,J690,S1VH,=,http://id.who.int/icd/entity/1975993872 & http://id.who.int/icd/entity/786106375,=,CA71.0 & XT5R
+10,食物嚥下性肺炎,L,J690,TKFB,=,http://id.who.int/icd/entity/1665330555,<,CA71.0 
+10,リポイド肺炎,L,J691,UV54,=,http://id.who.int/icd/entity/1169694386,<,CA71.1 
+10,血液嚥下性肺炎,L,J698,EPCF,=,http://id.who.int/icd/entity/1358554843 ,=,CA71.2
+10,放射線肺炎,L,J700,G0JQ,=,http://id.who.int/icd/entity/1914397767,<,CA82.0 
+10,放射線性肺臓炎,S1,J700,G0JQ,=,http://id.who.int/icd/entity/1914397767,<,CA82.0 
+10,放射線性肺炎,S1,J700,G0JQ,=,http://id.who.int/icd/entity/1914397767,<,CA82.0 
+10,放射線肺臓炎,S1,J700,G0JQ,=,http://id.who.int/icd/entity/1914397767,<,CA82.0 
+10,放射線性肺線維症,L,J701,G22T,=,http://id.who.int/icd/entity/1487080297 ,<,CA82.1 
+10,放射線肺線維症,S1,J701,G22T,=,http://id.who.int/icd/entity/1487080297 ,<,CA82.1 
+10,放射線胸膜炎,L,J701,RB57,=,http://id.who.int/icd/entity/1487080297 / http://id.who.int/icd/entity/317852053,<,CA82.1 / MD31
+10,放射線性胸膜炎,S1,J701,RB57,=,http://id.who.int/icd/entity/1487080297 / http://id.who.int/icd/entity/317852053,<,CA82.1 / MD31
+10,急性薬物誘発性間質性肺障害,L,J702,HQTG,=,http://id.who.int/icd/entity/490639927,=,CA82.2
+10,慢性薬物誘発性間質性肺障害,L,J703,UC9H,=,http://id.who.int/icd/entity/2020958115,=,CA82.3
+10,薬剤性間質性肺炎,L,J704,TK07,=,http://id.who.int/icd/entity/2020958115,=,CA82.3
+10,薬剤性肺炎,S1,J704,TK07,=,http://id.who.int/icd/entity/2020958115,=,CA82.3
+10,薬剤性肺線維症,S1,J704,TK07,=,http://id.who.int/icd/entity/2020958115,=,CA82.3
+10,薬物性肺炎,S1,J704,TK07,=,http://id.who.int/icd/entity/2020958115,=,CA82.3
+10,薬剤性肺臓炎,S1,J704,TK07,=,http://id.who.int/icd/entity/2020958115,=,CA82.3
+10,輸血関連急性肺障害,L,J708,FNAS,=,http://id.who.int/icd/entity/1525860764,=,CB64
+10,輸血後急性肺障害,S1,J708,FNAS,=,http://id.who.int/icd/entity/1525860764,=,CB64
+10,輸血関連急性肺傷害,S1,J708,FNAS,=,http://id.who.int/icd/entity/1525860764,=,CB64
+10,TRALI,S1,J708,FNAS,=,http://id.who.int/icd/entity/1525860764,=,CB64
+10,高地肺水腫,L,J708,KGUV,<,http://id.who.int/icd/entity/841348715,<,CB01 
+10,高地性肺水腫,S1,J708,KGUV,<,http://id.who.int/icd/entity/841348715,<,CB01 
+10,ショック肺,L,J80,P68C,=,http://id.who.int/icd/entity/972865330,<,CB00
+10,急性呼吸窮迫症候群,L,J80,ST4F,=,http://id.who.int/icd/entity/1189702844,=,CB00
+10,成人呼吸促迫症候群,S1,J80,ST4F,=,http://id.who.int/icd/entity/1466842111,=,CB00 & XT6S 
+10,急性呼吸促迫症候群,S1,J80,ST4F,=,http://id.who.int/icd/entity/1189702844,=,CB00
+10,ARDS,S1,J80,ST4F,=,http://id.who.int/icd/entity/1189702844,=,CB00
+10,成人型呼吸切迫症候群,S1,J80,ST4F,=,http://id.who.int/icd/entity/1466842111,=,CB00 & XT6S 
+10,成人性呼吸窮迫症候群,S1,J80,ST4F,=,http://id.who.int/icd/entity/1466842111,=,CB00 & XT6S 
+10,成人性呼吸切迫症候群,S1,J80,ST4F,=,http://id.who.int/icd/entity/1466842111,=,CB00 & XT6S 
+10,成人肺硝子膜症,S1,J80,ST4F,≒,http://id.who.int/icd/entity/1466842111,=,CB00 & XT6S 
+10,成人呼吸窮迫症候群,S1,J80,ST4F,≒,http://id.who.int/icd/entity/1466842111,=,CB00 & XT6S 
+10,成人型呼吸窮迫症候群,S1,J80,ST4F,≒,http://id.who.int/icd/entity/1466842111,=,CB00 & XT6S 
+10,急性呼吸窮迫症,S1,J80,ST4F,=,http://id.who.int/icd/entity/1189702844,=,CB00
+10,急性呼吸切迫症候群,S1,J80,ST4F,=,http://id.who.int/icd/entity/1189702844,=,CB00
+10,成人呼吸切迫症候群,S1,J80,ST4F,=,http://id.who.int/icd/entity/1466842111,=,CB00 & XT6S 
+10,急性肺水腫,L,J81,E010,=,http://id.who.int/icd/entity/1212576561,=,CB01 & XT5R
+10,急性肺浮腫,S1,J81,E010,=,http://id.who.int/icd/entity/1212576561,=,CB01 & XT5R
+10,肺うっ血,L,J81,ENHL,=,http://id.who.int/icd/entity/841348715,=,CB01 
+10,肺うっ血症,S1,J81,ENHL,=,http://id.who.int/icd/entity/841348715,=,CB01 
+10,うっ血肺,S1,J81,ENHL,=,http://id.who.int/icd/entity/841348715,=,CB01 
+10,肺うっ血(症),S1,J81,ENHL,=,http://id.who.int/icd/entity/841348715,=,CB01 
+10,再膨張性肺水腫,L,J81,EPTJ,<,http://id.who.int/icd/entity/841348715,<,CB01
+10,再拡張性肺水腫,S1,J81,EPTJ,<,http://id.who.int/icd/entity/841348715,<,CB01
+10,非心原性肺水腫,L,J81,H730,<,http://id.who.int/icd/entity/841348715,<,CB01
+10,肺水腫,L,J81,RVH7,=,http://id.who.int/icd/entity/841348715,=,CB01
+10,単純性肺好酸球増加症,L,J82,AJRB,<,http://id.who.int/icd/entity/2097276976,<, CB02.1Z 
+10,レフレル症候群,S1,J82,AJRB,=,http://id.who.int/icd/entity/958353326,=,CB02.11 
+10,LOEFFLER症候群,S1,J82,AJRB,=,http://id.who.int/icd/entity/958353326,=,CB02.11 
+10,レフラー症候群,S1,J82,AJRB,=,http://id.who.int/icd/entity/958353326,=,CB02.11 
+10,単純性好酸球性肺炎,S1,J82,AJRB,=,http://id.who.int/icd/entity/544479555,=,CB02.Z 
+10,慢性好酸球性肺炎,L,J82,BV24,=,http://id.who.int/icd/entity/544479555 & http://id.who.int/icd/entity/490003542,=,CB02.Z &XT8W 
+10,慢性肺好酸球症,S1,J82,BV24,=,http://id.who.int/icd/entity/544479555 & http://id.who.int/icd/entity/490003542,=,CB02.Z &XT8W 
+10,遷延性肺好酸球増加症,S1,J82,BV24,=,http://id.who.int/icd/entity/544479555 & http://id.who.int/icd/entity/490003542,=,CB02.Z &XT8W 
+10,遷延性好酸球性肺炎,S1,J82,BV24,=,http://id.who.int/icd/entity/544479555 & http://id.who.int/icd/entity/490003542,=,CB02.Z &XT8W 
+10,急性好酸球性肺炎,L,J82,CTSU,=,http://id.who.int/icd/entity/544479555 & http://id.who.int/icd/entity/786106375,=,CB02.Z & XT5R
+10,好酸球性肺炎,L,J82,KPAP,=,http://id.who.int/icd/entity/544479555,=,CB02.Z
+10,PIE症候群,S1,J82,KPAP,=,http://id.who.int/icd/entity/544479555,=,CB02.Z
+10,肺好酸球増加症,S1,J82,KPAP,=,http://id.who.int/icd/entity/544479555,=,CB02.Z
+10,肺好酸球症,S1,J82,KPAP,=,http://id.who.int/icd/entity/544479555,=,CB02.Z
+10,肺好酸球浸潤症候群,S1,J82,KPAP,=,http://id.who.int/icd/entity/544479555,=,CB02.Z
+10,好酸球性気管支炎,L,J82,M8GB,=,http://id.who.int/icd/entity/544479555 / http://id.who.int/icd/entity/11753425 ,<,CB02.Y / CA20.Y 
+10,アレルギー性肺炎,L,J82,PLR3,=,http://id.who.int/icd/entity/589867913,=,CA70.Z
+10,熱帯性肺好酸球増多症,L,J82,QERP,=,http://id.who.int/icd/entity/694910970,=,CB02.2 
+10,WEINGARTEN症候群,S1,J82,QERP,=,http://id.who.int/icd/entity/544479555,=,CB02.Z 
+10,熱帯性好酸球増加症,S1,J82,QERP,=,http://id.who.int/icd/entity/694910970,=,CB02.2 
+10,ワインガルテン症候群,S1,J82,QERP,=,http://id.who.int/icd/entity/544479555,=,CB02.Z 
+10,熱帯性好酸球増加性肺炎,S1,J82,QERP,=,http://id.who.int/icd/entity/694910970,=,CB02.2 
+10,肺胞微石症,L,J840,CDLL,=,http://id.who.int/icd/entity/1220010076,=,CB06
+10,自己免疫性肺胞蛋白症,L,J840,EVFC,=,http://id.who.int/icd/entity/676409940,<,CB04.31 
+10,肺胞蛋白症,L,J840,FFUN,=,http://id.who.int/icd/entity/1869739196,=,CB04.31 
+10,先天性肺胞蛋白症,L,J840,P4ER,=,http://id.who.int/icd/entity/1603032478,=,CB04.31 & XB8M 
+10,遺伝性肺胞蛋白症,L,J840,RQK8,=,http://id.who.int/icd/entity/1603032478 ,=,CB04.31  & XB8M 
+10,特発性肺胞蛋白症,L,J840,SJU6,=,http://id.who.int/icd/entity/676409940,<,CB04.31 
+10,びまん性間質性肺炎,L,J841,C32V,=,http://id.who.int/icd/entity/1297512293,=,CB03.Z
+10,線維性間質性肺炎,S1,J841,C32V,=,http://id.who.int/icd/entity/1074069640,=,CB03.4
+10,呼吸細気管支炎関連性間質性肺疾患,L,J841,CPUM,=,http://id.who.int/icd/entity/822500243,=,CB03.6 
+10,RB-ILD,S1,J841,CPUM,=,http://id.who.int/icd/entity/822500243,=,CB03.6 
+10,リンパ球性間質性肺炎,L,J841,DAJ9,=,http://id.who.int/icd/entity/1140418798,=,CB03.5 
+10,LIP,S1,J841,DAJ9,=,http://id.who.int/icd/entity/1140418798,=,CB03.5 
+10,リンパ性間質性肺炎,S1,J841,DAJ9,=,http://id.who.int/icd/entity/1140418798,=,CB03.5 
+10,特発性間質性肺炎,L,J841,DMNJ,=,http://id.who.int/icd/entity/1297512293,=,CB03.Z
+10,特発性線維化性肺胞炎,S1,J841,DMNJ,=,http://id.who.int/icd/entity/1297512293,=,CB03.Z
+10,IIP,S1,J841,DMNJ,=,http://id.who.int/icd/entity/1297512293,=,CB03.Z
+10,炎症後肺線維症,L,J841,F30J,=,http://id.who.int/icd/entity/1074069640,=,CB03.4
+10,特発性器質化肺炎,L,J841,FPM6,=,http://id.who.int/icd/entity/1937662238,=,CB03.2
+10,BOOP,S1,J841,FPM6,=,http://id.who.int/icd/entity/1937662238,=,CB03.2
+10,器質化肺炎,S1,J841,FPM6,=,http://id.who.int/icd/entity/1937662238,=,CB03.2
+10,特発性BOOP,S1,J841,FPM6,=,http://id.who.int/icd/entity/1937662238,=,CB03.2
+10,COP,S1,J841,FPM6,=,http://id.who.int/icd/entity/1937662238,=,CB03.2
+10,非特異性間質性肺炎,L,J841,H5CA,=,http://id.who.int/icd/entity/1297512293,=,CB03.Z 
+10,NSIP,S1,J841,H5CA,=,http://id.who.int/icd/entity/1297512293,=,CB03.Z 
+10,急性間質性肺炎,L,J841,J8VH,=,http://id.who.int/icd/entity/2116884221,=,CB03.0 
+10,ハンマン・リッチ症候群,S1,J841,J8VH,=,http://id.who.int/icd/entity/2116884221,=,CB03.0 
+10,急性びまん性間質性肺炎,S1,J841,J8VH,=,http://id.who.int/icd/entity/2116884221,=,CB03.0 
+10,AIP,S1,J841,J8VH,=,http://id.who.int/icd/entity/2116884221,=,CB03.0 
+10,ハーマン・リッチ症候群,S1,J841,J8VH,=,http://id.who.int/icd/entity/2116884221,=,CB03.0 
+10,HAMMAN RICH症候群,S1,J841,J8VH,=,http://id.who.int/icd/entity/2116884221,=,CB03.0 
+10,通常型間質性肺炎,L,J841,K5A7,=,http://id.who.int/icd/entity/1074069640,=,CB03.4
+10,特発性肺線維症,L,J841,M6DJ,=,http://id.who.int/icd/entity/1074069640,=,CB03.4
+10,慢性間質性肺炎,S1,J841,M6DJ,=,http://id.who.int/icd/entity/1297512293 & http://id.who.int/icd/entity/490003542 ,=,CB03.Z & XT8W
+10,UIP,S1,J841,M6DJ,=,http://id.who.int/icd/entity/1074069640,=,CB03.4
+10,IPF,S1,J841,M6DJ,=,http://id.who.int/icd/entity/1074069640,=,CB03.4
+10,剥離性間質性肺炎,L,J841,Q5A5,=,http://id.who.int/icd/entity/1620001155,=,CB03.3
+10,DIP,S1,J841,Q5A5,=,http://id.who.int/icd/entity/1620001155,=,CB03.3
+10,びまん性肺胞傷害,L,J841,QP87,=,http://id.who.int/icd/entity/1270246788,=,CB05.0 
+10,肺線維症,L,J841,RB80,=,http://id.who.int/icd/entity/1074069640,=,CB03.4　
+10,慢性肺線維症,S1,J841,RB80,=,http://id.who.int/icd/entity/1074069640 & http://id.who.int/icd/entity/490003542,=,CB03.4 & XT8W　
+10,びまん性肺線維症,S1,J841,RB80,=,http://id.who.int/icd/entity/1074069640,=,CB03.4　
+10,びまん性間質性肺線維症,S1,J841,RB80,=,http://id.who.int/icd/entity/1074069640,=,CB03.4　
+10,間質性肺線維症,S1,J841,RB80,=,http://id.who.int/icd/entity/1074069640,=,CB03.4　
+10,気腫合併肺線維症,L,J841,TFKP,=,http://id.who.int/icd/entity/1361267223,=,CB03.1
+10,肺気腫合併肺線維症,S1,J841,TFKP,=,http://id.who.int/icd/entity/1361267223,=,CB03.1
+10,CPFE,S1,J841,TFKP,=,http://id.who.int/icd/entity/1361267223,=,CB03.1
+10,間質性肺炎,L,J849,SSA5,=,http://id.who.int/icd/entity/142052508,=,CA40.Z 
+10,間質性肺疾患,S2,J849,SSA5,=,http://id.who.int/icd/entity/142052508,=,CA40.Z 
+10,壊死性肺炎,L,J850,GJ8K,=,http://id.who.int/icd/entity/1766294259,<,CA43.0
+10,壊疽性肺炎,S1,J850,GJ8K,=,http://id.who.int/icd/entity/912272192,<,CA43.0 
+10,肺壊疽,L,J850,TSCL,=,http://id.who.int/icd/entity/912272192,<,CA43.0 
+10,肺壊死,S1,J850,TSCL,=,http://id.who.int/icd/entity/1766294259,<,CA43.0
+10,肺炎合併肺膿瘍,L,J851,F410,=,http://id.who.int/icd/entity/1090376918,=,CA43.1
+10,ＭＲＳＡ肺化膿症,L,J852,BLQ7,=,http://id.who.int/icd/entity/877691945 / http://id.who.int/icd/entity/1710270895,=,CA43.2 / MG51.00 
+10,MRSA肺化膿症,S0,J852,BLQ7,=,http://id.who.int/icd/entity/877691945 / http://id.who.int/icd/entity/1710270895,=,CA43.2 / MG51.00 
+10,肺化膿症,L,J852,D27M,=,http://id.who.int/icd/entity/877691945,=,CA43.2
+10,肺膿瘍,L,J852,J9A3,=,http://id.who.int/icd/entity/877691945,=,CA43.2
+10,慢性肺化膿症,L,J852,MMF2,=,http://id.who.int/icd/entity/877691945 & http://id.who.int/icd/entity/490003542,=,CA43.2 & XT8W 
+10,ぶどう球菌性肺膿瘍,L,J852,PGJ8,=,http://id.who.int/icd/entity/877691945 & http://id.who.int/icd/entity/428956900,=,CA43.2 & XN9ZG 
+10,ブドウ球菌性肺膿瘍,S1,J852,PGJ8,=,http://id.who.int/icd/entity/877691945 & http://id.who.int/icd/entity/428956900,=,CA43.2 & XN9ZG 
+10,縦隔膿瘍,L,J853,KHA6,=,http://id.who.int/icd/entity/1360742845,=,CA43.3 
+10,胸膜瘻,L,J860,LHT8,=,http://id.who.int/icd/entity/1727868570,<,CA44 &  XA5TT2 
+10,気管支瘻膿胸,L,J860,QB4B,=,http://id.who.int/icd/entity/1388776089,<,CA44
+10,慢性膿胸,L,J869,DM79,=,http://id.who.int/icd/entity/1103848959 & http://id.who.int/icd/entity/490003542,=,CA44 & XT8W
+10,全膿胸,L,J869,DPCQ,=,http://id.who.int/icd/entity/1103848959 & http://id.who.int/icd/entity/1957947885,=,CA44
+10,限局性膿胸,L,J869,L0EF,=,http://id.who.int/icd/entity/1103848959  & http://id.who.int/icd/entity/108658876,=,CA44 & XK9A 
+10,膿胸,L,J869,LH8E,=,http://id.who.int/icd/entity/1342042688,=,CA44
+10,化膿性胸膜炎,S1,J869,LH8E,=,http://id.who.int/icd/entity/1342042688,<,CA44
+10,胸膜周囲膿瘍,S1,J869,LH8E,<,http://id.who.int/icd/entity/1103848959,<,CA44
+10,化膿性肋膜炎,S1,J869,LH8E,=,http://id.who.int/icd/entity/1342042688,<,CA44
+10,ＭＲＳＡ膿胸,L,J869,PDG2,=,http://id.who.int/icd/entity/1103848959 / http://id.who.int/icd/entity/1710270895,=,CA44 / MG51.00
+10,MRSA膿胸,S0,J869,PDG2,=,http://id.who.int/icd/entity/1103848959 / http://id.who.int/icd/entity/1710270895,=,CA44 / MG51.00
+10,血性胸水,L,J90,BETK,=,http://id.who.int/icd/entity/951218073,=,CB26
+10,ぶどう球菌性胸膜炎,L,J90,CS1K,=,http://id.who.int/icd/entity/1258963089,=,CA44  XN9ZG
+10,ブドウ球菌性胸膜炎,S1,J90,CS1K,=,http://id.who.int/icd/entity/1258963089,=,CA44  XN9ZG
+10,細菌性胸膜炎,L,J90,DRQK,=,http://id.who.int/icd/entity/11236328 & http://id.who.int/icd/entity/83217129 ,=,CB27 & XN74M
+10,コレステリン胸膜炎,L,J90,F8N1,<,http://id.who.int/icd/entity/11236328,<,CB27
+10,滲出性胸水,L,J90,LLQD,=, http://id.who.int/icd/entity/1413341388,<,CB27
+10,湿性胸膜炎,L,J90,PD2V,=,http://id.who.int/icd/entity/11236328,=,CB27
+10,湿性肋膜炎,S1,J90,PD2V,=,http://id.who.int/icd/entity/11236328,=,CB27
+10,滲出性胸膜炎,S1,J90,PD2V,=,http://id.who.int/icd/entity/1413341388,<,CB27
+10,滲出性肋膜炎,S1,J90,PD2V,=,http://id.who.int/icd/entity/1413341388,<,CB27
+10,葉間胸水,L,J90,PDD7,<,http://id.who.int/icd/entity/11236328,<,CB27
+10,葉間肋膜炎,S2,J90,PDD7,<,http://id.who.int/icd/entity/11236328,<,CB27
+10,漏出性胸水,L,J90,PQ8F,=,http://id.who.int/icd/entity/11236328,<,CB27
+10,良性石綿胸水,L,J90,R0D0,=,http://id.who.int/icd/entity/11236328 / http://id.who.int/icd/entity/898495881 ,=,CB27 / CA60.2
+10,連鎖球菌性胸膜炎,L,J90,V9TG,=,http://id.who.int/icd/entity/1507498374,=,CB27 /  CA40.0Y & XN3NM
+10,れんさ球菌性胸膜炎,S1,J90,V9TG,=,http://id.who.int/icd/entity/1507498374,=,CB27 /  CA40.0Y & XN3NM
+10,胸水貯留,L,J90,VLHC,=,http://id.who.int/icd/entity/11236328,=,CB27
+10,胸水,S1,J90,VLHC,=,http://id.who.int/icd/entity/11236328,=,CB27
+10,石綿関連びまん性胸膜肥厚,L,J920,PGEH,=,http://id.who.int/icd/entity/248859443,<,CB20
+10,石綿性胸膜斑,L,J920,RA6K,=,http://id.who.int/icd/entity/248859443,<,CB20
+10,石綿性胸膜肥厚斑,S1,J920,RA6K,=,http://id.who.int/icd/entity/248859443,<,CB20
+10,,S1,J920,RA6K,=,http://id.who.int/icd/entity/248859443,<,CB20
+10,石綿胸膜斑,S1,J920,RA6K,=,http://id.who.int/icd/entity/248859443,<,CB20
+10,アスベスト胸膜斑,S1,J920,RA6K,=,http://id.who.int/icd/entity/248859443,<,CB20
+10,石綿性胸膜プラーク,S1,J920,RA6K,=,http://id.who.int/icd/entity/248859443,<,CB20
+10,アスベスト胸膜肥厚斑,S1,J920,RA6K,=,http://id.who.int/icd/entity/248859443,<,CB20
+10,石綿胸膜肥厚斑,S1,J920,RA6K,=,http://id.who.int/icd/entity/248859443,<,CB20
+10,アスベスト性胸膜肥厚斑,S1,J920,RA6K,=,http://id.who.int/icd/entity/248859443,<,CB20
+10,胸膜斑,L,J929,TCAS,=,http://id.who.int/icd/entity/290320013,=,CB20
+10,プラク,S1,J929,TCAS,=,http://id.who.int/icd/entity/290320013,=,CB20
+10,胸膜プラーク,S1,J929,TCAS,=, http://id.who.int/icd/entity/290320013,=,CB20
+10,胸膜肥厚,L,J929,V7E5,=,http://id.who.int/icd/entity/1696137329,<,CB20
+10,肋膜肥厚,S1,J929,V7E5,<,http://id.who.int/icd/entity/1696137329,<,CB20
+10,胸膜限局肥厚,S2,J929,V7E5,=,http://id.who.int/icd/entity/1696137329 & http://id.who.int/icd/entity/108658876,<,CB20 & XK9A 
+10,びまん性胸膜肥厚,L,J929,V89B,=,http://id.who.int/icd/entity/1696137329 & http://id.who.int/icd/entity/1265853763,<,CB20 & XK31 
+10,緊張性気胸,L,J930,C3TK,=,http://id.who.int/icd/entity/304972724,=,CB21.0 
+10,緊張性自然気胸,S1,J930,C3TK,=,http://id.who.int/icd/entity/304972724,=,CB21.0 
+10,自然気胸,L,J931,LJJ3,=,http://id.who.int/icd/entity/2003193382,=,CB21.1
+10,特発性気胸,L,J931,SPEM,=,http://id.who.int/icd/entity/1946559257 & http://id.who.int/icd/entity/894194405,=,CB21.Z & XB5F 
+10,続発性気胸,L,J938,C1SB,=,http://id.who.int/icd/entity/1491306667,=,CB21.Y & XT6Z
+10,気胸,L,J939,M8L4,=,http://id.who.int/icd/entity/1946559257,=,CB21.Z
+10,線維胸,L,J941,FNK3,=,http://id.who.int/icd/entity/1277116264,=,CB25 
+10,血気胸,L,J942,DV96,=,http://id.who.int/icd/entity/1997980779,<,CB26
+10,気血胸,S1,J942,DV96,=,http://id.who.int/icd/entity/1997980779,<,CB26
+10,血胸,L,J942,SSH0,=,http://id.who.int/icd/entity/951218073,=,CB26
+10,胸膜瘢痕,L,J948,AN5G,=,http://id.who.int/icd/entity/727104878 & http://id.who.int/icd/entity/805568052,<,CB40.Y & XA5TT2
+10,水胸,L,J948,DUF4,=,http://id.who.int/icd/entity/11236328,=,CB27
+10,胸膜うっ血,L,J948,JU06,=,http://id.who.int/icd/entity/625999505,<,CB2Y&XA5TT2
+10,胸膜癒着,L,J948,PNR0,=,http://id.who.int/icd/entity/1820262011,<,MD31 
+10,肋膜癒着,S1,J948,PNR0,=,http://id.who.int/icd/entity/1820262011,<,MD31 
+10,胸膜石灰化,L,J948,VDH7,=,http://id.who.int/icd/entity/190964705,<,CB2Y & XA5TT2
+10,胸膜疾患,L,J949,T4LB,=,http://id.who.int/icd/entity/132690061,=,CB2Z & XA5TT2
+10,気管切開機能障害,L,J950,DHF2,=,http://id.who.int/icd/entity/900479603,=,CB60
+10,気管切開部気道閉塞,L,J950,DSAD,=,http://id.who.int/icd/entity/1723727501,<,CB60
+10,気管切開後気管腕頭動脈瘻,L,J950,F6DJ,<,http://id.who.int/icd/entity/900479603 ,<,CB60 
+10,気管腕頭動脈瘻,S1,J950,F6DJ,<,http://id.who.int/icd/entity/900479603 ,<,CB60 
+10,気管切開部敗血症,L,J950,P28R,=,http://id.who.int/icd/entity/871499972 / http://id.who.int/icd/entity/1891465458,<,CB60 / 1G40
+10,気管切開後気管食道瘻,L,J950,T65R,=,http://id.who.int/icd/entity/1659211811,<,CB60
+10,気管切開部出血,L,J950,V6Q4,=,http://id.who.int/icd/entity/117944902,<,CB60
+10,肺切除後遺症,L,J953,JPC3,=,http://id.who.int/icd/entity/1090611854,=,CB61
+10,メンデルソン症候群,L,J954,U8QU,=,http://id.who.int/icd/entity/854587674,=,CA72 
+10,MENDELSON症候群,S1,J954,U8QU,=,http://id.who.int/icd/entity/854587674,=,CA72 
+10,処置後声門下狭窄,L,J955,HSEK,=,http://id.who.int/icd/entity/1470379148,=,CB62
+10,術後無気肺,L,J958,CQQB,=,"http://id.who.int/icd/entity/1090611854 / http://id.who.int/icd/entity/52186342 
+",=,CB61 / CB40.2
+10,術後肺炎,L,J958,M7S5,=,http://id.who.int/icd/entity/1090611854 / http://id.who.int/icd/entity/142052508,=,CB61 / CA40.Z
+10,術後呼吸不全,L,J958,R76F,=,http://id.who.int/icd/entity/1090611854 / http://id.who.int/icd/entity/1609027855 ,=,CB61 / CB41.2Z
+10,人工呼吸器関連肺炎,L,J958,RD8E,=,http://id.who.int/icd/entity/2063950303,<,PK81.0
+10,VAP,S1,J958,RD8E,=,http://id.who.int/icd/entity/2063950303,<,PK81.0
+10,喉頭摘出術後遺症,L,J958,V26C,=,http://id.who.int/icd/entity/1952274258 / http://id.who.int/icd/entity/314973876,=,NE81.Y / CB41.2Z
+10,術後肺合併症,L,J959,QSRQ,<,http://id.who.int/icd/entity/1090611854 ,<,CB61 
+10,急性１型呼吸不全,L,J9600,N2MR,=,http://id.who.int/icd/entity/1298895686,=,CB41.20 
+10,急性1型呼吸不全,S0,J9600,N2MR,=,http://id.who.int/icd/entity/1298895686,=,CB41.20 
+10,急性低酸素性呼吸不全,S1,J9600,N2MR,=,http://id.who.int/icd/entity/1298895686,=,CB41.20 
+10,急性呼吸不全1型,S1,J9600,N2MR,=,http://id.who.int/icd/entity/1298895686,=,CB41.20 
+10,急性２型呼吸不全,L,J9601,DFNU,=,http://id.who.int/icd/entity/1552748079,=,CB41.21
+10,急性2型呼吸不全,S0,J9601,DFNU,=,http://id.who.int/icd/entity/1552748079,=,CB41.21
+10,急性呼吸不全2型,S1,J9601,DFNU,=,http://id.who.int/icd/entity/1552748079,=,CB41.21
+10,急性高炭酸ガス性呼吸不全,S1,J9601,DFNU,=,http://id.who.int/icd/entity/1552748079,=,CB41.21
+10,慢性呼吸不全急性増悪,L,J9609,H12K,<,http://id.who.int/icd/entity/1365268441,<,CB41.1Z
+10,急性呼吸不全,L,J9609,KCD0,=,http://id.who.int/icd/entity/875272781,=,CB41.0Z
+10,慢性１型呼吸不全,L,J9610,HPAL,=,http://id.who.int/icd/entity/189285942,=,CB41.10 
+10,慢性1型呼吸不全,S0,J9610,HPAL,=,http://id.who.int/icd/entity/189285942,=,CB41.10 
+10,慢性呼吸不全1型,S1,J9610,HPAL,=,http://id.who.int/icd/entity/189285942,=,CB41.10 
+10,慢性低酸素性呼吸不全,S1,J9610,HPAL,=,http://id.who.int/icd/entity/189285942,=,CB41.10 
+10,慢性２型呼吸不全,L,J9611,CK69,=,http://id.who.int/icd/entity/795057595,=,CB41.11 
+10,慢性2型呼吸不全,S0,J9611,CK69,=,http://id.who.int/icd/entity/795057595,=,CB41.11 
+10,慢性高炭酸ガス性呼吸不全,S1,J9611,CK69,=,http://id.who.int/icd/entity/795057595,=,CB41.11 
+10,慢性呼吸不全2型,S1,J9611,CK69,=,http://id.who.int/icd/entity/795057595,=,CB41.11 
+10,慢性呼吸不全,L,J9619,KSQ8,=,http://id.who.int/icd/entity/1365268441,=,CB41.1Z
+10,１型呼吸不全,L,J9690,G1DR,=,http://id.who.int/icd/entity/1298895686,=,CB41.20
+10,1型呼吸不全,S0,J9690,G1DR,=,http://id.who.int/icd/entity/1298895686,=,CB41.20
+10,低酸素性呼吸不全,S1,J9690,G1DR,=,http://id.who.int/icd/entity/1298895686,=,CB41.20
+10,呼吸不全1型,S1,J9690,G1DR,=,http://id.who.int/icd/entity/1298895686,=,CB41.20
+10,２型呼吸不全,L,J9691,CUMB,=,http://id.who.int/icd/entity/1552748079,=,CB41.21 
+10,2型呼吸不全,S0,J9691,CUMB,=,http://id.who.int/icd/entity/1552748079,=,CB41.21 
+10,呼吸不全2型,S1,J9691,CUMB,=,http://id.who.int/icd/entity/1552748079,=,CB41.21 
+10,高炭酸ガス性呼吸不全,S1,J9691,CUMB,=,http://id.who.int/icd/entity/1552748079,=,CB41.21 
+10,呼吸不全,L,J9699,VH1R,=,http://id.who.int/icd/entity/1609027855,=,CB41.2Z 
+10,食道気管支瘻,L,J980,AGGF,=,http://id.who.int/icd/entity/1378021897,<,CA44 
+10,気管支うっ血,L,J980,APQD,=,http://id.who.int/icd/entity/1675153441,<,CB40.Y & XA61M6 
+10,気管気管支虚脱,L,J980,CUB5,=,http://id.who.int/icd/entity/308592416,<,"CB40.Y & XA07R2
+"
+10,気管気管支ジスキネジア,L,J980,E4PF,=,http://id.who.int/icd/entity/763745846,<,CB40.Y
+10,気管支狭窄症,L,J980,EBFL,=,http://id.who.int/icd/entity/323663504,<,CB40.Y & XA61M6 
+10,気管支狭窄,S1,J980,EBFL,=,http://id.who.int/icd/entity/323663504,<,CB40.Y & XA61M6 
+10,気管支石灰沈着,L,J980,EUU2,=,http://id.who.int/icd/entity/2028167831,<,CB40.Y & XA61M6 
+10,気管食道瘻,L,J980,FE1P,=,http://id.who.int/icd/entity/43431231,<,CA44 
+10,肺穿孔,L,J980,G1FT,=,http://id.who.int/icd/entity/129274687,=,NB32.31
+10,気管支潰瘍,L,J980,GNT4,=,http://id.who.int/icd/entity/1490463445,<,CB40.Y & XA61M6 
+10,気管支痙攣,L,J980,H18K,=,http://id.who.int/icd/entity/328458065,<,CB40.Y & XA07R2
+10,気管支軟化症,L,J980,HC56,=,http://id.who.int/icd/entity/330997183,<,CB40.Y & XA61M6 
+10,気管支麻痺,L,J980,KG35,=,http://id.who.int/icd/entity/366414023,<,CB40.Y & XA61M6 
+10,気管支食道瘻,L,J980,P27B,=,http://id.who.int/icd/entity/1378021897,<,CA44 
+10,気管支結石症,L,J980,QFHM,=,http://id.who.int/icd/entity/1001420981,<,CB40.Y & XA61M6 
+10,気管支瘻,L,J980,T4VM,=,http://id.who.int/icd/entity/1461116407,<,CA44 
+10,食道気管瘻,L,J980,U9RV,=,http://id.who.int/icd/entity/43431231,<,CA44 
+10,気管支ポリープ,L,J980,URF1,<,http://id.who.int/icd/entity/1717010800 & http://id.who.int/icd/entity/909890232,<,CB40.Y & XA61M6 
+10,気管支漏,L,J980,UVQD,=,http://id.who.int/icd/entity/924549421,<,CB40.Y & XA61M6
+10,ブロンコレア,S1,J980,UVQD,=,http://id.who.int/icd/entity/924549421,<,CB40.Y & XA61M6 
+10,板状無気肺,L,J981,BA8M,=,http://id.who.int/icd/entity/52186342 & http://id.who.int/icd/entity/1322869997,=,"CB40.2 & XA5437
+"
+10,無気肺,L,J981,C3N3,=,http://id.who.int/icd/entity/52186342,=,CB40.2 
+10,閉塞性無気肺,L,J981,CFP9,=,http://id.who.int/icd/entity/52186342 / http://id.who.int/icd/entity/72913615,<,CB40.2 / CB40.Y & XA61M6
+10,上葉無気肺,L,J981,DKHK,=,http://id.who.int/icd/entity/654455441 ,=,CB40.2 & XA9HN5 
+10,部分無気肺,L,J981,E0AV,=,http://id.who.int/icd/entity/52186342 & http://id.who.int/icd/entity/167867186,=,CB40.2 & XK06 
+10,続発性無気肺,L,J981,GKNC,=,http://id.who.int/icd/entity/52186342 & http://id.who.int/icd/entity/1313511357,=,CB40.2 & XT6Z
+10,中葉症候群,L,J981,HMLU,=,http://id.who.int/icd/entity/479360967,=,CB40.2 & XA1N36 
+10,中肺葉症候群,S1,J981,HMLU,=,http://id.who.int/icd/entity/479360967,=,CB40.2 & XA1N36 
+10,ブロック症候群,S1,J981,HMLU,=,http://id.who.int/icd/entity/479360967,=,CB40.2 & XA1N36 
+10,肺虚脱,L,J981,J4KR,=,http://id.who.int/icd/entity/52186342,=,CB40.2 
+10,中葉無気肺,L,J981,KA35,=,http://id.who.int/icd/entity/479360967 ,=,CB40.2 & XA1N36
+10,下葉無気肺,L,J981,UL9N,=,http://id.who.int/icd/entity/52186342 & http://id.who.int/icd/entity/1013784154,=,CB40.2 & XA7L34 
+10,縦隔気腫,L,J982,HT70,=,http://id.who.int/icd/entity/121109203,=,CB40.3 & XA7WA2 
+10,代償性肺気腫,L,J983,FTET,=,http://id.who.int/icd/entity/318427535,=,CB40.4
+10,胸膜下のう胞,L,J984,FH8N,=,http://id.who.int/icd/entity/1628717595 & http://id.who.int/icd/entity/805568052,<,CB40.Y  & XA5TT2
+10,胸膜下嚢胞,S1,J984,FH8N,=,http://id.who.int/icd/entity/1628717595 & http://id.who.int/icd/entity/805568052,<,CB40.Y  & XA5TT2
+10,急性肺傷害,L,J984,HQ4C,=,http://id.who.int/icd/entity/1628717595 & http://id.who.int/icd/entity/786106375,=,CB40 & XA57M6 & XT5R
+10,急性肺損傷,S1,J984,HQ4C,=,http://id.who.int/icd/entity/1628717595 & http://id.who.int/icd/entity/786106375,=,CB40 & XA57M6 & XT5R
+10,気管支のう胞,L,J984,KB5E,=,http://id.who.int/icd/entity/355400995,<,CB40.Y  & XA61M6
+10,気管支嚢胞,S1,J984,KB5E,=,http://id.who.int/icd/entity/355400995,<,CB40.Y  & XA61M6
+10,非特異的炎症性肺腫瘤,L,J984,M4MU,<,http://id.who.int/icd/entity/850824593 & http://id.who.int/icd/entity/1338477196,<,CB40.Y & XA57
+10,縦隔気管支のう胞,L,J984,NVFN,<,http://id.who.int/icd/entity/355400995,<,CB40.Y  & XA61M6
+10,縦隔気管支嚢胞,S1,J984,NVFN,<,http://id.who.int/icd/entity/355400995,<,CB40.Y  & XA61M6
+10,肺尖ヘルニア,L,J984,PMCB,<,http://id.who.int/icd/entity/564190512 ,<,CB40.Y  & XA57M6
+10,肺瘻,L,J984,RKCB,=,http://id.who.int/icd/entity/1177361994,<,CA44 
+10,肺結石,L,J984,SRNQ,=,http://id.who.int/icd/entity/122924437,<,CB40.Y  & XA57M6
+10,肺ヘルニア,L,J984,SUPS,=,http://id.who.int/icd/entity/564190512,<,CB40.Y  & XA57M6
+10,肺胸膜ヘルニア,S2,J984,SUPS,=,http://id.who.int/icd/entity/564190512 & http://id.who.int/icd/entity/805568052,<,CB40.Y  & XA5TT2 
+10,肺のう胞,L,J984,VTUP,=,http://id.who.int/icd/entity/1959160209,<,CB40.Y  & XA57M6
+10,肺のう胞症,S1,J984,VTUP,=,http://id.who.int/icd/entity/1959160209,<,CB40.Y  & XA57M6
+10,肺嚢胞,S1,J984,VTUP,=,http://id.who.int/icd/entity/1959160209,<,CB40.Y  & XA57M6
+10,肺嚢胞症,S1,J984,VTUP,=,http://id.who.int/icd/entity/1959160209,<,CB40.Y  & XA57M6
+10,縦隔ヘルニア,L,J985,BURL,=,http://id.who.int/icd/entity/1523447311,<,CB22.Y 
+10,急性縦隔炎,L,J985,FFUU,=,http://id.who.int/icd/entity/1916221484,<,CB22.Y 
+10,縦隔炎,L,J985,GP8P,=,http://id.who.int/icd/entity/1612791605,<,CB22.Y 
+10,術後縦隔タンポナーデ,L,J985,JN21,<,http://id.who.int/icd/entity/1612791605 & http://id.who.int/icd/entity/182265087,<,CB22.Y &XY7V
+10,縦隔線維症,L,J985,PM5L,=,http://id.who.int/icd/entity/123840075,=,CB22.0
+10,線維性縦隔炎,S1,J985,PM5L,=,http://id.who.int/icd/entity/123840075,=,CB22.0
+10,縦隔洞線維症,S1,J985,PM5L,=,http://id.who.int/icd/entity/123840075,=,CB22.0
+10,線維性縦隔洞炎,S1,J985,PM5L,=,http://id.who.int/icd/entity/123840075,=,CB22.0
+10,硬化性縦隔炎,S1,J985,PM5L,=,http://id.who.int/icd/entity/178709124,<,CB22.Y 
+10,縦隔退縮,L,J985,TK21,=,http://id.who.int/icd/entity/1861547767,<,CB22.Y
+10,術後縱隔洞炎,L,J985,U6D6,=,http://id.who.int/icd/entity/1612791605 & http://id.who.int/icd/entity/182265087,<,CB22.Y & XY7V
+10,横隔膜麻痺,L,J986,A815,=,http://id.who.int/icd/entity/792919470,<,CB23 
+10,横隔膜炎,L,J986,CR99,=,http://id.who.int/icd/entity/1124735890,<,CB23 
+10,横隔膜腫瘤,L,J986,TS13,<,http://id.who.int/icd/entity/1894965106,<,CB23
+10,気道狭窄,L,J988,KC4S,=,http://id.who.int/icd/entity/760594666,<,CB40.Y
+10,気道閉塞,L,J988,KH9B,=,http://id.who.int/icd/entity/760594666,<,CB40.Y

@@ -1,0 +1,1933 @@
+ICD10 章,標準病名,代表・同義,ICD10コード,交換コード,関係,ICD11 Foundation URI,関係,MMS
+7,麦粒腫,L,H000,BH69,=,http://id.who.int/icd/entity/1259721857 ,=,9A01.2Z 
+7,眼瞼麦粒腫,S1,H000,BH69,=,http://id.who.int/icd/entity/1259721857 ,=,9A01.2Z 
+7,ものもらい,S1,H000,BH69,=,http://id.who.int/icd/entity/1259721857 ,=,9A01.2Z 
+7,眼瞼膿瘍,S2,H000,BH69,=,http://id.who.int/icd/entity/247839673,=,9A01.1 
+7,上眼瞼部せつ,S2,H000,BH69,=,http://id.who.int/icd/entity/1921810289,=,9A01.1&XA9K79
+7,眼瞼せつ,S2,H000,BH69,=,http://id.who.int/icd/entity/247839673,=,9A01.1 
+7,下眼瞼蜂巣炎,L,H000,DES1,=,http://id.who.int/icd/entity/1489677992 & http://id.who.int/icd/entity/1468820019 ,=,9A01.0 & XA0JV9
+7,下眼瞼蜂窩織炎,S1,H000,DES1,=,http://id.who.int/icd/entity/1489677992 & http://id.who.int/icd/entity/1468820019 ,=,9A01.0 & XA0JV9
+7,マイボーム腺炎,L,H000,FKFM,=,http://id.who.int/icd/entity/1804498477 ,=,9A01.21 
+7,瞼板腺炎,S1,H000,FKFM,=,http://id.who.int/icd/entity/1804498477 ,=,9A01.21 
+7,マイボーム腺膿瘍,S2,H000,FKFM,=,http://id.who.int/icd/entity/1804498477,=,9A01.21
+7,眼瞼蜂巣炎,L,H000,GFSG,=,"http://id.who.int/icd/entity/1489677992 & 
+http://id.who.int/icd/entity/1142633691 ",=,9A01.0 & XA3RB1
+7,眼瞼フレグモーネ,S1,H000,GFSG,=,"http://id.who.int/icd/entity/1489677992 & 
+http://id.who.int/icd/entity/1142633691 ",=,9A01.0 & XA3RB1
+7,眼瞼蜂窩織炎,S1,H000,GFSG,=,"http://id.who.int/icd/entity/1489677992 & 
+http://id.who.int/icd/entity/1142633691 ",=,9A01.0 & XA3RB1
+7,内麦粒腫,L,H000,N2TV,=,http://id.who.int/icd/entity/1804498477,=,9A01.21 
+7,外麦粒腫,L,H000,NLQK,=,http://id.who.int/icd/entity/522397394,=,9A01.20
+7,上眼瞼蜂巣炎,L,H000,TL6M,=,"http://id.who.int/icd/entity/1489677992 & 
+http://id.who.int/icd/entity/844452979 ",=,9A01.0 & XA9K79
+7,上眼瞼蜂窩織炎,S1,H000,TL6M,=,"http://id.who.int/icd/entity/1489677992 & 
+http://id.who.int/icd/entity/844452979 ",=,9A01.0 & XA9K79
+7,急性霰粒腫,L,H001,GAN8,=,http://id.who.int/icd/entity/777918741 & http://id.who.int/icd/entity/786106375,=,9A02.0Z & XT5R
+7,上尖性霰粒腫,L,H001,JL7F,<,http://id.who.int/icd/entity/777918741 & http://id.who.int/icd/entity/844452979 ,<,9A02.0Z & XA9K79
+7,霰粒腫,L,H001,MENL,=,http://id.who.int/icd/entity/777918741 ,=,9A02.0Z 
+7,眼瞼肉芽腫,S1,H001,MENL,=,http://id.who.int/icd/entity/777918741 ,=,9A02.0Z 
+7,慢性霰粒腫,S1,H001,MENL,=,http://id.who.int/icd/entity/777918741 & http://id.who.int/icd/entity/490003542 ,=,9A02.0Z & XT8W 
+7,眼瞼霰粒腫,S1,H001,MENL,=,http://id.who.int/icd/entity/777918741 ,=,9A02.0Z 
+7,瞼板腺栓塞,S2,H001,MENL,=,http://id.who.int/icd/entity/777918741 ,=,9A02.0Z 
+7,ポリープ様霰粒腫,S2,H001,MENL,=,http://id.who.int/icd/entity/777918741 ,<,9A02.0Z 
+7,化膿性霰粒腫,L,H001,Q47S,<,http://id.who.int/icd/entity/777918741,<,9A02.0Z
+7,下尖性霰粒腫,L,H001,RQTF,=,http://id.who.int/icd/entity/777918741 & http://id.who.int/icd/entity/1468820019,=,9A02.0Z
+7,睫毛性眼瞼炎,L,H010,CQ8A,=,http://id.who.int/icd/entity/1475156994,=,9A01.3
+7,しゅさ性眼瞼炎,L,H010,D2AV,=,"http://id.who.int/icd/entity/647749158 & http://id.who.int/icd/entity/1142633691 
+",=,ED90.0Y & XA3RB1
+7,酒さ性眼瞼炎,S1,H010,D2AV,=,"http://id.who.int/icd/entity/647749158 & http://id.who.int/icd/entity/1142633691 
+",=,ED90.0Y & XA3RB1
+7,毒物性眼瞼炎,L,H010,ERHA,=,http://id.who.int/icd/entity/1475156994 &  http://id.who.int/icd/entity/1234065952,=,9A01.3 & XE13E 
+7,眼角部眼瞼炎,L,H010,FMNJ,=,http://id.who.int/icd/entity/1475156994 & (http://id.who.int/icd/entity/2044502963 OR http://id.who.int/icd/entity/1861535603 ),=,9A01.3 & (XA0403 OR XA2GQ3)
+7,眼瞼炎,L,H010,JUUR,=,http://id.who.int/icd/entity/1475156994,=,9A01.3
+7,眼瞼発赤,S2,H010,JUUR,=,http://id.who.int/icd/entity/1475156994,=,9A01.3
+7,湿疹性眼瞼炎,L,H010,K8A2,<,http://id.who.int/icd/entity/1475156994,<,9A01.3
+7,眼瞼縁炎,L,H010,L822,=,http://id.who.int/icd/entity/1475156994,=,9A01.3
+7,眼瞼周囲炎,S1,H010,L822,=,http://id.who.int/icd/entity/1475156994,=,9A01.3
+7,毛包眼瞼炎,L,H010,MQND,=,http://id.who.int/icd/entity/1259721857     ,=,9A01.2Z 
+7,毛のう眼瞼炎,S1,H010,MQND,=,http://id.who.int/icd/entity/1259721857     ,=,9A01.2Z 
+7,毛嚢眼瞼炎,S1,H010,MQND,=,http://id.who.int/icd/entity/1259721857     ,=,9A01.2Z 
+7,脂漏性眼瞼炎,L,H010,R8TH,=,http://id.who.int/icd/entity/1420272543,=,9A06.71 
+7,脂肪性眼瞼炎,S1,H010,R8TH,=,http://id.who.int/icd/entity/1420272543,=,9A06.71 
+7,潰瘍性眼瞼炎,L,H010,RSQV,<,http://id.who.int/icd/entity/1475156994,<,9A01.3
+7,ぶどう球菌性眼瞼炎,L,H010,SC21,=,"http://id.who.int/icd/entity/1475156994 & 
+http://id.who.int/icd/entity/428956900",=,9A01.3&XN9ZG
+7,ブドウ球菌性眼瞼炎,S1,H010,SC21,=,"http://id.who.int/icd/entity/1475156994 & 
+http://id.who.int/icd/entity/428956900",=,9A01.3&XN9ZG
+7,薬物性眼瞼炎,L,H010,UR8B,<,http://id.who.int/icd/entity/1475156994,<,9A01.3
+7,接触眼瞼皮膚炎,L,H011,BE6G,=,http://id.who.int/icd/entity/2083171222,<,9A06.Y
+7,眼瞼乾皮症,L,H011,P136,=,http://id.who.int/icd/entity/144401595,<,9A06.Y
+7,眼瞼皮膚炎,L,H011,RB63,=, http://id.who.int/icd/entity/849793428,<,9A06.Y
+7,眼瞼の非感染性皮膚症,S2,H011,RB63,=,http://id.who.int/icd/entity/849793428,<,9A06.Y
+7,アレルギー性眼瞼縁炎,L,H011,U511,=,http://id.who.int/icd/entity/394493841,<,9A06.Y
+7,アレルギー性眼瞼炎,L,H011,VQU3,=,http://id.who.int/icd/entity/394493841,<,9A06.Y
+7,アトピー性眼瞼皮膚炎,S1,H011,VQU3,=,http://id.who.int/icd/entity/1979385529,=,9A06.70 
+7,アレルギー性眼瞼皮膚炎,S1,H011,VQU3,=,http://id.who.int/icd/entity/394493841,<,9A06.Y
+7,湿疹性眼瞼皮膚炎,L,H011,VRBV,=,http://id.who.int/icd/entity/1226494097,<,9A06.Y
+7,眼瞼湿疹,S2,H011,VRBV,=,http://id.who.int/icd/entity/1226494097,<,9A06.Y
+7,眼瞼びらん,L,H018,TU0D,<,http://id.who.int/icd/entity/1504678744,<,9A02.Y 
+7,眼瞼瘻孔,L,H018,V58B,<,http://id.who.int/icd/entity/1504678744,<,9A02.Y 
+7,眼瞼内反症,L,H020,C01U,=,http://id.who.int/icd/entity/1516023078,=,9A03.1Z
+7,眼瞼内反(症),S1,H020,C01U,=,http://id.who.int/icd/entity/1516023078,=,9A03.1Z
+7,眼瞼内反,S1,H020,C01U,=,http://id.who.int/icd/entity/1516023078,=,9A03.1Z
+7,瘢痕性眼瞼内反症,L,H020,EC4E,=,http://id.who.int/icd/entity/1058496688,=,9A03.10
+7,睫毛乱生症,L,H020,FS6H,=,http://id.who.int/icd/entity/945071067,=,9A04.0 
+7,睫毛乱生(症),S1,H020,FS6H,=,http://id.who.int/icd/entity/945071067,=,9A04.0 
+7,睫毛乱生,S1,H020,FS6H,=,http://id.who.int/icd/entity/945071067,=,9A04.0 
+7,眼瞼睫毛乱生症,S1,H020,FS6H,=,http://id.who.int/icd/entity/945071067,=,9A04.0 
+7,老人性眼瞼内反症,L,H020,L45T,=,http://id.who.int/icd/entity/787611099,=,9A03.12
+7,睫毛内反症,L,H020,S09K,=,http://id.who.int/icd/entity/945071067,=,9A03.1Z
+7,痙性眼瞼内反症,L,H020,UGEU,=,http://id.who.int/icd/entity/1562340943,=,9A03.13 
+7,麻痺性眼瞼外反症,L,H021,BAER,=,http://id.who.int/icd/entity/182068824,=,9A03.23 
+7,麻痺性外反症,S1,H021,BAER,=,http://id.who.int/icd/entity/182068824,=,9A03.23
+7,瘢痕性眼瞼外反症,L,H021,BNHB,=,http://id.who.int/icd/entity/1758603433,=,9A03.20 
+7,眼瞼外反症,L,H021,G381,=,http://id.who.int/icd/entity/857829804 ,=,9A03.2Z
+7,眼瞼外反(症),S1,H021,G381,=,http://id.who.int/icd/entity/857829804 ,=,9A03.2Z
+7,眼瞼外反,S1,H021,G381,=,http://id.who.int/icd/entity/857829804 ,=,9A03.2Z
+7,老人性眼瞼外反症,L,H021,JJ10,=,http://id.who.int/icd/entity/2033497540,=,9A03.22
+7,痙性眼瞼外反症,L,H021,JSSS,=,http://id.who.int/icd/entity/182068824,=,9A03.23
+7,麻痺性兎眼症,L,H022,HGKJ,=,http://id.who.int/icd/entity/2122617367,=,9A03.42
+7,顔面神経麻痺性兎眼症,S1,H022,HGKJ,=,http://id.who.int/icd/entity/2122617367,=,9A03.42
+7,兎眼症,L,H022,HK50,=,http://id.who.int/icd/entity/1200365909,=,9A03.4Z
+7,兎眼(症),S1,H022,HK50,=,http://id.who.int/icd/entity/1200365909,=,9A03.4Z
+7,兎眼,S1,H022,HK50,=,http://id.who.int/icd/entity/1200365909,=,9A03.4Z
+7,眼瞼皮膚弛緩症,L,H023,AEHV,=,http://id.who.int/icd/entity/583527617,=,9A06.8
+7,偽性眼瞼下垂症,L,H023,GN4V,<,http://id.who.int/icd/entity/45565998,<,9A03.5
+7,偽眼瞼下垂,S1,H023,GN4V,<,http://id.who.int/icd/entity/45565998,<,9A03.0Z 
+7,不全眼瞼下垂症,S2,H023,GN4V,<,http://id.who.int/icd/entity/45565998,<,9A03.0Z 
+7,筋無力性眼瞼下垂症,L,H024,ACV9,=,http://id.who.int/icd/entity/807528854,=,9A03.02
+7,眼瞼下垂症,L,H024,BMH5,=,http://id.who.int/icd/entity/1361674069,=,9A03.0Z 
+7,眼瞼下垂,S1,H024,BMH5,=,http://id.who.int/icd/entity/1361674069,=,9A03.0Z 
+7,眼瞼下垂(症),S1,H024,BMH5,=,http://id.who.int/icd/entity/1361674069,=,9A03.0Z 
+7,麻痺性眼瞼下垂症,L,H024,FD9M,=,http://id.who.int/icd/entity/1433019392,=,9A03.03
+7,筋原性眼瞼下垂症,L,H024,GFDB,=,http://id.who.int/icd/entity/807528854,=,9A03.02
+7,交感神経性眼瞼下垂症,L,H024,JR90,<,http://id.who.int/icd/entity/1361674069,<,9A03.0Y
+7,機械性眼瞼下垂症,L,H024,LHGT,=,http://id.who.int/icd/entity/1150073195,=,9A03.01
+7,筋萎縮性眼瞼下垂,L,H024,PDT3,=,http://id.who.int/icd/entity/1361674069 / http://id.who.int/icd/entity/2073854870,<,9A03.0Y / FB32.Y
+7,痙攣性眼瞼下垂症,L,H024,TFCK,=,http://id.who.int/icd/entity/1433019392,<,9A03.0Y 
+7,眼裂異常,L,H025,AJAN,=,http://id.who.int/icd/entity/1305335252,=,9A03.Z 
+7,眼瞼縮小,L,H025,EMGM,=,http://id.who.int/icd/entity/45050905,=,9A03.3
+7,眼瞼萎縮,S2,H025,EMGM,=,http://id.who.int/icd/entity/45050905,=,9A03.3
+7,眼瞼癒着,L,H025,F46F,=,http://id.who.int/icd/entity/45050905,=,9A03.3
+7,眼瞼後退症,L,H025,G1QU,=,http://id.who.int/icd/entity/45050905,=,9A03.3
+7,眼裂後退,S1,H025,G1QU,=,http://id.who.int/icd/entity/45050905,=,9A03.3
+7,眼瞼狭窄,L,H025,HERS,=,http://id.who.int/icd/entity/45050905,=,9A03.3
+7,眼裂狭小,L,H025,NPLL,=,http://id.who.int/icd/entity/1361674069,=,9A03.0Z
+7,眼瞼瘢痕,L,H025,R1J7,=,http://id.who.int/icd/entity/829235056,=,9A06.3
+7,瞼裂縮小,L,H025,RCE9,=,http://id.who.int/icd/entity/1361674069,=,9A03.0Z
+7,眼瞼黄色腫,L,H026,M6AA,=,http://id.who.int/icd/entity/1087365696,=,9A06.4
+7,眼瞼黄色板症,S1,H026,M6AA,=,http://id.who.int/icd/entity/1087365696,=,9A06.4
+7,眼瞼偏平黄色腫,S1,H026,M6AA,=,http://id.who.int/icd/entity/1087365696,=,9A06.4
+7,睫毛脱毛,L,H027,HJRU,=,http://id.who.int/icd/entity/1920274373,=,9A04.1 & XA1RK2
+7,眼瞼睫毛禿,S1,H027,HJRU,=,http://id.who.int/icd/entity/1920274373,=,9A04.1 & XA1RK2
+7,睫毛脱落,S1,H027,HJRU,=,http://id.who.int/icd/entity/1920274373,=,9A04.1 & XA1RK2
+7,睫毛脱落症,S1,H027,HJRU,=,http://id.who.int/icd/entity/1920274373,=,9A04.1 & XA1RK2
+7,眼瞼白斑,L,H027,MDDV,=,http://id.who.int/icd/entity/1390019541,=,9A06.1 & XA3RB1
+7,睫毛白毛,L,H027,TGQK,=,http://id.who.int/icd/entity/469605305,<,9A04.Y 
+7,眼瞼肝斑,L,H027,V3E8,=,http://id.who.int/icd/entity/136743240 / http://id.who.int/icd/entity/101755595,=,9A06.Y / ED60.1 
+7,眼瞼異物残留,L,H028,AN99,=,http://id.who.int/icd/entity/324130117,=,NA06.03 
+7,眼瞼内異物残留,S1,H028,AN99,=,http://id.who.int/icd/entity/324130117,=,NA06.03 
+7,下眼瞼浮腫,L,H028,CJP1,=,http://id.who.int/icd/entity/947667256,=,NA06.02 & XA0JV9
+7,特発性眼瞼浮腫症,L,H028,EJVG,=,"http://id.who.int/icd/entity/1901714362 &
+ http://id.who.int/icd/entity/894194405",=,NA06.02 & XB5F
+7,瞼縁肥厚症,L,H028,H82T,=,http://id.who.int/icd/entity/1901714362,=,NA06.02
+7,眼瞼肥厚症,S1,H028,H82T,=,http://id.who.int/icd/entity/1901714362,=,NA06.02
+7,眼瞼浮腫,L,H028,HT2U,=,http://id.who.int/icd/entity/1901714362,=,NA06.02
+7,眼瞼腫脹,S2,H028,HT2U,=,http://id.who.int/icd/entity/1901714362,=,NA06.02
+7,眼瞼多毛症,L,H028,K375,=,http://id.who.int/icd/entity/1623148241,<,9A04.Y
+7,マイボーム腺梗塞,L,H028,K3J7,<,http://id.who.int/icd/entity/2113471999,<,9A02.4
+7,瞼板性梗塞,S1,H028,K3J7,<,http://id.who.int/icd/entity/2113471999,<,9A02.4
+7,瞼板腺梗塞,S1,H028,K3J7,<,http://id.who.int/icd/entity/2113471999,<,9A02.4
+7,瞼板腺分泌過多,L,H028,M03P,<,http://id.who.int/icd/entity/2113471999,<,9A02.4
+7,マイボーム腺分泌過多,S1,H028,M03P,<,http://id.who.int/icd/entity/2113471999,<,9A02.4
+7,マイボーム腺機能不全,L,H028,MU1T,=,http://id.who.int/icd/entity/2113471999,=,9A02.4
+7,眼瞼良性腫瘤,L,H029,JH6M,=,http://id.who.int/icd/entity/1269792630 & http://id.who.int/icd/entity/1142633691,=,2F36.Z & XA3RB1 
+7,眼瞼腫瘤,L,H029,KSRT,=,"http://id.who.int/icd/entity/247839673 or
+http://id.who.int/icd/entity/1744602556",=,9A01.1 or 2F36.4 
+7,急性涙腺炎,L,H040,ARUK,=,http://id.who.int/icd/entity/1957823459 & http://id.who.int/icd/entity/490003542,=,9A10.0 & XT5R 
+7,慢性涙腺炎,L,H040,B4AK,=,http://id.who.int/icd/entity/1957823459 & http://id.who.int/icd/entity/490003542,=,9A10.0 & XT8W 
+7,涙腺炎,L,H040,M7P1,=,http://id.who.int/icd/entity/2022949279,<,9A10.Y
+7,涙腺肥大,L,H040,RET7,<,http://id.who.int/icd/entity/1108174726 ,<,9A10.Y
+7,慢性涙腺腫大,S2,H040,RET7,=,http://id.who.int/icd/entity/1108174726 / http://id.who.int/icd/entity/1319974781,=,9A10.Y / MC12
+7,ドライアイ,L,H041,A71G,=,http://id.who.int/icd/entity/634778462,=,9A10.4
+7,眼球乾燥症候群,S1,H041,A71G,=,http://id.who.int/icd/entity/634778462,=,9A10.4
+7,涙腺粘液のう胞,L,H041,HLP0,<,http://id.who.int/icd/entity/1108174726 / http://id.who.int/icd/entity/1163790602,<,9A10.Y / 2F36.Y 
+7,涙腺粘液嚢胞,S1,H041,HLP0,<,http://id.who.int/icd/entity/1108174726 / http://id.who.int/icd/entity/1163790602,<,9A10.Y / 2F36.Y 
+7,涙腺のう腫,L,H041,NK65,<,http://id.who.int/icd/entity/1108174726 / http://id.who.int/icd/entity/1163790602,<,9A10.Y / 2F36.Y 
+7,涙腺のう胞,S1,H041,NK65,<,http://id.who.int/icd/entity/1108174726 / http://id.who.int/icd/entity/1163790602,<,9A10.Y / 2F36.Y 
+7,涙腺嚢胞,S1,H041,NK65,<,http://id.who.int/icd/entity/1108174726 / http://id.who.int/icd/entity/1163790602,<,9A10.Y / 2F36.Y 
+7,涙腺嚢腫,S1,H041,NK65,<,http://id.who.int/icd/entity/1108174726 / http://id.who.int/icd/entity/1163790602,<,9A10.Y / 2F36.Y 
+7,涙腺瘤,S2,H041,NK65,<,http://id.who.int/icd/entity/1108174726 / http://id.who.int/icd/entity/1163790602,<,9A10.Y / 2F36.Y 
+7,涙腺萎縮,L,H041,Q4PQ,<,http://id.who.int/icd/entity/1108174726,<,9A10.Y 
+7,涙液分泌不全,L,H041,REP6,=,http://id.who.int/icd/entity/634778462 ,=,9A10.4
+7,涙液減少症,S1,H041,REP6,=,http://id.who.int/icd/entity/634778462 ,=,9A10.4
+7,涙液分泌低下症,S1,H041,REP6,=,http://id.who.int/icd/entity/634778462 ,=,9A10.4
+7,涙液分泌減少症,S1,H041,REP6,=,http://id.who.int/icd/entity/634778462 ,=,9A10.4
+7,涙液分泌過多,L,H042,AEHA,=,http://id.who.int/icd/entity/221405565 ,=,9A10.3
+7,症候性流涙症,L,H042,PNHG,=,http://id.who.int/icd/entity/1108174726  / http://id.who.int/icd/entity/1611503766  ,=,9A10.Z / MC13
+7,流涙,L,H042,RTDU,=,http://id.who.int/icd/entity/1108174726  / http://id.who.int/icd/entity/1611503766  ,=,9A10.Z / MC13
+7,涙のう炎,L,H043,L859,=,http://id.who.int/icd/entity/1034960983,=,9A11.2 
+7,涙嚢炎,S1,H043,L859,=,http://id.who.int/icd/entity/1034960983,=,9A11.2 
+7,急性涙のう炎,L,H043,R1RE,=,http://id.who.int/icd/entity/743890238 ,=,9A11.2 & XT5R
+7,急性涙嚢炎,S1,H043,R1RE,=,http://id.who.int/icd/entity/743890238 ,=,9A11.2 & XT5R
+7,涙のう周囲膿瘍,L,H043,RL3G,<,http://id.who.int/icd/entity/1807441683,<,9A11.Y
+7,涙嚢周囲膿瘍,S1,H043,RL3G,<,http://id.who.int/icd/entity/1807441683,<,9A11.Y
+7,涙小管炎,L,H043,RVFK,=,http://id.who.int/icd/entity/678655279,=,9A11.1
+7,涙管炎,S1,H043,RVFK,=,http://id.who.int/icd/entity/678655279,=,9A11.1
+7,急性涙小管炎,S2,H043,RVFK,=,http://id.who.int/icd/entity/1226641576,=,9A11.1 & XT5R
+7,涙のう周囲炎,L,H043,TU2H,<,http://id.who.int/icd/entity/1807441683,<,9A11.Y
+7,涙嚢周囲炎,S1,H043,TU2H,<,http://id.who.int/icd/entity/1807441683,<,9A11.Y
+7,急性涙のう周囲炎,S2,H043,TU2H,<,"http://id.who.int/icd/entity/1807441683  & 
+http://id.who.int/icd/entity/786106375",<,9A11.Y & XT5R
+7,急性涙嚢周囲炎,S2,H043,TU2H,<,"http://id.who.int/icd/entity/1807441683  & 
+http://id.who.int/icd/entity/786106375",<,9A11.Y & XT5R
+7,亜急性涙のう炎,L,H043,VDG9,=,http://id.who.int/icd/entity/1034960983 & http://id.who.int/icd/entity/2058324694,=,9A11.2 & XT1L 
+7,亜急性涙嚢炎,S1,H043,VDG9,=,http://id.who.int/icd/entity/1034960983 & http://id.who.int/icd/entity/2058324694,=,9A11.2 & XT1L 
+7,涙小管のう胞,L,H044,B4RP,<,http://id.who.int/icd/entity/1252902422 & http://id.who.int/icd/entity/1263812675,<,9A11.Y  & XA6C35
+7,涙小管嚢胞,S1,H044,B4RP,<,http://id.who.int/icd/entity/1252902422 & http://id.who.int/icd/entity/1263812675,<,9A11.Y  & XA6C35
+7,慢性涙のう炎,L,H044,BE97,=,http://id.who.int/icd/entity/617640909,=,9A11.2 & XT8W
+7,慢性涙嚢炎,S1,H044,BE97,=,http://id.who.int/icd/entity/617640909,=,9A11.2 & XT8W
+7,慢性涙小管炎,L,H044,M6DK,=,http://id.who.int/icd/entity/1350378292,=,9A11.1 & XT8W
+7,涙道の慢性炎症,S2,H044,M6DK,=,http://id.who.int/icd/entity/534795345 & http://id.who.int/icd/entity/490003542,<,9A11.Y & XT8W
+7,涙点閉塞症,L,H045,B2EN,=,"http://id.who.int/icd/entity/16492610  or 
+http://id.who.int/icd/entity/1515461302",=,9A11.4 or LA14.11
+7,涙点閉塞,S1,H045,B2EN,=,"http://id.who.int/icd/entity/16492610  or 
+http://id.who.int/icd/entity/1515461302",=,9A11.4 or LA14.11
+7,涙道閉塞症,L,H045,EH9D,=,http://id.who.int/icd/entity/1464034329 ,<,9A11.Y 
+7,涙道閉鎖症,S1,H045,EH9D,=,http://id.who.int/icd/entity/1464034329 ,<,9A11.Y 
+7,涙道閉塞,S1,H045,EH9D,=,http://id.who.int/icd/entity/1464034329 ,<,9A11.Y 
+7,鼻涙管狭窄症,L,H045,GG8H,=,http://id.who.int/icd/entity/287126827 & http://id.who.int/icd/entity/640375349,=,"9A11.5 &  & 
+XA5SW"
+7,涙点外反,L,H045,JHM7,=,http://id.who.int/icd/entity/129526571,=,9A11.0
+7,涙小管狭窄,L,H045,L8EM,=,http://id.who.int/icd/entity/287126827 & http://id.who.int/icd/entity/1263812675 ,=,9A11.5 & XA6C35
+7,涙管狭窄,S1,H045,L8EM,=,http://id.who.int/icd/entity/287126827,=,9A11.5 
+7,涙嚢狭窄,S2,H045,L8EM,=,http://id.who.int/icd/entity/1706059220,=,9A11.7 
+7,涙のう狭窄,S2,H045,L8EM,=,http://id.who.int/icd/entity/1706059220,=,9A11.7 
+7,総涙小管狭窄,L,H045,N4RS,=,http://id.who.int/icd/entity/287126827 & http://id.who.int/icd/entity/640375349,=,"9A11.5 &  
+XA6C35"
+7,鼻涙管閉鎖症,L,H045,N7RG,=,http://id.who.int/icd/entity/729476309,=,9A11.8
+7,鼻涙管閉塞症,S1,H045,N7RG,=,http://id.who.int/icd/entity/729476309,=,9A11.8
+7,鼻涙管閉塞,S1,H045,N7RG,=,http://id.who.int/icd/entity/729476309,=,9A11.8
+7,涙道狭窄,L,H045,NG5T,<,http://id.who.int/icd/entity/1464034329 ,<,9A11.Y
+7,涙小管閉塞症,L,H045,PU48,=,http://id.who.int/icd/entity/1464034329 & http://id.who.int/icd/entity/1263812675 ,<,9A11.Y & XA6C35
+7,涙管閉塞,S1,H045,PU48,<,http://id.who.int/icd/entity/1807441683  ,<,9A11.Y
+7,涙小管閉塞(症),S1,H045,PU48,=,http://id.who.int/icd/entity/1464034329 & http://id.who.int/icd/entity/1263812675 ,<,9A11.Y & XA6C35
+7,涙管閉鎖症,S1,H045,PU48,<,http://id.who.int/icd/entity/1807441683  ,<,9A11.Y
+7,涙小管閉塞,S1,H045,PU48,=,http://id.who.int/icd/entity/1464034329 & http://id.who.int/icd/entity/1263812675 ,<,9A11.Y & XA6C35
+7,鼻涙管結石,L,H045,SHF0,=,http://id.who.int/icd/entity/1930771414 & http://id.who.int/icd/entity/640375349,=,9A11.6 & XA5SW9
+7,涙小管結石症,L,H045,VBL5,=,http://id.who.int/icd/entity/1930771414 & http://id.who.int/icd/entity/1263812675,=,9A11.6 & XA6C35
+7,涙結石症,S1,H045,VBL5,=,http://id.who.int/icd/entity/1930771414　,=,9A11.6
+7,涙道瘻,L,H046,AQQN,<,http://id.who.int/icd/entity/1807441683,<,9A11.Y 
+7,涙管腫,L,H046,KFSU,=,http://id.who.int/icd/entity/315494486,=,2F36.Y & XA2PA4 
+7,涙小管瘻,L,H046,Q5FV,<,"http://id.who.int/icd/entity/1807441683 & 
+http://id.who.int/icd/entity/1263812675",<,9A11.Y & XA6C35 
+7,涙管フィステル,S1,H046,Q5FV,<,http://id.who.int/icd/entity/1807441683 & http://id.who.int/icd/entity/1461677444,<,9A11.Y & XA2PA4 
+7,涙のう瘻,L,H046,RQV8,<,http://id.who.int/icd/entity/1807441683 & http://id.who.int/icd/entity/1063556764,<,9A11.Y  & XA0096
+7,涙嚢瘻,S1,H046,RQV8,<,http://id.who.int/icd/entity/1807441683 & http://id.who.int/icd/entity/1063556764,<,9A11.Y  & XA0096
+7,涙のうフィステル,S1,H046,RQV8,<,http://id.who.int/icd/entity/1807441683 & http://id.who.int/icd/entity/1063556764,<,9A11.Y  & XA0096
+7,涙嚢フィステル,S1,H046,RQV8,<,http://id.who.int/icd/entity/1807441683 & http://id.who.int/icd/entity/1063556764,<,9A11.Y  & XA0096
+7,眼窩蜂巣炎,L,H050,AN2N,=,http://id.who.int/icd/entity/1330743591,=,9A21.0
+7,眼窩蜂窩織炎,S1,H050,AN2N,=,http://id.who.int/icd/entity/1330743591,=,9A21.0
+7,眼窩蜂巣織炎,S1,H050,AN2N,=,http://id.who.int/icd/entity/1330743591,=,9A21.0
+7,テノンのう炎,L,H050,DPEN,=,http://id.who.int/icd/entity/2010962534,<,9A22.Z
+7,テノン嚢炎,S1,H050,DPEN,=,http://id.who.int/icd/entity/2010962534,<,9A22.Z
+7,眼窩膿瘍,L,H050,E8GU,=,http://id.who.int/icd/entity/1578799163,=,9A21.2
+7,眼窩骨膜炎,L,H050,J9UD,,http://id.who.int/icd/entity/1589056590,=,9A21.3
+7,急性眼窩うっ血,L,H050,JAT9,,http://id.who.int/icd/entity/2096451605 & http://id.who.int/icd/entity/786106375,<,9A20.00 & XT5R
+7,眼窩骨髄炎,L,H050,MBQD,=,http://id.who.int/icd/entity/1006426584 ,=,FB84.Y & XA8E69
+7,急性眼窩炎,L,H050,PH0E,=,http://id.who.int/icd/entity/1830014336 ,=,9A22.Z & XT5R
+7,眼窩の急性炎症,S1,H050,PH0E,=,http://id.who.int/icd/entity/1830014336,=,9A22.Z & XT5R
+7,眼窩下膿瘍,L,H050,RG9D,=,http://id.who.int/icd/entity/1730588366,=,9A21.1
+7,眼窩炎,L,H051,AVUV,=,http://id.who.int/icd/entity/490666746,=,9A22.Z
+7,眼窩の慢性炎症性障害,S2,H051,AVUV,=,http://id.who.int/icd/entity/139985130,=,9A22.Z & XT8W
+7,炎症性眼窩疾患,S2,H051,AVUV,=,http://id.who.int/icd/entity/4906667466,=,9A22.Z 
+7,炎症性眼窩うっ血,L,H051,D0G0,<,http://id.who.int/icd/entity/2096451605,<,9A20.00
+7,眼窩偽腫瘍,L,H051,DNNE,=,http://id.who.int/icd/entity/173665970,<,9A22.Z
+7,眼窩筋炎,L,H051,NF60,<,http://id.who.int/icd/entity/882282008,<,9A22.Z
+7,眼窩炎性偽腫瘍,L,H051,U4LE,=,http://id.who.int/icd/entity/173665970,<,9A22.Z
+7,眼窩内偽性腫瘍,S1,H051,U4LE,=,http://id.who.int/icd/entity/173665970,<,9A22.Z
+7,偽眼窩腫瘍,S1,H051,U4LE,=,http://id.who.int/icd/entity/173665970,<,9A22.Z
+7,眼窩炎症性偽腫瘍,S1,H051,U4LE,=,http://id.who.int/icd/entity/173665970,<,9A22.Z
+7,眼窩偽リンパ腫,S2,H051,U4LE,=,http://id.who.int/icd/entity/173665970,<,9A22.Z
+7,眼窩肉芽腫,S2,H051,U4LE,=,http://id.who.int/icd/entity/412401982,=,9A22.2
+7,眼窩血腫,L,H052,D2RA,=,http://id.who.int/icd/entity/247626624,=,9A25.4
+7,眼窩出血,S1,H052,D2RA,=,http://id.who.int/icd/entity/247626624,=,9A25.4
+7,眼球偏位,L,H052,H96F,=,http://id.who.int/icd/entity/1117762038,=,9A20.0Z 
+7,眼球突出症,L,H052,KH38,=,http://id.who.int/icd/entity/2096451605,<,9A20.00
+7,眼球突出,S1,H052,KH38,=,http://id.who.int/icd/entity/1781942437,=,9A20.00
+7,眼球突出(症),S1,H052,KH38,=,http://id.who.int/icd/entity/2096451605,<,9A20.00
+7,眼窩うっ血,L,H052,M2PC,=,http://id.who.int/icd/entity/2096451605,<,9A20.00
+7,間欠性眼球突出症,L,H052,MLBH,=,http://id.who.int/icd/entity/409412994,<,9A20.00
+7,間歇性眼球突出症,S1,H052,MLBH,=,http://id.who.int/icd/entity/409412994,<,9A20.00
+7,間欠性眼球突出(症),S1,H052,MLBH,=,http://id.who.int/icd/entity/409412994,<,9A20.00
+7,間欠性眼球突出,S1,H052,MLBH,=,http://id.who.int/icd/entity/409412994,<,9A20.00
+7,眼窩浮腫,L,H052,P0PP,=,http://id.who.int/icd/entity/2096451605,<,9A20.00
+7,拍動性眼球突出症,L,H052,TBRM,=,http://id.who.int/icd/entity/1825207679,<,9A20.00
+7,拍動性眼球突出(症),S1,H052,TBRM,=,http://id.who.int/icd/entity/1825207679,<,9A20.00
+7,拍動性眼球突出,S1,H052,TBRM,=,http://id.who.int/icd/entity/1825207679,<,9A20.00
+7,眼球突出性眼筋麻痺,L,H052,US5H,<,http://id.who.int/icd/entity/2096451605 / http://id.who.int/icd/entity/1848588735,<,9A20.00 / 9C82.Y 
+7,眼窩萎縮,L,H053,A3EJ,=,http://id.who.int/icd/entity/2059048078,<,9A2Y 
+7,眼窩外骨腫症,L,H053,R392,=,http://id.who.int/icd/entity/1336044953,=,9A24.4 
+7,眼窩変形,L,H053,V5DS,=,http://id.who.int/icd/entity/431922561,<,9A2Y
+7,外傷性眼球陥没症,L,H054,A9UC,=,http://id.who.int/icd/entity/1080492035,<,9A20.01
+7,外傷性眼球陥没,S1,H054,A9UC,=,http://id.who.int/icd/entity/1080492035,<,9A20.01
+7,外傷性眼球陥没(症),S1,H054,A9UC,=,http://id.who.int/icd/entity/1080492035,<,9A20.01
+7,外傷性眼球陥入,S1,H054,A9UC,=,http://id.who.int/icd/entity/1080492035,<,9A20.01
+7,外傷性眼球陥入症,S1,H054,A9UC,=,http://id.who.int/icd/entity/1080492035,<,9A20.01
+7,外傷性眼球陥入(症),S1,H054,A9UC,=,http://id.who.int/icd/entity/1080492035,<,9A20.01
+7,眼球陥没,L,H054,FHCN,=,http://id.who.int/icd/entity/1783631381,=,9A20.01
+7,眼球陥入,S1,H054,FHCN,=,http://id.who.int/icd/entity/1783631381,=,9A20.01
+7,眼球陥凹,S1,H054,FHCN,=,http://id.who.int/icd/entity/1783631381,=,9A20.01
+7,眼窩内異物残留,L,H055,BTSQ,=,http://id.who.int/icd/entity/105174385,=,NA06.2
+7,眼筋内異物残留,L,H055,UMUS,=,http://id.who.int/icd/entity/131498364,<,NA06.2
+7,外眼筋ミオパチー,L,H058,EU8A,=,http://id.who.int/icd/entity/973190159,=,9C82.Z
+7,眼筋ミオパシー,S1,H058,EU8A,=,http://id.who.int/icd/entity/1877039847,=,8C77 
+7,外眼筋ミオパシー,S1,H058,EU8A,=,http://id.who.int/icd/entity/973190159,=,9C82.Z
+7,眼筋ミオパチー,S1,H058,EU8A,=,http://id.who.int/icd/entity/1877039847,=,8C77 
+7,眼窩脂肪ヘルニア,L,H058,M541,<,http://id.who.int/icd/entity/73394252,<,9A2Z
+7,眼窩脂肪脱出,S1,H058,M541,<,http://id.who.int/icd/entity/73394252,<,9A2Z
+7,眼窩脂肪脱,S1,H058,M541,<,http://id.who.int/icd/entity/73394252,<,9A2Z
+7,眼窩隔壁弛緩症,L,H058,MV3T,<,http://id.who.int/icd/entity/73394252,<,9A2Z
+7,眼窩のう胞,L,H058,V78T,=,http://id.who.int/icd/entity/1244231313,=,9A23.Z
+7,眼窩嚢胞,S1,H058,V78T,=,http://id.who.int/icd/entity/1244231313,=,9A23.Z
+7,眼窩内疾患,L,H059,RLGT,=,http://id.who.int/icd/entity/73394252,=,9A2Z
+7,眼窩の障害,S1,H059,RLGT,=,http://id.who.int/icd/entity/73394252,=,9A2Z
+7,眼窩腫瘤,L,H059,V90Q,<,http://id.who.int/icd/entity/73394252,<,9A2Z
+7,眼窩部腫瘤,S1,H059,V90Q,<,http://id.who.int/icd/entity/73394252,<,9A2Z
+7,眼窩内腫瘤,S1,H059,V90Q,<,http://id.who.int/icd/entity/73394252,<,9A2Z
+7,コッホ・ウィークス菌性結膜炎,L,H100,F2Q2,=,http://id.who.int/icd/entity/447802965,=,9A60.32
+7,KOCH-WEEKS菌性結膜炎,S1,H100,F2Q2,=,http://id.who.int/icd/entity/447802965,=,9A60.32
+7,コッホ・ウィークス結膜炎,S1,H100,F2Q2,=,http://id.who.int/icd/entity/447802965,=,9A60.32
+7,KOCH-WEEKS結膜炎,S1,H100,F2Q2,=,http://id.who.int/icd/entity/447802965,=,9A60.32
+7,粘液膿性結膜炎,L,H100,J15K,=,http://id.who.int/icd/entity/1527773104,=,9A60.3Z
+7,春季カタル,L,H101,DHAR,=,http://id.who.int/icd/entity/670300288,=,9A60.5
+7,季節性アレルギー性結膜炎,L,H101,EPER,=,http://id.who.int/icd/entity/361206059,=,9A60.02 
+7,通年性アレルギー性結膜炎,L,H101,SEC2,=,http://id.who.int/icd/entity/361206059,=,9A60.02 
+7,アレルギー性結膜炎,L,H101,SHKR,=,http://id.who.int/icd/entity/361206059,=,9A60.02 
+7,アレルギー結膜炎,S1,H101,SHKR,=,http://id.who.int/icd/entity/361206059,=,9A60.02 
+7,アレルギー性角結膜炎,S1,H101,SHKR,=,http://id.who.int/icd/entity/361206059,=,9A60.02 
+7,アトピー性結膜炎,S1,H101,SHKR,=,http://id.who.int/icd/entity/1044658726,=,9A60.01 
+7,急性アレルギー性結膜炎,S1,H101,SHKR,=,http://id.who.int/icd/entity/361206059,=,9A60.02 
+7,急性アトピー性結膜炎,S1,H101,SHKR,=,http://id.who.int/icd/entity/1044658726 ,=,9A60.01 
+7,カタル性結膜炎,L,H102,DJE6,=,http://id.who.int/icd/entity/831696556,=,9A60.Z 
+7,急性カタル性結膜炎,S1,H102,DJE6,=,http://id.who.int/icd/entity/831696556,=,9A60.Z 
+7,化学性結膜炎,L,H102,FUHM,<,http://id.who.int/icd/entity/831696556,<,9A60.Y
+7,カタル性眼炎,L,H102,JCPS,=,http://id.who.int/icd/entity/831696556,=,9A60.Z 
+7,モラックス・アクセンフェルド結膜炎,L,H102,K3U6,=,http://id.who.int/icd/entity/1104599251,<,9A60.Y 
+7,薬物性結膜炎,L,H102,PDFL,=,http://id.who.int/icd/entity/1881044096,<,9A60.02 
+7,化膿性結膜炎,L,H102,PH0L,=,http://id.who.int/icd/entity/1527773104,=,9A60.3Z
+7,偽膜性結膜炎,L,H102,UBE1,=,http://id.who.int/icd/entity/1606516539,<,9A60.Y
+7,結膜偽膜,S1,H102,UBE1,=,http://id.who.int/icd/entity/1606516539,<,9A60.Y
+7,急性濾胞性結膜炎,L,H102,V79V,=,http://id.who.int/icd/entity/2065252360 & http://id.who.int/icd/entity/786106375,=,9A60.1 & XT5R 
+7,急性瀘胞性結膜炎,S1,H102,V79V,=,http://id.who.int/icd/entity/2065252360 & http://id.who.int/icd/entity/786106375,=,9A60.1 & XT5R 
+7,亜急性結膜炎,L,H103,E67V,=,http://id.who.int/icd/entity/831696556 & http://id.who.int/icd/entity/2058324694,=,9A60.Z & XT1L
+7,急性結膜炎,L,H103,SB5S,=,http://id.who.int/icd/entity/831696556,=,9A60.Z 
+7,慢性結膜炎,L,H104,BK2M,=,http://id.who.int/icd/entity/1548498139,<,9A60.Z
+7,アトピー性角結膜炎,L,H104,BUNS,=,http://id.who.int/icd/entity/1941631830,<,9A60.0Y
+7,結膜化膿性肉芽腫,L,H104,RRR7,=,http://id.who.int/icd/entity/1974447087,<,9A61.3 
+7,結膜肉芽腫,S1,H104,RRR7,=,http://id.who.int/icd/entity/1339776012,<,9A61.3 
+7,萎縮性角結膜炎,L,H104,S2LM,<,http://id.who.int/icd/entity/741260397,<,9A7Y 
+7,巨大乳頭結膜炎,L,H104,SVBQ,=,http://id.who.int/icd/entity/8559059,=,9A60.00
+7,巨大乳頭性結膜炎,S1,H104,SVBQ,=,http://id.who.int/icd/entity/8559059,=,9A60.00
+7,慢性濾胞性結膜炎,L,H104,U2B2,=,http://id.who.int/icd/entity/2065252360  & http://id.who.int/icd/entity/490003542 ,=,9A60.1 & XT8W
+7,慢性カタル性結膜炎,L,H104,UKBH,=,"http://id.who.int/icd/entity/831696556 &
+ http://id.who.int/icd/entity/490003542 ",<,9A60.Z  & XT8W
+7,眼瞼結膜炎,L,H105,CSSH,=,http://id.who.int/icd/entity/956823887,=,9A60.4 
+7,接触性眼瞼結膜炎,L,H105,FB4S,=,http://id.who.int/icd/entity/1096051270,=,9A06.7Y 
+7,接触結膜炎,S2,H105,FB4S,=,http://id.who.int/icd/entity/1096051270,=,9A06.7Y 
+7,眼瞼縁結膜炎,L,H105,QQSK,=,http://id.who.int/icd/entity/956823887 & (http://id.who.int/icd/entity/187562291 OR http://id.who.int/icd/entity/1084493555),=,9A60.4 & (XA53T1  OR XA4AX5)
+7,眼角部眼瞼縁結膜炎,L,H105,RQMH,<,http://id.who.int/icd/entity/602571061,<,9A60.4 
+7,結膜濾胞症,L,H108,H70A,=,http://id.who.int/icd/entity/2065252360,=,9A60.1
+7,パリノー結膜腺症候群,L,H108,H7LU,=,http://id.who.int/icd/entity/996948013,<,9A60.Y 
+7,パリノー眼腺症候群,S1,H108,H7LU,=,http://id.who.int/icd/entity/996948013,<,9A60.Y 
+7,パリノー結膜炎,L,H108,HTD8,=,http://id.who.int/icd/entity/996948013,<,9A60.Y 
+7,結膜びらん,L,H108,LK3K,<,http://id.who.int/icd/entity/831696556,<,9A60.Y 
+7,結膜潰瘍,L,H108,LL7G,=,http://id.who.int/icd/entity/562200073,=,9A60.30
+7,眼炎,L,H109,L0QA,=,http://id.who.int/icd/entity/831696556,=,9A60.Z
+7,結膜炎,L,H109,NKN3,=,http://id.who.int/icd/entity/831696556 ,=,9A60.Z
+7,眼球結膜炎,S1,H109,NKN3,=,http://id.who.int/icd/entity/831696556 & http://id.who.int/icd/entity/693563626,=,9A60.Z & XA6V06
+7,翼状片,L,H110,DR5L,=,http://id.who.int/icd/entity/1207385905,=,9A61.1
+7,再発翼状片,L,H110,QGC8,=,http://id.who.int/icd/entity/418246829,=,9A61.1 & XT44
+7,結膜脂肪斑,L,H111,AAQG,=,http://id.who.int/icd/entity/998631499,=,9A61.0 
+7,結膜変性,L,H111,G9GS,=,http://id.who.int/icd/entity/763685773,<,9A61.6 
+7,結膜銀症,L,H111,H05P,=,http://id.who.int/icd/entity/1138076170,<,9A61.6 
+7,結膜結石,L,H111,K7Q6,=,http://id.who.int/icd/entity/1215003615,<,9A61.6 
+7,結膜下結石,S1,H111,K7Q6,<,http://id.who.int/icd/entity/1215003615,<,9A61.6 
+7,結膜沈着症,L,H111,L01C,=,http://id.who.int/icd/entity/1019620128,<,9A61.6
+7,瞼裂斑炎,L,H111,NERB,=,http://id.who.int/icd/entity/998631499,=,9A61.0 
+7,結膜乾燥症,L,H111,Q8U0,=,http://id.who.int/icd/entity/1138076170,<,9A61.6
+7,瞼裂斑,L,H111,RB73,=,http://id.who.int/icd/entity/998631499,=,9A61.0
+7,瞼裂斑点,S1,H111,RB73,=,http://id.who.int/icd/entity/998631499,=,9A61.0
+7,結膜メラノーシス,L,H111,T8R8,=,http://id.who.int/icd/entity/151827953,<,9A61.6 
+7,結膜色素沈着,L,H111,VBGA,=,http://id.who.int/icd/entity/757118539,<,9A61.6 
+7,瞼球間後癒着症,L,H112,C3JH,<,http://id.who.int/icd/entity/1260645418,<,9A61.3
+7,瞼球癒着,L,H112,G4QL,=,http://id.who.int/icd/entity/1260645418,<,9A61.3
+7,眼球癒着,S1,H112,G4QL,=,http://id.who.int/icd/entity/1260645418,<,9A61.3
+7,瞼球間癒着症,S1,H112,G4QL,=,http://id.who.int/icd/entity/1260645418,<,9A61.3
+7,瞼球間前癒着症,L,H112,N64F,<,http://id.who.int/icd/entity/1260645418,<,9A61.3
+7,結膜瘢痕,L,H112,TV2E,=,http://id.who.int/icd/entity/1443996250 ,=,9A61.3
+7,眼瞼結膜出血,L,H113,AM9E,=,http://id.who.int/icd/entity/910847127 & http://id.who.int/icd/entity/271474090,=,9A61.5 & XA3X70
+7,結膜下出血,L,H113,Q3BD,=,http://id.who.int/icd/entity/2090038126,<,9A61.5
+7,球結膜下出血,S1,H113,Q3BD,=,http://id.who.int/icd/entity/2090038126 & http://id.who.int/icd/entity/693563626,=,9A61.5 & XA6V06
+7,結膜出血,S1,H113,Q3BD,=,http://id.who.int/icd/entity/910847127,=,9A61.5 & XA8PS3
+7,結膜浮腫,L,H114,AEGC,=,http://id.who.int/icd/entity/1681254941,<,9A61.4Y
+7,結膜下浮腫,S1,H114,AEGC,=,http://id.who.int/icd/entity/1681254941,<,9A61.4Y
+7,球結膜浮腫,S1,H114,AEGC,=,http://id.who.int/icd/entity/1681254941 & http://id.who.int/icd/entity/693563626,<,9A61.4Y & XA6V06
+7,結膜充血,L,H114,H5F8,=,http://id.who.int/icd/entity/25044873,<,9A61.4Y
+7,うっ血眼,S1,H114,H5F8,=,http://id.who.int/icd/entity/25044873,<,9A61.4Y
+7,結膜下充血,S1,H114,H5F8,=,http://id.who.int/icd/entity/25044873,<,9A61.4Y
+7,結膜性充血,S1,H114,H5F8,=,http://id.who.int/icd/entity/25044873,<,9A61.4Y
+7,球結膜充血,S1,H114,H5F8,=,http://id.who.int/icd/entity/25044873,<,9A61.4Y
+7,眼うっ血,S1,H114,H5F8,=,http://id.who.int/icd/entity/25044873,<,9A61.4Y
+7,結膜動脈瘤,L,H114,HDN7,=,http://id.who.int/icd/entity/1717472114,<,9A61.4Y 
+7,結膜のう胞,L,H114,V42C,=,http://id.who.int/icd/entity/1922085917,<,9A61.4Y 
+7,結膜嚢胞,S1,H114,V42C,=,http://id.who.int/icd/entity/1922085917,<,9A61.4Y 
+7,結膜弛緩症,L,H118,C165,=,http://id.who.int/icd/entity/870876723,=,9A11.3
+7,結膜弛緩,S1,H118,C165,=,http://id.who.int/icd/entity/870876723,=,9A11.3
+7,老人性結膜萎縮,L,H118,DKLU,<,http://id.who.int/icd/entity/1038562995,<,9A61.Z
+7,仮性翼状片,L,H118,HFQ5,=,http://id.who.int/icd/entity/1195759310,=,9A61.2 
+7,結膜リンパ管拡張症,L,H118,HTFC,=,"http://id.who.int/icd/entity/478325124 OR http://id.who.int/icd/entity/773199408 
+ ",=,9A61.40 OR 9A61.Z 
+7,眼結膜のう萎縮,L,H118,L8DP,=,http://id.who.int/icd/entity/1038562995,<,9A61.Z
+7,眼結膜嚢萎縮,S1,H118,L8DP,=,http://id.who.int/icd/entity/1423532858,<,9A61.Z
+7,偽翼状片,L,H118,N6JH,=,http://id.who.int/icd/entity/1195759310,=,9A61.2
+7,結膜萎縮,L,H118,RGNK,=,http://id.who.int/icd/entity/1038562995,<,9A61.Z
+7,結膜腫瘤,L,H119,GPTD,<,http://id.who.int/icd/entity/1423532858,<,9A61.Z 
+7,結膜疾患,L,H119,UAH4,=,http://id.who.int/icd/entity/1471747216,=,9A6Z
+7,眼瞼結膜疾患,S2,H119,UAH4,=,http://id.who.int/icd/entity/1471747216,=,9A6Z
+7,強膜炎,L,H150,F1HE,=,http://id.who.int/icd/entity/2097802831,=,9B51
+7,強膜潰瘍,L,H150,STUN,=,http://id.who.int/icd/entity/283992183,<,9B51
+7,後部強膜炎,L,H150,VMEH,=,http://id.who.int/icd/entity/982348440,<,9B51
+7,上強膜炎,L,H151,KG8E,=,http://id.who.int/icd/entity/406987739,=,9B50
+7,後部ぶどう腫,L,H158,DFVG,=,http://id.who.int/icd/entity/382453603,<,9B52
+7,後部ブドウ腫,S1,H158,DFVG,=,http://id.who.int/icd/entity/382453603,<,9B52
+7,後部強膜ぶどう腫,S1,H158,DFVG,=,http://id.who.int/icd/entity/382453603,<,9B52
+7,赤道ぶどう腫,L,H158,DH98,=,http://id.who.int/icd/entity/120412682,<,9B52
+7,赤道ブドウ腫,S1,H158,DH98,=,http://id.who.int/icd/entity/120412682,<,9B52
+7,壊死性強膜炎,L,H158,M8DT,=,http://id.who.int/icd/entity/1946889582,<,9B51 
+7,後極ぶどう膜腫,L,H158,MCT8,=,http://id.who.int/icd/entity/382453603,<,9B52
+7,後極ブドウ膜腫,S1,H158,MCT8,=,http://id.who.int/icd/entity/382453603,<,9B52
+7,強膜ぶどう腫,L,H158,S704,=,http://id.who.int/icd/entity/1938712729,=,9B52
+7,眼球ぶどう腫,S1,H158,S704,=,http://id.who.int/icd/entity/1938712729,=,9B52
+7,強膜ブドウ腫,S1,H158,S704,=,http://id.who.int/icd/entity/1938712729,=,9B52
+7,強膜ぶどう膜,S2,H158,S704,=,http://id.who.int/icd/entity/1938712729,=,9B52
+7,強膜拡張症,L,H158,VNA7,=,http://id.who.int/icd/entity/1696945399,<,9B52
+7,強膜疾患,L,H159,F8R3,=,http://id.who.int/icd/entity/1402642515,=,9B5Z 
+7,強膜の障害,S2,H159,F8R3,=,http://id.who.int/icd/entity/1402642515,=,9B5Z 
+7,感染性角膜潰瘍,L,H160,BNTU,<,http://id.who.int/icd/entity/2089700977,<,9A76 
+7,細菌性角膜潰瘍,S2,H160,BNTU,=,http://id.who.int/icd/entity/633675638,=,9A76 & XN74M
+7,フリクテン性角膜潰瘍,L,H160,EHHS,<,http://id.who.int/icd/entity/2089700977,<,9A76 
+7,反復性角膜潰瘍,L,H160,FR2R,=,http://id.who.int/icd/entity/2089700977 & http://id.who.int/icd/entity/1721353160,=,9A76 & XT44 
+7,匐行性角膜潰瘍,L,H160,GKR4,<,http://id.who.int/icd/entity/2089700977 ,<,9A76 
+7,蛇行性角膜潰瘍,S1,H160,GKR4,<,http://id.who.int/icd/entity/2089700977,<,9A76 
+7,角膜びらん,L,H160,J255,=,http://id.who.int/icd/entity/966233826,=,9A78.8
+7,カタル性角膜潰瘍,L,H160,K4D4,=,http://id.who.int/icd/entity/2035123281,<,9A76 
+7,角膜辺縁潰瘍,S1,H160,K4D4,=,http://id.who.int/icd/entity/2035123281,=,9A76 & XA1DA5
+7,環状角膜潰瘍,S1,H160,K4D4,=,http://id.who.int/icd/entity/1877531217,<,9A76 
+7,角膜輪状潰瘍,S1,H160,K4D4,=,http://id.who.int/icd/entity/1877531217,<,9A76 
+7,単純性角膜潰瘍,L,H160,L26D,=,http://id.who.int/icd/entity/2089700977,=,9A76 
+7,角膜穿孔,L,H160,PAJE,=,http://id.who.int/icd/entity/232838320,<,9A76 
+7,外傷性角膜潰瘍,L,H160,PNQU,<,http://id.who.int/icd/entity/2089700977 ,<,9A76 
+7,蚕蝕性角膜潰瘍,L,H160,QFLN,=,http://id.who.int/icd/entity/470174149,<,9A76 
+7,モーレン潰瘍,S1,H160,QFLN,=,http://id.who.int/icd/entity/470174149,<,9A76 
+7,モーレン角膜潰瘍,S1,H160,QFLN,=,http://id.who.int/icd/entity/470174149,<,9A76 
+7,穿孔性角膜潰瘍,L,H160,QL3T,=,http://id.who.int/icd/entity/232838320,<,9A76 
+7,前房蓄膿性角膜炎,L,H160,QQ8V,=,http://id.who.int/icd/entity/178460613,<,9A76 
+7,角膜潰瘍,L,H160,SCBT,=,http://id.who.int/icd/entity/2089700977,=,9A76 
+7,潰瘍性角膜炎,S1,H160,SCBT,=,http://id.who.int/icd/entity/2089700977,=,9A76 
+7,進行性角膜潰瘍,L,H160,T1D4,<,http://id.who.int/icd/entity/2089700977,<,9A76 
+7,ゼーミッシュ潰瘍,L,H160,TQ13,<,http://id.who.int/icd/entity/470174149,<,9A76 
+7,角膜中心潰瘍,L,H160,UU14,=,http://id.who.int/icd/entity/457542318,<,9A76 
+7,光線眼症,L,H161,AC4E,=,http://id.who.int/icd/entity/1566990302,=,9A72 
+7,光線角膜炎,S1,H161,AC4E,=,http://id.who.int/icd/entity/1566990302,<,9A72 
+7,雪眼炎,L,H161,AGCQ,=,http://id.who.int/icd/entity/1566990302,<,9A72 
+7,雪眼,S1,H161,AGCQ,=,http://id.who.int/icd/entity/1566990302,<,9A72 
+7,紫外線角膜炎,L,H161,ANE3,=,http://id.who.int/icd/entity/1295144751,<,9A7Y 
+7,電気性眼炎,S1,H161,ANE3,=,http://id.who.int/icd/entity/1295144751,<,9A72 
+7,紫外線眼炎,S2,H161,ANE3,=,http://id.who.int/icd/entity/1295144751,<,9A72 
+7,辺縁角膜炎,L,H161,BLRL,=,"http://id.who.int/icd/entity/1058351226 & 
+http://id.who.int/icd/entity/36172848  &",=,9A7Z &XA1DA5
+7,貨幣状角膜炎,L,H161,DFK1,=,http://id.who.int/icd/entity/2012732667,<,9A7Y 
+7,輪紋状角膜炎,L,H161,GTA1,=,http://id.who.int/icd/entity/410886496,<,9A7Y 
+7,点状表層角膜炎,L,H161,H59N,=,http://id.who.int/icd/entity/780717130,<,9A7Y 
+7,点状表層角膜症,L,H161,H59N,=,http://id.who.int/icd/entity/780717130,<,9A7Y 
+7,表在性点状角膜炎,S1,H161,H59N,=,http://id.who.int/icd/entity/780717130,<,9A7Y 
+7,点状角膜炎,S1,H161,H59N,=,http://id.who.int/icd/entity/780717130,<,9A7Y 
+7,浸潤性表層角膜炎,L,H161,M524,<,http://id.who.int/icd/entity/432374757,<,9A7Y 
+7,線状角膜炎,L,H161,N5KA,=,http://id.who.int/icd/entity/1507550981,<,9A7Y 
+7,表在性角膜炎,L,H161,PEDQ,=,http://id.who.int/icd/entity/432374757,<,9A7Y 
+7,角膜表層炎,S1,H161,PEDQ,=,http://id.who.int/icd/entity/432374757,<,9A7Y 
+7,表層角膜炎,S1,H161,PEDQ,=,http://id.who.int/icd/entity/432374757,<,9A7Y 
+7,星状角膜炎,L,H161,SPVN,=,http://id.who.int/icd/entity/1559185659,<,9A7Y 
+7,角膜上皮びらん,L,H161,TLKB,=,http://id.who.int/icd/entity/966233826,=,9A78.8
+7,糸状角膜炎,L,H161,TTCA,=,http://id.who.int/icd/entity/942510664,<,9A78.8
+7,びまん性表層角膜炎,L,H161,U4V2,=,http://id.who.int/icd/entity/432374757 & http://id.who.int/icd/entity/1265853763,<,9A7Y & XK31 
+7,フィラメント状角膜炎,L,H161,UGNQ,=,http://id.who.int/icd/entity/942510664,<,9A7Y 
+7,散在性表層角膜炎,L,H161,VKPE,=,http://id.who.int/icd/entity/432374757 & http://id.who.int/icd/entity/1486017780,<,9A7Y & XK5A 
+7,結節性結膜炎,L,H162,A1HA,<,http://id.who.int/icd/entity/741260397,<,9A7Y 
+7,巨大フリクテン,L,H162,BDMH,<,http://id.who.int/icd/entity/741260397 / http://id.who.int/icd/entity/971190258 & http://id.who.int/icd/entity/1393648567,<,9A7Y / 4A8Z & XT3R 
+7,辺縁フリクテン,L,H162,BEF3,<,http://id.who.int/icd/entity/741260397 / http://id.who.int/icd/entity/971190258 & http://id.who.int/icd/entity/1393648567,<,9A7Y / 4A8Z & XT3R 
+7,角結膜炎,L,H162,DALQ,=,http://id.who.int/icd/entity/741260397,<,9A7Y
+7,上輪部角結膜炎,L,H162,DTGS,=,http://id.who.int/icd/entity/1962803547,<,9A7Y
+7,SLK,S1,H162,DTGS,=,http://id.who.int/icd/entity/1962803547,<,9A7Y
+7,フリクテン性角膜炎,L,H162,FG59,<,http://id.who.int/icd/entity/741260397 / http://id.who.int/icd/entity/971190258 & http://id.who.int/icd/entity/1393648567,<,9A7Y / 4A8Z & XT3R 
+7,角膜フリクテン,S1,H162,FG59,<,http://id.who.int/icd/entity/741260397 / http://id.who.int/icd/entity/971190258 & http://id.who.int/icd/entity/1393648567,<,9A7Y / 4A8Z & XT3R 
+7,薬物性角結膜炎,L,H162,GARP,=, http://id.who.int/icd/entity/741260397 / http://id.who.int/icd/entity/1868408442,<,9A7Y / NE60
+7,薬剤誘発角結膜炎,S1,H162,GARP,<, http://id.who.int/icd/entity/741260397,<,9A7Y
+7,神経栄養性角結膜炎,L,H162,J4C3,=,http://id.who.int/icd/entity/1524004873,=,9A74 
+7,麻痺性角膜炎,S1,H162,J4C3,=,http://id.who.int/icd/entity/1524004873,=,9A74 
+7,神経麻痺性角結膜炎,S1,H162,J4C3,=,http://id.who.int/icd/entity/1524004873,=,9A74 
+7,角結膜びらん,L,H162,JRSG,=,http://id.who.int/icd/entity/966233826,=,9A78.8
+7,紫外線角結膜炎,L,H162,KCT6,=,http://id.who.int/icd/entity/1566990302,<,9A72
+7,フリクテン性角結膜炎,L,H162,MA1J,<,http://id.who.int/icd/entity/741260397 / http://id.who.int/icd/entity/971190258 & http://id.who.int/icd/entity/1393648567,<,9A7Y / 4A8Z & XT3R 
+7,角膜腐蝕,L,H162,MAAP,=,http://id.who.int/icd/entity/345125950,=,NE00 & XA4C02
+7,結節性眼炎,L,H162,Q42G,<,http://id.who.int/icd/entity/134477595,<,9A60.Z
+7,慢性角結膜炎,L,H162,RAB2,=,http://id.who.int/icd/entity/741260397  & http://id.who.int/icd/entity/490003542,<,9A7Y & XT8W 
+7,フリクテン性結膜炎,L,H162,S3SL,<,http://id.who.int/icd/entity/831696556 / http://id.who.int/icd/entity/971190258 & http://id.who.int/icd/entity/1393648567,<,9A60.Y
+7,結膜フリクテン,S1,H162,S3SL,<,http://id.who.int/icd/entity/831696556 / http://id.who.int/icd/entity/971190258 & http://id.who.int/icd/entity/1393648567,<,9A60.Y
+7,フリクテン,S2,H162,S3SL,<,http://id.who.int/icd/entity/741260397 / http://id.who.int/icd/entity/971190258 & http://id.who.int/icd/entity/1393648567,<,9A7Y / 4A8Z & XT3R 
+7,兎眼性角膜炎,L,H162,SGGU,=,http://id.who.int/icd/entity/1261495652,=,9A73　 
+7,兎眼性角結膜炎,S1,H162,SGGU,=,http://id.who.int/icd/entity/1261495652,=,9A73　 
+7,急性角結膜炎,L,H162,UP15,=,http://id.who.int/icd/entity/741260397  & http://id.who.int/icd/entity/786106375,<,9A7Y & XT5R 
+7,深層角膜炎,L,H163,AFHC,=,http://id.who.int/icd/entity/136519310,<,9A7Z
+7,深在角膜炎,S1,H163,AFHC,=,http://id.who.int/icd/entity/136519310,<,9A7Z
+7,間質性深在性角膜炎,S1,H163,AFHC,=,http://id.who.int/icd/entity/136519310,<,9A7Z
+7,深部角膜炎,S1,H163,AFHC,=,http://id.who.int/icd/entity/136519310,<,9A7Z
+7,角膜膿瘍,L,H163,B9PU,=,http://id.who.int/icd/entity/485862779,=,9A78.9
+7,実質性角膜炎,L,H163,HK86,=,http://id.who.int/icd/entity/136519310,<,9A7Z
+7,間質性角膜炎,S1,H163,HK86,=,http://id.who.int/icd/entity/136519310,<,9A7Z
+7,角膜実質炎,S1,H163,HK86,=,http://id.who.int/icd/entity/136519310,<,9A7Z
+7,コーガン症候群,L,H163,KNCS,=,http://id.who.int/icd/entity/2098089327,<,4A44.Y 
+7,COGAN症候群,S1,H163,KNCS,=,http://id.who.int/icd/entity/2098089327,<,4A44.Y 
+7,硬化性角膜炎,L,H163,LD9T,=,http://id.who.int/icd/entity/219361296,=,9A78.A
+7,血管性パンヌス,L,H164,CHJA,=,http://id.who.int/icd/entity/343081868,=,9A78.0 
+7,フリクテン性パンヌス,L,H164,G2B7,<,http://id.who.int/icd/entity/343081868,<,9A78.0 
+7,湿疹性パンヌス,L,H164,GKFP,<,http://id.who.int/icd/entity/343081868,<,9A78.0 
+7,角膜パンヌス,L,H164,H411,=,http://id.who.int/icd/entity/343081868,<,9A78.0 
+7,角膜脈管新生,S1,H164,H411,=,http://id.who.int/icd/entity/2077068570,=,9A78.0 
+7,角膜ゴースト血管,S2,H164,H411,=,http://id.who.int/icd/entity/1625183093,<,9A78.0 
+7,パンヌス,S2,H164,H411,=,http://id.who.int/icd/entity/3430818688,<,9A78.0 
+7,角膜血管新生,S2,H164,H411,=,http://id.who.int/icd/entity/2077068570,=,9A78.0
+7,腺病性パンヌス,L,H164,JQCQ,<,http://id.who.int/icd/entity/343081868,<,9A78.0 
+7,薬物性角膜炎,L,H168,BEGA,<,http://id.who.int/icd/entity/741260397 / http://id.who.int/icd/entity/1868408442,<,9A7Y / NE60
+7,化膿性角膜炎,L,H168,BPJU,<,http://id.who.int/icd/entity/741260397 / http://id.who.int/icd/entity/1671987290,<,9A71
+7,栄養障害性角膜炎,L,H168,CASJ,=,http://id.who.int/icd/entity/741260397,<,9A7Y
+7,乾性角膜炎,L,H168,F5A7,=,http://id.who.int/icd/entity/1067300253,=,9A79
+7,石化性角膜炎,L,H168,NQHB,=,http://id.who.int/icd/entity/1850401488,<,9A78.4
+7,乾性角結膜炎,L,H168,PL42,=,http://id.who.int/icd/entity/1067300253,=,9A79
+7,乾燥性角結膜炎,S1,H168,PL42,=,http://id.who.int/icd/entity/1067300253,=,9A79
+7,乾燥角結膜炎,S1,H168,PL42,=,http://id.who.int/icd/entity/1067300253,=,9A79
+7,出血性角膜炎,L,H168,R59P,<,http://id.who.int/icd/entity/741260397,<,9A7Y
+7,角膜内皮炎,L,H168,T4KE,<,http://id.who.int/icd/entity/980864631,<,9A7Y
+7,外傷性角膜炎,L,H169,JK0L,=,http://id.who.int/icd/entity/1123308413,=,9A72
+7,急性角膜炎,L,H169,LUTQ,<,http://id.who.int/icd/entity/980864631 & http://id.who.int/icd/entity/786106375,<,9A7Z & XT5R 
+7,角膜炎,L,H169,R70H,<,http://id.who.int/icd/entity/980864631,<,9A7Z
+7,アレルギー性角膜炎,L,H169,TMEC,<,http://id.who.int/icd/entity/980864631,<,9A7Y
+7,癒着白斑,L,H170,JV07,=,http://id.who.int/icd/entity/1618380530,=,9A77.1
+7,癒着性角膜白斑,S1,H170,JV07,=,http://id.who.int/icd/entity/1618380530,=,9A77.1
+7,角膜実質混濁,L,H178,CEJF,=,http://id.who.int/icd/entity/1161449475,<,9A77.Y
+7,格子状角膜混濁,L,H178,EGM8,<,http://id.who.int/icd/entity/1161449475,<,9A77.Y
+7,結節状角膜混濁,L,H178,M36B,<,http://id.who.int/icd/entity/1161449475,<,9A77.Y
+7,角膜上皮混濁,L,H178,Q0QL,<,http://id.who.int/icd/entity/1161449475,<,9A77.Y
+7,角膜内皮混濁,S2,H178,Q0QL,<,http://id.who.int/icd/entity/1161449475,<,9A77.Y
+7,角膜白斑,L,H178,QM98,<,http://id.who.int/icd/entity/1161449475,<,9A77.Y
+7,帯状角膜混濁,L,H178,S002,<,http://id.who.int/icd/entity/1161449475,<,9A77.Y
+7,角膜斑,L,H179,EF06,<,http://id.who.int/icd/entity/1161449475,<,9A77.Y
+7,角膜瘢痕,L,H179,GPQ4,=,http://id.who.int/icd/entity/512306530,<,9A77.Y
+7,角膜片雲,L,H179,K9K0,<,http://id.who.int/icd/entity/1161449475,<,9A77.Y
+7,角膜混濁,L,H179,SKQQ,=,http://id.who.int/icd/entity/1161449475,<,9A77.Y
+7,角膜白濁,L,H179,TQD2,=,http://id.who.int/icd/entity/1161449475,<,9A77.Y 
+7,角膜白色混濁,S1,H179,TQD2,=,http://id.who.int/icd/entity/1161449475,<,9A77.Y 
+7,ハドソン・ステーリ線,L,H180,AF6Q,=,http://id.who.int/icd/entity/726917819,<,9A78.1
+7,ステーエリ線,S1,H180,AF6Q,=,http://id.who.int/icd/entity/726917819,<,9A78.1
+7,ハドソン・スターリ線,S1,H180,AF6Q,=,http://id.who.int/icd/entity/726917819,<,9A78.1
+7,HUDSON-STAEHLI線,S1,H180,AF6Q,=,http://id.who.int/icd/entity/726917819,<,9A78.1
+7,ハドソン線,S1,H180,AF6Q,=,http://id.who.int/icd/entity/726917819,<,9A78.1
+7,ステーエリ色素線,S1,H180,AF6Q,=,http://id.who.int/icd/entity/726917819,<,9A78.1
+7,STAEHLI線,S1,H180,AF6Q,=,http://id.who.int/icd/entity/726917819,<,9A78.1
+7,カイザー・フライシャー輪,L,H180,DK07,=,http://id.who.int/icd/entity/1715447937,<,9A78.1
+7,カイゼル・フライシェル輪,S1,H180,DK07,=,http://id.who.int/icd/entity/1715447937,<,9A78.1
+7,カイザーフライシャー環,S1,H180,DK07,=,http://id.who.int/icd/entity/1715447937,<,9A78.1
+7,KAYSER-FLEISCHER輪,S1,H180,DK07,=,http://id.who.int/icd/entity/1715447937,<,9A78.1
+7,フライシャー輪,S1,H180,DK07,=,http://id.who.int/icd/entity/1715447937,<,9A78.1
+7,FLEISCHER輪,S1,H180,DK07,=,http://id.who.int/icd/entity/1715447937,<,9A78.1
+7,カイザーフライシャー輪,S1,H180,DK07,=,http://id.who.int/icd/entity/1715447937,<,9A78.1
+7,KAYSER-FLEISCHER環,S1,H180,DK07,=,http://id.who.int/icd/entity/1715447937,<,9A78.1
+7,角膜着色,L,H180,EEH4,=,http://id.who.int/icd/entity/389227527,<,9A78.1
+7,角膜色素沈着,L,H180,JQNA,=,http://id.who.int/icd/entity/389227527,<,9A78.1
+7,クルーケンベルグ紡錘,L,H180,RFDT,=,http://id.who.int/icd/entity/425342654,<,9A78.1
+7,クルッケンベルグ紡錘,S1,H180,RFDT,=,http://id.who.int/icd/entity/425342654,<,9A78.1
+7,KRUKENBERG紡錘,S1,H180,RFDT,=,http://id.who.int/icd/entity/425342654,<,9A78.1
+7,水疱性角膜症,L,H181,R90N,=,http://id.who.int/icd/entity/1270454490,=,9A78.20
+7,水疱性角膜炎,S1,H181,R90N,=,http://id.who.int/icd/entity/1270454490,=,9A78.20
+7,角膜浸潤,L,H182,D6UF,=,http://id.who.int/icd/entity/1058326567,=,9A78.2Z 
+7,角膜浮腫,L,H182,V3Q9,=,http://id.who.int/icd/entity/1058326567,=,9A78.2Z
+7,破裂デスメ膜,L,H183,P22G,=,http://id.who.int/icd/entity/308354242,<,9A78.3
+7,皺襞デスメ膜,L,H183,U5DS,=,http://id.who.int/icd/entity/1999294804,<,9A78.3
+7,襞デスメ膜,S1,H183,U5DS,=,http://id.who.int/icd/entity/1999294804,<,9A78.3
+7,角膜の膜様変化,S2,H183,U5DS,=,http://id.who.int/icd/entity/1516176819,=,9A78.3
+7,老人環,L,H184,BK53,=,http://id.who.int/icd/entity/2142011301,<,9A78.4
+7,若年環,L,H184,BMGN,<,http://id.who.int/icd/entity/2142011301,<,9A78.4
+7,テリエン周辺角膜変性,L,H184,CTN2,<,http://id.who.int/icd/entity/205712433,<,9A78.4
+7,ハッサル・ヘンレ疣,L,H184,E12M,=,http://id.who.int/icd/entity/1715447937,<,9A78.1
+7,HASSAL HENLE疣,S1,H184,E12M,=,http://id.who.int/icd/entity/1715447937,<,9A78.1
+7,ハッサル・ヘンレ疣体,S1,H184,E12M,=,http://id.who.int/icd/entity/1715447937,<,9A78.1
+7,ザルツマン結節性ジストロフィー,L,H184,GPLR,=,http://id.who.int/icd/entity/2100955950,<,9A78.4 
+7,角膜変性症,L,H184,QAR2,=,http://id.who.int/icd/entity/699504167,=,9A78.4 
+7,尿酸角膜変性,L,H184,QM0F,<,http://id.who.int/icd/entity/699504167,<,9A78.4
+7,帯状角膜症,L,H184,RQQ2,=,http://id.who.int/icd/entity/184627034,<,9A78.4
+7,バンド状角膜症,S1,H184,RQQ2,=,http://id.who.int/icd/entity/184627034,<,9A78.4
+7,角膜帯状変性,S1,H184,RQQ2,=,http://id.who.int/icd/entity/184627034,<,9A78.4
+7,角膜軟化,L,H184,TFBS,=,http://id.who.int/icd/entity/497316188,<,9A78.4
+7,角膜軟化症,S1,H184,TFBS,=,http://id.who.int/icd/entity/497316188,<,9A78.4
+7,穿孔性角膜軟化,L,H184,V262,<,http://id.who.int/icd/entity/497316188,<,9A78.4
+7,角膜脂肪変性,L,H184,VK48,<,http://id.who.int/icd/entity/699504167,<,9A78.4
+7,脂肪性角膜症,S1,H184,VK48,<,http://id.who.int/icd/entity/699504167,<,9A78.4
+7,格子状角膜変性,L,H185,A9L5,=,http://id.who.int/icd/entity/1247885635,<,9A70.Y 
+7,格子状角膜異栄養症,S1,H185,A9L5,<,http://id.who.int/icd/entity/1247885635,<,9A70.Y 
+7,格子状ジストロフィー,S1,H185,A9L5,=,http://id.who.int/icd/entity/1247885635,<,9A70.Y 
+7,格子状角膜ジストロフィー,S1,H185,A9L5,=,http://id.who.int/icd/entity/1247885635,<,9A70.Y 
+7,格子状変性症,S1,H185,A9L5,=,http://id.who.int/icd/entity/1247885635,<,9A70.Y 
+7,家族性角膜ジストロフィー,L,H185,B1S6,=,http://id.who.int/icd/entity/1291475891,=,9A70.Z
+7,遺伝性角膜ジストロフィー,L,H185,EUFC,=,http://id.who.int/icd/entity/1291475891,=,9A70.Z
+7,家族性角膜変性症,S1,H185,EUFC,=,http://id.who.int/icd/entity/1291475891,=,9A70.Z
+7,斑状角膜変性,L,H185,L0KH,=,http://id.who.int/icd/entity/607143324,<,9A70.Y 
+7,斑状角膜ジストロフィー,S1,H185,L0KH,=,http://id.who.int/icd/entity/607143324,<,9A70.Y 
+7,結節状角膜ジストロフィー,L,H185,M42N,<,http://id.who.int/icd/entity/1291475891,<,9A70.Y 
+7,結晶状角膜ジストロフィー,S1,H185,M42N,<,http://id.who.int/icd/entity/1291475891,<,9A70.Y 
+7,輪状角膜ジストロフィー,L,H185,N89U,=,http://id.who.int/icd/entity/99331629,<,9A70.Y 
+7,輪状角膜異栄養症,S1,H185,N89U,=,http://id.who.int/icd/entity/99331629,<,9A70.Y 
+7,角膜ジストロフィー,L,H185,NKQ2,=,http://id.who.int/icd/entity/1291475891,=,9A70.Z 
+7,角膜異栄養症,S1,H185,NKQ2,=,http://id.who.int/icd/entity/1291475891,=,9A70.Z 
+7,角膜上皮変性症,S2,H185,NKQ2,=,http://id.who.int/icd/entity/494847084 ,<,9A70.Y 
+7,角膜内皮ジストロフィー,S2,H185,NKQ2,=,http://id.who.int/icd/entity/677984188 ,=,9A70.0
+7,上皮性角膜ジストロフィー,S2,H185,NKQ2,=,http://id.who.int/icd/entity/494847084 ,<,9A70.Y 
+7,角膜上皮ジストロフィー,S2,H185,NKQ2,=,http://id.who.int/icd/entity/494847084 ,<,9A70.Y 
+7,角膜上皮異栄養症,S2,H185,NKQ2,=,http://id.who.int/icd/entity/494847084 ,<,9A70.Y 
+7,角膜内皮異栄養症,S2,H185,NKQ2,=,http://id.who.int/icd/entity/677984188 ,=,9A70.0
+7,フックスジストロフィー,L,H185,P9T2,=,http://id.who.int/icd/entity/751091713,<,9A70.0
+7,FUCHS角膜内皮変性症,S1,H185,P9T2,=,http://id.who.int/icd/entity/751091713,<,9A70.0
+7,FUCHSジストロフィー,S1,H185,P9T2,=,http://id.who.int/icd/entity/751091713,<,9A70.0
+7,フックス角膜内皮変性症,S1,H185,P9T2,=,http://id.who.int/icd/entity/751091713,<,9A70.0
+7,顆粒状角膜ジストロフィー,L,H185,S6KB,=,http://id.who.int/icd/entity/965716695,<,9A70.Y 
+7,膠様滴状角膜ジストロフィー,L,H185,T5HM,=,http://id.who.int/icd/entity/1062815669,<,9A70.Y 
+7,GDLD,S1,H185,T5HM,=,http://id.who.int/icd/entity/1062815669,<,9A70.Y 
+7,先天性顆粒状角膜変性,L,H185,TLLH,=,http://id.who.int/icd/entity/965716695,<,9A70.Y 
+7,円錐角膜,L,H186,S4C5,=,http://id.who.int/icd/entity/945228622,=,9A78.50
+7,角膜瘤,L,H187,AVD3,=,http://id.who.int/icd/entity/1516176819,=,9A78.3
+7,角膜突出,S2,H187,AVD3,=,http://id.who.int/icd/entity/1516176819,=,9A78.3
+7,角膜皮瘤,S2,H187,AVD3,=,http://id.who.int/icd/entity/1516176819,=,9A78.3
+7,角膜拡張症,L,H187,GJE0,=,http://id.who.int/icd/entity/1703179358,<,9A78.5Y
+7,角膜ぶどう腫,L,H187,LA19,=,http://id.who.int/icd/entity/212928655,=,9A78.51
+7,角膜ブドウ腫,S1,H187,LA19,=,http://id.who.int/icd/entity/212928655,=,9A78.51
+7,デスメ瘤,L,H187,ML46,=,http://id.who.int/icd/entity/1778042139,<,9A78.3
+7,角膜デスメ膜瘤,S1,H187,ML46,=,http://id.who.int/icd/entity/1778042139,<,9A78.3
+7,デスメ膜瘤,S1,H187,ML46,=,http://id.who.int/icd/entity/1778042139,<,9A78.3
+7,角膜知覚過敏,L,H188,BPQ6,<,http://id.who.int/icd/entity/1058351226,<,9A78 
+7,角膜上皮欠損,L,H188,G27T,=,http://id.who.int/icd/entity/2089700977,=,9A76 
+7,角結膜乾燥症,L,H188,HS6J,=,http://id.who.int/icd/entity/1067300253,=,9A79
+7,結膜角膜乾燥症,S1,H188,HS6J,=,http://id.who.int/icd/entity/1067300253,=,9A79
+7,角膜知覚鈍麻,L,H188,J43V,=,http://id.who.int/icd/entity/1862084723,<,9A7Y
+7,角膜萎縮,L,H188,JC8H,<,http://id.who.int/icd/entity/699504167,<,9A78.4 
+7,角膜上皮剥離,L,H188,NSBF,<,http://id.who.int/icd/entity/212424932,<,NA06.4 
+7,角膜知覚消失,L,H188,QKF0,=,http://id.who.int/icd/entity/77532500,<,9A7Y
+7,角膜知覚脱失,S1,H188,QKF0,=,http://id.who.int/icd/entity/77532500,<,9A7Y
+7,角膜感覚脱失,S1,H188,QKF0,=,http://id.who.int/icd/entity/77532500,<,9A7Y
+7,角膜乾燥症,L,H188,RR06,=,http://id.who.int/icd/entity/75167172,<,9A7Y
+7,多発性角膜びらん,L,H188,V9R9,<,http://id.who.int/icd/entity/966233826,<,9A78.8
+7,再発性角膜びらん,L,H188,VSF0,=,http://id.who.int/icd/entity/966233826,=,9A78.8
+7,反復性角膜びらん,S1,H188,VSF0,=,http://id.who.int/icd/entity/966233826,=,9A78.8
+7,角膜剥離,L,H188,VU3A,=,http://id.who.int/icd/entity/212424932,=,NA06.4 & XA4C02
+7,角膜内皮障害,L,H189,CQT3,<,http://id.who.int/icd/entity/980864631,<,9A7Z
+7,角膜周囲充血,L,H189,KH83,<,http://id.who.int/icd/entity/980864631,<,9A7Z & XA1DA5
+7,角膜疾患,L,H189,PAG0,=,http://id.who.int/icd/entity/980864631,=, 9A7Z
+7,角膜障害,S1,H189,PAG0,=,http://id.who.int/icd/entity/980864631,=, 9A7Z
+7,角膜症,L,H189,Q111,=,http://id.who.int/icd/entity/980864631,=, 9A7Z
+7,続発性虹彩毛様体炎,L,H200,CMSL,<,http://id.who.int/icd/entity/908233081,<,9A96.Z 
+7,亜急性虹彩炎,L,H200,D1SL,=,http://id.who.int/icd/entity/908233081 & http://id.who.int/icd/entity/566364827 & http://id.who.int/icd/entity/2058324694,=,9A96.Z & XA3GW7 & XT1L
+7,急性毛様体炎,L,H200,D4VT,=,http://id.who.int/icd/entity/908233081 & http://id.who.int/icd/entity/921333339 & http://id.who.int/icd/entity/786106375,=,9A96.Z & XA03X9 & XT5R
+7,反復性前部ぶどう膜炎,L,H200,D9AG,=,http://id.who.int/icd/entity/908233081 & http://id.who.int/icd/entity/1721353160,=,9A96.Z & XT44
+7,反復性前部ブドウ膜炎,S1,H200,D9AG,=,http://id.who.int/icd/entity/908233081 & http://id.who.int/icd/entity/1721353160,=,9A96.Z & XT44
+7,前房蓄膿性虹彩炎,L,H200,DACH,=,http://id.who.int/icd/entity/803985395 / http://id.who.int/icd/entity/803985395,=,9A96.Y / MC20.2
+7,亜急性毛様体炎,L,H200,EF4E,=,http://id.who.int/icd/entity/908233081 & http://id.who.int/icd/entity/921333339 & http://id.who.int/icd/entity/2058324694 ,=,9A96.Z & XA03X9 &  XT1L
+7,亜急性虹彩毛様体炎,L,H200,GE33,=,http://id.who.int/icd/entity/1201948018,=,9A96.Y & XA3GW7 & XA03X9 & XT1L
+7,続発性虹彩炎,L,H200,L02D,=,http://id.who.int/icd/entity/961448435 OR http://id.who.int/icd/entity/1252006503,<,9A96.Y 
+7,急性虹彩毛様体炎,L,H200,LGH3,=,http://id.who.int/icd/entity/998771174,=,9A96.Y & XA3GW7 & XA03X9 & XT5R
+7,反復性前房蓄膿,L,H200,M1TC,=,http://id.who.int/icd/entity/908233081 & http://id.who.int/icd/entity/566364827 / http://id.who.int/icd/entity/803985395  ,=,"9A96.Y &
+ XT44 / MC20.2 "
+7,亜急性前部ぶどう膜炎,L,H200,M88T,=,http://id.who.int/icd/entity/1306777868 & http://id.who.int/icd/entity/2058324694   ,=,9A96.Y & XT1L
+7,亜急性前部ブドウ膜炎,S1,H200,M88T,=,http://id.who.int/icd/entity/1306777868 & http://id.who.int/icd/entity/2058324694   ,=,9A96.Y & XT1L
+7,内因性ぶどう膜炎,L,H200,MMEJ,=,http://id.who.int/icd/entity/908233081,<,9A96.Y
+7,内因性ブドウ膜炎,S1,H200,MMEJ,=,http://id.who.int/icd/entity/908233081,<,9A96.Y
+7,続発性ぶどう膜炎,L,H200,NH96,=,http://id.who.int/icd/entity/908233081,<,9A96.Y
+7,続発性ブドウ膜炎,S1,H200,NH96,=,http://id.who.int/icd/entity/908233081,<,9A96.Y
+7,反復性毛様体炎,L,H200,NM3P,=,http://id.who.int/icd/entity/1742186031,=,9A96.Y & XT44 
+7,漿液性虹彩炎,L,H200,NMP6,<,http://id.who.int/icd/entity/908233081,<,9A96.Z & XA3GW7
+7,アレルギー性ぶどう膜炎,L,H200,PRH7,<,http://id.who.int/icd/entity/908233081 ,<,9A96.Z 
+7,アレルギー性ブドウ膜炎,S1,H200,PRH7,<,http://id.who.int/icd/entity/908233081 ,<,9A96.Z 
+7,反復性虹彩毛様体炎,L,H200,T90T,=,http://id.who.int/icd/entity/1195490786,=,9A96.Y & XA3GW7 & XA03X9 & XT44
+7,反復性虹彩炎,L,H200,TN9B,=,http://id.who.int/icd/entity/908233081 & http://id.who.int/icd/entity/1721353160,=,9A96.Y & XT44 
+7,前房蓄膿,L,H200,UC1S,=,http://id.who.int/icd/entity/908233081 / http://id.who.int/icd/entity/803985395  ,=,9A96.Y / MC20.2 
+7,急性前部ぶどう膜炎,L,H200,V8G4,=,http://id.who.int/icd/entity/1306777868 & http://id.who.int/icd/entity/786106375,=,9A96.Z  & XT5R
+7,急性前部ブドウ膜炎,S1,H200,V8G4,=,http://id.who.int/icd/entity/1306777868 & http://id.who.int/icd/entity/786106375,=,9A96.Z  & XT5R
+7,急性虹彩炎,L,H200,VAPH,=,http://id.who.int/icd/entity/223378328,=,9A96.Y & XT5R
+7,リウマチ性虹彩炎,L,H201,AS2V,=,http://id.who.int/icd/entity/998771174 / http://id.who.int/icd/entity/211318697,=,9A96.Y  / ME83
+7,慢性虹彩毛様体炎,L,H201,F11N,=,http://id.who.int/icd/entity/908233081 & http://id.who.int/icd/entity/490003542,=,9A96.Z & XA3GW7 & XA03X9 & XT8W 
+7,水晶体原性虹彩毛様体炎,L,H202,LUG9,=,http://id.who.int/icd/entity/2059865994,<,9A96.Y / 9B1Z
+7,化膿性虹彩炎,L,H208,A91V,<,http://id.who.int/icd/entity/998771174 ,<,9A96.Y
+7,難治性ぶどう膜炎,L,H208,C1VA,<,http://id.who.int/icd/entity/908233081,<,9A96.Z 
+7,難治性ブドウ膜炎,S1,H208,C1VA,<,http://id.who.int/icd/entity/908233081,<,9A96.Z 
+7,陳旧性虹彩炎,L,H208,CMV8,<,http://id.who.int/icd/entity/908233081 & http://id.who.int/icd/entity/472249438,<,9A96.Z & XT9C 
+7,フックス異色毛様体炎,L,H208,DJGT,=,http://id.who.int/icd/entity/82747757 & http://id.who.int/icd/entity/921333339,<,9A96.1
+7,陳旧性虹彩毛様体炎,L,H208,E20M,=,http://id.who.int/icd/entity/908233081 & http://id.who.int/icd/entity/472249438,=,9A96.Z & & XT9C
+7,化膿性毛様体炎,L,H208,EKFS,<,http://id.who.int/icd/entity/908233081 & http://id.who.int/icd/entity/921333339 ,<,9A96.Y
+7,高血圧性虹彩毛様体炎,L,H208,G791,=,http://id.who.int/icd/entity/908233081 / http://id.who.int/icd/entity/761947693,=,9A96.Y / BA00.Z 
+7,虹彩異色,L,H208,HVKT,=,http://id.who.int/icd/entity/82747757,<,9A96.Y
+7,出血性虹彩炎,L,H208,M64G,=,http://id.who.int/icd/entity/908233081 / http://id.who.int/icd/entity/899911047,=,9A96.Y / 9A80
+7,化膿性ぶどう膜炎,L,H208,P0K3,<,http://id.who.int/icd/entity/908233081,<,9A96.Y
+7,化膿性ブドウ膜炎,S1,H208,P0K3,<,http://id.who.int/icd/entity/908233081,<,9A96.Y
+7,フォークト・小柳病,L,H208,RRV5,=,http://id.who.int/icd/entity/1883500946,=,9A96.1 / ED63.3
+7,VOGT KOYANAGI病,S1,H208,RRV5,=,http://id.who.int/icd/entity/1883500946,=,9A96.1 / ED63.3
+7,小柳病,S1,H208,RRV5,=,http://id.who.int/icd/entity/1883500946,=,9A96.1 / ED63.3
+7,虹彩異色性毛様体炎,L,H208,SHFP,=,http://id.who.int/icd/entity/82747757,<, 9A96.1 
+7,中間部ぶどう膜炎,L,H208,T2K4,=,http://id.who.int/icd/entity/892860325,=,9B66.Z
+7,中間部ブドウ膜炎,S1,H208,T2K4,=,http://id.who.int/icd/entity/892860325,=,9B66.Z
+7,遷延性虹彩炎,L,H208,VPD8,=,http://id.who.int/icd/entity/908233081 & http://id.who.int/icd/entity/1313511357,=,9A96.Y & XT6Z
+7,角膜虹彩炎,L,H209,C524,=,http://id.who.int/icd/entity/908233081,=,9A96.Z
+7,結節虹彩炎,L,H209,FLNL,<,http://id.who.int/icd/entity/908233081,<,9A96.Y
+7,毛様体炎,L,H209,GJ4N,=,http://id.who.int/icd/entity/908233081,=,9A96.Z 
+7,虹彩炎,L,H209,LN9Q,=,http://id.who.int/icd/entity/908233081,=,9A96.Z 
+7,虹彩毛様体炎,L,H209,P413,=,http://id.who.int/icd/entity/908233081,=,9A96.Z 
+7,ぶどう膜角膜炎,L,H209,PRL9,=,http://id.who.int/icd/entity/908233081,=,9A96.Z 
+7,角膜ぶどう膜炎,S1,H209,PRL9,=,http://id.who.int/icd/entity/908233081,=,9A96.Z 
+7,ブドウ膜角膜炎,S1,H209,PRL9,=,http://id.who.int/icd/entity/908233081,=,9A96.Z 
+7,ぶどう膜炎,L,H209,U04B,=,http://id.who.int/icd/entity/908233081,=,9A96.Z
+7,ブドウ膜炎,S1,H209,U04B,=,http://id.who.int/icd/entity/908233081,=,9A96.Z
+7,虹彩出血,L,H210,NEG4,=,http://id.who.int/icd/entity/899911047,=,9A80 & XA3GW7
+7,前房出血,L,H210,U2QR,=,http://id.who.int/icd/entity/2010733156,=,9A80
+7,毛様体充血,L,H211,E079,=,"http://id.who.int/icd/entity/1047040048 &
+ http://id.who.int/icd/entity/921333339",=,9A94.0 &XA03X9
+7,毛様体血管新生,S1,H211,E079,=,"http://id.who.int/icd/entity/1047040048 &
+ http://id.who.int/icd/entity/921333339",=,9A94.0 &XA03X9
+7,虹彩血管新生,L,H211,FE0H,=,http://id.who.int/icd/entity/1047040048,=,9A94.0
+7,虹彩ルベオーシス,S1,H211,FE0H,=,http://id.who.int/icd/entity/1047040048,=,9A94.0
+7,人工的虹彩欠損,L,H212,FM4J,<,"http://id.who.int/icd/entity/1715455753  & 
+http://id.who.int/icd/entity/566364827",<,9A90.Y&XA3GW7
+7,人工的虹彩歇損,S1,H212,FM4J,<,"http://id.who.int/icd/entity/1715455753  & 
+http://id.who.int/icd/entity/566364827",<,9A90.Y&XA3GW7
+7,毛様体分離,L,H212,GTC1,<,http://id.who.int/icd/entity/1715455753 & http://id.who.int/icd/entity/921333339,<,9A90.Y &XA03X9
+7,虹彩萎縮症,L,H212,KNE1,=,http://id.who.int/icd/entity/455724017,=,9A90.2
+7,進行性虹彩萎縮,S1,H212,KNE1,=,http://id.who.int/icd/entity/1473835703,<,9A90.2
+7,本態性進行性虹彩萎縮,S1,H212,KNE1,=,http://id.who.int/icd/entity/1473835703,<,9A90.2
+7,本態性虹彩萎縮,S1,H212,KNE1,=,http://id.who.int/icd/entity/455724017,=,9A90.2
+7,虹彩白斑,L,H212,N55M,<,http://id.who.int/icd/entity/2032256272 ,<,9A90.1 
+7,虹彩分離,L,H212,NF9D,=,http://id.who.int/icd/entity/1870961422,=,LA11.61 
+7,縮瞳性瞳孔のう胞,L,H212,NTML,=,http://id.who.int/icd/entity/2120353381,<,9A91
+7,縮瞳性瞳孔嚢胞,S1,H212,NTML,=,http://id.who.int/icd/entity/2120353381,<,9A91
+7,虹彩変性,L,H212,NTV5,=,http://id.who.int/icd/entity/2032256272,=,9A90.1
+7,虹彩フロックルス,S1,H212,NTV5,=,http://id.who.int/icd/entity/2032256272,=,9A90.1
+7,毛様体変性,L,H212,P9NB,=,http://id.who.int/icd/entity/1715455753 & http://id.who.int/icd/entity/921333339 ,=,9A90.Z  &XA03X9
+7,限局性虹彩萎縮,L,H212,PC08,=,http://id.who.int/icd/entity/455724017 & http://id.who.int/icd/entity/108658876,=,9A90.2 & XK9A 
+7,毛様体萎縮,L,H212,TDTQ,=,http://id.who.int/icd/entity/1077693212,<,9A90.Y & XA03X9
+7,移植性虹彩のう胞,L,H213,D296,=,http://id.who.int/icd/entity/1269776515 & http://id.who.int/icd/entity/566364827,<,9A91&XA3GW7
+7,移植性虹彩嚢胞,S1,H213,D296,=,http://id.who.int/icd/entity/1269776515 & http://id.who.int/icd/entity/566364827,<,9A91&XA3GW7
+7,寄生虫性前房のう胞,L,H213,DLVD,=,http://id.who.int/icd/entity/1764009716,<,9A82
+7,寄生虫性前房嚢胞,S1,H213,DLVD,=,http://id.who.int/icd/entity/1764009716,<,9A82
+7,寄生虫性虹彩のう胞,L,H213,EVQN,=,http://id.who.int/icd/entity/786730263 & http://id.who.int/icd/entity/566364827,<,9A91 & XA3GW7
+7,寄生虫性虹彩嚢胞,S1,H213,EVQN,=,http://id.who.int/icd/entity/786730263 & http://id.who.int/icd/entity/566364827,<,9A91 & XA3GW7
+7,移植性前房のう胞,L,H213,GHQD,=,http://id.who.int/icd/entity/1425816030,<,9A82
+7,移植性前房嚢胞,S1,H213,GHQD,=,http://id.who.int/icd/entity/1425816030,<,9A82
+7,滲出性虹彩のう胞,L,H213,GV73,=,http://id.who.int/icd/entity/198938733 ,<,9A91&XA3GW7
+7,滲出性虹彩嚢胞,S1,H213,GV73,=,http://id.who.int/icd/entity/198938733 ,<,9A91&XA3GW7
+7,滲出性前房のう胞,L,H213,HCHT,=,http://id.who.int/icd/entity/1423276848,<,9A82
+7,滲出性前房嚢胞,S1,H213,HCHT,=,http://id.who.int/icd/entity/1423276848,<,9A82
+7,毛様体のう胞,L,H213,HU2L,=,http://id.who.int/icd/entity/1373721806,=,9A91 & XA03X9
+7,毛様体嚢胞,S1,H213,HU2L,=,http://id.who.int/icd/entity/1373721806,=,9A91 & XA03X9
+7,前房のう胞,L,H213,KPQS,=,http://id.who.int/icd/entity/1138462500,=,9A82
+7,前房嚢胞,S1,H213,KPQS,=,http://id.who.int/icd/entity/1138462500,=,9A82
+7,滲出性毛様体のう胞,L,H213,KT4K,=,http://id.who.int/icd/entity/198938733 & http://id.who.int/icd/entity/921333339,<,9A91 & XA03X9
+7,滲出性毛様体嚢胞,S1,H213,KT4K,=,http://id.who.int/icd/entity/198938733 & http://id.who.int/icd/entity/921333339,<,9A91 & XA03X9
+7,移植性毛様体のう胞,L,H213,Q3NQ,=,http://id.who.int/icd/entity/28561297,<,9A91 & XA03X9
+7,移植性毛様体嚢胞,S1,H213,Q3NQ,=,http://id.who.int/icd/entity/28561297,<,9A91 & XA03X9
+7,虹彩のう胞,L,H213,Q41H,=,http://id.who.int/icd/entity/1589454028,=,9A91 & XA3GW7
+7,虹彩嚢胞,S1,H213,Q41H,=,http://id.who.int/icd/entity/1589454028,=,9A91 & XA3GW7
+7,寄生虫性毛様体のう胞,L,H213,SN9D,=,http://id.who.int/icd/entity/786730263 & http://id.who.int/icd/entity/921333339,<,9A91 & XA03X9
+7,寄生虫性毛様体嚢胞,S1,H213,SN9D,=,http://id.who.int/icd/entity/786730263 & http://id.who.int/icd/entity/921333339,<,9A91 & XA03X9
+7,瞳孔遮断,L,H214,DF8J,=,http://id.who.int/icd/entity/39950602,<,9A92
+7,膨隆虹彩,L,H214,HUS3,=,http://id.who.int/icd/entity/213143754,<,9A92
+7,瞳孔膜,L,H214,JNHF,=,http://id.who.int/icd/entity/1889179913,=,9A92 
+7,瞳孔閉鎖,L,H214,LDMF,=,http://id.who.int/icd/entity/1462660933,<,9A92
+7,偽白内障,S1,H214,LDMF,<,http://id.who.int/icd/entity/1889179913,<,9A92
+7,隅角癒着,L,H215,C716,=,http://id.who.int/icd/entity/1614935700,<,9A93
+7,虹彩離断,L,H215,EG7N,=,http://id.who.int/icd/entity/84556546,<,9A93
+7,虹彩前癒着,L,H215,K6BL,=,http://id.who.int/icd/entity/351053419,<,9A93
+7,虹彩後癒着,L,H215,LUJU,=,http://id.who.int/icd/entity/1994696854,<,9A93
+7,隅角解離,L,H215,MAF9,=,http://id.who.int/icd/entity/330261760,<,9A93
+7,虹彩癒着,L,H215,NA7D,=,http://id.who.int/icd/entity/366040221,=,9A93
+7,隅角後退,L,H215,NHRE,=,http://id.who.int/icd/entity/330261760,<,9A93
+7,隅角剥離,L,H215,P1FJ,=,http://id.who.int/icd/entity/330261760,<,9A93
+7,虹彩結節,L,H218,GN5H,<,http://id.who.int/icd/entity/2036260022 & http://id.who.int/icd/entity/566364827,<,9A94.Y & XA3GW7
+7,外傷性虹彩炎,L,H218,KSE4,<,http://id.who.int/icd/entity/2036260022 & http://id.who.int/icd/entity/566364827,<,9A94.Y & XA3GW7
+7,毛様体剥離,L,H218,LV08,<,http://id.who.int/icd/entity/2036260022 & http://id.who.int/icd/entity/921333339,<,9A94.Y & XA03X9
+7,冠状加齢性白内障,L,H250,A6BS,=,http://id.who.int/icd/entity/987757045,=,9B10.00
+7,冠状老人性白内障,S1,H250,A6BS,=,http://id.who.int/icd/entity/987757045,=,9B10.00
+7,点状加齢性白内障,L,H250,D3L6,=,http://id.who.int/icd/entity/223139979,=,9B10.01 
+7,点状老人性白内障,S1,H250,D3L6,=,http://id.who.int/icd/entity/223139979,=,9B10.01 
+7,老人性初発白内障,L,H250,DHDM,=,http://id.who.int/icd/entity/1294437150,<,9B10.0Y
+7,のう下加齢性白内障,L,H250,DUPV,=,http://id.who.int/icd/entity/1633597115,<,9B10.0Y
+7,のう下老人性白内障,S1,H250,DUPV,=,http://id.who.int/icd/entity/1633597115,<,9B10.0Y
+7,嚢下加齢性白内障,S1,H250,DUPV,=,http://id.who.int/icd/entity/1633597115,<,9B10.0Y
+7,嚢下老人性白内障,S1,H250,DUPV,=,http://id.who.int/icd/entity/1633597115,<,9B10.0Y
+7,後極白内障,L,H250,GDG3,=,http://id.who.int/icd/entity/198798094,<,9B10.0Y
+7,層状白内障,L,H250,J093,=,http://id.who.int/icd/entity/2081820138,<,LA12.1
+7,点状白内障,L,H250,JBM5,=,http://id.who.int/icd/entity/223139979 ,=,9B10.01
+7,後のう下白内障,L,H250,JGKA,=,http://id.who.int/icd/entity/198798094,<,9B10.0Y
+7,後嚢下白内障,S1,H250,JGKA,=,http://id.who.int/icd/entity/198798094,<,9B10.0Y
+7,前極白内障,L,H250,KP57,=,http://id.who.int/icd/entity/183984830,<,9B10.0Y
+7,前のう下白内障,L,H250,P0V4,=,http://id.who.int/icd/entity/183984830,<,9B10.0Y
+7,前嚢下白内障,S1,H250,P0V4,=,http://id.who.int/icd/entity/183984830,<,9B10.0Y
+7,皮質性加齢性白内障,L,H250,PM03,=,http://id.who.int/icd/entity/2027600749,<,9B10.0Y
+7,皮質性老人性白内障,S1,H250,PM03,=,http://id.who.int/icd/entity/2027600749,<,9B10.0Y
+7,核性白内障,L,H251,L08K,=,http://id.who.int/icd/entity/678184584,<,9B10.0Y
+7,核硬化症性白内障,L,H251,NT7P,=,http://id.who.int/icd/entity/65259266,<,9B10.0Y
+7,褐色白内障,L,H251,RG2V,=,http://id.who.int/icd/entity/879814272,<,9B10.0Y
+7,過熟白内障,L,H252,FMA4,=,http://id.who.int/icd/entity/1556158071,<,9B10.0Y
+7,モルガーニ白内障,S1,H252,FMA4,=,http://id.who.int/icd/entity/1556158071,<,9B10.0Y
+7,成熟白内障,L,H258,RPRP,=,http://id.who.int/icd/entity/1251151994,=,9B10.02
+7,完熟白内障,S1,H258,RPRP,=,http://id.who.int/icd/entity/1251151994,=,9B10.02
+7,加齢性白内障,L,H259,BB6Q,=,http://id.who.int/icd/entity/1412073350,=,9B10.0Z 
+7,老年性白内障,S1,H259,BB6Q,=,http://id.who.int/icd/entity/1412073350,=,9B10.0Z 
+7,老人性白内障,S1,H259,BB6Q,=,http://id.who.int/icd/entity/1412073350,=,9B10.0Z 
+7,小児性白内障,L,H260,JB09,=,http://id.who.int/icd/entity/1285565218,=,9B10.1Z 
+7,若年性白内障,L,H260,L032,=,http://id.who.int/icd/entity/1285565218,=,9B10.1Z 
+7,青年性白内障,L,H260,NEN2,=,http://id.who.int/icd/entity/1285565218,=,9B10.1Z 
+7,壮年性白内障,L,H260,UF0T,=,http://id.who.int/icd/entity/1285565218,=,9B10.1Z 
+7,初老性白内障,L,H260,VCHQ,=,http://id.who.int/icd/entity/1285565218,=,9B10.1Z 
+7,早老白内障,S2,H260,VCHQ,=,http://id.who.int/icd/entity/1285565218,=,9B10.1Z 
+7,外傷性白内障,L,H261,L1BT,=,http://id.who.int/icd/entity/703325880,=,9B10.20
+7,網膜剥離後白内障,L,H262,C4UQ,<,"http://id.who.int/icd/entity/1564915273  /
+ http://id.who.int/icd/entity/1801096327",<,9B10.2Y / 9B73.3
+7,併発白内障,L,H262,FMQG,=,http://id.who.int/icd/entity/1564915273,<,9B10.2Y
+7,緑内障性斑紋,L,H262,K1R2,=,http://id.who.int/icd/entity/157756569,=,9B10.23 
+7,緑内障斑,L,H262,SV38,=,http://id.who.int/icd/entity/157756569,=,9B10.23 
+7,ステロイド白内障,L,H263,HHSU,=,"http://id.who.int/icd/entity/940407773  &
+ http://id.who.int/icd/entity/765024126",<,9B10.2Y & XM8JY6  
+7,薬物性白内障,L,H263,LFBP,=,http://id.who.int/icd/entity/940407773 ,<,9B10.2Y 
+7,薬物誘発性白内障,S1,H263,LFBP,=,http://id.who.int/icd/entity/940407773 ,<,9B10.2Y 
+7,中毒性白内障,L,H263,Q034,=,http://id.who.int/icd/entity/940407773 ,<,9B10.2Y 
+7,ゾンメルリング輪,L,H264,B7SD,=,http://id.who.int/icd/entity/1273227337,=,9B10.22
+7,後発白内障,L,H264,P0VV,=,http://id.who.int/icd/entity/1273227337,=,9B10.22
+7,続発性白内障,S2,H264,P0VV,=,http://id.who.int/icd/entity/1273227337,=,9B10.22
+7,皮膚原性白内障,L,H268,B7T7,<,http://id.who.int/icd/entity/545773433,<,9B10.2Y 
+7,血管性白内障,L,H268,BL34,<,http://id.who.int/icd/entity/411152882,<,9B10.2Y 
+7,びまん性白内障,L,H268,F9LN,=,http://id.who.int/icd/entity/109841337 & http://id.who.int/icd/entity/1265853763,=,9B10.Z  &  XK31 
+7,閃光白内障,L,H268,LP4J,=,http://id.who.int/icd/entity/1228648704,<,9B10.2Y 
+7,電撃白内障,L,H268,MAT5,=,http://id.who.int/icd/entity/1228648704,<,9B10.2Y 
+7,アトピー性白内障,L,H268,NMAN,=,http://id.who.int/icd/entity/1146007800,<,9B10.2Y 
+7,赤外線白内障,L,H268,PD15,=,http://id.who.int/icd/entity/2133507405,=,9B10.20 & XE9G0 
+7,放射線白内障,L,H268,R6UN,=,http://id.who.int/icd/entity/1391911787,=,9B10.2Y & XE60
+7,X線白内障,S1,H268,R6UN,=,http://id.who.int/icd/entity/1391911787,=,9B10.2Y & XE60
+7,放射線性白内障,S1,H268,R6UN,=,http://id.who.int/icd/entity/1391911787,=,9B10.2Y & XE60
+7,鉄沈着性白内障,L,H268,TG6F,=,http://id.who.int/icd/entity/1229524987 & http://id.who.int/icd/entity/430480854,<,9B10.2Y & XM8U54
+7,のう胞性白内障,L,H268,TN65,<,http://id.who.int/icd/entity/545773433,<,9B10.2Y 
+7,嚢胞性白内障,S1,H268,TN65,<,http://id.who.int/icd/entity/545773433,<,9B10.2Y 
+7,急性白内障,L,H269,AHGH,=,"http://id.who.int/icd/entity/109841337  & 
+http://id.who.int/icd/entity/786106375",=,9B10.Z  & XT5R 
+7,白内障,L,H269,BC2G,=,http://id.who.int/icd/entity/109841337,=,9B10.Z
+7,水晶体混濁,S1,H269,BC2G,=,http://id.who.int/icd/entity/109841337,=,9B10.Z
+7,原発性白内障,S1,H269,BC2G,=,http://id.who.int/icd/entity/109841337,=,9B10.Z
+7,初発白内障,L,H269,CVPT,=,http://id.who.int/icd/entity/1712242501,<,9B10.2Y 
+7,未熟白内障,L,H269,FGHQ,=,http://id.who.int/icd/entity/1444156961,<,9B10.2Y 
+7,未熟性白内障,S1,H269,FGHQ,=,http://id.who.int/icd/entity/1444156961,<,9B10.2Y 
+7,初期白内障,L,H269,JQAP,=,http://id.who.int/icd/entity/1712242501,<,9B10.2Y 
+7,軟性白内障,L,H269,T7JE,<,http://id.who.int/icd/entity/545773433,<,9B10.2Y
+7,水晶体欠損,L,H270,G64N,=,http://id.who.int/icd/entity/1348002723,=,9B11.0
+7,水晶体歇損,S1,H270,G64N,=,http://id.who.int/icd/entity/1348002723,=,9B11.0
+7,水晶体欠損症,S1,H270,G64N,=,http://id.who.int/icd/entity/1348002723,=,9B11.0
+7,水晶体歇損症,S1,H270,G64N,=,http://id.who.int/icd/entity/1348002723,=,9B11.0
+7,人工無水晶体眼,L,H270,MH38,=,http://id.who.int/icd/entity/289240505,<,9B11.0
+7,術後無水晶体眼,S1,H270,MH38,=,http://id.who.int/icd/entity/289240505 & http://id.who.int/icd/entity/182265087,<,9B11.0 & XY7V
+7,人工的無水晶体眼,S1,H270,MH38,=,http://id.who.int/icd/entity/289240505,<,9B11.0
+7,人工的無水晶体症,S1,H270,MH38,=,http://id.who.int/icd/entity/289240505,<,9B11.0
+7,人工無水晶体症,S1,H270,MH38,=,http://id.who.int/icd/entity/289240505,<,9B11.0
+7,無水晶体眼,L,H270,RSC1,=,http://id.who.int/icd/entity/1348002723,=,9B11.0
+7,水晶体偏位,L,H271,G955,=,http://id.who.int/icd/entity/890449463,=,9B11.1 
+7,水晶体転位,S2,H271,G955,=,http://id.who.int/icd/entity/890449463,=,9B11.1 
+7,水晶体脱臼,L,H271,LE1S,=,http://id.who.int/icd/entity/890449463,=,9B11.1 
+7,水晶体脱臼症,S1,H271,LE1S,=,http://id.who.int/icd/entity/890449463,=,9B11.1 
+7,水晶体亜脱臼,L,H271,SD61,=,http://id.who.int/icd/entity/254522648,<,9B11.1 
+7,水晶体膿瘍,L,H278,DPD4,=,http://id.who.int/icd/entity/1872934327,<,9B11.Y 
+7,水晶体のう胞,L,H278,HGM9,=,http://id.who.int/icd/entity/1175751968,<,9B11.Y 
+7,水晶体嚢胞,S1,H278,HGM9,=,http://id.who.int/icd/entity/1175751968,<,9B11.Y 
+7,限局性滲出性網脈絡膜炎,L,H300,B32G,<,http://id.who.int/icd/entity/479438201 & http://id.who.int/icd/entity/108658876,<,9B65.2 & XK9A
+7,中心性脈絡膜炎,L,H300,EED0,=,http://id.who.int/icd/entity/1623925689,=,9B75.2 
+7,局在性網膜炎,L,H300,FBTF,=,http://id.who.int/icd/entity/1173139995 & http://id.who.int/icd/entity/108658876,=,9B72.Z & XK9A
+7,イエンセン病,L,H300,G1TM,=,"http://id.who.int/icd/entity/1119445454  / 
+http://id.who.int/icd/entity/836709998",=,9B65.1 / 1F57.3
+7,JENSENY病,S1,H300,G1TM,=,"http://id.who.int/icd/entity/1119445454  / 
+http://id.who.int/icd/entity/836709998",=,9B65.1 / 1F57.3
+7,JENSEN病,S1,H300,G1TM,=,"http://id.who.int/icd/entity/1119445454  / 
+http://id.who.int/icd/entity/836709998",=,9B65.1 / 1F57.3
+7,局在性網脈絡膜炎,L,H300,JHJR,=,http://id.who.int/icd/entity/479438201 & http://id.who.int/icd/entity/108658876,=,9B65.2 & XK9A
+7,局在性網膜脈絡膜炎,S1,H300,JHJR,=,http://id.who.int/icd/entity/479438201 & http://id.who.int/icd/entity/108658876,=,9B65.2 & XK9A
+7,病巣性脈絡網膜炎,S1,H300,JHJR,<,http://id.who.int/icd/entity/479438201,<,9B65.2
+7,中心性網膜炎,L,H300,MS28,=,http://id.who.int/icd/entity/1623925689,=,9B75.2 
+7,乳頭網膜炎,L,H300,P45L,<,http://id.who.int/icd/entity/1173139995,<,9B72.Y
+7,中心性網脈絡膜炎,L,H300,S9LD,=,http://id.who.int/icd/entity/1623925689,=,9B75.2
+7,中心性網膜脈絡膜炎,S1,H300,S9LD,=,http://id.who.int/icd/entity/1623925689,=,9B75.2
+7,中心性脈絡網膜炎,S1,H300,S9LD,=,http://id.who.int/icd/entity/1623925689,=,9B75.2
+7,中心性網膜症,L,H300,SG4P,=,http://id.who.int/icd/entity/1623925689,=,9B75.2
+7,中心性脈絡網膜症,L,H300,SU0Q,=,http://id.who.int/icd/entity/1623925689,=,9B75.2
+7,局在性脈絡膜炎,L,H300,UNA9,=,http://id.who.int/icd/entity/1884626736 & http://id.who.int/icd/entity/108658876,=,9B65.Z & XK9A
+7,網脈絡膜の局在性炎症,S1,H300,UNA9,=,http://id.who.int/icd/entity/1884626736 & http://id.who.int/icd/entity/108658876,=,9B65.Z & XK9A
+7,孤立性脈絡膜炎,S1,H300,UNA9,=,http://id.who.int/icd/entity/1884626736 & http://id.who.int/icd/entity/639340529,=,9B65.Z &  XK37
+7,びまん性脈絡膜炎,L,H301,B86N,=,http://id.who.int/icd/entity/1884626736 & http://id.who.int/icd/entity/1265853763,=,9B65.Z & XK31
+7,広汎性脈絡膜炎,S2,H301,B86N,=,http://id.who.int/icd/entity/1884626736 & http://id.who.int/icd/entity/1265853763,=,9B65.Z & XK31
+7,地図状脈絡膜炎,L,H301,DSGV,<,http://id.who.int/icd/entity/1884626736 ,<,9B65.Z
+7,散在性網脈絡膜炎,L,H301,KUEB,=,http://id.who.int/icd/entity/479438201 &  http://id.who.int/icd/entity/1486017780,=,9B65.2 & XK5A
+7,播種性脈絡網膜炎,S1,H301,KUEB,=,http://id.who.int/icd/entity/479438201 &  http://id.who.int/icd/entity/1486017780,=,9B65.2 & XK5A
+7,散在網脈絡膜炎,S1,H301,KUEB,=,http://id.who.int/icd/entity/479438201 &  http://id.who.int/icd/entity/1486017780,=,9B65.2 & XK5A
+7,網脈絡膜の散在性炎症,S1,H301,KUEB,=,http://id.who.int/icd/entity/479438201 &  http://id.who.int/icd/entity/1486017780,=,9B65.2 & XK5A
+7,散在性網膜脈絡膜炎,S1,H301,KUEB,=,http://id.who.int/icd/entity/479438201 &  http://id.who.int/icd/entity/1486017780,=,9B65.2 & XK5A
+7,播種性網膜脈絡膜炎,S1,H301,KUEB,=,http://id.who.int/icd/entity/479438201 &  http://id.who.int/icd/entity/1486017780,=,9B65.2 & XK5A
+7,散在性脈絡膜炎,L,H301,NPQE,=,http://id.who.int/icd/entity/1884626736 &  http://id.who.int/icd/entity/1486017780 ,=,9B65.Z & XK5A
+7,播種性脈絡膜炎,S1,H301,NPQE,=,http://id.who.int/icd/entity/1884626736 &  http://id.who.int/icd/entity/1486017780 ,=,9B65.Z & XK5A
+7,散在性網膜炎,L,H301,VRJ6,=,http://id.who.int/icd/entity/1173139995 & http://id.who.int/icd/entity/1486017780 ,=,9B72.Z & XK5A
+7,後部毛様体炎,L,H302,E9E9,=,http://id.who.int/icd/entity/908233081 & http://id.who.int/icd/entity/648538052,=,9A96.Y & XK8L
+7,周辺部脈絡膜炎,L,H302,EK5R,=,http://id.who.int/icd/entity/1070420822,=,9B66.0
+7,周辺部ぶどう膜炎,L,H302,F3R8,=,http://id.who.int/icd/entity/1070420822,=,9B66.0
+7,周辺部ブドウ膜炎,S1,H302,F3R8,=,http://id.who.int/icd/entity/1070420822,=,9B66.0
+7,周辺性網脈絡膜炎,L,H302,LTA3,=,http://id.who.int/icd/entity/1070420822,=,9B66.0
+7,周辺性ぶどう膜炎,L,H302,NJ0S,=,http://id.who.int/icd/entity/1070420822,=,9B66.0
+7,周辺性ブドウ膜炎,S1,H302,NJ0S,=,http://id.who.int/icd/entity/1070420822,=,9B66.0
+7,フォークト・小柳・原田病,L,H308,L120,=,http://id.who.int/icd/entity/1883500946,<,9A96.1 
+7,VOGT KOYANAGI HARADA病,S1,H308,L120,=,http://id.who.int/icd/entity/1883500946,<,9A96.1 
+7,VOGT-小柳-原田病,S1,H308,L120,=,http://id.who.int/icd/entity/1883500946,<,9A96.1 
+7,原田病,S2,H308,L120,=,http://id.who.int/icd/entity/1883500946,<,9A96.1 
+7,原田症候群,S2,H308,L120,=,http://id.who.int/icd/entity/1883500946,<,9A96.1 
+7,線状網膜炎,L,H309,KF2M,<,http://id.who.int/icd/entity/1173139995,<,9B72.Z 
+7,網膜炎,L,H309,N067,=,http://id.who.int/icd/entity/1173139995,=,9B72.Z 
+7,網脈絡膜炎,L,H309,N3BE,=,http://id.who.int/icd/entity/479438201,=,9B65.2 
+7,網膜脈絡膜炎,S1,H309,N3BE,=,http://id.who.int/icd/entity/479438201,=,9B65.2 
+7,網脈絡膜の炎症,S1,H309,N3BE,=,http://id.who.int/icd/entity/479438201,=,9B65.2 
+7,視神経網膜炎,L,H309,PME0,=,http://id.who.int/icd/entity/418437487,=,9C40.2
+7,視神経ぶどう膜炎,S2,H309,PME0,=,http://id.who.int/icd/entity/418437487,=,9C40.2
+7,化膿性網膜炎,L,H309,SUPP,<,http://id.who.int/icd/entity/1173139995,<,9B72.Z 
+7,脈絡膜炎,L,H309,T9CG,=,http://id.who.int/icd/entity/1884626736,=,9B65.Z 
+7,増殖性網膜炎,L,H309,VBNJ,=,http://id.who.int/icd/entity/348602398 OR http://id.who.int/icd/entity/1289434438,=,9B71.01 OR 9B78.2
+7,日光網膜症,L,H310,ADH8,=,http://id.who.int/icd/entity/673513870,<,9B62 
+7,日光性網膜症,S1,H310,ADH8,=,http://id.who.int/icd/entity/673513870,<,9B62 
+7,日光網膜炎,S1,H310,ADH8,=,http://id.who.int/icd/entity/673513870,<,9B62 
+7,光網膜炎,S1,H310,ADH8,=,http://id.who.int/icd/entity/673513870,<,9B62 
+7,光網膜症,S1,H310,ADH8,=,http://id.who.int/icd/entity/673513870,<,9B62 
+7,日光性網膜炎,S1,H310,ADH8,=,http://id.who.int/icd/entity/673513870,<,9B62 
+7,網膜瘢痕,L,H310,MC5P,=,http://id.who.int/icd/entity/1740863827,=,9B62
+7,網脈絡膜瘢痕,L,H310,T17H,=,http://id.who.int/icd/entity/1740863827,=,9B62
+7,脈絡網膜瘢痕,S1,H310,T17H,=,http://id.who.int/icd/entity/1740863827,=,9B62
+7,黄斑部瘢痕,L,H310,TFE6,=,http://id.who.int/icd/entity/1740863827,=,9B62
+7,脈絡膜瘢痕,L,H310,U5CH,=,http://id.who.int/icd/entity/1740863827,=,9B62
+7,網脈絡膜変性,L,H311,A0JG,=,http://id.who.int/icd/entity/42513607,=,9B60 
+7,網脈絡膜萎縮,L,H311,HR4G,=,http://id.who.int/icd/entity/1308761286,<,9B60 
+7,網膜脈絡膜萎縮,S1,H311,HR4G,=,http://id.who.int/icd/entity/1308761286,<,9B60 
+7,網膜脈絡膜萎縮症,S1,H311,HR4G,=,http://id.who.int/icd/entity/1308761286,<,9B60 
+7,網脈絡膜萎縮変性,S1,H311,HR4G,=,http://id.who.int/icd/entity/1308761286,<,9B60 
+7,脈絡膜硬化症,L,H311,L0QP,=,http://id.who.int/icd/entity/1424134766,<,9B60
+7,脈絡膜変性,L,H311,P3GU,=,http://id.who.int/icd/entity/42513607,=,9B60
+7,三角症候群,L,H311,U6BJ,<,http://id.who.int/icd/entity/1308761286,<,9B60 
+7,脈絡膜萎縮症,L,H311,UVNR,=,http://id.who.int/icd/entity/1308761286,<,9B60 
+7,脈絡膜血管萎縮,S2,H311,UVNR,<,http://id.who.int/icd/entity/1308761286,<,9B60 
+7,中心性輪紋状脈絡膜萎縮症,L,H312,HRVL,=,http://id.who.int/icd/entity/2018537024,<,9B61 
+7,脈絡膜花環状萎縮,S2,H312,HRVL,=,http://id.who.int/icd/entity/2018537024,<,9B61 
+7,脳回転状脈絡膜網膜萎縮症,L,H312,LVKC,<,http://id.who.int/icd/entity/488350678,<,9B61 
+7,脳回状脈絡膜萎縮,S1,H312,LVKC,<,http://id.who.int/icd/entity/488350678,<,9B61 
+7,脳回転状脈絡網膜萎縮,S1,H312,LVKC,<,http://id.who.int/icd/entity/488350678,<,9B61 
+7,全脈絡膜萎縮症,L,H312,TGRJ,=,http://id.who.int/icd/entity/1308761286 & http://id.who.int/icd/entity/1479602347,=,9B60 & XK63
+7,脈絡膜ジストロフィー,S1,H312,TGRJ,=,http://id.who.int/icd/entity/1982194744,=, 9B61 
+7,先天性びまん性脈絡膜網膜萎縮症,S1,H312,TGRJ,=,http://id.who.int/icd/entity/1982194744 & http://id.who.int/icd/entity/1265853763 ,=, 9B61 & XK31
+7,進行性脈絡膜萎縮,S1,H312,TGRJ,=,http://id.who.int/icd/entity/217923263,<,9B61 
+7,びまん性脈絡膜ジストロフィー,S2,H312,TGRJ,=,http://id.who.int/icd/entity/1982194744 & http://id.who.int/icd/entity/1265853763 ,=, 9B61 & XK31
+7,遺伝性脈絡膜ジストロフィー,S2,H312,TGRJ,=,http://id.who.int/icd/entity/1982194744,=,9B61 
+7,コロイデレミア,S2,H312,TGRJ,=,http://id.who.int/icd/entity/217923263,<,9B61 
+7,脈絡膜出血,L,H313,FV2B,<,http://id.who.int/icd/entity/325986734,<,9B63 
+7,駆逐性脈絡膜出血,S2,H313,FV2B,=,http://id.who.int/icd/entity/1530427046,<,9B63
+7,網脈膜破裂,L,H313,M76G,<,http://id.who.int/icd/entity/325986734,<,9B63 
+7,脈絡膜断裂,L,H313,N30S,<,http://id.who.int/icd/entity/325986734,<,9B63 
+7,脈絡膜剥離,L,H314,FMKK,=,http://id.who.int/icd/entity/1619049018,=,9B64 
+7,点状脈絡膜内層症,L,H318,P24R,=,http://id.who.int/icd/entity/1322994548,<,9B65.0 
+7,点状内層脈絡膜症,S1,H318,P24R,=,http://id.who.int/icd/entity/1322994548,<,9B65.0 
+7,脈絡膜ヘルニア,L,H318,TR4N,<,http://id.who.int/icd/entity/146528463,<,9B6Z
+7,脈絡膜疾患,L,H319,HB1D,=,http://id.who.int/icd/entity/146528463,=,9B6Z
+7,黄斑円孔網膜剥離,L,H330,G24K,=,http://id.who.int/icd/entity/2059145710 / http://id.who.int/icd/entity/2035872925,=,9B73.0 / 9B75.1
+7,黄斑部円孔性網膜剥離,S1,H330,G24K,=,http://id.who.int/icd/entity/2059145710 / http://id.who.int/icd/entity/2035872925,=,9B73.0 / 9B75.1
+7,特発性網膜剥離,L,H330,LD4R,=,http://id.who.int/icd/entity/2059145710 & http://id.who.int/icd/entity/894194405,=,9B73.0  & XB5F
+7,裂孔原性網膜剥離,L,H330,SV75,≒,http://id.who.int/icd/entity/2059145710,≒,9B73.0
+7,網膜剥離裂孔,S1,H330,SV75,≒,http://id.who.int/icd/entity/2059145710,≒,9B73.0
+7,網膜偽のう胞,L,H331,F32P,=,http://id.who.int/icd/entity/962473987,<,9B73.2 
+7,網膜偽嚢胞,S1,H331,F32P,=,http://id.who.int/icd/entity/962473987,<,9B73.2 
+7,寄生虫性網膜のう胞,L,H331,HVFM,=,http://id.who.int/icd/entity/1607733239,≒,9B73.2 
+7,寄生虫性網膜嚢胞,S1,H331,HVFM,=,http://id.who.int/icd/entity/1607733239,≒,9B73.2 
+7,網膜分離症,L,H331,S6MM,=,http://id.who.int/icd/entity/1118046584,=,9B73.1Z 
+7,網膜のう胞,L,H331,SKSV,=,http://id.who.int/icd/entity/536337528,=,9B73.2 
+7,網膜嚢胞,S1,H331,SKSV,=,http://id.who.int/icd/entity/536337528,=,9B73.2 
+7,網膜鋸状縁のう胞,L,H331,V0C6,=,http://id.who.int/icd/entity/729374474,<,9B73.2 
+7,網膜鋸状縁嚢胞,S1,H331,V0C6,=,http://id.who.int/icd/entity/729374474,<,9B73.2 
+7,のう胞状網膜剥離,L,H332,AR5D,<,http://id.who.int/icd/entity/1801096327,<,9B73.3
+7,嚢胞状網膜剥離,S1,H332,AR5D,<,http://id.who.int/icd/entity/1801096327,<,9B73.3
+7,続発性網膜剥離,L,H332,DEMJ,<,http://id.who.int/icd/entity/1801096327,<,9B73.3
+7,増殖性網膜剥離,L,H332,FK79,=,http://id.who.int/icd/entity/2113917575,<,9B73.3
+7,網膜剥離,L,H332,HTFE,=,http://id.who.int/icd/entity/1801096327,=,9B73.3
+7,漿液性網膜剥離,L,H332,HVG9,=,http://id.who.int/icd/entity/1801096327,=,9B73.3
+7,ピット黄斑症候群,L,H332,JFLA,<,http://id.who.int/icd/entity/1801096327,<,9B73.3
+7,脈絡膜滲出,L,H332,MKD1,=,http://id.who.int/icd/entity/578784803,<,9B73.Y 
+7,網膜鋸状縁断裂,L,H333,AF12,=,http://id.who.int/icd/entity/236011795,=,9B73.4
+7,鋸状縁断裂,S1,H333,AF12,=,http://id.who.int/icd/entity/236011795,=,9B73.4
+7,網膜馬蹄形裂孔,L,H333,BGEE,=,http://id.who.int/icd/entity/2064396484,<,9B73.4
+7,網膜裂孔,L,H333,DATT,=,http://id.who.int/icd/entity/236011795,=,9B73.4
+7,網膜裂孔形成,S1,H333,DATT,=,http://id.who.int/icd/entity/236011795,=,9B73.4
+7,網膜裂症,S1,H333,DATT,=,http://id.who.int/icd/entity/236011795,=,9B73.4
+7,網膜円孔,L,H333,G87Q,=,http://id.who.int/icd/entity/262234171,<,9B73.4
+7,網膜欠損,L,H333,K339,=,http://id.who.int/icd/entity/1793764783,<,9B73.4
+7,網膜歇損,S1,H333,K339,=,http://id.who.int/icd/entity/1793764783,<,9B73.4
+7,周辺部網膜裂孔,L,H333,S517,<,http://id.who.int/icd/entity/236011795,<,9B73.4
+7,牽引性網膜剥離,L,H334,RF97,=,http://id.who.int/icd/entity/276191780,<,9B73.Y 
+7,外傷性網膜剥離,L,H335,HJ0A,<,http://id.who.int/icd/entity/357208479 ,<,9B73.Y 
+7,鎌状網膜剥離,L,H335,HRF1,<,http://id.who.int/icd/entity/276191780,<,9B73.Y
+7,網膜鎌状剥離,S1,H335,HRF1,<,http://id.who.int/icd/entity/276191780,<,9B73.Y
+7,先天鎌状網膜剥離,L,H335,SHT2,<,http://id.who.int/icd/entity/276191780 & http://id.who.int/icd/entity/1048408993 ,<,9B73.Y & XB8M
+7,胞状網膜剥離,L,H335,U89P,<,http://id.who.int/icd/entity/357208479,<,9B73.Y 
+7,先天性網膜剥離,L,H335,VMDR,=,http://id.who.int/icd/entity/357208479 & http://id.who.int/icd/entity/1048408993,=,9B73.Y & XB8M
+7,一過性網膜動脈閉塞症,L,H340,QCVD,=,http://id.who.int/icd/entity/1103454380,<,9B74.0
+7,網膜中心動脈閉塞症,L,H341,SU71,=,http://id.who.int/icd/entity/613330234,=,9B74.0 & XA5RB0
+7,網膜中心性動脈閉塞,S1,H341,SU71,=,http://id.who.int/icd/entity/613330234,=,9B74.0 & XA5RB0
+7,網膜中心動脈栓塞,S1,H341,SU71,=,http://id.who.int/icd/entity/613330234,=,9B74.0 & XA5RB0
+7,網膜動脈分枝閉塞症,L,H342,ARUE,=,http://id.who.int/icd/entity/1552912714,<,9B74.0 
+7,網膜動脈塞栓症,L,H342,BGNS,=,http://id.who.int/icd/entity/45117404,<,9B74.0
+7,網膜動脈栓塞(症),S1,H342,BGNS,=,http://id.who.int/icd/entity/45117404,<,9B74.0
+7,網膜動脈栓塞症,S1,H342,BGNS,=,http://id.who.int/icd/entity/45117404,<,9B74.0
+7,網膜動脈栓塞,S1,H342,BGNS,=,http://id.who.int/icd/entity/1344536007,=,9B74.0
+7,網膜血管痙攣,L,H342,HJN6,=,http://id.who.int/icd/entity/1344536007,=,9B74.0
+7,網脈微小塞栓症,L,H342,LNCE,=,http://id.who.int/icd/entity/207988256,<,9B74.0
+7,網膜動脈閉塞症,L,H342,R893,=,http://id.who.int/icd/entity/45117404,<,9B74.0
+7,網膜静脈閉塞症,L,H348,ARJA,=,http://id.who.int/icd/entity/514587306,=,9B74.1
+7,網膜血管閉塞症,S2,H348,ARJA,=,http://id.who.int/icd/entity/1722024459,=,9B74.Z
+7,網膜静脈閉塞症による黄斑浮腫,L,H348,CF4F,=,http://id.who.int/icd/entity/514587306 / http://id.who.int/icd/entity/816212034,=,9B74.1 / 9B78.7 
+7,網膜静脈閉塞症に伴う黄斑浮腫,S1,H348,CF4F,=,http://id.who.int/icd/entity/514587306 / http://id.who.int/icd/entity/816212034,=,9B74.1 / 9B78.7 
+7,網膜中心静脈閉塞症,L,H348,F1V5,=,http://id.who.int/icd/entity/1146548497,<,9B74.1
+7,網膜中心静脈枝閉塞,S2,H348,F1V5,<,http://id.who.int/icd/entity/1146548497,<,9B74.1
+7,網膜中心静脈血栓症,L,H348,FMJP,<,http://id.who.int/icd/entity/1187317185,<,9B74.1
+7,網膜中心静脈枝血栓症,S2,H348,FMJP,<,http://id.who.int/icd/entity/1187317185,<,9B74.1
+7,網膜静脈分枝閉塞症,L,H348,LRDU,=,http://id.who.int/icd/entity/680319877,<,9B74.1
+7,網膜静脈分枝閉塞症による黄斑浮腫,L,H348,QCJ1,=,http://id.who.int/icd/entity/1097356756,<,9B74.1 / 9B78.7 
+7,網膜静脈分枝閉塞症に伴う黄斑浮腫,S1,H348,QCJ1,=,http://id.who.int/icd/entity/1097356756,<,9B74.1 / 9B78.7 
+7,網膜中心静脈閉塞症による黄斑浮腫,L,H348,QJ6E,=,http://id.who.int/icd/entity/682607792,<,9B74.1 / 9B78.7 
+7,網膜中心静脈閉塞症に伴う黄斑浮腫,S1,H348,QJ6E,=,http://id.who.int/icd/entity/682607792,<,9B74.1 / 9B78.7 
+7,網膜中心静脈塞栓症,L,H348,RRHF,=,http://id.who.int/icd/entity/1146548497,<,9B74.1
+7,網膜中心静脈栓塞,S1,H348,RRHF,=,http://id.who.int/icd/entity/1146548497,<,9B74.1
+7,網膜静脈血栓症,L,H348,TNPB,=,http://id.who.int/icd/entity/1187317185,<,9B74.1
+7,眼底静脈血栓症,S1,H348,TNPB,=,http://id.who.int/icd/entity/1187317185 & http://id.who.int/icd/entity/87519831,<,9B74.1 & XA0X91 
+7,網膜血栓症,S2,H348,TNPB,=,http://id.who.int/icd/entity/1187317185,<,9B74.1
+7,網膜循環障害,L,H349,BPPC,<,http://id.who.int/icd/entity/1722024459,<,9B74.Z
+7,眼底動脈循環不全,S2,H349,BPPC,<,http://id.who.int/icd/entity/1722024459,<,9B74.Z
+7,特発性傍中心窩毛細血管拡張症,L,H350,B5UM,<,http://id.who.int/icd/entity/1860932788 & http://id.who.int/icd/entity/894194405,<,9B78.13  & XB5F
+7,特発性黄斑部毛細血管拡張症,S1,H350,B5UM,=,http://id.who.int/icd/entity/1860932788 & http://id.who.int/icd/entity/894194405,=,9B75.3 & XB5F
+7,特発性傍中心窩網膜毛細血管拡張症,S1,H350,B5UM,<,http://id.who.int/icd/entity/1860932788 & http://id.who.int/icd/entity/894194405,<,9B78.13 & XB5F
+7,網膜血管障害,L,H350,BACT,=,http://id.who.int/icd/entity/1564321837,=,9B78.1Z
+7,網膜血栓性静脈炎,L,H350,BF10,=,http://id.who.int/icd/entity/569224266 / http://id.who.int/icd/entity/1187317185,<,9B78.1Y / 9B74.1
+7,斑点状網膜症,L,H350,BJVQ,<,http://id.who.int/icd/entity/1564321837,<,9B78.1Z
+7,網膜症,L,H350,C265,=,http://id.who.int/icd/entity/2000854880,=,9B71.Z 
+7,網膜血管攣縮症,L,H350,CE9P,<,http://id.who.int/icd/entity/1564321837,<,9B78.1Y 
+7,動脈硬化性眼底,L,H350,CFR7,=,http://id.who.int/icd/entity/1564321837 / http://id.who.int/icd/entity/109367356,=,9B78.1Y / BD40.Z 
+7,眼底動脈蛇行症,L,H350,CQ0C,<,http://id.who.int/icd/entity/1564321837 & http://id.who.int/icd/entity/996834745,<,9B78.1Y & XA1CW5
+7,出血性網膜炎,L,H350,CR4V,=,http://id.who.int/icd/entity/1173139995 / http://id.who.int/icd/entity/1268315693,=,9B72.Z / 9B78.5 
+7,網膜血管周囲炎,L,H350,D001,=,http://id.who.int/icd/entity/945596136,<,9B78.12
+7,網膜静脈炎,L,H350,D5QF,=,http://id.who.int/icd/entity/569224266,<,9B78.1Y 
+7,放射線網膜症,L,H350,DH1U,=,http://id.who.int/icd/entity/1120360796,=,9B71.2
+7,放射線性網膜症,S1,H350,DH1U,=,http://id.who.int/icd/entity/1120360796,=,9B71.2
+7,網膜血管炎,L,H350,DNPK,=,http://id.who.int/icd/entity/1863208483,=,9B78.12
+7,輪状網膜症,L,H350,DPVH,=,http://id.who.int/icd/entity/1955272937,<,9B78.1Y
+7,若年性再発性網膜硝子体出血,L,H350,F0BT,=,http://id.who.int/icd/entity/945788847,=,9B77
+7,イールズ病,S1,H350,F0BT,=,http://id.who.int/icd/entity/945788847,=,9B77
+7,若年性反復性角膜硝子体出血,S1,H350,F0BT,=,http://id.who.int/icd/entity/945788847,=,9B77
+7,イールズ症,S1,H350,F0BT,=,http://id.who.int/icd/entity/945788847,=,9B77
+7,滲出性網膜症,L,H350,F4A1,=,http://id.who.int/icd/entity/1749912906,=,9B78.11
+7,コーツ病,L,H350,HNS1,=,http://id.who.int/icd/entity/2032707885,<,LD21.Y 
+7,COATS疾患,S1,H350,HNS1,=,http://id.who.int/icd/entity/2032707885,<,LD21.Y 
+7,コーツ疾患,S1,H350,HNS1,=,http://id.who.int/icd/entity/2032707885,<,LD21.Y 
+7,COATS病,S1,H350,HNS1,=,http://id.who.int/icd/entity/2032707885,<,LD21.Y 
+7,黄斑部血管走行異常,L,H350,HQ6E,<,http://id.who.int/icd/entity/1564321837 & http://id.who.int/icd/entity/1717583106,<,9B78.1Y & XA9V06
+7,星状網膜症,L,H350,J49E,<,http://id.who.int/icd/entity/1564321837,<,9B78.1Y
+7,インターフェロン網膜症,L,H350,L1PN,=,http://id.who.int/icd/entity/1564321837 & http://id.who.int/icd/entity/4953745 /  http://id.who.int/icd/entity/616822805 & http://id.who.int/icd/entity/1496155860,=,9B78.1Y & XB8D / NE60 &  XM58E0
+7,クロロキン網膜症,L,H350,L4K1,=,http://id.who.int/icd/entity/1564321837 & http://id.who.int/icd/entity/4953745 / http://id.who.int/icd/entity/2015266919 & http://id.who.int/icd/entity/1292373126,=,9B78.1Y & XB8D / NE60 & XM6ZE6
+7,滲出性網膜炎,L,H350,LATD,=,http://id.who.int/icd/entity/1749912906,=,9B78.11
+7,貧血網膜症,L,H350,MCKT,=,http://id.who.int/icd/entity/1564321837 / http://id.who.int/icd/entity/224336967,=,9B78.1Z / 3A9Z
+7,貧血性網膜症,S1,H350,MCKT,=,http://id.who.int/icd/entity/1564321837 / http://id.who.int/icd/entity/224336967,=,9B78.1Z / 3A9Z
+7,網膜血管鞘形成,L,H350,N9PM,<,http://id.who.int/icd/entity/1564321837,<,9B78.1Y
+7,高血圧性網膜症,L,H350,PNLT,=,http://id.who.int/icd/entity/218513628,=,9B71.1
+7,高血圧網膜症,S1,H350,PNLT,=,http://id.who.int/icd/entity/218513628,=,9B71.1
+7,高血圧性網膜炎,S1,H350,PNLT,=,http://id.who.int/icd/entity/218513628,=,9B71.1
+7,動脈硬化性眼底所見,L,H350,QFAP,=,http://id.who.int/icd/entity/1564321837 / http://id.who.int/icd/entity/109367356,=,9B78.1Y / BD40.Z
+7,網膜静脈怒張,L,H350,QJHP,=,http://id.who.int/icd/entity/1564321837 / http://id.who.int/icd/entity/1980229240,<,9B78.1Y / BE2Y
+7,網膜血管新生,L,H350,RRVC,=,http://id.who.int/icd/entity/463675102,<,9B78.1Y
+7,網膜新生血管,S1,H350,RRVC,=,http://id.who.int/icd/entity/463675102,<,9B78.1Y
+7,網膜細動脈瘤,L,H350,S1BR,=,http://id.who.int/icd/entity/2129187656,<,9B78.1Y
+7,網膜血管瘤,S2,H350,S1BR,=,http://id.who.int/icd/entity/2129187656 or http://id.who.int/icd/entity/1953423481 ,<,9B78.1Y
+7,網膜小動脈瘤,S2,H350,S1BR,=,http://id.who.int/icd/entity/2129187656,<,9B78.1Y
+7,網膜静脈周囲炎,L,H350,S444,=,http://id.who.int/icd/entity/569224266,<,9B78.1Y
+7,高脂血症性網膜症,L,H350,U7J7,=,http://id.who.int/icd/entity/1564321837 / http://id.who.int/icd/entity/2023062398,=,9B78.1Y / 5C80.Z
+7,網膜静脈蛇行症,L,H350,U8JL,<,http://id.who.int/icd/entity/1564321837,<,9B78.1Y 
+7,高血圧性視神経網膜症,L,H350,UPPH,=,http://id.who.int/icd/entity/218513628 / http://id.who.int/icd/entity/1411910384,=,9B71.1  / 9C40.Z 
+7,視神経網膜障害,L,H350,V67D,=,http://id.who.int/icd/entity/1564321837 / http://id.who.int/icd/entity/1411910384,=,9B78.1Y  / 9C40.Z 
+7,視束網膜症,S2,H350,V67D,<,http://id.who.int/icd/entity/1564321837 / http://id.who.int/icd/entity/1411910384,<,9B78.1Y  / 9C40.Z 
+7,白血病性網膜症,L,H350,V9LN,=,http://id.who.int/icd/entity/1564321837 / http://id.who.int/icd/entity/1385484871,=,9B78.1Y / 2B33.4 
+7,近視性網膜症,L,H350,VCBL,=,http://id.who.int/icd/entity/1564321837 / http://id.who.int/icd/entity/1666440799,=,9B78.1Y / 9D00.0 
+7,慢性網膜症,L,H350,VJ5V,=,"http://id.who.int/icd/entity/2000854880  & 
+http://id.who.int/icd/entity/490003542",=,9B71.Z & XT8W 
+7,網膜毛細血管瘤,L,H350,VPFK,=,http://id.who.int/icd/entity/2129187656 or http://id.who.int/icd/entity/1953423481 ,<,9B78.1Y
+7,網膜静脈瘤,S1,H350,VPFK,=,http://id.who.int/icd/entity/88912092,<,9B78.1Y 
+7,高血圧性眼底,L,H350,VQED,=,http://id.who.int/icd/entity/1564321837 / http://id.who.int/icd/entity/761947693,=,9B78.1Y / BA00.Z 
+7,未熟児網膜症,L,H351,CQVR,=,http://id.who.int/icd/entity/947283385,=,9B71.3
+7,後水晶体線維増殖症,S1,H351,CQVR,=,http://id.who.int/icd/entity/947283385,=,9B71.3
+7,後水晶体線維形成,S2,H351,CQVR,=,http://id.who.int/icd/entity/947283385,=,9B71.3
+7,増殖性網膜症,L,H352,EG2S,=,http://id.who.int/icd/entity/1289434438,=,9B78.2
+7,増殖性硝子体網膜症,L,H352,R3DJ,=,http://id.who.int/icd/entity/1908429642,<,9B78.2
+7,増殖硝子体網膜症,S1,H352,R3DJ,=,http://id.who.int/icd/entity/1908429642,<,9B78.2
+7,網膜前膜,L,H353,A5GG,=,http://id.who.int/icd/entity/234202212,<,9B78.3Y
+7,セロハン黄斑症,S1,H353,A5GG,=,http://id.who.int/icd/entity/234202212,<,9B78.3Y
+7,黄斑皺襞,S1,H353,A5GG,=,http://id.who.int/icd/entity/234202212,<,9B78.3Y
+7,黄斑部網膜上膜形成症,S1,H353,A5GG,=,http://id.who.int/icd/entity/234202212,<,9B78.3Y
+7,黄斑前膜,S1,H353,A5GG,=,http://id.who.int/icd/entity/234202212,<,9B78.3Y
+7,黄斑パッカー,S1,H353,A5GG,=,http://id.who.int/icd/entity/234202212,<,9B78.3Y
+7,前黄斑線維症,S1,H353,A5GG,=,http://id.who.int/icd/entity/234202212,<,9B78.3Y
+7,黄斑上膜,S1,H353,A5GG,=,http://id.who.int/icd/entity/234202212,<,9B78.3Y
+7,黄斑前膜形成,S1,H353,A5GG,=,http://id.who.int/icd/entity/234202212,<,9B78.3Y
+7,黄斑部線維症,S1,H353,A5GG,=,http://id.who.int/icd/entity/234202212,<,9B78.3Y
+7,網膜前線維膜形成,S1,H353,A5GG,=,http://id.who.int/icd/entity/234202212,<,9B78.3Y
+7,セロファン黄斑症,S1,H353,A5GG,=,http://id.who.int/icd/entity/234202212,<,9B78.3Y
+7,黄斑部皺襞形成,S1,H353,A5GG,=,http://id.who.int/icd/entity/234202212,<,9B78.3Y
+7,網膜前膜形成,S1,H353,A5GG,=,http://id.who.int/icd/entity/234202212,<,9B78.3Y
+7,網膜前黄斑部線維症,S1,H353,A5GG,=,http://id.who.int/icd/entity/234202212,<,9B78.3Y
+7,黄斑前線維増殖症,S1,H353,A5GG,=,http://id.who.int/icd/entity/234202212,<,9B78.3Y
+7,黄斑部網膜上線維増殖症,S1,H353,A5GG,=,http://id.who.int/icd/entity/234202212,<,9B78.3Y
+7,フックス斑,L,H353,A84S,=,http://id.who.int/icd/entity/697366740,=,9B78.3Z 
+7,加齢黄斑変性,L,H353,BHQJ,=,http://id.who.int/icd/entity/1514301548,=,9B75.0Z
+7,加齢性黄斑変性,S1,H353,BHQJ,=,http://id.who.int/icd/entity/1514301548,=,9B75.0Z
+7,老人性黄斑変性症,S1,H353,BHQJ,=,http://id.who.int/icd/entity/1514301548,=,9B75.0Z
+7,老人性黄斑部変性症,S1,H353,BHQJ,=,http://id.who.int/icd/entity/1514301548,=,9B75.0Z
+7,加齢性黄斑変性症,S1,H353,BHQJ,=,http://id.who.int/icd/entity/1514301548,=,9B75.0Z
+7,網膜赤道部変性,L,H353,DCJR,<,http://id.who.int/icd/entity/1518234440,<,9B78.4 
+7,黄斑症,L,H353,DE8L,=,http://id.who.int/icd/entity/697366740,=,9B78.3Z 
+7,黄斑裂孔,L,H353,F534,=,http://id.who.int/icd/entity/2035872925,=,9B75.1 
+7,眼黄斑部裂孔,S1,H353,F534,=,http://id.who.int/icd/entity/2035872925,=,9B75.1 
+7,網膜黄斑部裂孔,S1,H353,F534,=,http://id.who.int/icd/entity/2035872925,=,9B75.1 
+7,黄斑部裂孔,S1,H353,F534,=,http://id.who.int/icd/entity/2035872925,=,9B75.1 
+7,黄斑部瘻孔,S2,H353,F534,=,http://id.who.int/icd/entity/2035872925,=,9B75.1 
+7,中毒性黄斑変性,L,H353,FBMK,=,http://id.who.int/icd/entity/1889317154,<,9B78.3Y
+7,中毒性黄斑症,S1,H353,FBMK,=,http://id.who.int/icd/entity/1889317154,<,9B78.3Y
+7,黄斑のう胞,L,H353,GF9L,=,http://id.who.int/icd/entity/1846866460,<,9B78.3Y
+7,黄斑部嚢胞症,S1,H353,GF9L,=,http://id.who.int/icd/entity/1846866460,<,9B78.3Y
+7,黄斑嚢胞,S1,H353,GF9L,=,http://id.who.int/icd/entity/1846866460,<,9B78.3Y
+7,黄斑部のう胞症,S1,H353,GF9L,=,http://id.who.int/icd/entity/1846866460,<,9B78.3Y
+7,滲出型加齢黄斑変性,L,H353,GKS0,=,http://id.who.int/icd/entity/692231715,=,9B75.04 
+7,JUNIUS-KUHNT症候群,S1,H353,GKS0,=,http://id.who.int/icd/entity/907358805,<,9B75.04 
+7,滲出性加齢黄斑変性,S1,H353,GKS0,=,http://id.who.int/icd/entity/692231715,=,9B75.04 
+7,ユニウス・クーント症候群,S1,H353,GKS0,=,http://id.who.int/icd/entity/907358805,<,9B75.04 
+7,滲出型AMD,S1,H353,GKS0,=,http://id.who.int/icd/entity/692231715,=,9B75.04 
+7,円板状黄斑変性症,S1,H353,GKS0,=,http://id.who.int/icd/entity/907358805,<,9B75.04 
+7,クーント・ユニウス変性,S1,H353,GKS0,=,http://id.who.int/icd/entity/907358805,<,9B75.04 
+7,円板状黄斑変性,S1,H353,GKS0,=,http://id.who.int/icd/entity/907358805,<,9B75.04 
+7,滲出性AMD,S1,H353,GKS0,=,http://id.who.int/icd/entity/692231715,=,9B75.04 
+7,網膜色素線条症,L,H353,GKTC,=,http://id.who.int/icd/entity/179726089,<,9B78.3Y 
+7,網膜線条症,S1,H353,GKTC,=,http://id.who.int/icd/entity/179726089,<,9B78.3Y 
+7,網膜線條症,S1,H353,GKTC,=,http://id.who.int/icd/entity/179726089,<,9B78.3Y 
+7,網膜色素線條,S1,H353,GKTC,=,http://id.who.int/icd/entity/179726089,<,9B78.3Y 
+7,網膜色素線條症,S1,H353,GKTC,=,http://id.who.int/icd/entity/179726089,<,9B78.3Y 
+7,網膜色素線条,S1,H353,GKTC,=,http://id.who.int/icd/entity/179726089,<,9B78.3Y 
+7,黄斑円孔,L,H353,HDUU,=,http://id.who.int/icd/entity/2035872925,=,9B75.1 
+7,黄斑萎縮,L,H353,HEEQ,=,http://id.who.int/icd/entity/1490033315,=,EE41.1
+7,黄斑部萎縮,S2,H353,HEEQ,=,http://id.who.int/icd/entity/1490033315,=,EE41.1
+7,網膜色素線状症,L,H353,HHHN,=,http://id.who.int/icd/entity/179726089,<,9B78.3Y 
+7,ポリープ状脈絡膜血管症,L,H353,J2MT,=,http://id.who.int/icd/entity/1326669866,<,9B75.Y
+7,新生児黄斑,L,H353,JGHJ,=,http://id.who.int/icd/entity/697366740 & http://id.who.int/icd/entity/1352518340,=,9B78.3Z & XT16
+7,脈絡膜新生血管,L,H353,JRF7,=,http://id.who.int/icd/entity/976547881 ,<,9B75.04
+7,CNV,S1,H353,JRF7,=,http://id.who.int/icd/entity/976547881 ,<,9B75.04
+7,網膜血管腫状増殖,L,H353,KGLL,=,http://id.who.int/icd/entity/1615104825,<,9B75.Y 
+7,萎縮型加齢黄斑変性,L,H353,LLPD,=,http://id.who.int/icd/entity/639168546,<,9B75.0Y
+7,萎縮型AMD,S1,H353,LLPD,=,http://id.who.int/icd/entity/639168546,<,9B75.0Y
+7,光線黄斑症,L,H353,M4RS,<,http://id.who.int/icd/entity/697366740,<,9B78.3Z 
+7,中心窩下脈絡膜新生血管を伴う加齢黄斑変性,L,H353,NDHA,=,http://id.who.int/icd/entity/260922654,<,9B75.04
+7,近視性脈絡膜新生血管,L,H353,NVJK,=,http://id.who.int/icd/entity/1927545106,<,9B76 
+7,近視性新生血管黄斑症,S1,H353,NVJK,=,http://id.who.int/icd/entity/1927545106,<,9B76 
+7,近視性脈絡膜血管新生,S1,H353,NVJK,=,http://id.who.int/icd/entity/1927545106,<,9B76 
+7,近視性CNV,S1,H353,NVJK,=,http://id.who.int/icd/entity/1927545106,<,9B76 
+7,近視性黄斑変性症,S1,H353,NVJK,=,http://id.who.int/icd/entity/1927545106,<,9B76 
+7,硝子体網膜接面黄斑症,L,H353,PTHQ,<,http://id.who.int/icd/entity/697366740,<,9B78.3Z 
+7,黄斑障害,L,H353,QPHH,=,http://id.who.int/icd/entity/733496698,=,9B75.Z 
+7,黄斑部障害,S2,H353,QPHH,=,http://id.who.int/icd/entity/733496698,=,9B75.Z 
+7,新生血管黄斑症,L,H353,RP6L,=,http://id.who.int/icd/entity/692231715,=,9B75.04  
+7,血管新生性黄斑症,S1,H353,RP6L,=,http://id.who.int/icd/entity/692231715,=,9B75.04  
+7,軟性ドルーゼン,L,H353,RVQ8,<,http://id.who.int/icd/entity/697366740,=,9B78.3Z 
+7,ドルーゼン黄斑,S1,H353,RVQ8,=,http://id.who.int/icd/entity/697366740,=,9B78.3Z 
+7,特発性脈絡膜新生血管,L,H353,TJ6U,=,http://id.who.int/icd/entity/976547881 & http://id.who.int/icd/entity/894194405,<,9B75.04 & XB5F 
+7,特発性CNV,S1,H353,TJ6U,=,http://id.who.int/icd/entity/976547881 & http://id.who.int/icd/entity/894194405,<,9B75.04 & XB5F 
+7,中心性滲出性網脈絡膜症,S1,H353,TJ6U,=,http://id.who.int/icd/entity/1623925689,=,9B75.2
+7,黄斑変性,L,H353,UNDV,=,http://id.who.int/icd/entity/697366740,=,9B78.3Z 
+7,黄斑変性症,S1,H353,UNDV,=,http://id.who.int/icd/entity/697366740,=,9B78.3Z 
+7,網膜黄斑部変性,S1,H353,UNDV,=,http://id.who.int/icd/entity/697366740,=,9B78.3Z 
+7,黄斑部変性症,S1,H353,UNDV,=,http://id.who.int/icd/entity/697366740,=,9B78.3Z 
+7,ドルーゼン,L,H354,AHTU,=,http://id.who.int/icd/entity/697366740,=,9B78.3Z 
+7,網膜周辺部瘢痕,L,H354,AUPN,<,http://id.who.int/icd/entity/1518234440,<,9B78.4
+7,網膜格子状変性,L,H354,D9U0,=,http://id.who.int/icd/entity/1736115308,<,9B78.4
+7,網膜小のう胞状変性,L,H354,E0VH,=,http://id.who.int/icd/entity/332813459,<,9B78.4
+7,網膜小嚢胞状変性,S1,H354,E0VH,=,http://id.who.int/icd/entity/332813459,<,9B78.4
+7,網膜網状変性,L,H354,EPR2,=,http://id.who.int/icd/entity/1518234440,=,9B78.4
+7,網膜柵状変性,L,H354,K8H7,=,http://id.who.int/icd/entity/1736115308,<,9B78.4
+7,網膜敷石状変性,L,H354,MT74,=,http://id.who.int/icd/entity/1990039815,<,9B78.4
+7,周辺部網膜のう胞状変性,L,H354,MU18,=,http://id.who.int/icd/entity/332813459,<,9B78.4
+7,周辺部網膜嚢胞状変性,S1,H354,MU18,=,http://id.who.int/icd/entity/332813459,<,9B78.4
+7,網膜白斑,L,H354,QSSA,<,http://id.who.int/icd/entity/1518234440,<,9B78.4
+7,網膜周辺部変性,L,H354,UPJE,=,http://id.who.int/icd/entity/1518234440,=,9B78.4
+7,周辺網膜変性,S1,H354,UPJE,=,http://id.who.int/icd/entity/1518234440,=,9B78.4
+7,黄斑部白斑,L,H354,USS8,<,http://id.who.int/icd/entity/1518234440  & http://id.who.int/icd/entity/1717583106 ,<,9B78.4 & XA9V06
+7,網膜変性,L,H354,VMST,=,http://id.who.int/icd/entity/1518234440,=,9B78.4
+7,網膜性ジストロフィー,L,H355,AHTJ,=,http://id.who.int/icd/entity/1060480722,=,9B70
+7,家族性滲出性硝子体網膜症,L,H355,DD3T,=,http://id.who.int/icd/entity/1344358838,<,LA13.3
+7,急性後部多発性斑状色素上皮症,L,H355,DD8E,=,http://id.who.int/icd/entity/2036282532,<,9B65.0 
+7,遺伝性網膜ジストロフィー,L,H355,DUAP,=,http://id.who.int/icd/entity/1060480722,=,9B70
+7,急性網膜色素上皮炎,L,H355,E2P7,=,"http://id.who.int/icd/entity/1034171240 & 
+http://id.who.int/icd/entity/786106375",<,9B70 & XT5R
+7,斑状網膜,L,H355,E84P,=,http://id.who.int/icd/entity/979898273,<,9B70
+7,網膜色素上皮症,L,H355,F1SS,=,http://id.who.int/icd/entity/1034171240,<,9B70
+7,卵黄状黄斑ジストロフィー,L,H355,GCMM,=,http://id.who.int/icd/entity/180417384,<,9B70
+7,卵黄様黄斑部変性,S1,H355,GCMM,=,http://id.who.int/icd/entity/180417384,<,9B70
+7,BEST病,S1,H355,GCMM,=,http://id.who.int/icd/entity/180417384,<,9B70
+7,卵黄状黄斑ジストロフィ,S1,H355,GCMM,=,http://id.who.int/icd/entity/180417384,<,9B70
+7,ベスト病,S1,H355,GCMM,=,http://id.who.int/icd/entity/180417384,<,9B70
+7,卵黄状黄斑変性,S1,H355,GCMM,=,http://id.who.int/icd/entity/180417384,<,9B70
+7,錐体ジストロフィー,L,H355,J3AG,=,http://id.who.int/icd/entity/2109196114,<,9B70
+7,色素上皮網膜性ジストロフィー,L,H355,JGQB,=,http://id.who.int/icd/entity/878593681,<,9B70
+7,白点状網膜炎,L,H355,JR95,=,http://id.who.int/icd/entity/567796529,<,9B70
+7,点状網膜炎,S1,H355,JR95,=,http://id.who.int/icd/entity/567796529,<,9B70
+7,白点状網膜ジストロフィー,S1,H355,JR95,=,http://id.who.int/icd/entity/1260351958,<,9B70
+7,網膜白点症,S1,H355,JR95,=,http://id.who.int/icd/entity/567796529,<,9B70
+7,白点網膜症,S1,H355,JR95,=,http://id.who.int/icd/entity/567796529,<,9B70
+7,色素性網膜ジストロフィー,L,H355,KL17,=,http://id.who.int/icd/entity/1142103178,<,9B70
+7,脳網膜変性症,L,H355,KRGQ,=,http://id.who.int/icd/entity/401247998,<,9B70
+7,多発性後部色素上皮症,L,H355,L5RJ,=,http://id.who.int/icd/entity/2036282532,<,9B65.0 
+7,蝶形網膜ジストロフィー,L,H355,M125,=,http://id.who.int/icd/entity/1639469808,<,9B70
+7,硝子体網膜性ジストロフィー,L,H355,MG37,=,http://id.who.int/icd/entity/817777781,<,9B70
+7,硝子体網膜異栄養症,S1,H355,MG37,=,http://id.who.int/icd/entity/817777781,<,9B70
+7,錐体杆体ジストロフィー,L,H355,MGS0,=,http://id.who.int/icd/entity/2109196114,<,9B70
+7,網膜色素変性,L,H355,N4QE,=,http://id.who.int/icd/entity/1034171240,<,9B70
+7,網膜色素変性症,S1,H355,N4QE,=,http://id.who.int/icd/entity/1034171240,<,9B70
+7,色素性網膜炎,S1,H355,N4QE,=,http://id.who.int/icd/entity/1034171240,<,9B70
+7,家族性黄斑変性症,L,H355,NB74,=,http://id.who.int/icd/entity/318235630,<,9B70
+7,網膜色素異常,L,H355,PA8F,=,http://id.who.int/icd/entity/1034171240,<,9B70
+7,ベール病,L,H355,PUC2,=,http://id.who.int/icd/entity/398707728,<,9B70
+7,BEHR病,S1,H355,PUC2,=,http://id.who.int/icd/entity/398707728,<,9B70
+7,網膜色素上皮変性,L,H355,Q65C,=,http://id.who.int/icd/entity/1034171240,<,9B70
+7,白点状眼底,L,H355,RHUF,=,http://id.who.int/icd/entity/1981512475,<,9B70
+7,黄斑ジストロフィー,L,H355,RKDM,=,http://id.who.int/icd/entity/132054917,<,9B70
+7,黄斑ジストロフィー症,S1,H355,RKDM,=,http://id.who.int/icd/entity/132054917,<,9B70
+7,黄斑部ジストロフィー,S1,H355,RKDM,=,http://id.who.int/icd/entity/132054917,<,9B70
+7,黄色斑眼底,L,H355,U6NF,=,http://id.who.int/icd/entity/1690038580,<,9B70
+7,STARGARDT病,S1,H355,U6NF,=,http://id.who.int/icd/entity/1690038580,<,9B70
+7,スターガルド病,S1,H355,U6NF,=,http://id.who.int/icd/entity/1690038580,<,9B70
+7,スターガード病,S1,H355,U6NF,=,http://id.who.int/icd/entity/1690038580,<,9B70
+7,網膜色素斑,L,H355,VN7U,=,http://id.who.int/icd/entity/1034171240,<,9B70
+7,網膜下出血,L,H356,B7R3,=,http://id.who.int/icd/entity/1268315693,=,9B78.5
+7,網膜出血,L,H356,BTQL,=,http://id.who.int/icd/entity/1268315693,=,9B78.5
+7,網膜色素上皮下出血,L,H356,C35G,<,http://id.who.int/icd/entity/1268315693,<,9B78.5
+7,網膜前出血,L,H356,DV1U,=,http://id.who.int/icd/entity/1268315693,=,9B78.5
+7,網膜表在出血,L,H356,G08P,=,http://id.who.int/icd/entity/1268315693 & http://id.who.int/icd/entity/1013312453 ,=,9B78.5 & XK7F
+7,網膜表層出血,S1,H356,G08P,=,http://id.who.int/icd/entity/1268315693 & http://id.who.int/icd/entity/1013312453 ,=,9B78.5 & XK7F
+7,網膜深層出血,L,H356,LFU3,=,http://id.who.int/icd/entity/1268315693 & http://id.who.int/icd/entity/423444880,=,9B78.5 & XK16
+7,眼底出血,L,H356,M22H,=,http://id.who.int/icd/entity/617149286,<,9B78.5 
+7,硝子体下出血,L,H356,NP06,=,http://id.who.int/icd/entity/1106683457,<,9B78.5 
+7,黄斑部出血,L,H356,NR1Q,=,"http://id.who.int/icd/entity/1268315693 &
+ http://id.who.int/icd/entity/1717583106",=,9B78.5  & XA9V06 
+7,網膜黄斑部出血,S1,H356,NR1Q,=,"http://id.who.int/icd/entity/1268315693 &
+ http://id.who.int/icd/entity/1717583106",=,9B78.5  & XA9V06 
+7,黄斑下出血,L,H356,S0DR,=,"http://id.who.int/icd/entity/1268315693 &
+ http://id.who.int/icd/entity/1717583106",=,9B78.5 & XA9V06 
+7,網脈絡膜出血,L,H356,VNRU,=,http://id.who.int/icd/entity/1268315693 & http://id.who.int/icd/entity/2103679387,=,9B78.5 & XA96A7 
+7,漿液性網膜色素上皮剥離,L,H357,AS14,=,http://id.who.int/icd/entity/342258504,=,9B78.60 
+7,中心性漿液性網脈絡膜症,L,H357,CS1T,=,http://id.who.int/icd/entity/1623925689,=,9B75.2
+7,中心性漿液性網膜脈絡膜症,S1,H357,CS1T,=,http://id.who.int/icd/entity/1623925689,=,9B75.2
+7,中心性漿液性脈絡網膜症,S1,H357,CS1T,=,http://id.who.int/icd/entity/1623925689,=,9B75.2
+7,網膜色素上皮剥離,L,H357,QBPV,=,http://id.who.int/icd/entity/785595321,=,9B78.6Z 
+7,出血性網膜色素上皮剥離,L,H357,S98N,=,http://id.who.int/icd/entity/1898823378,=,9B78.61 
+7,網膜層剥離,L,H357,TK7T,=,http://id.who.int/icd/entity/785595321,=,9B78.6Z 
+7,網膜層の分離,S1,H357,TK7T,=,http://id.who.int/icd/entity/785595321,=,9B78.6Z 
+7,中心性漿液性脈絡膜症,L,H357,VVP9,=,http://id.who.int/icd/entity/1623925689,=,9B75.2
+7,黄斑部浮腫,L,H358,ABTS,=,http://id.who.int/icd/entity/816212034,=,9B78.7
+7,黄斑部術後浮腫,L,H358,EC4N,=,http://id.who.int/icd/entity/816212034 & http://id.who.int/icd/entity/182265087,=,9B78.7 & XY7V
+7,網膜滲出斑,L,H358,ENPF,<,http://id.who.int/icd/entity/77208243,<,9B7Y
+7,網膜浮腫,L,H358,J4DJ,=,http://id.who.int/icd/entity/816212034,=,9B78.7
+7,網膜混濁,S1,H358,J4DJ,<,http://id.who.int/icd/entity/77208243,<,9B7Y
+7,漿液性網膜炎,L,H358,KSSE,=,http://id.who.int/icd/entity/1623925689,=,9B75.2 
+7,網膜うっ血,L,H358,P26K,=,http://id.who.int/icd/entity/1000243793,<,9B7Y 
+7,急性帯状潜在性網膜外層症,L,H358,RERB,=,http://id.who.int/icd/entity/2011657601,<,9B65.0
+7,AZOOR,S1,H358,RERB,=,http://id.who.int/icd/entity/2011657601,<,9B65.0
+7,のう胞様黄斑浮腫,L,H358,U3VV,=,http://id.who.int/icd/entity/709074309,<,9B7Y 
+7,黄斑部嚢胞浮腫,S1,H358,U3VV,=,http://id.who.int/icd/entity/709074309,<,9B7Y 
+7,類のう胞黄斑浮腫,S1,H358,U3VV,=,http://id.who.int/icd/entity/709074309,<,9B7Y 
+7,黄斑部のう胞浮腫,S1,H358,U3VV,=,http://id.who.int/icd/entity/709074309,<,9B7Y 
+7,類嚢胞黄斑浮腫,S1,H358,U3VV,=,http://id.who.int/icd/entity/709074309,<,9B7Y 
+7,嚢胞様黄斑浮腫,S1,H358,U3VV,=,http://id.who.int/icd/entity/709074309,<,9B7Y 
+7,網膜障害,L,H359,QA6J,=,http://id.who.int/icd/entity/77208243,=,9B7Z 
+7,視神経乳頭陥凹拡大,L,H400,FJUM,<,http://id.who.int/icd/entity/192763973 & http://id.who.int/icd/entity/1595445314,<,9C60  & XA4A75
+7,視神経乳頭陥凹,S1,H400,FJUM,<,http://id.who.int/icd/entity/192763973 & http://id.who.int/icd/entity/1595445314,<,9C60  & XA4A75
+7,原発閉塞隅角症,L,H400,TPFC,=,http://id.who.int/icd/entity/996373064,=,9C61.11 
+7,PAC,S1,H400,TPFC,=,http://id.who.int/icd/entity/996373064,=,9C61.11 
+7,偽緑内障,L,H400,U5NU,=,http://id.who.int/icd/entity/551713432,=,9C60
+7,偽性緑内障,S1,H400,U5NU,=,http://id.who.int/icd/entity/192763973,=,9C60
+7,高眼圧症,L,H400,U7R6,=,http://id.who.int/icd/entity/535283437,=,9C61.01
+7,眼圧亢進,S1,H400,U7R6,=,http://id.who.int/icd/entity/535283437,=,9C61.01
+7,色素性緑内障,L,H401,B63D,=,http://id.who.int/icd/entity/1101897969,<,9C61.0Y
+7,開放隅角緑内障,L,H401,D49F,=,http://id.who.int/icd/entity/1849071057,=,9C61.0Z 
+7,単性緑内障,S1,H401,D49F,=,http://id.who.int/icd/entity/1849071057,=,9C61.0Z 
+7,広隅角緑内障,S1,H401,D49F,=,http://id.who.int/icd/entity/1849071057,=,9C61.0Z 
+7,若年性緑内障,S2,H401,D49F,=,http://id.who.int/icd/entity/2064760868,=,9C61.4Z
+7,正常眼圧緑内障,L,H401,EDCP,=,http://id.who.int/icd/entity/1849071057,=,9C61.0Z 
+7,低眼圧緑内障,S1,H401,EDCP,=,http://id.who.int/icd/entity/1849071057,=,9C61.0Z 
+7,原発開放隅角緑内障,L,H401,VCKA,=,http://id.who.int/icd/entity/1849071057,=,9C61.0Z 
+7,慢性開放隅角緑内障,L,H401,VN3G,=,http://id.who.int/icd/entity/1849071057,=,9C61.0Z 
+7,慢性単純性緑内障,S1,H401,VN3G,=,http://id.who.int/icd/entity/1849071057,=,9C61.0Z 
+7,慢性単性緑内障,S1,H401,VN3G,=,http://id.who.int/icd/entity/1849071057,=,9C61.0Z 
+7,慢性開放角緑内障,S1,H401,VN3G,=,http://id.who.int/icd/entity/1849071057,=,9C61.0Z 
+7,原発閉塞隅角緑内障,L,H402,DP3A,=,http://id.who.int/icd/entity/1849071057,=,9C61.0Z 
+7,狭隅角緑内障,S2,H402,DP3A,=,http://id.who.int/icd/entity/1349285765,=,9C61.10 
+7,隅角閉塞緑内障,S2,H402,DP3A,=,http://id.who.int/icd/entity/1849071057,=,9C61.0Z 
+7,うっ血性緑内障,S2,H402,DP3A,<,http://id.who.int/icd/entity/551713432,<,9C61.Z 
+7,悪性緑内障,L,H402,FLQC,=,http://id.who.int/icd/entity/372008837,=,9C61.35
+7,急性閉塞隅角緑内障,L,H402,GGUB,=,http://id.who.int/icd/entity/96154661,=,9C61.14
+7,急性うっ血性緑内障,S1,H402,GGUB,<,http://id.who.int/icd/entity/551713432 & http://id.who.int/icd/entity/786106375 ,<,9C61.Z & XT5R
+7,急性緑内障,S1,H402,GGUB,=,http://id.who.int/icd/entity/559190357,=,9C61.12
+7,急性緑内障発作,L,H402,MH8K,=,http://id.who.int/icd/entity/382556719,=,9C61.17 
+7,慢性閉塞隅角緑内障,L,H402,VET9,=,http://id.who.int/icd/entity/339970010,=,9C61.16 
+7,外傷性緑内障,L,H403,R4AL,=,http://id.who.int/icd/entity/2144340154,=,9C61.29 
+7,眼の外傷に続発する緑内障,S1,H403,R4AL,=,http://id.who.int/icd/entity/2144340154,=,9C61.29 
+7,外傷性隅角解離,L,H403,VAV5,<,http://id.who.int/icd/entity/2144340154,<,9C61.29 
+7,隅角後退緑内障,S2,H403,VAV5,<,http://id.who.int/icd/entity/2144340154,<,9C61.29 
+7,ポスナーシュロスマン症候群,L,H404,T08D,=,http://id.who.int/icd/entity/29864304,<,9C61.24 
+7,急性炎症性緑内障,L,H404,VV94,=,http://id.who.int/icd/entity/205429550 & http://id.who.int/icd/entity/786106375,=,9C61.24 & XT5R 
+7,急性炎性緑内障,S1,H404,VV94,=,http://id.who.int/icd/entity/205429550 & http://id.who.int/icd/entity/786106375,=,9C61.24 & XT5R 
+7,過分泌緑内障,L,H405,C5R1,<,http://id.who.int/icd/entity/46690802 & http://id.who.int/icd/entity/1800737598,<,9C61.2Y  & XA3518
+7,水晶体原性緑内障,L,H405,F29Q,=,http://id.who.int/icd/entity/1475559770,=,9C61.22
+7,無水晶体性緑内障,L,H405,JGEP,=,http://id.who.int/icd/entity/46690802 / http://id.who.int/icd/entity/1127568996 / http://id.who.int/icd/entity/1348002723,=,9C61.2Y / 9D25 / 9B11.0
+7,続発性緑内障,L,H405,PPE0,=,http://id.who.int/icd/entity/46690802 or http://id.who.int/icd/entity/250196878,=,9C61.2Z OR 9C61.3Z
+7,眼の炎症に続発する緑内障,S2,H405,PPE0,=,http://id.who.int/icd/entity/205429550,=,9C61.24 
+7,水晶体融解緑内障,L,H405,Q42P,=,http://id.who.int/icd/entity/1566213590,<,9C61.22 
+7,血管新生緑内障,L,H405,TFGD,<,http://id.who.int/icd/entity/46690802,<,9C61.2Y
+7,出血性緑内障,L,H405,UT7D,<,http://id.who.int/icd/entity/1778655330,<,9C61.2Y
+7,落屑緑内障,L,H405,UVFP,=,http://id.who.int/icd/entity/1391393460,=,9C61.20
+7,偽落屑症候群,S1,H405,UVFP,=,http://id.who.int/icd/entity/1391393460,=,9C61.20
+7,水晶体嚢緑内障,S1,H405,UVFP,=,http://id.who.int/icd/entity/469528156,<,9C61.0Y 
+7,嚢性緑内障,S1,H405,UVFP,=,http://id.who.int/icd/entity/469528156,<,9C61.0Y 
+7,偽落屑緑内障,S1,H405,UVFP,=,http://id.who.int/icd/entity/1391393460,=,9C61.20
+7,落屑症候群,S1,H405,UVFP,=,http://id.who.int/icd/entity/1391393460,=,9C61.20
+7,のう性緑内障,S1,H405,UVFP,=,http://id.who.int/icd/entity/469528156,<,9C61.0Y 
+7,水晶体のう緑内障,S1,H405,UVFP,=,http://id.who.int/icd/entity/469528156,<,9C61.0Y 
+7,水晶体偽落屑症候群,S1,H405,UVFP,=,http://id.who.int/icd/entity/1391393460,=,9C61.20
+7,溶血緑内障,L,H405,VK3T,≒,http://id.who.int/icd/entity/1778655330,=,9C61.23
+7,ステロイド緑内障,L,H406,HMBN,=,http://id.who.int/icd/entity/1843279252,=,9C61.2A & XM6TY3 
+7,ステロイド誘発性緑内障,S1,H406,HMBN,=,http://id.who.int/icd/entity/1843279252,=,9C61.2A & XM6TY3 
+7,コルチコステロイド誘発性緑内障,S1,H406,HMBN,=,http://id.who.int/icd/entity/1843279252,=,9C61.2A & XM6TY3 
+7,薬物誘発性緑内障,L,H406,LKEA,=,http://id.who.int/icd/entity/500696645,=,9C61.2A 
+7,医原性緑内障,L,H408,E4A7,=,http://id.who.int/icd/entity/250196878 & http://id.who.int/icd/entity/4953745 ,=,9C61.3Y  & XB8D
+7,混合型緑内障,L,H408,VHHL,<,http://id.who.int/icd/entity/499924848,<,9C61.Z 
+7,原発性緑内障,L,H409,HC26,=,http://id.who.int/icd/entity/1849071057 or http://id.who.int/icd/entity/446416176 ,=,9C61.0Z OR 9C61.1Z 
+7,緑内障,L,H409,SQMM,=,http://id.who.int/icd/entity/499924848,=,9C61.Z 
+7,緑内障性乳頭陥凹,L,H409,VQ5D,<,http://id.who.int/icd/entity/499924848 & http://id.who.int/icd/entity/1595445314 ,<,9C61.Z & XA4A75
+7,緑内障性視神経乳頭陥凹,S1,H409,VQ5D,<,http://id.who.int/icd/entity/499924848 & http://id.who.int/icd/entity/1595445314 ,<,9C61.Z & XA4A75
+7,硝子体脱出,L,H430,NNHE,=,http://id.who.int/icd/entity/184219771,=,9B82 
+7,硝子体出血,L,H431,LUG1,=,http://id.who.int/icd/entity/1873884655,=,9B83
+7,網膜硝子体出血,S2,H431,LUG1,=,http://id.who.int/icd/entity/1873884655,=,9B83
+7,テルソン症候群,L,H431,N4J3,<,http://id.who.int/icd/entity/1873884655 / http://id.who.int/icd/entity/1363253283,<,9B83 / 8B01 
+7,硝子体内結晶沈着,L,H432,KLUS,=,http://id.who.int/icd/entity/454845712,<,9B8Y 
+7,星状硝子体症,L,H432,KSVE,=,http://id.who.int/icd/entity/484993483,<,9B8Y 
+7,生理的飛蚊症,L,H433,B90P,=,ttp://id.who.int/icd/entity/1682787895,=,MC1A
+7,硝子体混濁,L,H433,E19A,=,http://id.who.int/icd/entity/2119673990,=,9B84 
+7,硝子体融解,L,H438,BV1G,=,http://id.who.int/icd/entity/375418678,<,9B8Y
+7,硝子体剥離,L,H438,GJTJ,=,http://id.who.int/icd/entity/375418678,<,9B8Y
+7,飛蚊症,L,H438,M99M,=,ttp://id.who.int/icd/entity/1682787895,=,MC1A
+7,閃輝性融解,L,H438,QASL,=,http://id.who.int/icd/entity/1235722118,<,9B8Y 
+7,輝門硝子体融解,S1,H438,QASL,=,http://id.who.int/icd/entity/1235722118,<,9B8Y 
+7,硝子体閃輝融解,S1,H438,QASL,=,http://id.who.int/icd/entity/1235722118,<,9B8Y 
+7,網膜硝子体界面症候群,L,H438,SN72,<,http://id.who.int/icd/entity/1767993233 ,<,9B8Y 
+7,硝子体網膜界面症候群,S1,H438,SN72,<,http://id.who.int/icd/entity/1767993233 ,<,9B8Y 
+7,網膜硝子体界面病変,S1,H438,SN72,<,http://id.who.int/icd/entity/1767993233 ,<,9B8Y 
+7,硝子体炎,L,H438,SU7G,=,http://id.who.int/icd/entity/1924958687,<,9B8Y
+7,硝子体変性,L,H438,T024,=,http://id.who.int/icd/entity/1221815133,<,9B8Y
+7,黄斑硝子体牽引症候群,L,H438,U7A6,=,http://id.who.int/icd/entity/1466312644,<,9B80
+7,硝子体黄斑牽引症候群,S1,H438,U7A6,=,http://id.who.int/icd/entity/1466312644,<,9B80
+7,後部硝子体剥離,L,H438,V2C3,=,http://id.who.int/icd/entity/352341310,=,9B81
+7,化膿性眼内炎,L,H440,BMMB,=,http://id.who.int/icd/entity/830703931,=,9C20.2 
+7,化膿性内眼球炎,S1,H440,BMMB,=,http://id.who.int/icd/entity/830703931,=,9C20.2 
+7,眼内炎,L,H440,KJ88,=,http://id.who.int/icd/entity/1211141166,=,9C21.Z
+7,全眼球炎,L,H440,M932,=,http://id.who.int/icd/entity/349386559,<,9C20.2 
+7,硝子体膿瘍,L,H440,PHR4,=,http://id.who.int/icd/entity/1185507932,<,9C20.2
+7,交感性眼炎,L,H441,C7NB,=,http://id.who.int/icd/entity/1639718137,<,9B65.0
+7,虹彩毛様体脈絡膜炎,L,H441,CS10,=,http://id.who.int/icd/entity/346037854,<,9C21.Y 
+7,汎ぶどう膜炎,L,H441,EM3J,=,http://id.who.int/icd/entity/1125547814,=,9C20.Z 
+7,汎ブドウ膜炎,S1,H441,EM3J,=,http://id.who.int/icd/entity/1125547814,=,9C20.Z 
+7,交感性ぶどう膜炎,L,H441,KMF5,=,http://id.who.int/icd/entity/1391518285,=,9C21.0
+7,交感性ブドウ膜炎,S1,H441,KMF5,=,http://id.who.int/icd/entity/1391518285,=,9C21.0
+7,水晶体過敏性眼内炎,L,H441,TTSS,<,http://id.who.int/icd/entity/1501104058,<,9C20.0 
+7,水晶体起因性眼内炎,S2,H441,TTSS,<,http://id.who.int/icd/entity/1501104058,<,9C20.0 
+7,変性近視,L,H442,T7C7,=,http://id.who.int/icd/entity/543495250,=,9B76 
+7,銅症,L,H443,VGEE,=,http://id.who.int/icd/entity/1051372975 OR http://id.who.int/icd/entity/1273993665 OR http://id.who.int/icd/entity/456831062,<,9B7Y OR 9A78.1  OR 9B10.2Y
+7,外傷性低眼圧症,L,H444,D9M3,<,http://id.who.int/icd/entity/1867050726,<,9A83 
+7,低眼圧黄斑症,L,H444,NSTM,=,http://id.who.int/icd/entity/1867050726 / http://id.who.int/icd/entity/234202212,<,9A83 & XA9V06
+7,低眼圧,L,H444,PTC4,=,http://id.who.int/icd/entity/167977840,<,9A83
+7,眼圧低下,S1,H444,PTC4,=,http://id.who.int/icd/entity/167977840,<,9A83
+7,眼球ろう,L,H445,AFB5,=,http://id.who.int/icd/entity/1364346142,=,9C22.1 
+7,眼球癆,S1,H445,AFB5,=,http://id.who.int/icd/entity/1364346142,=,9C22.1 
+7,絶対緑内障,L,H445,ENKV,<,http://id.who.int/icd/entity/499924848,<,9C61.Z
+7,眼球萎縮症,L,H445,KJ6F,=,http://id.who.int/icd/entity/2114301455,=,9C22.0
+7,虹彩異物残留,L,H447,ASM1,=,(http://id.who.int/icd/entity/811492834 or http://id.who.int/icd/entity/1494392992) &  http://id.who.int/icd/entity/566364827,=,(NA06.80 or NA06.81) & XA3GW7 
+7,虹彩磁気異物残留,S2,H447,ASM1,=,http://id.who.int/icd/entity/811492834 &  http://id.who.int/icd/entity/566364827 ,=,NA06.80 & XA3GW7
+7,眼内非磁性異物残留,L,H447,AVB7,=,http://id.who.int/icd/entity/1114446511 ,=,NA06.81 
+7,前房異物残留,L,H447,CAAP,=,http://id.who.int/icd/entity/1060995368  & http://id.who.int/icd/entity/1761134897,=,(NA06.80 or NA06.81) & XA4MZ4
+7,前房磁気異物残留,S2,H447,CAAP,=,http://id.who.int/icd/entity/1060995368 ,=,NA06.80 & XA4MZ4 
+7,眼球後壁異物残留,L,H447,DLVQ,<,http://id.who.int/icd/entity/198058166 or http://id.who.int/icd/entity/1233095000 or (http://id.who.int/icd/entity/821384561 or  http://id.who.int/icd/entity/1375233270) ,<,NA06.80 or NA06.81 or (NA06.8B or NA06.8C)
+7,眼球後壁磁気異物残留,S2,H447,DLVQ,<,"http://id.who.int/icd/entity/198058166  or 
+http://id.who.int/icd/entity/821384561 ",<,NA06.80 or NA06.8B
+7,水晶体異物残留,L,H447,LBTD,=,http://id.who.int/icd/entity/786111555  or http://id.who.int/icd/entity/2032030812 ,=,(NA06.80 or NA06.81) & XA13U9
+7,水晶体磁気異物残留,S2,H447,LBTD,=,http://id.who.int/icd/entity/786111555,=,NA06.80 & XA13U9
+7,硝子体異物残留,L,H447,PDNK,=,"http://id.who.int/icd/entity/475755801 or http://id.who.int/icd/entity/950594647 or (http://id.who.int/icd/entity/821384561 or
+ http://id.who.int/icd/entity/1375233270) & http://id.who.int/icd/entity/2088597502) ",=,(NA06.80 or NA06.81 or NA06.8B  or NA06.8C ) & XA4HU2
+7,硝子体磁気異物残留,S2,H447,PDNK,=,"http://id.who.int/icd/entity/475755801  or 
+(http://id.who.int/icd/entity/821384561 &  http://id.who.int/icd/entity/2088597502)",=,(NA06.80  or NA06.8B) & XA4HU2)
+7,眼球内異物残留,L,H447,R2LQ,=,http://id.who.int/icd/entity/656856891 or http://id.who.int/icd/entity/1114446511,=,NA06.80 or NA06.81
+7,眼内異物残留,S1,H447,R2LQ,=,http://id.who.int/icd/entity/656856891 or http://id.who.int/icd/entity/1114446511,=,NA06.80 or NA06.81
+7,眼内磁気異物残留,S2,H447,R2LQ,=,http://id.who.int/icd/entity/656856891 ,=,NA06.80
+7,毛様体異物残留,L,H447,SNUD,=,http://id.who.int/icd/entity/1710517053 or http://id.who.int/icd/entity/1744077528 or (http://id.who.int/icd/entity/821384561 or http://id.who.int/icd/entity/1375233270) & http://id.who.int/icd/entity/921333339,=,NA06.80 or NA06.81 or (NA06.8B or NA06.8C) & XA03X9
+7,毛様体磁気異物残留,S2,H447,SNUD,=,"http://id.who.int/icd/entity/1710517053 or 
+(http://id.who.int/icd/entity/821384561 &  http://id.who.int/icd/entity/921333339 )",=,NA06.80  or (NA06.8B & XA03X9) 
+7,眼球脱臼,L,H448,NVT3,=,http://id.who.int/icd/entity/972770799 & http://id.who.int/icd/entity/662741980,<,ND56.3 & XA0M40 
+7,眼球内出血,L,H448,U0CD,=,http://id.who.int/icd/entity/940081636 & http://id.who.int/icd/entity/662741980,<,MG27 & XA0M4
+7,眼球出血,S1,H448,U0CD,=,http://id.who.int/icd/entity/940081636 & http://id.who.int/icd/entity/662741980,<,MG27 & XA0M4
+7,眼内出血,S1,H448,U0CD,=,http://id.who.int/icd/entity/940081636 & http://id.who.int/icd/entity/662741980,<,MG27 & XA0M4
+7,眼球血症,S2,H448,U0CD,=,http://id.who.int/icd/entity/940081636 & http://id.who.int/icd/entity/662741980,<,MG27 & XA0M4
+7,眼球炎,L,H449,S4NL,<,http://id.who.int/icd/entity/503601360,<,9C2Z 
+7,視神経炎,L,H46,EDLK,=,http://id.who.int/icd/entity/210935787,=,9C40.1Z
+7,上行性視神経炎,L,H46,F0EM,<,http://id.who.int/icd/entity/210935787,<,9C40.1Y
+7,鼻性視神経炎,L,H46,FVKQ,<,http://id.who.int/icd/entity/210935787,<,9C40.1Y
+7,視神経乳頭炎,L,H46,GPTF,=,http://id.who.int/icd/entity/754770308,<,9C40.1Y 
+7,乳頭炎,S1,H46,GPTF,=,http://id.who.int/icd/entity/191455598,<,9C40.1Y
+7,視神経障害,L,H46,J52H,=,http://id.who.int/icd/entity/191455598,<,9C40.1Y
+7,視神経症,L,H46,JSH7,=,http://id.who.int/icd/entity/191455598,<,9C40.1Y
+7,球後視神経炎,L,H46,QD8D,=,http://id.who.int/icd/entity/63567539,=,9C40.10
+7,眼球後視神経炎,S1,H46,QD8D,=,http://id.who.int/icd/entity/63567539,=,9C40.10
+7,球後神経炎,S1,H46,QD8D,=,http://id.who.int/icd/entity/63567539,=,9C40.10
+7,下行性視神経炎,L,H46,R0GV,<,http://id.who.int/icd/entity/210935787,<,9C40.1Y
+7,中毒性視神経炎,L,H46,SM8B,<,http://id.who.int/icd/entity/210935787,<,9C40.1Y
+7,間質性視神経炎,L,H46,T36S,<,http://id.who.int/icd/entity/210935787,<,9C40.1Y
+7,軸性視神経炎,L,H46,T6Q9,<,http://id.who.int/icd/entity/210935787,<,9C40.1Y
+7,視神経周囲炎,L,H46,TSBF,=,http://id.who.int/icd/entity/349248275,=,9C40.3 
+7,急性視神経炎,L,H46,VN6M,=,"http://id.who.int/icd/entity/210935787  & 
+http://id.who.int/icd/entity/786106375",=,9C40.1Z & XT5R
+7,視神経鞘内出血,L,H470,ASFK,=,http://id.who.int/icd/entity/1347420819,<,9C40.Y 
+7,アルコール性視神経障害,L,H470,DEBS,=,http://id.who.int/icd/entity/1481748859 / http://id.who.int/icd/entity/1533465302,<,9C40.Y / PH50 
+7,鼻性視神経症,L,H470,FBQ4,<,http://id.who.int/icd/entity/1411910384 ,<,9C40.Y
+7,網膜神経障害,L,H470,FJMS,<,"http://id.who.int/icd/entity/1411910384  & 
+http://id.who.int/icd/entity/1900566978",<,9C40.Z & XA8WV8 
+7,外傷性視神経症,L,H470,FNRQ,=,http://id.who.int/icd/entity/1825384127,=,9C40.7 
+7,黄斑視神経変性症,L,H470,MJSH,<,"http://id.who.int/icd/entity/1411910384  & 
+http://id.who.int/icd/entity/1717583106",<,9C40.Z & XA9V06
+7,視束管圧迫,L,H470,MUSM,=,http://id.who.int/icd/entity/945391425 & http://id.who.int/icd/entity/2107111901,=,9C40.5&XA63Y1
+7,視神経乳頭周囲出血,L,H470,PDML,<,http://id.who.int/icd/entity/1411910384  / http://id.who.int/icd/entity/940081636,<,9C40.Z / MG27
+7,視神経圧迫症,L,H470,T27R,=,http://id.who.int/icd/entity/945391425,=,9C40.5
+7,圧迫視神経症,S1,H470,T27R,=,http://id.who.int/icd/entity/945391425,=,9C40.5
+7,虚血性視神経症,L,H470,T78U,=,http://id.who.int/icd/entity/620581484,=,9C40.4Z 
+7,虚血性視神経炎,S1,H470,T78U,=,http://id.who.int/icd/entity/620581484,=,9C40.4Z 
+7,放射線視神経症,L,H470,VQRQ,=,http://id.who.int/icd/entity/2057828606,=,9C40.40 / PK81.C  
+7,放射線性視神経症,S1,H470,VQRQ,=,http://id.who.int/icd/entity/2057828606,=,9C40.40 / PK81.C  
+7,うっ血乳頭,L,H471,DFUS,=,http://id.who.int/icd/entity/385461984,=,9C40.A0 
+7,フォスター・ケネディー症候群,L,H471,EG0V,=,http://id.who.int/icd/entity/288363660,<,9C40.5
+7,FOSTER KENNEDY症候群,S1,H471,EG0V,=,http://id.who.int/icd/entity/288363660,<,9C40.5
+7,乳頭浮腫,L,H471,VND4,=,http://id.who.int/icd/entity/385461984,=,9C40.A0 
+7,乳頭腫脹,S1,H471,VND4,=,http://id.who.int/icd/entity/162282288,=,9C40.AZ
+7,眼底乳頭浮腫,S1,H471,VND4,=,http://id.who.int/icd/entity/385461984,<,9C40.A0 
+7,続発性視神経萎縮,L,H472,DPRS,=,http://id.who.int/icd/entity/311270680,=,9C40.B1
+7,下行性視神経萎縮,L,H472,F2N7,<,http://id.who.int/icd/entity/311270680,<,9C40.B1 
+7,外傷性視神経萎縮,L,H472,FH1R,<,http://id.who.int/icd/entity/311270680,<,9C40.B1 
+7,栄養障害性視神経萎縮,L,H472,M2E5,=,"http://id.who.int/icd/entity/311270680 & 
+http://id.who.int/icd/entity/1671987290",=,9C40.B1 / 5C3Z
+7,視神経乳頭萎縮,L,H472,MFV7,=,"http://id.who.int/icd/entity/568505454 & http://id.who.int/icd/entity/1595445314 
+",=,9C40.BZ & XA4A75
+7,視神経乳頭耳側蒼白,S2,H472,MFV7,=,http://id.who.int/icd/entity/333199268,<,9C40.BZ & XA4A75
+7,レーベル遺伝性視神経症,L,H472,PLPH,=,http://id.who.int/icd/entity/1018428959,<,8C73.Y 
+7,LEBER視神経萎縮症,S1,H472,PLPH,=,http://id.who.int/icd/entity/1018428959,<,8C73.Y 
+7,レーバー視神経萎縮症,S1,H472,PLPH,=,http://id.who.int/icd/entity/1018428959,<,8C73.Y 
+7,LEBER遺伝性視神経症,S1,H472,PLPH,=,http://id.who.int/icd/entity/1018428959,<,8C73.Y 
+7,LEBER病,S1,H472,PLPH,=,http://id.who.int/icd/entity/1018428959,<,8C73.Y 
+7,LEBER萎縮,S1,H472,PLPH,=,http://id.who.int/icd/entity/1018428959,<,8C73.Y 
+7,レーベル萎縮,S1,H472,PLPH,=,http://id.who.int/icd/entity/1018428959,<,8C73.Y 
+7,家族性遺伝性視神経萎縮,S1,H472,PLPH,=,http://id.who.int/icd/entity/1018428959,<,8C73.Y 
+7,レーベル病,S1,H472,PLPH,=,http://id.who.int/icd/entity/1018428959,<,8C73.Y 
+7,LEBER遺伝性視神経萎縮症,S1,H472,PLPH,=,http://id.who.int/icd/entity/1018428959,<,8C73.Y 
+7,遺伝性視神経萎縮,S1,H472,PLPH,=,http://id.who.int/icd/entity/1018428959,<,8C73.Y 
+7,レーバー遺伝性視神経症,S1,H472,PLPH,=,http://id.who.int/icd/entity/1018428959,<,8C73.Y 
+7,家族性視神経萎縮,S1,H472,PLPH,=,http://id.who.int/icd/entity/1018428959,<,8C73.Y 
+7,LHON,S1,H472,PLPH,=,http://id.who.int/icd/entity/1018428959,<,8C73.Y 
+7,レーバー病,S1,H472,PLPH,=,http://id.who.int/icd/entity/1018428959,<,8C73.Y 
+7,レーバー遺伝性視神経萎縮症,S1,H472,PLPH,=,http://id.who.int/icd/entity/1018428959,<,8C73.Y 
+7,エタンブトール視神経症,L,H472,PS13,=,http://id.who.int/icd/entity/1481748859 & http://id.who.int/icd/entity/512508616,<,9C40.Y / PL00 & XM4N96
+7,視神経萎縮,L,H472,T3VN,=,http://id.who.int/icd/entity/568505454,=,9C40.BZ 
+7,乳頭萎縮,S1,H472,T3VN,=,http://id.who.int/icd/entity/568505454 & http://id.who.int/icd/entity/1595445314,=,9C40.BZ & XA4A75
+7,難治性視神経症,S1,H472,T3VN,<,http://id.who.int/icd/entity/568505454 ,<,9C40.BZ 
+7,視神経萎縮症,S1,H472,T3VN,=,http://id.who.int/icd/entity/568505454,=,9C40.BZ 
+7,上行性視神経萎縮,L,H472,UJSA,<,http://id.who.int/icd/entity/568505454,<,9C40.BZ 
+7,原発性視神経萎縮,L,H472,VS9N,=,http://id.who.int/icd/entity/568505454,=,9C40.BZ 
+7,単純性視神経萎縮,S2,H472,VS9N,=,http://id.who.int/icd/entity/568505454,=,9C40.BZ 
+7,乳頭静脈炎,L,H473,FG7M,=,http://id.who.int/icd/entity/1151957500 / http://id.who.int/icd/entity/708418764,=,9C40.Y & XA4A75 / BD70.Z
+7,乳頭血管炎,S2,H473,FG7M,=,http://id.who.int/icd/entity/1151957500 / http://id.who.int/icd/entity/572581721,=,9C40.Y & XA4A75 / 4A44.Z 
+7,偽乳頭浮腫,L,H473,K2A1,<,http://id.who.int/icd/entity/1151957500,<,9C40.Y & XA4A7
+7,偽乳頭炎,L,H473,M4AA,<,http://id.who.int/icd/entity/1151957500,<,9C40.Y & XA4A7
+7,視神経乳頭ドルーゼン,S2,H473,M4AA,=,http://id.who.int/icd/entity/1474307400,<,LA13.72 
+7,視神経乳頭びらん,S2,H473,M4AA,<,http://id.who.int/icd/entity/1151957500,<,9C40.Y
+7,視神経乳頭陥没,L,H473,NM4M,<,http://id.who.int/icd/entity/1151957500,<,9C40.Y 
+7,偽視神経炎,L,H473,UK7R,<,http://id.who.int/icd/entity/1411910384,<,9C40.Y 
+7,偽性視神経炎,S1,H473,UK7R,<,http://id.who.int/icd/entity/1411910384,<,9C40.Y 
+7,視路障害,L,H475,J106,=,http://id.who.int/icd/entity/696932440,=,9C4Z
+7,視索障害,S2,H475,J106,=,http://id.who.int/icd/entity/1376528378,=,9C42
+7,視覚皮質障害,L,H476,DRJP,=,http://id.who.int/icd/entity/648115973,=,9C43 
+7,皮質盲,L,H476,G2D7,=,http://id.who.int/icd/entity/648115973 / http://id.who.int/icd/entity/49873717 ,=,9C43 / 9D90.6
+7,アントン症候群,L,H476,QVSS,=,http://id.who.int/icd/entity/648115973 / http://id.who.int/icd/entity/49873717 ,=,9C43 / 9D90.6
+7,ANTON症候群,S1,H476,QVSS,=,http://id.who.int/icd/entity/648115973 / http://id.who.int/icd/entity/49873717 ,=,9C43 / 9D90.6
+7,バリント症候群,L,H476,VHHU,=,http://id.who.int/icd/entity/491228434,<,9C82.4
+7,BALINT症候群,S1,H476,VHHU,=,http://id.who.int/icd/entity/491228434,<,9C82.4
+7,視路疾患,L,H477,LF75,=,http://id.who.int/icd/entity/696932440,=,9C4Z 
+7,動眼神経炎,L,H490,G9L5,=,http://id.who.int/icd/entity/515653469,<,9C81.0Y 
+7,下斜筋麻痺,L,H490,GALS,=,http://id.who.int/icd/entity/1652044346 & http://id.who.int/icd/entity/204203399,=,9C81.Y  & XA4N79 
+7,上直筋不全麻痺,L,H490,H1MT,=,http://id.who.int/icd/entity/1652044346 & http://id.who.int/icd/entity/791109191,=,9C81.Y  & XA51R1 
+7,動眼神経萎縮,L,H490,HLLB,=,http://id.who.int/icd/entity/1652044346,=,9C81.0Z  
+7,ノートナーゲル症候群,L,H490,HQCL,=,http://id.who.int/icd/entity/1240711744,<,9C81.0Y
+7,動眼神経不全麻痺,L,H490,N0CS,=,http://id.who.int/icd/entity/1652044346,=,9C81.0Z  
+7,上直筋麻痺,L,H490,NGME,=,http://id.who.int/icd/entity/1652044346 & http://id.who.int/icd/entity/791109191,=,9C81.0Y & XA51R1 
+7,下直筋麻痺,L,H490,PL2R,=,http://id.who.int/icd/entity/1652044346 & http://id.who.int/icd/entity/894650567,=,9C81.0Y & XA1X67
+7,動眼神経根性麻痺,L,H490,R33Q,<,http://id.who.int/icd/entity/1652044346,<,9C81.0Z  
+7,内直筋麻痺,L,H490,T8KJ,=,http://id.who.int/icd/entity/1652044346 & http://id.who.int/icd/entity/630357161,=,9C81.0Y & XA95N1 
+7,動眼神経麻痺,L,H490,THNV,=,http://id.who.int/icd/entity/1652044346,=,9C81.0Z  
+7,下斜筋不全麻痺,L,H490,V4EF,=,http://id.who.int/icd/entity/1652044346 & http://id.who.int/icd/entity/204203399,=,9C81.0Z  & XA4N79 
+7,下斜筋不全,S1,H490,V4EF,=,http://id.who.int/icd/entity/1652044346 & http://id.who.int/icd/entity/204203399,=,9C81.0Z  & XA4N79 
+7,滑車神経麻痺,L,H491,C0A3,=,http://id.who.int/icd/entity/120848300,=,9C81.1 
+7,上斜筋不全麻痺,L,H491,EKRF,=,http://id.who.int/icd/entity/120848300 ,=,9C81.1
+7,上斜筋麻痺,L,H491,N25D,=,http://id.who.int/icd/entity/120848300,=,9C81.1 
+7,滑車神経萎縮,L,H491,VEFA,=,http://id.who.int/icd/entity/120848300,=,9C81.1 
+7,外直筋麻痺,L,H492,CU7U,=,http://id.who.int/icd/entity/1939779411,=,9C81.2 
+7,外転神経萎縮,L,H492,EDAR,=,http://id.who.int/icd/entity/1939779411,=,9C81.2
+7,外転神経不全麻痺,L,H492,FTV0,=,http://id.who.int/icd/entity/1939779411,=,9C81.2 
+7,外転神経根性麻痺,L,H492,GDPS,<,http://id.who.int/icd/entity/1939779411,<,9C81.2 
+7,外転神経麻痺,L,H492,LGVM,=,http://id.who.int/icd/entity/1939779411,=,9C81.2 
+7,先天性外転神経麻痺,L,H492,TK5C,=,http://id.who.int/icd/entity/2004845959 & http://id.who.int/icd/entity/1048408993,<,9C81.2 & XB8M 
+7,全外眼筋麻痺,L,H493,L2NB,=,http://id.who.int/icd/entity/383083207,=,9C81.3
+7,眼窩先端部症候群,L,H493,SPT5,=,http://id.who.int/icd/entity/539642646,<,9C81.Y
+7,眼窩先端症候群,S1,H493,SPT5,=,http://id.who.int/icd/entity/539642646,<,9C81.Y
+7,眼窩尖端症候群,S1,H493,SPT5,=,http://id.who.int/icd/entity/539642646,<,9C81.Y
+7,慢性進行性外眼筋麻痺症候群,L,H494,J18H,=,http://id.who.int/icd/entity/230426171,=,9C82.0 & XT8W
+7,進行性外眼筋麻痺,S1,H494,J18H,=,http://id.who.int/icd/entity/1698427219,=,9C82.0 
+7,上眼窩裂症候群,L,H498,E44J,=,http://id.who.int/icd/entity/398027368,<,9C81.Y 
+7,パリノー症候群,L,H498,HL1J,=,http://id.who.int/icd/entity/1081771092,<,9C83.01 
+7,PARINAUD症候群,S1,H498,HL1J,=,http://id.who.int/icd/entity/1081771092,<,9C83.01 
+7,中脳水道症候群,S2,H498,HL1J,=,http://id.who.int/icd/entity/1081771092,<,9C83.01 
+7,カーンズ・セイアー症候群,L,H498,KNT2,=,http://id.who.int/icd/entity/399100745,<,9C82.0
+7,KEARNS-SAYRE症候群,S1,H498,KNT2,=,http://id.who.int/icd/entity/399100745,<,9C82.0
+7,カーンズ・セイヤー症候群,S1,H498,KNT2,=,http://id.who.int/icd/entity/399100745,<,9C82.0
+7,カーン・セイアー症候群,S1,H498,KNT2,=,http://id.who.int/icd/entity/399100745,<,9C82.0
+7,下直筋不全麻痺,L,H498,QB40,=,http://id.who.int/icd/entity/1652044346 & http://id.who.int/icd/entity/894650567,=,9C81.0Z &XA1X67
+7,外眼筋麻痺,L,H498,RVE0,=,http://id.who.int/icd/entity/746411040,=,9C81.Y & XA9WT4
+7,外眼筋不全麻痺,L,H499,AE0C,=,http://id.who.int/icd/entity/746411040,=,9C81.Y & XA9WT4
+7,眼筋不全麻痺,L,H499,C5G0,=,http://id.who.int/icd/entity/829642560,<,9C82.Y 
+7,眼筋麻痺,L,H499,ECBM,=,http://id.who.int/icd/entity/1848588735,<,9C82.Y 
+7,交感神経性眼筋麻痺,L,H499,FU3B,=,http://id.who.int/icd/entity/829642560 / http://id.who.int/icd/entity/1525992437,<,9C82.Y / 8D8A.Z 
+7,麻痺性斜視,L,H499,GPJL,=,http://id.who.int/icd/entity/1979741228,=,9C81.Z 
+7,特発性眼筋麻痺,L,H499,RT1K,=,http://id.who.int/icd/entity/1848588735 & http://id.who.int/icd/entity/894194405,<,9C82.Y & XB5F
+7,交代性内斜視,L,H500,A3E0,=,http://id.who.int/icd/entity/935468618,<,9C80.0
+7,交代性共同性内斜視,L,H500,AJHD,<,http://id.who.int/icd/entity/935468618,<,9C80.0 
+7,Ｖ型内斜視,L,H500,APMM,=,http://id.who.int/icd/entity/639927073 or http://id.who.int/icd/entity/560414796,<,9C80.0 
+7,V型内斜視,S0,H500,APMM,=,http://id.who.int/icd/entity/639927073 or http://id.who.int/icd/entity/560414796,<,9C80.0 
+7,内斜頚斜視,L,H500,CRP6,=,http://id.who.int/icd/entity/459766644 / http://id.who.int/icd/entity/872242568,=,9C80.0  / FA71
+7,内斜頸斜視,S1,H500,CRP6,=,http://id.who.int/icd/entity/459766644 / http://id.who.int/icd/entity/872242568,=,9C80.0  / FA71
+7,緊張性内斜視,L,H500,E872,=,http://id.who.int/icd/entity/1512812109,<,9C80.0 
+7,部分調節性内斜視,L,H500,EGCD,<,http://id.who.int/icd/entity/1512812109,<,9C80.0 
+7,Ａ型内斜視,L,H500,FL44,=,http://id.who.int/icd/entity/1143770590 or http://id.who.int/icd/entity/1131368117 ,<,9C80.0 
+7,A型内斜視,S0,H500,FL44,=,http://id.who.int/icd/entity/1143770590 or http://id.who.int/icd/entity/1131368117 ,<,9C80.0 
+7,調節性内斜視,L,H500,HUJ3,=,http://id.who.int/icd/entity/1512812109,<,9C80.0 
+7,内斜視,L,H500,NLKQ,=,http://id.who.int/icd/entity/459766644,=,9C80.0 
+7,眼内斜視,S1,H500,NLKQ,=,http://id.who.int/icd/entity/459766644,=,9C80.0 
+7,廃用性内斜視,L,H500,RN8S,<,http://id.who.int/icd/entity/459766644,<,9C80.0 
+7,癈用性内斜視,S1,H500,RN8S,<,http://id.who.int/icd/entity/459766644,<,9C80.0 
+7,共同性内斜視,L,H500,SMQR,=,http://id.who.int/icd/entity/459766644,=,9C80.0 
+7,調節性斜視,L,H500,T4J4,=,http://id.who.int/icd/entity/1512812109,<,9C80.0 
+7,先天性内斜視,L,H500,V1QA,=,http://id.who.int/icd/entity/459766644 & http://id.who.int/icd/entity/1048408993,=,9C80.0 & XB8M
+7,交代性外斜視,L,H501,DCAP,=,http://id.who.int/icd/entity/1611093587,<,9C80.1
+7,Ｖ型外斜視,L,H501,HUH3,=,http://id.who.int/icd/entity/1990330451 or  http://id.who.int/icd/entity/1910623034,<,9C80.1 
+7,V型外斜視,S0,H501,HUH3,=,http://id.who.int/icd/entity/1990330451 or  http://id.who.int/icd/entity/1910623034,<,9C80.1 
+7,交代性共同性外斜視,L,H501,HV0N,=,http://id.who.int/icd/entity/1611093587,=,9C80.1 
+7,共同性外斜視,L,H501,TS80,=,http://id.who.int/icd/entity/2116859618,=,9C80.1 
+7,外斜視,L,H501,UEEN,=,http://id.who.int/icd/entity/2116859618,=,9C80.1 
+7,開散斜視,S1,H501,UEEN,=,http://id.who.int/icd/entity/2116859618,=,9C80.1 
+7,Ａ型外斜視,L,H501,VG8U,=,http://id.who.int/icd/entity/334087623 or http://id.who.int/icd/entity/1611093587,<,9C80.1 
+7,A型外斜視,S0,H501,VG8U,=,http://id.who.int/icd/entity/334087623 or http://id.who.int/icd/entity/1611093587,<,9C80.1 
+7,廃用性外斜視,L,H501,VKEE,<,http://id.who.int/icd/entity/2116859618,<,9C80.1
+7,癈用性外斜視,S1,H501,VKEE,<,http://id.who.int/icd/entity/2116859618,<,9C80.1
+7,上下斜視,L,H502,HRHB,=,http://id.who.int/icd/entity/1458183689,=,9C80.2
+7,下斜筋過動,L,H502,JSQD,=,http://id.who.int/icd/entity/1458183689,=,9C80.2
+7,上斜視,L,H502,QHSJ,=,http://id.who.int/icd/entity/1382376000,<,9C80.2
+7,下斜視,L,H502,SC0T,=,http://id.who.int/icd/entity/1840811827,<,9C80.2
+7,間欠性内斜視,L,H503,B3RL,=,http://id.who.int/icd/entity/239826790,=,9C80.31
+7,間歇性内斜視,S1,H503,B3RL,=,http://id.who.int/icd/entity/239826790,=,9C80.31
+7,間欠性外斜視,L,H503,RBL3,=,http://id.who.int/icd/entity/1723729766,=,9C80.30
+7,間歇性外斜視,S1,H503,RBL3,=,http://id.who.int/icd/entity/1723729766,=,9C80.30
+7,間欠性異方視,S2,H503,RBL3,=,http://id.who.int/icd/entity/2033892239,=,9C80.3Z
+7,間歇性異方視,S2,H503,RBL3,=,http://id.who.int/icd/entity/2033892239,=,9C80.3Z
+7,乳児内斜視,L,H504,HULU,=,"
+http://id.who.int/icd/entity/459766644 & http://id.who.int/icd/entity/1588782340 ",=,9C80.0 & XT2C
+7,回旋斜視,L,H504,JGE2,=,http://id.who.int/icd/entity/1259996412,<,9C80.2
+7,まわし斜視,S1,H504,JGE2,=,http://id.who.int/icd/entity/1259996412,<,9C80.2
+7,単眼固視症候群,L,H504,M6FE,=,http://id.who.int/icd/entity/1068979205,<,9C80.0 
+7,共同性斜視,L,H504,R4V6,=,http://id.who.int/icd/entity/1609477319,<,9C8Y
+7,微小斜視,L,H504,S4JH,=,http://id.who.int/icd/entity/1068979205,<,9C80.0 
+7,回旋斜位,L,H505,E24S,=,http://id.who.int/icd/entity/2128036380,<,9C80.4
+7,内斜位,L,H505,FB47,=,http://id.who.int/icd/entity/484396259,<,9C80.4 
+7,潜伏性内斜視,S2,H505,FB47,=,http://id.who.int/icd/entity/1726536935,<,9C80.4 
+7,交代性上斜位,L,H505,J7GH,=,http://id.who.int/icd/entity/2029489299,<,9C80.4 
+7,外斜位,L,H505,MK9E,=,http://id.who.int/icd/entity/1752308766,<,9C80.4 
+7,潜伏性外斜視,S2,H505,MK9E,=,http://id.who.int/icd/entity/1752308766,<,9C80.4 
+7,上斜位,L,H505,SP33,=,http://id.who.int/icd/entity/1726536935,<,9C80.4 
+7,眼球斜位,L,H505,VP0U,=,http://id.who.int/icd/entity/2037347723,<,9C80.4 
+7,斜位,S2,H505,VP0U,=,http://id.who.int/icd/entity/2037347723,<,9C80.4 
+7,機械的斜視,L,H506,B5V4,=,http://id.who.int/icd/entity/230827382,=,9C80.5 
+7,上斜筋腱鞘症候群,L,H506,BQKE,=,http://id.who.int/icd/entity/460286774,<,9C80.5 
+7,BROWN鞘症候群,S1,H506,BQKE,=,http://id.who.int/icd/entity/460286774,<,9C80.5 
+7,ブラウン鞘症候群,S1,H506,BQKE,=,http://id.who.int/icd/entity/460286774,<,9C80.5 
+7,ブラウン症候群,S1,H506,BQKE,=,http://id.who.int/icd/entity/460286774,<,9C80.5 
+7,BROWN症候群,S1,H506,BQKE,=,http://id.who.int/icd/entity/460286774,<,9C80.5 
+7,外傷性眼筋麻痺,L,H506,NJ7P,=,http://id.who.int/icd/entity/829642560,<,9C82.Y 
+7,デュアン眼球後退症候群,L,H508,GNEC,=,http://id.who.int/icd/entity/482830550,<,9C82.2
+7,眼球後退症候群,S1,H508,GNEC,=,http://id.who.int/icd/entity/482830550,<,9C82.2
+7,眼球後退症,S1,H508,GNEC,=,http://id.who.int/icd/entity/482830550,<,9C82.2
+7,DUANE症候群,S1,H508,GNEC,=,http://id.who.int/icd/entity/482830550,<,9C82.2
+7,デュエーン症候群,S1,H508,GNEC,=,http://id.who.int/icd/entity/482830550,<,9C82.2
+7,DUANE眼球後退症候群,S1,H508,GNEC,=,http://id.who.int/icd/entity/482830550,<,9C82.2
+7,デュアン症候群,S1,H508,GNEC,=,http://id.who.int/icd/entity/482830550,<,9C82.2
+7,仮性内斜視,L,H509,JRSP,<,http://id.who.int/icd/entity/484396259,<,9C80.4
+7,仮性斜視,L,H509,QUER,<,http://id.who.int/icd/entity/1156948955,<,9C8Y
+7,斜視,L,H509,UA9F,=,http://id.who.int/icd/entity/1156948955,<,9C8Y
+7,偽斜視,L,H509,UU80,<,http://id.who.int/icd/entity/1156948955,<,9C8Y
+7,水平性注視麻痺,L,H510,ATRN,=,http://id.who.int/icd/entity/1957797114,=,9C83.00
+7,垂直性注視麻痺,L,H510,E9SE,=,http://id.who.int/icd/entity/2022727302,=,9C83.01 
+7,注視麻痺,L,H510,ELF4,=,http://id.who.int/icd/entity/127906805,=,9C83.0Z 
+7,絶対性注視麻痺,L,H510,HR7N,<,http://id.who.int/icd/entity/127906805,<,9C83.0Z 
+7,共同注視麻痺,L,H510,J5ED,=,http://id.who.int/icd/entity/127906805,=,9C83.0Z 
+7,輻輳麻痺,L,H511,AQJ8,=,http://id.who.int/icd/entity/2002695689,=,9C83.2
+7,輻輳不全,S1,H511,AQJ8,=,http://id.who.int/icd/entity/2002695689,=,9C83.2
+7,開散不全,L,H511,FVJJ,=,http://id.who.int/icd/entity/1052175084,=,9C83.60
+7,開散障害,S2,H511,FVJJ,=,http://id.who.int/icd/entity/1052175084,=,9C83.60
+7,一眼半水平注視麻痺症候群,L,H512,KU10,=,http://id.who.int/icd/entity/583276612,<,9C83.5 
+7,1+1/2症候群,S1,H512,KU10,=,http://id.who.int/icd/entity/583276612,<,9C83.5 
+7,核間性眼筋麻痺,L,H512,MB7F,=,http://id.who.int/icd/entity/377040542,=,9C83.5 
+7,MLF症候群,S1,H512,MB7F,=,http://id.who.int/icd/entity/377040542,=,9C83.5 
+7,核間麻痺,S2,H512,MB7F,=,http://id.who.int/icd/entity/377040542,=,9C83.5
+7,共同偏視,L,H518,CGN0,=,http://id.who.int/icd/entity/1054372987,=,9C83.1Z
+7,眼球運動痙攣,L,H518,QHSP,<,http://id.who.int/icd/entity/870769757,<,9C85.Y 
+7,開散麻痺,L,H518,RFJP,=,http://id.who.int/icd/entity/793663767,=,9C83.61
+7,眼球共同運動障害,L,H519,BN2Q,=,http://id.who.int/icd/entity/792902371,=,9C83.Z
+7,中枢性眼球運動障害,L,H519,HCCT,<,http://id.who.int/icd/entity/792902371,<,9C83.Z
+7,先天性眼球運動障害,L,H519,HTJF,=,http://id.who.int/icd/entity/1060046426 & http://id.who.int/icd/entity/1048408993,=,9C8Y  & XB8M
+7,眼球運動障害,L,H519,N3SU,=,http://id.who.int/icd/entity/1060046426,=,9C8Z
+7,眼球運動ジスキネジア,L,H519,Q6RN,=,http://id.who.int/icd/entity/870769757,=,9C85.Z 
+7,遠視性弱視,L,H520,GQ0N,=,http://id.who.int/icd/entity/102241227,=,9D00.1
+7,中等度遠視,L,H520,H2QV,=,http://id.who.int/icd/entity/102241227 & http://id.who.int/icd/entity/1663264387,=,9D00.1 & XS0T 
+7,軽度遠視,L,H520,H6US,=,http://id.who.int/icd/entity/102241227 & http://id.who.int/icd/entity/562478860,=,9D00.1 & XS5W
+7,屈折性遠視,L,H520,HFCD,=,http://id.who.int/icd/entity/102241227,=,9D00.1
+7,遠視,L,H520,MUKM,=,http://id.who.int/icd/entity/102241227,=,9D00.1
+7,強度遠視,L,H520,PMVU,=,http://id.who.int/icd/entity/102241227 & http://id.who.int/icd/entity/1201187093,=,9D00.1 & XS25 
+7,高度遠視,S1,H520,PMVU,=,http://id.who.int/icd/entity/102241227 & http://id.who.int/icd/entity/1201187093,=,9D00.1 & XS25 
+7,進行性近視,L,H521,AJ42,=,http://id.who.int/icd/entity/598372717,<,9D00.0
+7,最強度近視,L,H521,B0K5,=,http://id.who.int/icd/entity/1666440799 & http://id.who.int/icd/entity/1201187093,=,9D00.0 & XS25 
+7,学校近視,L,H521,B74Q,=,http://id.who.int/icd/entity/416871389,=,9D00.6 
+7,軸性近視,L,H521,D8R5,=,http://id.who.int/icd/entity/103113807,<,9D00.0
+7,屈折性近視,L,H521,DCK0,=,http://id.who.int/icd/entity/1666440799,=,9D00.0
+7,混性近視,L,H521,EV2P,=,http://id.who.int/icd/entity/1666440799 / http://id.who.int/icd/entity/103113807,<,9D00.0
+7,強度近視,L,H521,LU5S,=,http://id.who.int/icd/entity/1666440799 & http://id.who.int/icd/entity/1201187093,=,9D00.0 & XS25 
+7,高度近視,S1,H521,LU5S,=,http://id.who.int/icd/entity/1666440799 & http://id.who.int/icd/entity/1201187093,=,9D00.0 & XS25 
+7,極度近視,S1,H521,LU5S,=,http://id.who.int/icd/entity/1666440799 & http://id.who.int/icd/entity/1355303673,=,9D00.0 & XS2R 
+7,痙性近視,L,H521,SD5N,=,http://id.who.int/icd/entity/416871389,=,9D00.6 
+7,一過性近視,L,H521,U3P1,=,http://id.who.int/icd/entity/416871389,=,9D00.6 
+7,仮性近視,L,H521,U578,=,http://id.who.int/icd/entity/416871389,=,9D00.6 
+7,偽近視,S1,H521,U578,=,http://id.who.int/icd/entity/416871389,=,9D00.6 
+7,中等度近視,L,H521,UH3T,=,http://id.who.int/icd/entity/1666440799 & http://id.who.int/icd/entity/1663264387,=,9D00.0 & XS0T 
+7,近視,L,H521,VAD1,=,http://id.who.int/icd/entity/1666440799,=,9D00.0 
+7,軽度近視,L,H521,VGD6,=,http://id.who.int/icd/entity/1666440799 & http://id.who.int/icd/entity/562478860,=,9D00.0 & XS5W
+7,正乱視,L,H522,C4GC,=,http://id.who.int/icd/entity/879600754,<,9D00.2
+7,遠視性乱視,L,H522,DN2N,=,http://id.who.int/icd/entity/402558626 / http://id.who.int/icd/entity/102241227,=,9D00.2  / 9D00.1
+7,乱視,L,H522,ERNU,=,http://id.who.int/icd/entity/402558626,=,9D00.2
+7,対性乱視,L,H522,FTUJ,=,http://id.who.int/icd/entity/402558626 / http://id.who.int/icd/entity/1666440799,=,9D00.2 / 9D00.0   
+7,角膜乱視,L,H522,GBTC,=,http://id.who.int/icd/entity/402558626 / http://id.who.int/icd/entity/1370339736,<,9D00.2 / 9A78.5Y 
+7,屈折性乱視,L,H522,GCS3,=,http://id.who.int/icd/entity/402558626 ,=,9D00.2  
+7,角膜不正乱視,L,H522,HQST,=,http://id.who.int/icd/entity/1086387343,<,9D00.2  
+7,倒乱視,L,H522,J894,<,http://id.who.int/icd/entity/402558626 ,<,9D00.2  
+7,不正乱視,L,H522,JC8A,=,http://id.who.int/icd/entity/1086387343,<,9D00.2  
+7,先天性乱視,L,H522,JTEC,=,http://id.who.int/icd/entity/402558626  & http://id.who.int/icd/entity/1048408993,=,9D00.2  & XB8M
+7,混合乱視,L,H522,QRLT,<,http://id.who.int/icd/entity/402558626 ,<,9D00.2  
+7,雑性乱視,S1,H522,QRLT,<,http://id.who.int/icd/entity/402558626 ,<,9D00.2  
+7,混性乱視,S1,H522,QRLT,<,http://id.who.int/icd/entity/402558626 ,<,9D00.2  
+7,混合性乱視,S1,H522,QRLT,<,http://id.who.int/icd/entity/402558626 ,<,9D00.2  
+7,直乱視,L,H522,T5U4,<,http://id.who.int/icd/entity/402558626 ,<,9D00.2  
+7,全乱視,L,H522,T91M,=,http://id.who.int/icd/entity/879600754,<,9D00.2  
+7,視性乱視,L,H522,TKUJ,<,http://id.who.int/icd/entity/402558626 ,<,9D00.2  
+7,斜乱視,L,H522,URJQ,<,http://id.who.int/icd/entity/402558626 ,<,9D00.2  
+7,近視性乱視,L,H522,VPJU,=,http://id.who.int/icd/entity/402558626 / http://id.who.int/icd/entity/1666440799,=,9D00.2 / 9D00.0
+7,不同視,L,H523,RJT0,=,http://id.who.int/icd/entity/386251928,=,9D00.4
+7,不等像視症,S1,H523,RJT0,=,http://id.who.int/icd/entity/386251928,=,9D00.4
+7,屈折不同症,S1,H523,RJT0,=,http://id.who.int/icd/entity/386251928,=,9D00.4
+7,不等屈折症,S1,H523,RJT0,=,http://id.who.int/icd/entity/386251928,=,9D00.4
+7,老視,L,H524,LBPQ,=,http://id.who.int/icd/entity/22794400,=,9D00.3
+7,老眼,S1,H524,LBPQ,=,http://id.who.int/icd/entity/22794400,=,9D00.3
+7,調節衰弱,L,H524,R9SV,=,http://id.who.int/icd/entity/22794400,=,9D00.3 
+7,内眼筋麻痺,L,H525,A45U,=,http://id.who.int/icd/entity/1022036609,=,9D01.0
+7,内筋麻痺,S1,H525,A45U,=,http://id.who.int/icd/entity/1022036609,=,9D01.0
+7,内眼筋全麻痺,S1,H525,A45U,=,http://id.who.int/icd/entity/1022036609,=,9D01.0
+7,調節緊張症,L,H525,CLRC,<,http://id.who.int/icd/entity/1678777654,<,9D01.Z
+7,調節緊張,S1,H525,CLRC,<,http://id.who.int/icd/entity/1678777654,<,9D01.Z
+7,調節緊張(症),S1,H525,CLRC,<,http://id.who.int/icd/entity/1678777654,<,9D01.Z
+7,調節緊張痙攣,S2,H525,CLRC,=,http://id.who.int/icd/entity/755865578,=,9D01.2
+7,調節異常緊張,S2,H525,CLRC,<,http://id.who.int/icd/entity/1678777654,<,9D01.Z
+7,調節痙攣,S2,H525,CLRC,=,http://id.who.int/icd/entity/755865578,=,9D01.2
+7,毛様体筋麻痺,L,H525,G8SD,=,http://id.who.int/icd/entity/1212570240,=,9D01.1 
+7,調節性眼精疲労,L,H525,PK37,=,http://id.who.int/icd/entity/1866523613,<,9D01.Y 
+7,調節不全麻痺,L,H525,T4LK,=,http://id.who.int/icd/entity/1212570240,=,9D01.1 
+7,調節不全,L,H525,TQ2B,=,http://id.who.int/icd/entity/1678777654,=,9D01.Z
+7,調節障害,S1,H525,TQ2B,=,http://id.who.int/icd/entity/1678777654,=,9D01.Z
+7,調節異常,S2,H525,TQ2B,=,http://id.who.int/icd/entity/1678777654,=,9D01.Z
+7,調節麻痺,L,H525,V3EG,=,http://id.who.int/icd/entity/1212570240,=,9D01.1
+7,中毒性屈折調節障害,L,H526,D4V5,=,http://id.who.int/icd/entity/1845275831 / http://id.who.int/icd/entity/1868408442 OR http://id.who.int/icd/entity/1119330136,=,9D00.Y / NE60 OR NE61
+7,屈折異常,L,H527,B6NN,=,http://id.who.int/icd/entity/1845275831,=,9D01.Z
+7,屈折障害,S1,H527,B6NN,=,http://id.who.int/icd/entity/1845275831,=,9D01.Z
+7,屈折性眼精疲労,L,H527,T54L,=,http://id.who.int/icd/entity/1845275831 / http://id.who.int/icd/entity/895680150,=,9D01.Z / 9D50 
+7,斜視性弱視,L,H530,EBT1,=,http://id.who.int/icd/entity/290006297 ,<,9D46
+7,内斜視弱視,L,H530,L0K7,<,http://id.who.int/icd/entity/290006297 ,<,9D46 
+7,形態覚遮断弱視,L,H530,PKS6,=,http://id.who.int/icd/entity/11516018 ,<,9D46 
+7,廃用性弱視,S1,H530,PKS6,=, http://id.who.int/icd/entity/450943820,<,9D46 
+7,刺激遮断弱視,S1,H530,PKS6,=,http://id.who.int/icd/entity/11516018,<,9D46 
+7,遮断弱視,S1,H530,PKS6,=,http://id.who.int/icd/entity/11516018,<,9D46 
+7,不同視性弱視,L,H530,PM62,=,http://id.who.int/icd/entity/1946347661,<,9D46 
+7,不同視弱視,S1,H530,PM62,=,http://id.who.int/icd/entity/1946347661,<,9D46 
+7,弱視,L,H530,RK3F,=,http://id.who.int/icd/entity/450943820,<,9D46 
+7,先天性弱視,L,H530,SB6M,=,http://id.who.int/icd/entity/450943820,<,9D46 
+7,屈折異常弱視,L,H530,UA2G,=,http://id.who.int/icd/entity/1946347661,<,9D46 
+7,屈折性弱視,S1,H530,UA2G,=,http://id.who.int/icd/entity/1946347661,<,9D46 
+7,眼精疲労,L,H531,C8RQ,=,http://id.who.int/icd/entity/895680150,=,9D50 
+7,眼精疲労症候群,S2,H531,C8RQ,=,http://id.who.int/icd/entity/895680150,=,9D50 
+7,一過性失明,L,H531,CGRK,=,http://id.who.int/icd/entity/600285332,=,9D51 
+7,黄視症,L,H531,CP4J,<,http://id.who.int/icd/entity/1572408529,<,9D53
+7,黄視,S1,H531,CP4J,<,http://id.who.int/icd/entity/1572408529,<,9D53
+7,黄色視症,S1,H531,CP4J,<,http://id.who.int/icd/entity/1572408529,<,9D53
+7,小視症,L,H531,D2A5,=,http://id.who.int/icd/entity/1653923769,<,9D54
+7,後退視症,L,H531,EQD4,<,http://id.who.int/icd/entity/1475875267,<,9D54
+7,心因性視覚障害,L,H531,HAJT,<,http://id.who.int/icd/entity/2141918942,<,9D5Y
+7,昼盲,L,H531,KJAQ,=,http://id.who.int/icd/entity/1466626155,<,9D45 
+7,閃輝暗点,L,H531,MN1K,=,http://id.who.int/icd/entity/895680150,=,9D50
+7,輝暗点症,S1,H531,MN1K,=,http://id.who.int/icd/entity/895680150,=,9D50
+7,閃光暗点,S1,H531,MN1K,=,http://id.who.int/icd/entity/895680150,=,9D50
+7,閃輝性暗点症,S1,H531,MN1K,=,http://id.who.int/icd/entity/895680150,=,9D50
+7,変視症,L,H531,NLN3,=,http://id.who.int/icd/entity/1017559849,<,9D53
+7,変形視症,S1,H531,NLN3,=,http://id.who.int/icd/entity/1017559849,<,9D53
+7,光視症,L,H531,R5CA,=,http://id.who.int/icd/entity/1655525483,<,9D53
+7,光輪視,S2,H531,R5CA,=,http://id.who.int/icd/entity/428627258,<,9D53
+7,羞明,L,H531,TQVN,=,http://id.who.int/icd/entity/1887138021,<,9D45 
+7,羞明症候群,S2,H531,TQVN,=,http://id.who.int/icd/entity/1887138021,<,9D45 
+7,巨視症,L,H531,UR8L,=,http://id.who.int/icd/entity/1713981831,<,9D54
+7,複視,L,H532,MNQB,=,http://id.who.int/icd/entity/184960545,<,9D46
+7,二重視,S1,H532,MNQB,=,http://id.who.int/icd/entity/184960545,<,9D46
+7,重複眼,S1,H532,MNQB,=,http://id.who.int/icd/entity/184960545,<,9D46
+7,網膜対応異常,L,H533,R1A6,=,http://id.who.int/icd/entity/119512999,<,9D46
+7,盲点拡大,L,H534,G78H,=,http://id.who.int/icd/entity/261697880,=,9D42.20 
+7,視野障害,L,H534,H85V,=,http://id.who.int/icd/entity/1321046831,=,9D41 
+7,視野異常,S1,H534,H85V,=,http://id.who.int/icd/entity/1321046831,=,9D41 
+7,中心暗点,L,H534,JKPE,=,http://id.who.int/icd/entity/2067030441,=,9D42.4
+7,異名半盲,L,H534,KDH5,=,http://id.who.int/icd/entity/1838235561,=,9D42.7Z 
+7,異側性半盲,S1,H534,KDH5,=,http://id.who.int/icd/entity/1838235561,=,9D42.7Z 
+7,半盲,L,H534,LS9S,=,http://id.who.int/icd/entity/2132571220,=,9D42.3 
+7,半側視野歇損,S1,H534,LS9S,=,http://id.who.int/icd/entity/1983883123,=,9D52
+7,半側視野欠損,S1,H534,LS9S,=,http://id.who.int/icd/entity/1983883123,=,9D52
+7,偽半盲,L,H534,NHK4,<,http://id.who.int/icd/entity/1321046831 / http://id.who.int/icd/entity/151219786,<,9D41 / 8E7Y
+7,暗点発作,L,H534,PL17,=,http://id.who.int/icd/entity/895680150,=,9D50
+7,暗点,L,H534,Q2RV,=,http://id.who.int/icd/entity/497227809,=,9D42.Z 
+7,弓状暗点,L,H534,QLF7,=,http://id.who.int/icd/entity/1792212162,=,9D42.21
+7,ビェルム暗点,S1,H534,QLF7,=,http://id.who.int/icd/entity/1792212162,=,9D42.21
+7,視野狭窄,L,H534,QMS4,=,http://id.who.int/icd/entity/1912079321 OR http://id.who.int/icd/entity/8250122,<,9D42.Y 
+7,絶対半盲,L,H534,RDBE,=,http://id.who.int/icd/entity/2132571220 & http://id.who.int/icd/entity/1957947885,=,9D42.3 & XK2J
+7,視野欠損,L,H534,S710,=,http://id.who.int/icd/entity/497227809,=,9D42.Z
+7,視野歇損,S1,H534,S710,=,http://id.who.int/icd/entity/497227809,=,9D42.Z
+7,４分の１半盲,L,H534,SJGD,=,http://id.who.int/icd/entity/148566589 or http://id.who.int/icd/entity/1838235561,=,9D42.6 or 9D42.7
+7,4分の1半盲,S0,H534,SJGD,=,http://id.who.int/icd/entity/148566589 or http://id.who.int/icd/entity/1838235561,=,9D42.6 or 9D42.7
+7,4分盲,S1,H534,SJGD,=,http://id.who.int/icd/entity/148566589 or http://id.who.int/icd/entity/1838235561,=,9D42.6 or 9D42.7
+7,鼻側半盲,L,H534,SSKV,=,http://id.who.int/icd/entity/1362153386,=,9D42.70
+7,求心性視野狭窄,L,H534,TQ5D,=,http://id.who.int/icd/entity/284699371,<,9D42.Y 
+7,周辺視野狭窄,S1,H534,TQ5D,=,http://id.who.int/icd/entity/284699371,<,9D42.Y 
+7,同心性視野狭窄,S1,H534,TQ5D,=,http://id.who.int/icd/entity/284699371,<,9D42.Y 
+7,輪状暗点,L,H534,U01N,=,http://id.who.int/icd/entity/1104352498,=,9D42.23
+7,耳側半盲,L,H534,U6J8,=,http://id.who.int/icd/entity/32286315,=,9D42.71
+7,同名半盲,L,H534,VUS5,=,http://id.who.int/icd/entity/148566589,=,9D42.6 
+7,同側性半盲,S1,H534,VUS5,=,http://id.who.int/icd/entity/148566589,=,9D42.6 
+7,不完全色盲,L,H535,A431,=,http://id.who.int/icd/entity/2028524981,=,9D44
+7,色盲,L,H535,ANSQ,=,http://id.who.int/icd/entity/2028524981,=,9D44
+7,赤緑色盲,L,H535,C9FJ,=,http://id.who.int/icd/entity/2128590057,<,9D44
+7,色覚異常,L,H535,DD1V,=,http://id.who.int/icd/entity/2028524981,=,9D44
+7,第１色弱,L,H535,F7TP,=,http://id.who.int/icd/entity/1324951375,<,9D44
+7,第1色弱,S0,H535,F7TP,=,http://id.who.int/icd/entity/1324951375,<,9D44
+7,第1色覚異常,S1,H535,F7TP,=,http://id.who.int/icd/entity/258543894,<,9D44
+7,赤色弱,S1,H535,F7TP,=,http://id.who.int/icd/entity/1324951375,<,9D44
+7,第３色盲,L,H535,FHKE,=,http://id.who.int/icd/entity/878634036,<,9D44
+7,第3色盲,S0,H535,FHKE,=,http://id.who.int/icd/entity/878634036,<,9D44
+7,青色盲,S1,H535,FHKE,=,http://id.who.int/icd/entity/878634036,<,9D44
+7,青色色盲,S1,H535,FHKE,=,http://id.who.int/icd/entity/878634036,<,9D44
+7,第３色弱,L,H535,GETR,=,http://id.who.int/icd/entity/733145819,<,9D44
+7,第3色弱,S0,H535,GETR,=,http://id.who.int/icd/entity/733145819,<,9D44
+7,青色弱,S1,H535,GETR,=,http://id.who.int/icd/entity/733145819,<,9D44
+7,第3色覚異常,S1,H535,GETR,=,http://id.who.int/icd/entity/614938794,<,9D44
+7,青黄色盲,L,H535,GV6G,=,http://id.who.int/icd/entity/614938794,<,9D44
+7,赤緑色弱,L,H535,HNGF,=,http://id.who.int/icd/entity/750635747,<,9D44
+7,先天性色覚異常,L,H535,LAVG,=,http://id.who.int/icd/entity/2028524981,<,9D44
+7,第２色盲,L,H535,LLKP,=,http://id.who.int/icd/entity/1436512201,<,9D44
+7,第2色盲,S0,H535,LLKP,=,http://id.who.int/icd/entity/1436512201,<,9D44
+7,緑色盲,S1,H535,LLKP,=,http://id.who.int/icd/entity/1436512201,<,9D44
+7,緑色色盲,S1,H535,LLKP,=,http://id.who.int/icd/entity/1436512201,<,9D44
+7,第１色盲,L,H535,MA2K,=,http://id.who.int/icd/entity/258543894,<,9D44
+7,第1色盲,S0,H535,MA2K,=,http://id.who.int/icd/entity/258543894,<,9D44
+7,赤色盲,S1,H535,MA2K,=,http://id.who.int/icd/entity/258543894,<,9D44
+7,全色盲,L,H535,Q8T7,=,http://id.who.int/icd/entity/2028524981,=,9D44
+7,第２色弱,L,H535,T2QJ,=,http://id.who.int/icd/entity/1024963803,<,9D44
+7,第2色弱,S0,H535,T2QJ,=,http://id.who.int/icd/entity/1024963803,<,9D44
+7,緑色弱,S1,H535,T2QJ,=,http://id.who.int/icd/entity/1024963803,<,9D44
+7,第2色覚異常,S1,H535,T2QJ,=,http://id.who.int/icd/entity/1024963803,<,9D44
+7,色弱,L,H535,THGG,=,http://id.who.int/icd/entity/2028524981,<,9D44
+7,夜盲症,L,H536,BFBD,=,http://id.who.int/icd/entity/984060688 or http://id.who.int/icd/entity/1609326234,<,9D45
+7,夜盲,S1,H536,BFBD,=,http://id.who.int/icd/entity/984060688 or http://id.who.int/icd/entity/1609326234,<,9D45
+7,夜盲(症),S1,H536,BFBD,=,http://id.who.int/icd/entity/984060688 or http://id.who.int/icd/entity/1609326234,<,9D45
+7,小口病,L,H536,F7RP,=,http://id.who.int/icd/entity/1759055065,<,9B70
+7,先天停止性夜盲症,S1,H536,F7RP,=,http://id.who.int/icd/entity/587494652,<,9D45 
+7,先天性夜盲症,S1,H536,F7RP,=,http://id.who.int/icd/entity/984060688,<,9D45 
+7,霧視,L,H538,JTCB,=,http://id.who.int/icd/entity/1026571386,<,MC1Y
+7,かすみ目,S1,H538,JTCB,=,http://id.who.int/icd/entity/1026571386,<,MC1Y
+7,視覚障害,L,H539,TL7F,=,http://id.who.int/icd/entity/1611601779,=,9D7Z
+7,視覚異常,S1,H539,TL7F,=,http://id.who.int/icd/entity/1611601779,=,9D7Z
+7,黒内障,L,H540,LAGQ,=,http://id.who.int/icd/entity/49873717　,=,9D90.6 
+7,脊髄性黒内障,L,H540,RCSG,<,http://id.who.int/icd/entity/49873717　,<,9D90.6 
+7,失明,L,H540,S1KL,=,http://id.who.int/icd/entity/49873717　,=,9D90.6 
+7,両眼失明,S1,H540,S1KL,=,http://id.who.int/icd/entity/49873717　,=,9D90.6 
+7,盲,S1,H540,S1KL,=,http://id.who.int/icd/entity/49873717　,=,9D90.6 
+7,中毒性黒内障,L,H540,SMMG,<,http://id.who.int/icd/entity/49873717　,<,9D90.6 
+7,全盲,L,H540,UER5,=,http://id.who.int/icd/entity/1245484098,<,9D90.6 
+7,重度視力低下,L,H541,FHEF,=,http://id.who.int/icd/entity/1154639776 ,=,9D90.3
+7,視力低下,L,H542,A0E0,=,http://id.who.int/icd/entity/1502665450,<,9D90.2
+7,視力減退,S1,H542,A0E0,=,http://id.who.int/icd/entity/1502665450,<,9D90.2
+7,両眼視力低下,L,H542,KCE9,=,http://id.who.int/icd/entity/813643617 ,=,9D90.2 & XK9J
+7,両眼の低視力,S1,H542,KCE9,=,http://id.who.int/icd/entity/813643617 ,=,9D90.2 & XK9J
+7,右眼失明,L,H544,BK9K,=,http://id.who.int/icd/entity/49873717 ,=,9D90.6 & XK9K
+7,左眼失明,L,H544,GABF,=,http://id.who.int/icd/entity/49873717 ,=,9D90.6 & XK8G
+7,単眼性視力障害,L,H545,CUAT,=,http://id.who.int/icd/entity/30317704 & http://id.who.int/icd/entity/1038788978 ,=,9D9Z & XK70 
+7,片眼重度視力低下,L,H545,V5S5,=,http://id.who.int/icd/entity/1154639776,<,9D90.3
+7,片眼視力低下,L,H546,K5J7,=,http://id.who.int/icd/entity/1502665450 & http://id.who.int/icd/entity/1038788978,<,9D90.2 & XK70 
+7,片眼低視力,S1,H546,K5J7,=,http://id.who.int/icd/entity/1502665450 & http://id.who.int/icd/entity/1038788978,<,9D90.2 & XK70 
+7,視力障害,L,H549,GM9D,=,http://id.who.int/icd/entity/1103667651,=,9D90
+7,急性視力障害,L,H549,TCC6,=,http://id.who.int/icd/entity/1103667651 & http://id.who.int/icd/entity/786106375,=,9D90 & XT5R 
+7,特発性眼振,L,H55,A7TK,=,http://id.who.int/icd/entity/1029792395 & http://id.who.int/icd/entity/894194405,=,9C84.Z  & XB5F
+7,振動眼振,L,H55,AEBE,=,http://id.who.int/icd/entity/1029792395,=,9C84.Z 
+7,潜伏眼振,L,H55,C79P,=,http://id.who.int/icd/entity/341713451,<,9C84.1 
+7,潜伏性眼振,S1,H55,C79P,=,http://id.who.int/icd/entity/341713451,<,9C84.1 
+7,水平性眼振,L,H55,DA06,<,http://id.who.int/icd/entity/1029792395,<,9C84.Y 
+7,先天性眼振,L,H55,DDPQ,=,http://id.who.int/icd/entity/9423007743,=,9C84.1
+7,眼振,L,H55,DDTG,=,http://id.who.int/icd/entity/1029792395,=,9C84.Z 
+7,ニスタグムス,S1,H55,DDTG,=,http://id.who.int/icd/entity/1029792395,=,9C84.Z 
+7,眼球振盪症,S1,H55,DDTG,=,http://id.who.int/icd/entity/1029792395,=,9C84.Z 
+7,眼振盪,S1,H55,DDTG,=,http://id.who.int/icd/entity/1029792395,=,9C84.Z 
+7,眼球振盪(症),S1,H55,DDTG,=,http://id.who.int/icd/entity/1029792395,=,9C84.Z 
+7,眼球振盪,S1,H55,DDTG,=,http://id.who.int/icd/entity/1029792395,=,9C84.Z 
+7,電気性眼振,L,H55,ES0M,<,http://id.who.int/icd/entity/1029792395,<,9C84.Y 
+7,末梢性眼振,L,H55,G5DH,=,http://id.who.int/icd/entity/126159890,<,9C84.2Y 
+7,疲労眼振,L,H55,GAH3,<,http://id.who.int/icd/entity/1029792395,<,9C84.Y
+7,オプソクローヌス・ミオクローヌス症候群,L,H55,GL1J,=,http://id.who.int/icd/entity/936930510,<,9C85.02 
+7,偽性眼振,L,H55,H2F1,<,http://id.who.int/icd/entity/1029792395,<,9C84.Y
+7,垂直眼振,L,H55,HCG3,<,http://id.who.int/icd/entity/1029792395,<,9C84.Y
+7,垂直性眼振,S1,H55,HCG3,<,http://id.who.int/icd/entity/1029792395,<,9C84.Y
+7,解離性眼振,L,H55,LREU,=,http://id.who.int/icd/entity/50035755,<,9C84.4
+7,後天性眼振,L,H55,MU91,=,http://id.who.int/icd/entity/1029792395,=,9C84.Z 
+7,回旋性眼振,L,H55,NKBF,<,http://id.who.int/icd/entity/1029792395,<,9C84.Y 
+7,頚部眼振,L,H55,NL4M,<,http://id.who.int/icd/entity/1029792395,<,9C84.Y
+7,頸部眼振,S1,H55,NL4M,<,http://id.who.int/icd/entity/1029792395,<,9C84.Y
+7,周期交代性眼振,L,H55,QKAS,=,http://id.who.int/icd/entity/112389093,<,9C84.Y
+7,弱視眼振,L,H55,RQMJ,<,http://id.who.int/icd/entity/1029792395 / http://id.who.int/icd/entity/450943820,<,9C84.Y / 9D46 
+7,律動性眼振,L,H55,SGRJ,<,http://id.who.int/icd/entity/1029792395,<,9C84.Y
+7,眼筋麻痺性眼振,L,H55,U3B7,=,http://id.who.int/icd/entity/1029792395 / http://id.who.int/icd/entity/829642560,=,9C84.Y / 9C82.Y 
+7,筋性眼振,S1,H55,U3B7,=,http://id.who.int/icd/entity/1029792395 / http://id.who.int/icd/entity/973190159,=,9C84.Y / 9C82.Y 
+7,遮断性眼振,L,H55,UFAK,=,http://id.who.int/icd/entity/1897263039,=,9C84.50
+7,眼性眼振,L,H55,V4V9,<,http://id.who.int/icd/entity/1029792395,<,9C84.Y
+7,眼位性眼振,S1,H55,V4V9,<,http://id.who.int/icd/entity/1029792395,<,9C84.Y
+7,絶対瞳孔強直,L,H570,AN9T,<,http://id.who.int/icd/entity/634977622,<,9B0Y
+7,瞳孔動揺,L,H570,BDBD,<,http://id.who.int/icd/entity/304548163 or http://id.who.int/icd/entity/634977622 ,<,LA11.62 or 9B0Y
+7,黒内障性瞳孔強直,L,H570,BP1Q,<,http://id.who.int/icd/entity/2062250721 ,<,9B00.1 
+7,黒内障性瞳孔硬直,S1,H570,BP1Q,<,http://id.who.int/icd/entity/2062250721 ,<,9B00.1 
+7,黒内障性散瞳,S2,H570,BP1Q,<,http://id.who.int/icd/entity/584006217  / http://id.who.int/icd/entity/2062250721  ,<,LA11.62 or 9B00.1
+7,虹彩括約筋麻痺,L,H570,CVFP,=,http://id.who.int/icd/entity/433190248 /  http://id.who.int/icd/entity/1882771459,=,9B01.3 / MB5Z
+7,虹彩瞳孔散大,S1,H570,CVFP,<,http://id.who.int/icd/entity/433190248,<,9B01.3
+7,瞳孔括約筋麻痺,S1,H570,CVFP,=,http://id.who.int/icd/entity/433190248 /  http://id.who.int/icd/entity/1882771459,=,9B01.3 / MB5Z
+7,瞳孔機能異常,S1,H570,CVFP,=,http://id.who.int/icd/entity/634977622,=,9B0Z
+7,狭瞳症,L,H570,D06L,=,http://id.who.int/icd/entity/634977622,<,9B0Y
+7,瞳孔不同症,L,H570,D46K,=,"http://id.who.int/icd/entity/879387721 or
+ http://id.who.int/icd/entity/181360284",=,9B01.Z  or LA11.60 
+7,瞳孔不同,S1,H570,D46K,=,"http://id.who.int/icd/entity/879387721 or
+ http://id.who.int/icd/entity/181360284",=,9B01.Z  or LA11.60 
+7,瞳孔不同(症),S1,H570,D46K,=,"http://id.who.int/icd/entity/879387721 or
+ http://id.who.int/icd/entity/181360284",=,9B01.Z  or LA11.60 
+7,瞳孔左右不同症,S1,H570,D46K,=,"http://id.who.int/icd/entity/879387721 or
+ http://id.who.int/icd/entity/181360284",=,9B01.Z  or LA11.60 
+7,反射性瞳孔強直,L,H570,E9SF,<,http://id.who.int/icd/entity/634977622 or http://id.who.int/icd/entity/1086796982,<,9B0Y OR 9B02.0
+7,反射性虹彩麻痺,S1,H570,E9SF,<,http://id.who.int/icd/entity/634977622 or http://id.who.int/icd/entity/879387721,<,LA11.62 OR 9B01.Y & XA3GW7
+7,反射性散瞳,S1,H570,E9SF,<,http://id.who.int/icd/entity/584006217 or http://id.who.int/icd/entity/634977622,<,LA11.62 OR 9B0Y
+7,縮瞳,L,H570,GQAJ,=,http://id.who.int/icd/entity/1361160669 or http://id.who.int/icd/entity/693566616,<,LA11.62 OR 9B01.3
+7,調節性虹彩麻痺,L,H570,JCLN,<,http://id.who.int/icd/entity/634977622 or http://id.who.int/icd/entity/879387721,<,LA11.62 OR 9B01.Y & XA3GW7
+7,緊張性瞳孔,L,H570,L7T1,=,http://id.who.int/icd/entity/2032758070 or http://id.who.int/icd/entity/1199896541,<,LA11.62 OR 9B01.1
+7,痙性縮瞳,L,H570,M488,<,http://id.who.int/icd/entity/1361160669 or http://id.who.int/icd/entity/693566616,<,LA11.62 OR 9B01.3
+7,アディー瞳孔,L,H570,ND58,=,http://id.who.int/icd/entity/626270657,<,9B01.1 
+7,アディー・ホームズ症候群,S1,H570,ND58,=,http://id.who.int/icd/entity/626270657,<,9B01.1 
+7,アディー瞳孔症候群,S1,H570,ND58,=,http://id.who.int/icd/entity/626270657,<,9B01.1 
+7,ADIE HOLMES症候群,S1,H570,ND58,=,http://id.who.int/icd/entity/626270657,<,9B01.1 
+7,アディー氏病,S1,H570,ND58,=,http://id.who.int/icd/entity/626270657,<,9B01.1 
+7,ADIE症候群,S1,H570,ND58,=,http://id.who.int/icd/entity/626270657,<,9B01.1 
+7,ADIE氏病,S1,H570,ND58,=,http://id.who.int/icd/entity/626270657,<,9B01.1 
+7,アディー症候群,S1,H570,ND58,=,http://id.who.int/icd/entity/626270657,<,9B01.1 
+7,ADIE瞳孔症候群,S1,H570,ND58,=,http://id.who.int/icd/entity/626270657,<,9B01.1 
+7,瞳孔緊張症,S1,H570,ND58,=,http://id.who.int/icd/entity/2032758070 or http://id.who.int/icd/entity/1199896541,<,LA11.62 OR 9B01.1
+7,ADIE瞳孔,S1,H570,ND58,=,http://id.who.int/icd/entity/626270657,<,9B01.1 
+7,外傷性散瞳,L,H570,NFB7,<,http://id.who.int/icd/entity/634977622,<,9B0Y
+7,外傷性瞳孔不同症,S2,H570,NFB7,<,(http://id.who.int/icd/entity/879387721,<,9B01.Z
+7,麻痺性散瞳,L,H570,NUS4,<,http://id.who.int/icd/entity/584006217 / http://id.who.int/icd/entity/829642560,<,LA11.62 / 9C82.Y
+7,潜伏散瞳,L,H570,QJG6,<,http://id.who.int/icd/entity/584006217,<,LA11.62
+7,非梅毒性アーガイル・ロバートソン症候群,L,H570,RGQK,=,http://id.who.int/icd/entity/1086796982,=,9B02.0
+7,散瞳,L,H570,RTGL,<,http://id.who.int/icd/entity/584006217 or http://id.who.int/icd/entity/634977622,<,LA11.62 / 9B0Y
+7,瞳孔散大,S1,H570,RTGL,<,http://id.who.int/icd/entity/584006217 or http://id.who.int/icd/entity/634977622,<,LA11.62 / 9B0Y
+7,非定型性アーガイル・ロバートソン症候群,L,H570,S44L,=,http://id.who.int/icd/entity/1086796982,=,9B02.0
+7,瞳孔強直,L,H570,SKVJ,<,http://id.who.int/icd/entity/2032758070 or http://id.who.int/icd/entity/634977622,<,LA11.62 OR 9B0Y
+7,瞳孔硬直,S1,H570,SKVJ,<,http://id.who.int/icd/entity/2032758070 or http://id.who.int/icd/entity/634977622,<,LA11.62 OR 9B0Y
+7,痙性散瞳,L,H570,TQ6M,<,http://id.who.int/icd/entity/584006217 or http://id.who.int/icd/entity/634977622,<,LA11.62 / 9B0Y
+7,麻痺性縮瞳,L,H570,U268,=,http://id.who.int/icd/entity/1159758008,<,8D8A.1
+7,瞳孔不整,L,H570,VTVG,<,http://id.who.int/icd/entity/181360284 or http://id.who.int/icd/entity/793279264,<,LA11.60 or 9A93
+7,眼痛,L,H571,EJA5,=,http://id.who.int/icd/entity/1163249568,=,MC18 
+7,眼球痛,S1,H571,EJA5,=,http://id.who.int/icd/entity/1163249568,=,MC18 
+7,眼窩部痛,S2,H571,EJA5,=,http://id.who.int/icd/entity/1163249568,=,MC18 
+7,眼脂,L,H579,PPRV,=,http://id.who.int/icd/entity/1075869307,=,MC14
+7,眼やに,S1,H579,PPRV,=,http://id.who.int/icd/entity/1075869307,=,MC14
+7,術後虹彩炎,L,H598,AD2D,=,http://id.who.int/icd/entity/908233081 & http://id.who.int/icd/entity/566364827 & http://id.who.int/icd/entity/182265087 ,=,9A96.Z  & XA3GW7 & XY7V 
+7,白内障術後炎症,L,H598,B0QF,=,http://id.who.int/icd/entity/1211141166 / http://id.who.int/icd/entity/109841337 ,<,9C21.Z / 9B10.Z
+7,術後眼内炎,L,H598,ENAJ,=,"http://id.who.int/icd/entity/1211141166 & 
+http://id.who.int/icd/entity/182265087",=,9C21.Z & XY7V 
+7,術後結膜炎,L,H598,G2FM,=,http://id.who.int/icd/entity/831696556 &  http://id.who.int/icd/entity/182265087,=,9A60.Z & XY7V 
+7,白内障術後虹彩炎,L,H598,J9TF,=,http://id.who.int/icd/entity/908233081 & http://id.who.int/icd/entity/566364827 / http://id.who.int/icd/entity/109841337  ,<,9A96.Z  & XA3GW7 / 9B10.Z
+7,白内障術後結膜炎,L,H598,MBVG,=,http://id.who.int/icd/entity/831696556 / http://id.who.int/icd/entity/109841337 ,<,9A60.Z /  9B10.Z
+7,術後高眼圧症,L,H598,SDH5,=,http://id.who.int/icd/entity/535283437 & http://id.who.int/icd/entity/182265087,=,9C61.01  & XY7V 

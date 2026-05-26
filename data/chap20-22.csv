@@ -1,0 +1,437 @@
+ICD10 章,標準病名,代表・同義,ICD10コード,交換コード,関係,ICD11 Foundation URI,関係,MMS
+20,睡眠薬自殺,L,X61,LETN,=,http://id.who.int/icd/entity/1754328124,<,PC91
+20,ガス自殺,L,X67,TF7L,=,http://id.who.int/icd/entity/54806485,=,PD02 
+20,服毒自殺,L,X69,SS47,=,http://id.who.int/icd/entity/846307814,=,PD05
+20,首吊り自殺,L,X70,VL0N,=,http://id.who.int/icd/entity/807340493,=,PC72
+20,入水自殺,L,X71,CA2B,=,http://id.who.int/icd/entity/2107933048,=,PC60
+20,銃自殺,L,X74,RGDS,=,http://id.who.int/icd/entity/898455971,=,PC50.Z & XE04A
+20,爆死自殺,L,X75,KQBA,=,http://id.who.int/icd/entity/1196251373,=,PD25 & XE3WL
+20,焼身自殺,L,X76,ETB0,=,http://id.who.int/icd/entity/417201341,=,PC8Y & XE3NR
+20,飛び降り自殺,L,X80,HTSQ,=,http://id.who.int/icd/entity/1578494278,=,PC3Z
+20,飛び込み自殺,L,X81,P2K6,=,http://id.who.int/icd/entity/1341355053,=,PB82
+20,凍死自殺,L,X83,DKTT,=,http://id.who.int/icd/entity/2074645341 ,=,PC86
+20,感電自殺,L,X83,HG1J,=,http://id.who.int/icd/entity/2056857342,=,PD21
+20,自殺,L,X84,R2T7,=,http://id.who.int/icd/entity/731306388,<,PD3Z
+21,健康診断,L,Z000,E88F,=,http://id.who.int/icd/entity/1987210192,=,QA00.0
+21,検診,L,Z000,G04C,=,http://id.who.int/icd/entity/1987210192,=,QA00.0
+21,老人健診,L,Z000,K95F,=,http://id.who.int/icd/entity/1987210192 & (http://id.who.int/icd/entity/1733780743 OR http://id.who.int/icd/entity/1276541597) ,=,QA00.0 & (XT19 or XT13)
+21,健康診査,L,Z000,N2S0,=,http://id.who.int/icd/entity/1987210192,=,QA00.0
+21,特定健康診査,L,Z000,T6QL,=,http://id.who.int/icd/entity/1987210192,=,QA00.0
+21,特定健診,S1,Z000,T6QL,=,http://id.who.int/icd/entity/1987210192,=,QA00.0
+21,乳幼児健診,L,Z001,AFBF,=,http://id.who.int/icd/entity/322545222,=,QA00.1
+21,三歳児健診,L,Z001,EAN9,=,http://id.who.int/icd/entity/322545222 & http://id.who.int/icd/entity/1043777387,=,QA00.1 & XT4X
+21,乳児健診,L,Z001,UL97,=,http://id.who.int/icd/entity/322545222,=,QA00.1
+21,精神医学的検査,L,Z004,NFKM,=,http://id.who.int/icd/entity/1899079867,=,QA00.3
+21,一般精神医学的検査,S1,Z004,NFKM,=,http://id.who.int/icd/entity/1899079867,=,QA00.3
+21,精神医学検査,S1,Z004,NFKM,=,http://id.who.int/icd/entity/1899079867,=,QA00.3
+21,精神神経疾患のスクリーニング,S1,Z004,NFKM,=,http://id.who.int/icd/entity/1899079867,=,QA00.3
+21,集団検診,L,Z008,C154,=,http://id.who.int/icd/entity/2072731457,<,QA00.Y
+21,診断書交付,L,Z027,HHM7,=,http://id.who.int/icd/entity/417566971,=,QA01.7
+21,精神鑑定,L,Z046,ACRC,=,http://id.who.int/icd/entity/1512694960,=,QA04.6
+21,早期胃癌ＥＭＲ後,L,Z080,HKEJ,<,http://id.who.int/icd/entity/59754796 / http://id.who.int/icd/entity/1397617262 & http://id.who.int/icd/entity/1409966790,<,QA06 / 2B72.Z & XS1G &  & XY7V 
+21,早期胃癌EMR後,S0,Z080,HKEJ,<,http://id.who.int/icd/entity/59754796 / http://id.who.int/icd/entity/1397617262 & http://id.who.int/icd/entity/1409966790,<,QA06 / 2B72.Z & XS1G &  & XY7V 
+21,早期胃がんEMR後,S1,Z080,HKEJ,<,http://id.who.int/icd/entity/59754796 / http://id.who.int/icd/entity/1397617262 & http://id.who.int/icd/entity/1409966790,<,QA06 / 2B72.Z & XS1G &  & XY7V 
+21,早期胃癌内視鏡的治療後,S2,Z080,HKEJ,<,http://id.who.int/icd/entity/59754796 / http://id.who.int/icd/entity/1397617262 & http://id.who.int/icd/entity/1409966790,<,QA06 / 2B72.Z & XS1G &  & XY7V 
+21,早期胃癌内視鏡的切除後,S2,Z080,HKEJ,<,http://id.who.int/icd/entity/59754796 / http://id.who.int/icd/entity/1397617262 & http://id.who.int/icd/entity/1409966790,<,QA06 & XY7V / 2B72.Z & XS1G 
+21,早期胃がん内視鏡的切除後,S2,Z080,HKEJ,<,http://id.who.int/icd/entity/59754796 / http://id.who.int/icd/entity/1397617262 & http://id.who.int/icd/entity/1409966790,<,QA06 & XY7V / 2B72.Z & XS1G 
+21,早期胃癌ＥＳＤ後,L,Z080,JGCA,<,http://id.who.int/icd/entity/59754796 / http://id.who.int/icd/entity/1397617262 & http://id.who.int/icd/entity/1409966790,<,QA06 & XY7V / 2B72.Z & XS1G 
+21,早期胃癌ESD後,S0,Z080,JGCA,<,http://id.who.int/icd/entity/59754796 / http://id.who.int/icd/entity/1397617262 & http://id.who.int/icd/entity/1409966790,<,QA06 & XY7V / 2B72.Z & XS1G 
+21,早期胃がんESD後,S1,Z080,JGCA,<,http://id.who.int/icd/entity/59754796 / http://id.who.int/icd/entity/1397617262 & http://id.who.int/icd/entity/1409966790,<,QA06 & XY7V / 2B72.Z & XS1G 
+21,早期胃がん内視鏡的治療後,S2,Z080,JGCA,<,http://id.who.int/icd/entity/59754796 / http://id.who.int/icd/entity/1397617262 & http://id.who.int/icd/entity/1409966790,<,QA06 & XY7V / 2B72.Z & XS1G 
+21,早期胃癌術後,L,Z080,SFCU,=,http://id.who.int/icd/entity/59754796 / ( http://id.who.int/icd/entity/1397617262 & http://id.who.int/icd/entity/378801232 ),=,QA06 & XY7V / 2B72.Z & XS1G 
+21,早期胃がん術後,S1,Z080,SFCU,=,http://id.who.int/icd/entity/59754796 / ( http://id.who.int/icd/entity/1397617262 & http://id.who.int/icd/entity/378801232 ),=,QA06 & XY7V / 2B72.Z & XS1G 
+21,胆道閉鎖症術後,L,Z090,Q0BE,=,http://id.who.int/icd/entity/527892909 / http://id.who.int/icd/entity/645741117,=,QA07.Y & XY7V / LB20.21
+21,学童健診,L,Z108,B6U3,=,http://id.who.int/icd/entity/473076349,<,QA03.Y
+21,胃癌検診,L,Z120,S0TC,=,http://id.who.int/icd/entity/2065113182,=,QA09.0
+21,胃がん検診,S1,Z120,S0TC,=,http://id.who.int/icd/entity/2065113182,=,QA09.0
+21,大腸癌検診,L,Z121,BPJ7,=,http://id.who.int/icd/entity/509406668 & http://id.who.int/icd/entity/1741413713,=,QA09.1 & XA1B13
+21,大腸がん検診,S1,Z121,BPJ7,=,http://id.who.int/icd/entity/509406668 & http://id.who.int/icd/entity/1741413713,=,QA09.1 & XA1B13
+21,肺癌検診,L,Z122,P565,=,http://id.who.int/icd/entity/1794227509 & http://id.who.int/icd/entity/1338477196,=,QA09.2 & XA57M6
+21,肺がん検診,S1,Z122,P565,=,http://id.who.int/icd/entity/1794227509 & http://id.who.int/icd/entity/1338477196,=,QA09.2 & XA57M6
+21,乳房癌検診,L,Z123,MAGN,=,http://id.who.int/icd/entity/263876769,=,QA09.3
+21,乳房がん検診,S1,Z123,MAGN,=,http://id.who.int/icd/entity/263876769,=,QA09.3
+21,子宮癌検診,L,Z124,N26K,=,http://id.who.int/icd/entity/2085937973,=,QA09.4
+21,子宮がん検診,S1,Z124,N26K,=,http://id.who.int/icd/entity/2085937973,=,QA09.4
+21,前立腺癌検診,L,Z125,SJUV,=,http://id.who.int/icd/entity/421473953,=,QA09.5
+21,前立腺がん検診,S1,Z125,SJUV,=,http://id.who.int/icd/entity/421473953,=,QA09.5
+21,膀胱癌検診,L,Z126,GP5B,=,http://id.who.int/icd/entity/1840414304,=,QA09.6
+21,膀胱がん検診,S1,Z126,GP5B,=,http://id.who.int/icd/entity/1840414304,=,QA09.6
+21,癌検診,L,Z129,G5NP,=,http://id.who.int/icd/entity/688906622,=,QA09.Z
+21,がん検診,S1,Z129,G5NP,=,http://id.who.int/icd/entity/688906622,=,QA09.Z
+21,ウイルス肝炎感染源への曝露,L,Z205,MR0H,=,http://id.who.int/icd/entity/877536077,=,QC90.5 
+21,針刺し事故,L,Z209,QV6J,=,http://id.who.int/icd/entity/1062820800 / http://id.who.int/icd/entity/396292097 ,=,QC90.Z / PK81.F
+21,感染症患者接触,L,Z209,TVMB,=,http://id.who.int/icd/entity/1062820800,=,QC90.Z
+21,ＨＩＶキャリア,L,Z21,MSAN,=,http://id.who.int/icd/entity/1511167574,<,1C62.0
+21,HIVキャリア,S0,Z21,MSAN,=,http://id.who.int/icd/entity/1511167574,<,1C62.0
+21,ヒト免疫不全ウイルスキャリア,S1,Z21,MSAN,=,http://id.who.int/icd/entity/1511167574,<,1C62.0
+21,無症候性キャリア,S2,Z21,MSAN,=,http://id.who.int/icd/entity/1511167574,<,1C62.0
+21,Ｂ群溶連菌保菌者,L,Z223,HUQ2,=,http://id.who.int/icd/entity/784320171 & http://id.who.int/icd/entity/942223947,=,QD0Y & XN2M1
+21,B群溶連菌保菌者,S0,Z223,HUQ2,=,http://id.who.int/icd/entity/784320171 & http://id.who.int/icd/entity/942223947,=,QD0Y & XN2M1
+21,ＨＣＶキャリア,L,Z225,FNNS,=,http://id.who.int/icd/entity/784320171 & http://id.who.int/icd/entity/1209596839,=,QD0Y & XN41M
+21,HCVキャリア,S0,Z225,FNNS,=,http://id.who.int/icd/entity/784320171 & http://id.who.int/icd/entity/1209596839,=,QD0Y & XN41M
+21,C型肝炎ウイルスキャリア,S1,Z225,FNNS,=,http://id.who.int/icd/entity/784320171 & http://id.who.int/icd/entity/1209596839,=,QD0Y & XN41M
+21,HCキャリア,S1,Z225,FNNS,=,http://id.who.int/icd/entity/784320171 & http://id.who.int/icd/entity/1209596839,=,QD0Y & XN41M
+21,ＨＥＶキャリア,L,Z225,GKJG,=,http://id.who.int/icd/entity/784320171 & http://id.who.int/icd/entity/145341346,=,QD0Y & XN7TG
+21,HEVキャリア,S0,Z225,GKJG,=,http://id.who.int/icd/entity/784320171 & http://id.who.int/icd/entity/145341346,=,QD0Y & XN7TG
+21,E型肝炎ウイルスキャリア,S1,Z225,GKJG,=,http://id.who.int/icd/entity/784320171 & http://id.who.int/icd/entity/145341346,=,QD0Y & XN7TG
+21,HEキャリア,S1,Z225,GKJG,=,http://id.who.int/icd/entity/784320171 & http://id.who.int/icd/entity/145341346,=,QD0Y & XN7TG
+21,ＨＢＶキャリア,L,Z225,V325,=,http://id.who.int/icd/entity/784320171 & http://id.who.int/icd/entity/592762674,=,QD0Y & XN0GA
+21,HBVキャリア,S0,Z225,V325,=,http://id.who.int/icd/entity/784320171 & http://id.who.int/icd/entity/592762674,=,QD0Y & XN0GA
+21,HBキャリア,S1,Z225,V325,=,http://id.who.int/icd/entity/784320171 & http://id.who.int/icd/entity/592762674,=,QD0Y & XN0GA
+21,B型肝炎ウイルスキャリア,S1,Z225,V325,=,http://id.who.int/icd/entity/784320171 & http://id.who.int/icd/entity/592762674,=,QD0Y & XN0GA
+21,ＨＴＬＶ－１キャリア,L,Z226,AKTF,=,http://id.who.int/icd/entity/784320171 & http://id.who.int/icd/entity/1434540394,=,QD0Y & XN1WJ
+21,HTLV-1キャリア,S0,Z226,AKTF,=,http://id.who.int/icd/entity/784320171 & http://id.who.int/icd/entity/1434540394,=,QD0Y & XN1WJ
+21,HTLV-Iキャリアー,S1,Z226,AKTF,=,http://id.who.int/icd/entity/784320171 & http://id.who.int/icd/entity/1434540394,=,QD0Y & XN1WJ
+21,HTLV-Iキャリア,S1,Z226,AKTF,=,http://id.who.int/icd/entity/784320171 & http://id.who.int/icd/entity/1434540394,=,QD0Y & XN1WJ
+21,ＭＲＳＡ保菌者,L,Z228,KNLH,=,http://id.who.int/icd/entity/784320171 /  http://id.who.int/icd/entity/1710270895,=,QD0Y / MG51.00
+21,MRSA保菌者,S0,Z228,KNLH,=,http://id.who.int/icd/entity/784320171 /  http://id.who.int/icd/entity/1710270895,=,QD0Y / MG51.00
+21,予防接種,L,Z269,MMHQ,=,http://id.who.int/icd/entity/436985649,<,QC02.Z
+21,避妊指導,L,Z300,D8VQ,=,http://id.who.int/icd/entity/11804381​​47,=,QA21.1
+21,避妊相談,L,Z300,EKGS,=,http://id.who.int/icd/entity/11804381​​47,=,QA21.1
+21,ＩＵＤ挿入,L,Z301,P6GP,=,http://id.who.int/icd/entity/880329475,<,QA21.2
+21,IUD挿入,S0,Z301,P6GP,=,http://id.who.int/icd/entity/880329475,<,QA21.2
+21,ＩＵＤ抜去,L,Z305,AH7F,=,http://id.who.int/icd/entity/66239170,<,QA21.6Y
+21,IUD抜去,S0,Z305,AH7F,=,http://id.who.int/icd/entity/66239170,<,QA21.6Y
+21,ＩＵＤ検診,L,Z305,G8HR,=,http://id.who.int/icd/entity/609484926,=,QA21.6
+21,IUD検診,S0,Z305,G8HR,=,http://id.who.int/icd/entity/609484926,=,QA21.6
+21,妊娠,L,Z33,NPE9,=,http://id.who.int/icd/entity/472990502,=,QA41
+21,正常妊娠,L,Z349,MK02,=,http://id.who.int/icd/entity/1876938930,=,QA42.Z
+21,多産婦,L,Z354,K0C4,=,http://id.who.int/icd/entity/177478952,=,QA43.Z
+21,頻産婦,S1,Z354,K0C4,=,http://id.who.int/icd/entity/177478952,=,QA43.Z
+21,高年初妊婦,L,Z355,TUCC,=,http://id.who.int/icd/entity/38934915,=,QA43.4 
+21,高齢初産婦,S1,Z355,TUCC,=,http://id.who.int/icd/entity/38934915,=,QA43.4 
+21,高年初産婦,S1,Z355,TUCC,=,http://id.who.int/icd/entity/38934915,=,QA43.4 
+21,若年初妊婦,L,Z356,A6LD,=,http://id.who.int/icd/entity/1996441980,=,QA43.5
+21,高齢妊娠,L,Z358,JPPQ,=,http://id.who.int/icd/entity/177478952,=,QA43.Z
+21,高年妊娠,S1,Z358,JPPQ,=,http://id.who.int/icd/entity/177478952,=,QA43.Z
+21,若年妊娠,L,Z358,NC3C,=,http://id.who.int/icd/entity/1996441980,=,QA43.5
+21,染色体異常の分娩前スクリーニング,L,Z360,V21E,=,http://id.who.int/icd/entity/1641920322,=,QA45.0
+21,気管内挿管時の口腔内装置必要状態,L,Z418,ATEK,<,http://id.who.int/icd/entity/1943119179,<,QB8Z
+21,気管切開口に対する手当て,L,Z430,CNL8,=,http://id.who.int/icd/entity/933054252,=,QB62.0
+21,胃瘻開口部に対する手当て,L,Z431,HE6L,=,http://id.who.int/icd/entity/1389791934,=,QB62.1
+21,回腸瘻開口部に対する手当て,L,Z432,P40K,=,http://id.who.int/icd/entity/645651009,=,QB62.2
+21,結腸瘻開口部に対する手当て,L,Z433,TLB5,=,http://id.who.int/icd/entity/1127225301,=,QB62.3
+21,空腸瘻開口部に対する手当て,L,Z434,D2P8,=,http://id.who.int/icd/entity/819889217,<,QB62.Y
+21,膀胱瘻開口部に対する手当て,L,Z435,PPLP,=,http://id.who.int/icd/entity/1435847125,=,QB62.4
+21,尿道瘻開口部に対する手当て,L,Z436,E3KC,=,http://id.who.int/icd/entity/557324586,<,QB62.Y
+21,腎瘻開口部に対する手当て,L,Z436,SL8M,=,http://id.who.int/icd/entity/1441312255,=,QB62.6
+21,尿管瘻開口部に対する手当て,L,Z436,UQFV,=,http://id.who.int/icd/entity/708212336,=,QB62.7
+21,人工腟に対する手当て,L,Z437,KVAG,=,http://id.who.int/icd/entity/1148441792,=,QB62.5
+21,抜釘,L,Z470,TSEE,=,http://id.who.int/icd/entity/224630358,<,QB84 
+21,シロッカー抜去,L,Z480,JR9F,=,http://id.who.int/icd/entity/945222255,<,QB85
+21,シロッカー抜糸,S1,Z480,JR9F,=,http://id.who.int/icd/entity/945222255,<,QB85
+21,肝動脈再建術後,L,Z488,M7HP,<,http://id.who.int/icd/entity/673910444,<,QB8Y 
+21,周術期口腔機能管理中,L,Z518,BNNG,<,http://id.who.int/icd/entity/898515653,<,QB93
+21,保険給付歯科矯正抜歯,L,Z518,T6G2,<,http://id.who.int/icd/entity/898515653,<,QB93
+21,末梢血幹細胞移植ドナー,L,Z520,AEP9,<,http://id.who.int/icd/entity/113291581,<,QB20 
+21,皮膚移植ドナー,L,Z521,H4LM,=,http://id.who.int/icd/entity/1580491024,=,QB2Y & XA0364
+21,皮膚ドナー,S1,Z521,H4LM,=,http://id.who.int/icd/entity/1580491024,=,QB2Y & XA0364
+21,皮膚提供者,S1,Z521,H4LM,=,http://id.who.int/icd/entity/1580491024,=,QB2Y & XA0364
+21,骨移植ドナー,L,Z522,P7SM,=,http://id.who.int/icd/entity/714682865,<,QB2Y
+21,骨提供者,S1,Z522,P7SM,=,http://id.who.int/icd/entity/714682865,<,QB2Y
+21,骨ドナー,S1,Z522,P7SM,=,http://id.who.int/icd/entity/714682865,<,QB2Y
+21,骨髄移植ドナー,L,Z523,KCJ3,=,http://id.who.int/icd/entity/1339227237,=,QB21
+21,腎移植ドナー,L,Z524,NQF9,=,http://id.who.int/icd/entity/1010593777,=,QB22
+21,生体腎移植ドナー,S1,Z524,NQF9,=,http://id.who.int/icd/entity/1010593777,=,QB22
+21,腎提供者,S1,Z524,NQF9,=,http://id.who.int/icd/entity/1010593777,=,QB22
+21,角膜移植ドナー,L,Z525,UTS4,=,http://id.who.int/icd/entity/1501012581,=,QB23 
+21,角膜ドナー,S1,Z525,UTS4,=,http://id.who.int/icd/entity/1501012581,=,QB23 
+21,角膜提供者,S1,Z525,UTS4,=,http://id.who.int/icd/entity/1501012581,=,QB23
+21,肝移植ドナー,L,Z526,EDD6,=,http://id.who.int/icd/entity/769323676,=,QB24
+21,生体肝移植ドナー,S1,Z526,EDD6,=,http://id.who.int/icd/entity/769323676,=,QB24
+21,心移植ドナー,L,Z527,UCMK,=,http://id.who.int/icd/entity/1217478414,=,QB25
+21,心臓ドナー,S1,Z527,UCMK,=,http://id.who.int/icd/entity/1217478414,=,QB25
+21,心提供者,S1,Z527,UCMK,=,http://id.who.int/icd/entity/1217478414,=,QB25
+21,心ドナー,S1,Z527,UCMK,=,http://id.who.int/icd/entity/1217478414,=,QB25
+21,心臓提供者,S1,Z527,UCMK,=,http://id.who.int/icd/entity/1217478414,=,QB25
+21,肺移植ドナー,L,Z528,M3NA,=,http://id.who.int/icd/entity/1385445541 & http://id.who.int/icd/entity/1338477196,=,QB2Y & XA57M6
+21,膵移植ドナー,L,Z528,V6HF,=,http://id.who.int/icd/entity/1385445541 & http://id.who.int/icd/entity/532265365,=,QB2Y & XA3QC5
+21,健康相談,L,Z718,D0C7,=,"http://id.who.int/icd/entity/1318504520
+",<,QA1Y
+21,保健指導,L,Z718,KEED,=,http://id.who.int/icd/entity/726492659,<,QA1Y
+21,育児相談,L,Z718,VBNV,<,"http://id.who.int/icd/entity/1824039763
+",<,QA18
+21,メランコリー親和型性格,L,Z731,GG8N,<,http://id.who.int/icd/entity/853711607,<,QE50.7
+21,詐熱,L,Z765,AG3U,<,http://id.who.int/icd/entity/1136473465,<,QC30
+21,詐聴,L,Z765,F1K3,<,http://id.who.int/icd/entity/1136473465,<,QC30
+21,詐病,L,Z765,H2CB,=,http://id.who.int/icd/entity/1136473465,=,QC30
+21,Ｂ型肝炎ウイルス感染の既往,L,Z861,BS5S,=,http://id.who.int/icd/entity/1268185587 / http://id.who.int/icd/entity/1208480469,=,QC42.Z / 1E50.1
+21,B型肝炎ウイルス感染の既往,S0,Z861,BS5S,=,http://id.who.int/icd/entity/1268185587 / http://id.who.int/icd/entity/1208480469,=,QC42.Z / 1E50.1
+21,HBV既往感染,S1,Z861,BS5S,=,http://id.who.int/icd/entity/1268185587 / http://id.who.int/icd/entity/1208480469,=,QC42.Z / 1E50.1
+21,B型肝炎ウイルス既往感染,S1,Z861,BS5S,=,http://id.who.int/icd/entity/1268185587 / http://id.who.int/icd/entity/1208480469,=,QC42.Z / 1E50.1
+21,Ｃ型肝炎ウイルス感染の既往,L,Z861,M7LL,=,http://id.who.int/icd/entity/1268185587 / http://id.who.int/icd/entity/1517862018,=,QC42.Z / 1E50.2
+21,C型肝炎ウイルス感染の既往,S0,Z861,M7LL,=,http://id.who.int/icd/entity/1268185587 / http://id.who.int/icd/entity/1517862018,=,QC42.Z / 1E50.2
+21,HCV既往感染,S1,Z861,M7LL,=,http://id.who.int/icd/entity/1268185587 / http://id.who.int/icd/entity/1517862018,=,QC42.Z / 1E50.2
+21,C型肝炎ウイルス既往感染,S1,Z861,M7LL,=,http://id.who.int/icd/entity/1268185587 / http://id.who.int/icd/entity/1517862018,=,QC42.Z / 1E50.2
+21,手指欠損症,L,Z890,E030,=,http://id.who.int/icd/entity/1616504795,=,QF00 & XA2593
+21,手指欠損(症),S1,Z890,E030,=,http://id.who.int/icd/entity/1616504795,=,QF00 & XA2593
+21,手指歇損症,S1,Z890,E030,=,http://id.who.int/icd/entity/1616504795,=,QF00 & XA2593
+21,手指欠損,S1,Z890,E030,=,http://id.who.int/icd/entity/1616504795,=,QF00 & XA2593
+21,後天性前腕欠損,L,Z892,D3NP,=,http://id.who.int/icd/entity/1908374194,=,QF00 & XA7WB0
+21,肩関節離断術後,L,Z892,EDCQ,=,http://id.who.int/icd/entity/682019515 & http://id.who.int/icd/entity/719727487,=,QF00 & XA05J7
+21,手関節離断術後,L,Z892,GQUP,=,http://id.who.int/icd/entity/85076559,=,QF00 & XA64C3
+21,前腕切断術後,L,Z892,K4JF,=,http://id.who.int/icd/entity/1908374194,=,QF00 & XA7WB0
+21,肩甲胸郭間切断術後,L,Z892,KH1G,<,http://id.who.int/icd/entity/1908374194,<,QF00 
+21,フォークオーター切断術後,S1,Z892,KH1G,<,http://id.who.int/icd/entity/1908374194,<,QF00 
+21,肩甲帯離断術後,S1,Z892,KH1G,<,http://id.who.int/icd/entity/1908374194,<,QF00 
+21,肘関節離断術後,L,Z892,UDRH,=,http://id.who.int/icd/entity/1908374194 & http://id.who.int/icd/entity/1364152594,=,QF00 & XA69H4
+21,ショパール関節離断術後,L,Z894,CJGK,=,http://id.who.int/icd/entity/1729766576 & http://id.who.int/icd/entity/129818515,=,QF00 & XA9Z55
+21,リスフラン関節離断術後,L,Z894,L7PJ,=,http://id.who.int/icd/entity/1729766576 & http://id.who.int/icd/entity/97365781,=,QF00 & XA2MY1
+21,足根中足切断術後,S1,Z894,L7PJ,=,http://id.who.int/icd/entity/1729766576 & http://id.who.int/icd/entity/97365781,=,QF00 & XA2MY1
+21,ボイド切断術後,L,Z894,PL8H,=,http://id.who.int/icd/entity/1729766576 & http://id.who.int/icd/entity/710426882,=,QF00 & XA5LU2
+21,サイム切断術後,L,Z894,RGVH,=,http://id.who.int/icd/entity/38922534 & http://id.who.int/icd/entity/520825881,=,QF00 & XA44U1
+21,ピロゴフ切断術後,L,Z894,S9DE,=,http://id.who.int/icd/entity/1729766576 & http://id.who.int/icd/entity/1491791024,=,QF00 & XA7NN4
+21,足関節離断術後,L,Z894,SRNR,=,http://id.who.int/icd/entity/1729766576 & http://id.who.int/icd/entity/2000483733,=,QF00 & XA27P3
+21,趾欠損,L,Z894,V6NU,=,http://id.who.int/icd/entity/1729766576 & http://id.who.int/icd/entity/1735902769,=,QF00 & XA4LC9
+21,足指欠損,S1,Z894,V6NU,=,http://id.who.int/icd/entity/1729766576 & http://id.who.int/icd/entity/1735902769,=,QF00 & XA4LC9
+21,足指歇損,S1,Z894,V6NU,=,http://id.who.int/icd/entity/1729766576 & http://id.who.int/icd/entity/1735902769,=,QF00 & XA4LC9
+21,足趾欠損,S1,Z894,V6NU,=,http://id.who.int/icd/entity/1729766576 & http://id.who.int/icd/entity/1735902769,=,QF00 & XA4LC9
+21,中足切断術後,L,Z894,VS31,=,http://id.who.int/icd/entity/1729766576 & http://id.who.int/icd/entity/325262192,=,QF00 & XA6VH2
+21,中足骨切断術後,S1,Z894,VS31,=,http://id.who.int/icd/entity/1729766576 & http://id.who.int/icd/entity/325262192,=,QF00 & XA6VH2
+21,下腿切断術後,L,Z895,GQS6,=,http://id.who.int/icd/entity/38922534 & http://id.who.int/icd/entity/106050921,=,QF00 & XA3YG1
+21,腓骨欠損,L,Z895,K04L,=,http://id.who.int/icd/entity/38922534 & http://id.who.int/icd/entity/85354215,=,QF00 & XA3KT5
+21,腓骨歇損,S1,Z895,K04L,=,http://id.who.int/icd/entity/38922534 & http://id.who.int/icd/entity/85354215,=,QF00 & XA3KT5
+21,膝関節離断術後,L,Z895,LT0N,=,http://id.who.int/icd/entity/38922534 & http://id.who.int/icd/entity/1574110781,=,QF00 & XA8RL1
+21,後天性下腿欠損,L,Z895,S2PV,=,http://id.who.int/icd/entity/38922534 & http://id.who.int/icd/entity/106050921,=,QF00 & XA3YG1
+21,片側骨盤離断術後,L,Z896,AKUT,=,http://id.who.int/icd/entity/347064800 & http://id.who.int/icd/entity/1399556983 & http://id.who.int/icd/entity/182265087 / http://id.who.int/icd/entity/438849334,=,QF01.Y & XA8Y23 & XY7V & XK70
+21,後天性大腿欠損,L,Z896,D90B,=,http://id.who.int/icd/entity/1996274139 & http://id.who.int/icd/entity/238202718,=,QF00 & XA5S78
+21,片側骨盤切断術後,L,Z896,DMPD,=,http://id.who.int/icd/entity/347064800 & http://id.who.int/icd/entity/1399556983 & http://id.who.int/icd/entity/182265087,=,QF01.Y & XA8Y23 & XK70
+21,股関節離断術後,L,Z896,FV33,<,http://id.who.int/icd/entity/682019515 & http://id.who.int/icd/entity/2093217246,<,QF00 & XA45A6
+21,骨盤切断術後,L,Z896,K74K,=,http://id.who.int/icd/entity/347064800 & http://id.who.int/icd/entity/1399556983,=,QF01.Y & XA8Y23
+21,大腿切断術後,L,Z896,SABN,=,http://id.who.int/icd/entity/1996274139 / http://id.who.int/icd/entity/438849334,=,QF00 & XA5S78
+21,開頭術後骨欠損,L,Z900,DLP4,=,http://id.who.int/icd/entity/424062615 & http://id.who.int/icd/entity/703099594 & http://id.who.int/icd/entity/182265087,=,QF01.Y & XA1RZ4
+21,開頭術後骨歇損,S1,Z900,DLP4,=,http://id.who.int/icd/entity/424062615 & http://id.who.int/icd/entity/703099594 & http://id.who.int/icd/entity/182265087,=,QF01.Y & XA1RZ4
+21,人工的無眼球,L,Z900,G2FG,=,http://id.who.int/icd/entity/1543841543,=,QF01.Y & XA0M40
+21,術後性上顎顎欠損,L,Z900,GQMQ,=,http://id.who.int/icd/entity/424062615 & http://id.who.int/icd/entity/573235775,=,QF01.Y & XA7VK5
+21,広範囲顎骨欠損,L,Z900,JH1R,<,http://id.who.int/icd/entity/424062615 & http://id.who.int/icd/entity/809989035,<,QF01.Y & XA51B7
+21,術後性下顎顎欠損,L,Z900,KB73,=,http://id.who.int/icd/entity/424062615 & http://id.who.int/icd/entity/375873857,=,QF01.Y & XA51B7
+21,顎欠損,L,Z900,TRR8,=,http://id.who.int/icd/entity/424062615 & http://id.who.int/icd/entity/809989035,=,QF01.Y & XA88P5
+21,顎歇損,S1,Z900,TRR8,=,http://id.who.int/icd/entity/424062615 & http://id.who.int/icd/entity/809989035,=,QF01.Y & XA88P5
+21,術後口蓋欠損,L,Z900,VUH0,=,http://id.who.int/icd/entity/424062615 & http://id.who.int/icd/entity/70261446,=,QF01.Y & XA7ZA6
+21,乳房切除術後,L,Z901,GCHE,=,http://id.who.int/icd/entity/2081252099 ,=,QF01.0
+21,乳房切除後状態,S1,Z901,GCHE,=,http://id.who.int/icd/entity/2081252099 ,=,QF01.0
+21,乳房切除術術後,S1,Z901,GCHE,=,http://id.who.int/icd/entity/2081252099 ,=,QF01.0
+21,乳房切断後状態,S1,Z901,GCHE,=,http://id.who.int/icd/entity/2081252099 ,=,QF01.0
+21,肺切除術後,L,Z902,DLKH,=,http://id.who.int/icd/entity/144716796,=,QF01.Y & XA57M6
+21,肺切後,S1,Z902,DLKH,=,http://id.who.int/icd/entity/144716796,=,QF01.Y & XA57M6
+21,肺切除後状態,S1,Z902,DLKH,=,http://id.who.int/icd/entity/144716796,=,QF01.Y & XA57M6
+21,肺切除術術後,S1,Z902,DLKH,=,http://id.who.int/icd/entity/144716796,=,QF01.Y & XA57M6
+21,胃切除術後,L,Z903,H69P,=,http://id.who.int/icd/entity/1844182634,=,QF01.Y & XA7MC7
+21,胃切除後状態,S1,Z903,H69P,=,http://id.who.int/icd/entity/1844182634,=,QF01.Y & XA7MC7
+21,胃切後,S1,Z903,H69P,=,http://id.who.int/icd/entity/1844182634,=,QF01.Y & XA7MC7
+21,胃切除術術後,S1,Z903,H69P,=,http://id.who.int/icd/entity/1844182634,=,QF01.Y & XA7MC7
+21,胃全摘術後,L,Z903,QC18,=,http://id.who.int/icd/entity/1844182634 & http://id.who.int/icd/entity/1957947885,=,QF01.Y & XA7MC7 & XK2J
+21,胃全摘術術後,S1,Z903,QC18,=,http://id.who.int/icd/entity/1844182634 & http://id.who.int/icd/entity/1957947885,=,QF01.Y & XA7MC7 & XK2J
+21,胃全摘後状態,S1,Z903,QC18,=,http://id.who.int/icd/entity/1844182634 & http://id.who.int/icd/entity/1957947885,=,QF01.Y & XA7MC7 & XK2J
+21,肝切除術後,L,Z904,BV3A,=,http://id.who.int/icd/entity/347064800 & http://id.who.int/icd/entity/328366540,=,QF01.Y & XA5DY0
+21,肝切除後状態,S1,Z904,BV3A,=,http://id.who.int/icd/entity/347064800 & http://id.who.int/icd/entity/328366540,=,QF01.Y & XA5DY0
+21,胆のう摘出術後,L,Z904,E430,=,http://id.who.int/icd/entity/839312222,=,QF01.Y & XA8KL9
+21,胆摘後,S1,Z904,E430,=,http://id.who.int/icd/entity/839312222,=,QF01.Y & XA8KL9
+21,胆嚢摘出術後,S1,Z904,E430,=,http://id.who.int/icd/entity/839312222,=,QF01.Y & XA8KL9
+21,胆嚢摘出後状態,S1,Z904,E430,=,http://id.who.int/icd/entity/839312222,=,QF01.Y & XA8KL9
+21,胆のう摘出後状態,S1,Z904,E430,=,http://id.who.int/icd/entity/839312222,=,QF01.Y & XA8KL9
+21,胆のう摘出術術後,S1,Z904,E430,=,http://id.who.int/icd/entity/839312222,=,QF01.Y & XA8KL9
+21,胆嚢摘出術術後,S1,Z904,E430,=,http://id.who.int/icd/entity/839312222,=,QF01.Y & XA8KL9
+21,大腸全摘術後,L,Z904,E6LP,=,http://id.who.int/icd/entity/939898542,=,QF01.Y & XA1B13
+21,大腸全摘後,S1,Z904,E6LP,=,http://id.who.int/icd/entity/939898542,=,QF01.Y & XA1B13
+21,潰瘍性大腸炎術後,L,Z904,J7ST,=,http://id.who.int/icd/entity/784669405 & http://id.who.int/icd/entity/182265087,=,DD71.Z & XY7V
+21,胆のう欠損,L,Z904,VRGM,=,http://id.who.int/icd/entity/839312222,=,QF01.Y & XA8KL9
+21,胆嚢欠損,S1,Z904,VRGM,=,http://id.who.int/icd/entity/839312222,=,QF01.Y & XA8KL9
+21,胆嚢歇損,S1,Z904,VRGM,=,http://id.who.int/icd/entity/839312222,=,QF01.Y & XA8KL9
+21,胆のう歇損,S1,Z904,VRGM,=,http://id.who.int/icd/entity/839312222,=,QF01.Y & XA8KL9
+21,腎摘出術後,L,Z905,EB64,=,http://id.who.int/icd/entity/2068750440,=,QF01.Y & XA6KU8
+21,腎摘出術後症,S1,Z905,EB64,=,http://id.who.int/icd/entity/2068750440,=,QF01.Y & XA6KU8
+21,腎欠損症,L,Z905,URSN,=,http://id.who.int/icd/entity/2068750440,=,QF01.Y & XA6KU8
+21,腎歇損症,S1,Z905,URSN,=,http://id.who.int/icd/entity/2068750440,=,QF01.Y & XA6KU8
+21,卵管欠損,L,Z907,C0LV,=,http://id.who.int/icd/entity/1044923336,=,QF01.10 & XA3EF0
+21,卵管欠如,S1,Z907,C0LV,=,http://id.who.int/icd/entity/1044923336,=,QF01.10 & XA3EF0
+21,卵管歇損症,S1,Z907,C0LV,=,http://id.who.int/icd/entity/1044923336,=,QF01.10 & XA3EF0
+21,卵管歇如,S1,Z907,C0LV,=,http://id.who.int/icd/entity/1044923336,=,QF01.10 & XA3EF0
+21,卵管歇損,S1,Z907,C0LV,=,http://id.who.int/icd/entity/1044923336,=,QF01.10 & XA3EF0
+21,卵管欠損症,S1,Z907,C0LV,=,http://id.who.int/icd/entity/1044923336,=,QF01.10 & XA3EF0
+21,子宮完全欠損,L,Z907,GNDG,=,http://id.who.int/icd/entity/124176483,=,QF01.10 & XA99N3
+21,子宮完全歇損,S1,Z907,GNDG,=,http://id.who.int/icd/entity/124176483,=,QF01.10 & XA99N3
+21,卵巣欠損,L,Z907,JNMC,=,http://id.who.int/icd/entity/66255193,=,QF01.10 & XA1QK0
+21,卵巣歇損,S1,Z907,JNMC,=,http://id.who.int/icd/entity/66255193,=,QF01.10 & XA1QK0
+21,卵巣欠落,S1,Z907,JNMC,=,http://id.who.int/icd/entity/66255193,=,QF01.10 & XA1QK0
+21,前立腺欠損,L,Z907,SH7J,=,http://id.who.int/icd/entity/1063668344,=,QF01.11 & XA63E5
+21,前立腺歇損,S1,Z907,SH7J,=,http://id.who.int/icd/entity/1063668344,=,QF01.11 & XA63E5
+21,子宮全摘後,L,Z907,UAUG,=,http://id.who.int/icd/entity/124176483 & http://id.who.int/icd/entity/1957947885,=,QF01.10 & XA99N3 & XK2J 
+21,自傷,L,Z915,JPFK,=,http://id.who.int/icd/entity/1740007657,=,QC4B
+21,自殺未遂,L,Z915,U148,=,http://id.who.int/icd/entity/1740007657,=,QC4B
+21,自殺後遺症,S2,Z915,U148,=,http://id.who.int/icd/entity/1740007657,=,QC4B
+21,抗凝固剤投与状態,L,Z921,FGJ5,=,http://id.who.int/icd/entity/1634864060,=,QC48.0
+21,気管切開術後,L,Z930,BHV3,=,http://id.who.int/icd/entity/415305385,=,QB61.0
+21,気管切開術後状態,S1,Z930,BHV3,=,http://id.who.int/icd/entity/415305385,=,QB61.0
+21,胃瘻造設状態,L,Z931,QK12,=,http://id.who.int/icd/entity/2106245949,=,QB61.2
+21,回腸瘻造設状態,L,Z932,Q89A,=,http://id.who.int/icd/entity/153588676,=,QB61.30
+21,人工肛門形成状態,L,Z933,JLHR,=,http://id.who.int/icd/entity/1819041366,=,QB61.4
+21,術後人工肛門,S1,Z933,JLHR,=,http://id.who.int/icd/entity/1819041366,=,QB61.4
+21,空腸瘻造設状態,L,Z934,NG9U,=,http://id.who.int/icd/entity/528666050 & http://id.who.int/icd/entity/18598211,=,QB61.Y & XA8UM1
+21,膀胱瘻造設状態,L,Z935,QP01,=,http://id.who.int/icd/entity/2059993176,=,QB61.5
+21,人工膀胱,L,Z936,MTT8,=,http://id.who.int/icd/entity/241455273,<,QB61.Z 
+21,腎瘻造設状態,L,Z936,UPPA,=,http://id.who.int/icd/entity/359706392,=,QB61.6
+21,回腸導管形成状態,L,Z936,V87J,=,http://id.who.int/icd/entity/1789818009,=,QB61.7
+21,生体腎移植後,L,Z940,CR4R,=,http://id.who.int/icd/entity/1248002163,<,QB63.0
+21,腎移植後,L,Z940,F34K,=,http://id.who.int/icd/entity/599293929,=,QB63.0
+21,脳死腎移植後,L,Z940,FUH8,=,http://id.who.int/icd/entity/777238358,<,QB63.0
+21,死体腎移植後,L,Z940,L57U,=,http://id.who.int/icd/entity/777238358,<,QB63.0
+21,心臓移植後,L,Z941,KFQ1,=,http://id.who.int/icd/entity/1190376061,=,QB63.1
+21,心移植後,S1,Z941,KFQ1,=,http://id.who.int/icd/entity/1190376061,=,QB63.1
+21,死体肺移植後,L,Z942,QU3K,<,http://id.who.int/icd/entity/845079170,<,QB63.2
+21,脳死肺移植後,L,Z942,VMBB,<,http://id.who.int/icd/entity/845079170,<,QB63.2
+21,生体肺移植後,L,Z942,VPLF,<,http://id.who.int/icd/entity/845079170,<,QB63.2
+21,心肺移植後,L,Z943,ERSM,=,http://id.who.int/icd/entity/1461006104,<,QB63.Y
+21,肺移植後,L,Z943,H67D,=,http://id.who.int/icd/entity/845079170,=,QB63.2
+21,肝移植後,L,Z944,CL8U,=,http://id.who.int/icd/entity/620477572,=,QB63.3
+21,肝移植後状態,S1,Z944,CL8U,=,http://id.who.int/icd/entity/620477572,=,QB63.3
+21,肝移植術後,S1,Z944,CL8U,=,http://id.who.int/icd/entity/620477572,=,QB63.3
+21,死体肝移植後,L,Z944,CMCE,<,http://id.who.int/icd/entity/620477572,<,QB63.3
+21,生体肝移植後,L,Z944,DSSB,<,http://id.who.int/icd/entity/620477572,<,QB63.3
+21,脳死肝移植後,L,Z944,Q2DJ,<,http://id.who.int/icd/entity/620477572,<,QB63.3
+21,生体皮膚移植後,L,Z945,GSTQ,<,http://id.who.int/icd/entity/1102082326,<,QB63.4
+21,死体皮膚移植後,L,Z945,LA44,<,http://id.who.int/icd/entity/1102082326,<,QB63.4
+21,皮膚移植後,L,Z945,PLBP,=,http://id.who.int/icd/entity/1102082326,=,QB63.4
+21,骨移植後,L,Z946,QDLR,=,http://id.who.int/icd/entity/891101673,=,QB63.5
+21,生体骨移植後,L,Z946,VHL5,=,http://id.who.int/icd/entity/891101673,=,QB63.5
+21,角膜移植後,L,Z947,F14T,=,http://id.who.int/icd/entity/1347873917,=,QB63.9
+21,角膜移植,S1,Z947,F14T,=,http://id.who.int/icd/entity/1347873917,=,QB63.9
+21,同種末梢血幹細胞移植後,L,Z948,A5SV,<,http://id.who.int/icd/entity/1112692904,<,QB63.8
+21,移植歯,L,Z948,ASE5,=,http://id.who.int/icd/entity/334236299 & http://id.who.int/icd/entity/1492238572,=,QB63.Z & XA6CZ2
+21,小腸移植後,L,Z948,BG6K,=,http://id.who.int/icd/entity/1368759398 & http://id.who.int/icd/entity/1928625572,=,QB63.Z & XA6452
+21,歯の移植術後,L,Z948,C9UD,=,http://id.who.int/icd/entity/334236299 & http://id.who.int/icd/entity/1492238572,=,QB63.Z & XA6CZ2
+21,脳死膵移植後,L,Z948,DC6F,<,http://id.who.int/icd/entity/2134365444,<,QB63.Y & XA3QC5
+21,脳死小腸移植後,L,Z948,DK39,<,http://id.who.int/icd/entity/1368759398 & http://id.who.int/icd/entity/1928625572,<,QB63.Z & XA6452
+21,生体小腸移植後,L,Z948,EK6M,<,http://id.who.int/icd/entity/1368759398 & http://id.who.int/icd/entity/1928625572,<,QB63.Z & XA6452
+21,膵移植後,L,Z948,GNAB,=,http://id.who.int/icd/entity/2134365444,=,QB63.Y & XA3QC5
+21,膵臓移植後,S1,Z948,GNAB,=,http://id.who.int/icd/entity/2134365444,=,QB63.Y & XA3QC5
+21,同種骨髄移植後,L,Z948,KTVP,=,http://id.who.int/icd/entity/1072421620,=,QB63.6
+21,同種骨髄移植後状態,S1,Z948,KTVP,=,http://id.who.int/icd/entity/1072421620,=,QB63.6
+21,同種骨髄移植,S1,Z948,KTVP,=,http://id.who.int/icd/entity/1072421620,=,QB63.6
+21,自家末梢血幹細胞移植後,L,Z948,P5PD,<,http://id.who.int/icd/entity/1112692904,<,QB63.8
+21,自己末梢血幹細胞移植後,S1,Z948,P5PD,<,http://id.who.int/icd/entity/1112692904,<,QB63.8
+21,被移植歯,L,Z948,R369,=,http://id.who.int/icd/entity/334236299 & http://id.who.int/icd/entity/1492238572,=,QB63.Z & XA6CZ2
+21,臍帯血移植後,L,Z948,RE2U,=,http://id.who.int/icd/entity/1112692904 & http://id.who.int/icd/entity/1220117315,=,QB63.8
+21,臍帯血移植後状態,S1,Z948,RE2U,=,http://id.who.int/icd/entity/1112692904 & http://id.who.int/icd/entity/1220117315,=,QB63.8
+21,死体膵移植後,L,Z948,TMPR,<,http://id.who.int/icd/entity/2134365444,<,QB63.Y & XA3QC5
+21,植込型除細動器移植状態,L,Z950,GHDB,=,http://id.who.int/icd/entity/1409756054,=,QB50.03
+21,植え込み型除細動器植え込み後,S1,Z950,GHDB,=,http://id.who.int/icd/entity/1409756054,=,QB50.03
+21,植え込み型除細動器植込み後,S1,Z950,GHDB,=,http://id.who.int/icd/entity/1409756054,=,QB50.03
+21,埋込型除細動器移植状態,S1,Z950,GHDB,=,http://id.who.int/icd/entity/1409756054,=,QB50.03
+21,植込み型除細動器植え込み後,S1,Z950,GHDB,=,http://id.who.int/icd/entity/1409756054,=,QB50.03
+21,ICD移植状態,S1,Z950,GHDB,=,http://id.who.int/icd/entity/1409756054,=,QB50.03
+21,植込み型除細動器植込み後,S1,Z950,GHDB,=,http://id.who.int/icd/entity/1409756054,=,QB50.03
+21,ペースメーカ植え込み後,L,Z950,HU9L,=,http://id.who.int/icd/entity/345975167,=,QB50.00
+21,ペースメーカ装着後,S1,Z950,HU9L,=,http://id.who.int/icd/entity/345975167,=,QB50.00
+21,ペースメーカ植込み後,S1,Z950,HU9L,=,http://id.who.int/icd/entity/345975167,=,QB50.00
+21,ペースメーカー装着後,S1,Z950,HU9L,=,http://id.who.int/icd/entity/345975167,=,QB50.00
+21,人工ペースメーカ,S1,Z950,HU9L,=,http://id.who.int/icd/entity/345975167,=,QB50.00
+21,ペースメーカ装着状態,S1,Z950,HU9L,=,http://id.who.int/icd/entity/345975167,=,QB50.00
+21,人工ペースメーカー,S1,Z950,HU9L,=,http://id.who.int/icd/entity/345975167,=,QB50.00
+21,ペースメーカー装着状態,S1,Z950,HU9L,=,http://id.who.int/icd/entity/345975167,=,QB50.00
+21,ペースメーカー植込み後,S1,Z950,HU9L,=,http://id.who.int/icd/entity/345975167,=,QB50.00
+21,ペースメーカー植え込み後,S1,Z950,HU9L,=,http://id.who.int/icd/entity/345975167,=,QB50.00
+21,冠動脈バイパス術後,L,Z951,B27E,=,http://id.who.int/icd/entity/1510701822,=,QB50.1
+21,冠状動脈バイパス術後,S1,Z951,B27E,=,http://id.who.int/icd/entity/1510701822,=,QB50.1
+21,CABG術後,S1,Z951,B27E,=,http://id.who.int/icd/entity/1510701822,=,QB50.1
+21,ＡＣバイパス術後,L,Z951,UNSJ,=,http://id.who.int/icd/entity/1510701822,=,QB50.1
+21,ACバイパス術後,S0,Z951,UNSJ,=,http://id.who.int/icd/entity/1510701822,=,QB50.1
+21,ACバイパス術後状態,S1,Z951,UNSJ,=,http://id.who.int/icd/entity/1510701822,=,QB50.1
+21,大動脈弁置換術後,L,Z952,B5AR,=,http://id.who.int/icd/entity/782641667 & http://id.who.int/icd/entity/400106404,=,QB50.2 & XA19J4
+21,大動脈弁置換術後状態,S1,Z952,B5AR,=,http://id.who.int/icd/entity/782641667 & http://id.who.int/icd/entity/400106404,=,QB50.2 & XA19J4
+21,心臓弁置換術後,L,Z952,R7B1,=,http://id.who.int/icd/entity/782641667,=,QB50.2
+21,心臓弁置換術術後,S1,Z952,R7B1,=,http://id.who.int/icd/entity/782641667,=,QB50.2
+21,心臓弁置換手術後状態,S1,Z952,R7B1,=,http://id.who.int/icd/entity/782641667,=,QB50.2
+21,異種生体弁置換術後,L,Z953,HC96,=,http://id.who.int/icd/entity/1273882519,=,QB50.3
+21,異種生体弁移植後,S1,Z953,HC96,=,http://id.who.int/icd/entity/1273882519,=,QB50.3
+21,異種生体弁移植術後,S1,Z953,HC96,=,http://id.who.int/icd/entity/1273882519,=,QB50.3
+21,同種生体弁置換術後,L,Z954,LQUB,=,http://id.who.int/icd/entity/939750403,<,QB50.Y
+21,同種生体弁移植術後,S1,Z954,LQUB,=,http://id.who.int/icd/entity/939750403,<,QB50.Y
+21,同種生体弁移植後,S1,Z954,LQUB,=,http://id.who.int/icd/entity/939750403,<,QB50.Y
+21,僧帽弁置換術後,L,Z954,TA48,=,http://id.who.int/icd/entity/939750403 & http://id.who.int/icd/entity/15812452,=,QB50.Y & XA7V72
+21,ＰＴＣＡ術後,L,Z955,C29F,=,http://id.who.int/icd/entity/1565047191,=,QB50.4
+21,PTCA術後,S0,Z955,C29F,=,http://id.who.int/icd/entity/1565047191,=,QB50.4
+21,PTCA術後状態,S1,Z955,C29F,=,http://id.who.int/icd/entity/1565047191,=,QB50.4
+21,経皮的冠動脈形成術後,S1,Z955,C29F,=,http://id.who.int/icd/entity/1565047191,=,QB50.4
+21,経皮的冠動脈形成術術後,S1,Z955,C29F,=,http://id.who.int/icd/entity/1565047191,=,QB50.4
+21,冠動脈ステント植え込み状態,L,Z955,NKE1,=,http://id.who.int/icd/entity/1565047191,=,QB50.4
+21,冠動脈ステント埋め込み状態,S1,Z955,NKE1,=,http://id.who.int/icd/entity/1565047191,=,QB50.4
+21,ステント植え込み状態,L,Z958,DA6V,=,http://id.who.int/icd/entity/1990706975,=,QB50.Z
+21,血管内ステント植え込み術後,S1,Z958,DA6V,=,http://id.who.int/icd/entity/192098181,<,QB50.Y
+21,血管内ステント埋込み術後,S1,Z958,DA6V,=,http://id.who.int/icd/entity/192098181,<,QB50.Y
+21,ステント埋込み状態,S1,Z958,DA6V,=,http://id.who.int/icd/entity/1990706975,=,QB50.Z
+21,ステント埋込み術後,S1,Z958,DA6V,=,http://id.who.int/icd/entity/1990706975,=,QB50.Z
+21,ステント植込み状態,S1,Z958,DA6V,=,http://id.who.int/icd/entity/1990706975,=,QB50.Z
+21,血管内ステント埋め込み術後,S1,Z958,DA6V,=,http://id.who.int/icd/entity/192098181,<,QB50.Y
+21,ステント植込み術後,S1,Z958,DA6V,=,http://id.who.int/icd/entity/1990706975,=,QB50.Z
+21,血管内ステント埋込み状態,S1,Z958,DA6V,=,http://id.who.int/icd/entity/192098181,<,QB50.Y
+21,血管内ステント植込み術後,S1,Z958,DA6V,=,http://id.who.int/icd/entity/192098181,<,QB50.Y
+21,ステント埋め込み術後,S1,Z958,DA6V,=,http://id.who.int/icd/entity/1990706975,=,QB50.Z
+21,血管内ステント植え込み状態,S1,Z958,DA6V,=,http://id.who.int/icd/entity/192098181,<,QB50.Y
+21,血管内ステント植込み状態,S1,Z958,DA6V,=,http://id.who.int/icd/entity/192098181,<,QB50.Y
+21,血管内ステント埋め込み状態,S1,Z958,DA6V,=,http://id.who.int/icd/entity/192098181,<,QB50.Y
+21,ステント埋め込み状態,S1,Z958,DA6V,=,http://id.who.int/icd/entity/1990706975,=,QB50.Z
+21,ステント植え込み術後,S1,Z958,DA6V,=,http://id.who.int/icd/entity/1990706975,=,QB50.Z
+21,腹部大動脈ステント植え込み状態,L,Z958,GVQV,=,http://id.who.int/icd/entity/192098181 & http://id.who.int/icd/entity/1812561486,=,QB50.Y & XA5Z66
+21,腹部大動脈ステント留置状態,S1,Z958,GVQV,=,http://id.who.int/icd/entity/192098181 & http://id.who.int/icd/entity/1812561486,=,QB50.Y & XA5Z66
+21,頚動脈ステント植え込み状態,L,Z958,KJCS,=,http://id.who.int/icd/entity/192098181 & http://id.who.int/icd/entity/34787577,=,QB50.Y & XA9AD7
+21,頸動脈ステント植え込み状態,S1,Z958,KJCS,=,http://id.who.int/icd/entity/192098181 & http://id.who.int/icd/entity/34787577,=,QB50.Y & XA9AD7
+21,頸動脈ステント留置状態,S1,Z958,KJCS,=,http://id.who.int/icd/entity/192098181 & http://id.who.int/icd/entity/34787577,=,QB50.Y & XA9AD7
+21,頚動脈ステント留置状態,S1,Z958,KJCS,=,http://id.who.int/icd/entity/192098181 & http://id.who.int/icd/entity/34787577,=,QB50.Y & XA9AD7
+21,人工血管移植後,L,Z958,L7SN,=,http://id.who.int/icd/entity/192098181 ,<,QB50.Y 
+21,人工血管移植後状態,S1,Z958,L7SN,=,http://id.who.int/icd/entity/192098181 ,<,QB50.Y 
+21,下大静脈フィルター留置状態,L,Z958,PS82,=,http://id.who.int/icd/entity/192098181 & http://id.who.int/icd/entity/995291135,=,QB50.Y & XA7UV5
+21,下大静脈フィルター留置後,S1,Z958,PS82,=,http://id.who.int/icd/entity/192098181 & http://id.who.int/icd/entity/995291135,=,QB50.Y & XA7UV5
+21,尿道ステント留置状態,L,Z960,GFLA,=,http://id.who.int/icd/entity/509268754,<,QB51.1
+21,尿管ステント留置状態,L,Z960,UR6J,=,http://id.who.int/icd/entity/1269994799,<,QB51.1
+21,眼内レンズ挿入眼,L,Z961,MPR1,=,http://id.who.int/icd/entity/1535957698,=,QB51.2
+21,人工水晶体眼,S1,Z961,MPR1,=,http://id.who.int/icd/entity/1535957698,=,QB51.2
+21,人工聴覚器植え込み状態,L,Z962,DE5Q,=,http://id.who.int/icd/entity/790727229,=,QB51.3
+21,人工聴覚器植込術後,S1,Z962,DE5Q,=,http://id.who.int/icd/entity/790727229,=,QB51.3
+21,人工聴覚器装用状態,S1,Z962,DE5Q,=,http://id.who.int/icd/entity/790727229,=,QB51.3
+21,人工内耳植え込み状態,L,Z962,V806,=,http://id.who.int/icd/entity/721284172,<,QB51.3
+21,人工内耳植込術後,S1,Z962,V806,=,http://id.who.int/icd/entity/721284172,<,QB51.3
+21,上腕骨人工骨頭置換術後,L,Z966,BQKT,=,http://id.who.int/icd/entity/677529942 & http://id.who.int/icd/entity/1182253318,=,QB51.7 & XA11M8
+21,上腕骨人工骨頭置換術後状態,S1,Z966,BQKT,=,http://id.who.int/icd/entity/677529942 & http://id.who.int/icd/entity/1182253318,=,QB51.7 & XA11M8
+21,上腕骨人工骨頭挿入術後,S1,Z966,BQKT,=,http://id.who.int/icd/entity/677529942 & http://id.who.int/icd/entity/1182253318,=,QB51.7 & XA11M8
+21,上腕骨人工骨頭置換術術後,S1,Z966,BQKT,=,http://id.who.int/icd/entity/677529942 & http://id.who.int/icd/entity/1182253318,=,QB51.7 & XA11M8
+21,人工膝関節置換術後,L,Z966,ETB8,=,http://id.who.int/icd/entity/2145427417,=,QB51.7 & XA8RL1
+21,人工膝関節置換術術後,S1,Z966,ETB8,=,http://id.who.int/icd/entity/2145427417,=,QB51.7 & XA8RL1
+21,人工膝関節置換術後状態,S1,Z966,ETB8,=,http://id.who.int/icd/entity/2145427417,=,QB51.7 & XA8RL1
+21,人工肩関節置換術後,L,Z966,HS4E,=,http://id.who.int/icd/entity/1358136965,=,QB51.7 & XA05J7
+21,人工肩関節置換術術後,S1,Z966,HS4E,=,http://id.who.int/icd/entity/1358136965,=,QB51.7 & XA05J7
+21,人工肩関節置換術後状態,S1,Z966,HS4E,=,http://id.who.int/icd/entity/1358136965,=,QB51.7 & XA05J7
+21,人工肘関節置換術後,L,Z966,KSSN,=,http://id.who.int/icd/entity/188808166,=,QB51.7 & XA69H4
+21,人工肘関節置換術術後,S1,Z966,KSSN,=,http://id.who.int/icd/entity/188808166,=,QB51.7 & XA69H4
+21,人工肘関節置換術後状態,S1,Z966,KSSN,=,http://id.who.int/icd/entity/188808166,=,QB51.7 & XA69H4
+21,人工関節,L,Z966,L1L1,=,http://id.who.int/icd/entity/677529942,=,QB51.7
+21,大腿骨人工骨頭置換術後,L,Z966,P8FG,=,http://id.who.int/icd/entity/677529942 & http://id.who.int/icd/entity/1879993545,=,QB51.7 & XA96S5
+21,大腿骨人工骨頭,S1,Z966,P8FG,=,http://id.who.int/icd/entity/677529942 & http://id.who.int/icd/entity/1879993545,=,QB51.7 & XA96S5
+21,大腿骨人工骨頭置換術術後,S1,Z966,P8FG,=,http://id.who.int/icd/entity/677529942 & http://id.who.int/icd/entity/1879993545,=,QB51.7 & XA96S5
+21,大腿骨人工骨頭置換術後状態,S1,Z966,P8FG,=,http://id.who.int/icd/entity/677529942 & http://id.who.int/icd/entity/1879993545,=,QB51.7 & XA96S5
+21,大腿骨人工骨頭挿入術後,S1,Z966,P8FG,=,http://id.who.int/icd/entity/677529942 & http://id.who.int/icd/entity/1879993545,=,QB51.7 & XA96S5
+21,人工股関節置換術後,L,Z966,UCJE,=,http://id.who.int/icd/entity/804277350,=,QB51.7 & XA4XS4
+21,人工股関節置換術術後,S1,Z966,UCJE,=,http://id.who.int/icd/entity/804277350,=,QB51.7 & XA4XS4
+21,人工股関節置換術後状態,S1,Z966,UCJE,=,http://id.who.int/icd/entity/804277350,=,QB51.7 & XA4XS4
+21,シリコーンオイル注入眼,L,Z968,C79C,=,http://id.who.int/icd/entity/34248674,<,QB51.Y
+21,シリコンオイル注入眼,S1,Z968,C79C,=,http://id.who.int/icd/entity/34248674,<,QB51.Y
+21,義眼,L,Z970,GNJG,=,http://id.who.int/icd/entity/574611415,=,QB51.8
+21,緑内障術後,L,Z988,ARA2,=,http://id.who.int/icd/entity/438849334 / http://id.who.int/icd/entity/499924848,=,QB6Y / 9C61.Z
+21,脳梁離断術後,L,Z988,C169,<,http://id.who.int/icd/entity/438849334,<,QB6Y 
+21,網膜剥離術後,L,Z988,HHKR,=,http://id.who.int/icd/entity/438849334 / http://id.who.int/icd/entity/1801096327,=,QB6Y / 9B73.3
+21,硝子体切除術後,L,Z988,JB94,<,http://id.who.int/icd/entity/438849334,<,QB6Y 
+21,前立腺癌術後,L,Z988,LFA2,=,http://id.who.int/icd/entity/438849334 / http://id.who.int/icd/entity/1552457716,=,QB6Y / 2C82.Z 
+21,前立腺がん術後,S1,Z988,LFA2,=,http://id.who.int/icd/entity/438849334 / http://id.who.int/icd/entity/1552457716,=,QB6Y / 2C82.Z 
+21,前立腺がん術後状態,S1,Z988,LFA2,=,http://id.who.int/icd/entity/438849334 / http://id.who.int/icd/entity/1552457716,=,QB6Y / 2C82.Z 
+21,前立腺癌術後状態,S1,Z988,LFA2,=,http://id.who.int/icd/entity/438849334 / http://id.who.int/icd/entity/1552457716,=,QB6Y / 2C82.Z 
+21,白内障術後,L,Z988,MSTL,=,http://id.who.int/icd/entity/438849334 / http://id.who.int/icd/entity/109841337,=,QB6Y / 9B10.Z 
+21,網膜光凝固術後,L,Z988,NLJR,<,http://id.who.int/icd/entity/438849334,<,QB6Y 
+21,新膀胱形成状態,L,Z988,NTKT,<,http://id.who.int/icd/entity/438849334,<,QB6Y 
+21,僧帽弁形成術後,L,Z988,TKLK,<,http://id.who.int/icd/entity/438849334,<,QB6Y 
+21,人工呼吸器装着状態,L,Z991,F60B,=,http://id.who.int/icd/entity/352848256,=,QB41 
+22,重症急性呼吸器症候群,L,U049,GVBB,=,http://id.who.int/icd/entity/652944603,=,1D65
+22,新型肺炎,S1,U049,GVBB,=,http://id.who.int/icd/entity/652944603,=,1D65
+22,SARS,S1,U049,GVBB,=,http://id.who.int/icd/entity/652944603,=,1D65
+22,ＣＯＶＩＤ－１９,L,U071,S9VN,=,http://id.who.int/icd/entity/1790791774,=,RA01.0
+22,COVID-19,S0,U071,S9VN,=,http://id.who.int/icd/entity/1790791774,=,RA01.0
+22,新型コロナウイルス感染症,S1,U071,S9VN,=,http://id.who.int/icd/entity/1790791774,=,RA01.0
