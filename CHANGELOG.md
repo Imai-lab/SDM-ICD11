@@ -8,7 +8,7 @@
 
 ### Added
 
-- 初回公開。
+- GitHub へ公開母体を移行。
 - 標準病名マスター v5.04 と ICD-11 (Foundation / MMS) のマッピング CSV を `data/` 配下に章別に配置 (`chap01.csv` 〜 `chap19.csv`, `chap20-22.csv`)。
 
 [Unreleased]: https://github.com/Imai-lab/SDM-ICD11/compare/v2026.03...HEAD
